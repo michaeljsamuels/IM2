@@ -392,13 +392,6 @@ body.is-scrolled .site-header {
   color: var(--accent);
 }
 
-.hero__sub {
-  text-transform: uppercase;
-  letter-spacing: 0.5em;
-  font-size: clamp(0.8rem, 2vw, 1.1rem);
-  margin: 0 0 0.8rem;
-}
-
 .hero__arrow {
   display: inline-flex;
   align-items: center;

@@ -9,18 +9,13 @@
   "nav.close": { "en": "Close", "fr": "Fermer" },
 
   "hero.eyebrow": { "en": "Montréal Luxury Real Estate", "fr": "Immobilier de luxe à Montréal" },
-  "hero.sub": { "en": "Family Owned and Operated", "fr": "Une entreprise familiale" },
   "hero.cta": { "en": "View Our Properties", "fr": "Voir nos propriétés" },
 
   "about.heading": { "en": "Montréal Real Estate, Without Compromise.", "fr": "L'immobilier montréalais, sans compromis." },
-  "about.serif": { "en": "A boutique agency, by design.", "fr": "Une agence boutique, par choix." },
+  "about.serif": { "en": "Family owned and operated since 2000.", "fr": "Une entreprise familiale depuis 2000." },
   "about.body1": {
-    "en": "Luxury MTL is the boutique brokerage of Immeubles Montria, specializing in Montréal's finest condominiums, lofts and residences — from the Golden Square Mile to Old Montréal. We keep our roster small and our standards high.",
-    "fr": "Luxury MTL est la bannière boutique d'Immeubles Montria, spécialisée dans les plus belles copropriétés, lofts et résidences de Montréal — du Mille Carré Doré au Vieux-Montréal. Une équipe restreinte, des standards élevés."
-  },
-  "about.body2": {
-    "en": "Whether you are buying, selling or leasing, you work directly with a broker who knows the building, the block and the market — and who answers the phone.",
-    "fr": "Que vous achetiez, vendiez ou louiez, vous travaillez directement avec un courtier qui connaît l'immeuble, la rue et le marché — et qui répond au téléphone."
+    "en": "At Immeubles Montria, bespoke service meets high-stakes real estate expertise. From maximizing the yields of multi-unit commercial assets to representing Canada's finest residential estates, our boutique firm delivers hyper-targeted strategies and seamless execution. When you partner with us, you gain direct, uncompromised access to a broker who commands the micro-market and protects your bottom line.",
+    "fr": "Chez Immeubles Montria, le service sur mesure rencontre une expertise immobilière de haut niveau. De l'optimisation des rendements d'actifs commerciaux multilogements à la représentation des plus belles propriétés résidentielles au Canada, notre firme boutique livre des stratégies hyper-ciblées et une exécution impeccable. En travaillant avec nous, vous bénéficiez d'un accès direct et sans compromis à un courtier qui maîtrise le micromarché et protège vos intérêts financiers."
   },
   "about.cta": { "en": "Meet the Team", "fr": "Rencontrez l'équipe" },
 

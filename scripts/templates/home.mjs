@@ -12,9 +12,8 @@ export function homePage(ctx) {
 <section class="hero">
   <div class="hero__bg"><img src="/images/hero.jpg" alt="" /></div>
   <div class="hero__content">
-    <p class="eyebrow">${esc(T('hero.eyebrow'))}</p>
     <h1>${esc(site.brand).replace(/i/gi, (c) => `<span class="accent-i">${c}</span>`)}</h1>
-    <p class="hero__sub">${esc(T('hero.sub'))}</p>
+    <p class="eyebrow">${esc(T('hero.eyebrow'))}</p>
     <a class="hero__arrow" href="#about" aria-label="${esc(T('hero.cta'))}">${icons.arrowDown}</a>
   </div>
 </section>
@@ -24,7 +23,6 @@ export function homePage(ctx) {
     <h2>${esc(T('about.heading'))}</h2>
     <p class="serif-accent">${esc(T('about.serif'))}</p>
     <p>${esc(T('about.body1'))}</p>
-    <p>${esc(T('about.body2'))}</p>
     <a class="btn btn--outline" href="${ROUTES.team[locale]}">${esc(T('about.cta'))}</a>
   </div>
 </section>
