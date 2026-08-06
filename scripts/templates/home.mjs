@@ -15,7 +15,6 @@ export function homePage(ctx) {
     <p class="eyebrow">${esc(T('hero.eyebrow'))}</p>
     <h1>${esc(site.brand).replace(/i/gi, (c) => `<span class="accent-i">${c}</span>`)}</h1>
     <p class="hero__sub">${esc(T('hero.sub'))}</p>
-    <p class="serif-accent serif-accent--light">${esc(site.slogan[locale])}</p>
     <a class="hero__arrow" href="#about" aria-label="${esc(T('hero.cta'))}">${icons.arrowDown}</a>
   </div>
 </section>
