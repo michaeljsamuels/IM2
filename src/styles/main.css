@@ -172,8 +172,18 @@ body.is-scrolled .site-header__inner {
 
 .site-header__logo {
   display: flex;
-  flex-direction: column;
+  align-items: center;
   line-height: 1;
+}
+
+.logo-img {
+  height: 76px;
+  width: auto;
+  transition: height 0.3s ease;
+}
+
+body.is-scrolled .logo-img {
+  height: 56px;
 }
 
 .logo-word {

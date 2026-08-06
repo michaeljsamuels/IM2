@@ -40,8 +40,7 @@ export function layout(ctx, { title, description, path, altPath, body, hasHero =
 <header class="site-header" data-header>
   <div class="site-header__inner">
     <a class="site-header__logo" href="${ROUTES.home[locale]}">
-      <span class="logo-word">${esc(site.brand)}</span>
-      <span class="logo-sub">Luxury MTL</span>
+      <img class="logo-img" src="/images/im-logo.png" alt="${esc(site.brand)} — ${esc(site.slogan[locale])}" />
     </a>
     <nav class="site-header__nav" aria-label="Main">
       ${navLinks.map(([href, label]) => `<a href="${href}">${esc(label)}</a>`).join('\n      ')}
