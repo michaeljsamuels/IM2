@@ -40,3 +40,5 @@ jobs:
             git commit -m "sync: refresh listings from luxurymtl.com"
             git push
           fi
+
+# (touched to trigger GitHub workflow discovery)
