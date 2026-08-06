@@ -80,7 +80,7 @@ for (const locale of LOCALES) {
     ['home', () => homePage(ctx), brandTitle, T('hero.eyebrow'), true],
     ['sale', () => listingsPage(ctx, { status: 'for-sale', title: T('listings.sale.title') }), `${T('listings.sale.title')} — ${site.brand}`, T('hero.eyebrow'), false],
     ['rent', () => listingsPage(ctx, { status: 'for-rent', title: T('listings.rent.title') }), `${T('listings.rent.title')} — ${site.brand}`, T('hero.eyebrow'), false],
-    ['team', () => teamPage(ctx), `${T('team.title')} — ${site.brand}`, T('team.serif'), false],
+    ['team', () => teamPage(ctx), `${T('team.title')} — ${site.brand}`, T('about.serif'), false],
     ['contact', () => contactPage(ctx), `${T('contact.title')} — ${site.brand}`, T('contactband.serif'), false],
   ];
 

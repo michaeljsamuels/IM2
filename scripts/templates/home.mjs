@@ -3,7 +3,7 @@ import { icons } from './icons.mjs';
 import { listingCard, agentCard } from './cards.mjs';
 
 export function homePage(ctx) {
-  const { locale, site, T, listings, agents, hoods } = ctx;
+  const { locale, site, strings, T, listings, agents, hoods } = ctx;
 
   const featured = listings.filter((l) => l.featured && l.status === 'for-sale').slice(0, 6);
   const featuredAgents = agents.filter((a) => a.featured).slice(0, 4);
@@ -40,8 +40,8 @@ export function homePage(ctx) {
 
 <section class="band" id="team">
   <div class="band__inner">
-    <h2>${esc(T('team.heading'))}</h2>
-    <p class="serif-accent">${esc(T('team.serif'))}</p>
+    <h2>${esc(strings['team.title'][locale])}</h2>
+    <p class="serif-accent">${esc(strings['team.title'][locale === 'en' ? 'fr' : 'en'])}</p>
     <div class="agent-grid">
       ${featuredAgents.map((a) => agentCard(ctx, a)).join('\n')}
     </div>

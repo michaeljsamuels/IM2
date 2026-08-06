@@ -3,12 +3,12 @@ import { icons } from './icons.mjs';
 import { agentCard } from './cards.mjs';
 
 export function teamPage(ctx) {
-  const { T, agents } = ctx;
+  const { locale, strings, agents } = ctx;
   return `
 <section class="page-head">
   <div class="band__inner">
-    <h1>${esc(T('team.title'))}</h1>
-    <p class="serif-accent">${esc(T('team.serif'))}</p>
+    <h1>${esc(strings['team.title'][locale])}</h1>
+    <p class="serif-accent">${esc(strings['team.title'][locale === 'en' ? 'fr' : 'en'])}</p>
   </div>
 </section>
 <section class="band">

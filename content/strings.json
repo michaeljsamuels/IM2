@@ -23,7 +23,6 @@
   "featured.serif": { "en": "Discover your next address.", "fr": "Découvrez votre prochaine adresse." },
   "featured.cta": { "en": "View All Listings", "fr": "Voir toutes les inscriptions" },
 
-  "team.heading": { "en": "Our Brokers", "fr": "Nos courtiers" },
   "team.cta": { "en": "View All Brokers", "fr": "Voir tous les courtiers" },
 
   "quicklinks.sale": { "en": "For Sale", "fr": "À vendre" },
@@ -76,7 +75,6 @@
   "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },
 
   "team.title": { "en": "Our Team", "fr": "Notre équipe" },
-  "team.serif": { "en": "Small team. Full attention.", "fr": "Petite équipe. Attention entière." },
 
   "contact.title": { "en": "Contact Us", "fr": "Nous joindre" },
   "contact.office": { "en": "Our Office", "fr": "Notre bureau" },
