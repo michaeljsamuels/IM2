@@ -3,6 +3,7 @@
     "id": 1576,
     "centrisId": "11841807",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -108,6 +109,7 @@
     "id": 1575,
     "centrisId": "26742818",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -212,6 +214,7 @@
     "id": 1574,
     "centrisId": "27381464",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -292,6 +295,7 @@
     "id": 1573,
     "centrisId": "15271606",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -352,6 +356,7 @@
     "id": 1572,
     "centrisId": "25665033",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -428,6 +433,7 @@
     "id": 1571,
     "centrisId": "27733979",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -534,6 +540,7 @@
     "id": 1570,
     "centrisId": "16855224",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -643,6 +650,7 @@
     "id": 1568,
     "centrisId": "28853160",
     "status": "for-rent",
+    "category": "commercial",
     "featured": false,
     "type": {
       "en": "Property",
@@ -708,6 +716,7 @@
     "id": 1567,
     "centrisId": "17964370",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -772,6 +781,7 @@
     "id": 1566,
     "centrisId": "28860554",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -847,6 +857,7 @@
     "id": 1565,
     "centrisId": "18255041",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -939,6 +950,7 @@
     "id": 1564,
     "centrisId": "22117337",
     "status": "for-rent",
+    "category": "commercial",
     "featured": false,
     "type": {
       "en": "Property",
@@ -1016,6 +1028,7 @@
     "id": 1563,
     "centrisId": "20660701",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1084,6 +1097,7 @@
     "id": 1560,
     "centrisId": "19620193",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1206,6 +1220,7 @@
     "id": 1559,
     "centrisId": "14006903",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1272,6 +1287,7 @@
     "id": 1557,
     "centrisId": "24490311",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1355,6 +1371,7 @@
     "id": 1556,
     "centrisId": "24012161",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1420,10 +1437,110 @@
     ]
   },
   {
+    "id": 1550,
+    "centrisId": "21324345",
+    "status": "for-sale",
+    "category": "commercial",
+    "featured": true,
+    "type": {
+      "en": "Property",
+      "fr": "Property"
+    },
+    "price": 2399000,
+    "address": "3545 Rue St-Urbain",
+    "postalCode": "H2X 2N6",
+    "city": "Montréal",
+    "borough": "Le Plateau-Mont-Royal",
+    "neighbourhood": "plateau-mont-royal",
+    "beds": 0,
+    "baths": 0,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 5654,
+      "unit": "ft²"
+    },
+    "yearBuilt": null,
+    "parking": null,
+    "listedDate": null,
+    "agentId": "maximilian-cronin",
+    "description": {
+      "en": "Discover a charming nine-unit rental building with a\nstunning greystone facade and original Victorian details.\nThis prime investment opportunity is located in one of\nMontreal's most sought-after rental markets, just minutes\nfrom McGill and Concordia campuses. The property features\neasy-to-rent units and is conveniently close to essential\namenities.\nCurrent annual revenue stands at $126,132, with 7 of 9\nunits rented and generating income. One unfinished unit\noffers the new owner a chance to customize and rent. Key\nupgrades include a new roof (2005) with annual maintenance,\na state-of-the-art furnace/boiler (2016), and recently\nrefreshed common areas. The building boasts high ceilings\nand bright apartments, and significant electrical and\nplumbing updates have been made throughout. This building\nis a must-see for savvy investors!\nThere is a cultural designation on the building which\nrequire an extra approval when modifying the exterior. The\nowner had this done when the windows were changed in 2005.",
+      "fr": "Discover a charming nine-unit rental building with a\nstunning greystone facade and original Victorian details.\nThis prime investment opportunity is located in one of\nMontreal's most sought-after rental markets, just minutes\nfrom McGill and Concordia campuses. The property features\neasy-to-rent units and is conveniently close to essential\namenities.\nCurrent annual revenue stands at $126,132, with 7 of 9\nunits rented and generating income. One unfinished unit\noffers the new owner a chance to customize and rent. Key\nupgrades include a new roof (2005) with annual maintenance,\na state-of-the-art furnace/boiler (2016), and recently\nrefreshed common areas. The building boasts high ceilings\nand bright apartments, and significant electrical and\nplumbing updates have been made throughout. This building\nis a must-see for savvy investors!\nThere is a cultural designation on the building which\nrequire an extra approval when modifying the exterior. The\nowner had this done when the windows were changed in 2005."
+    },
+    "features": {
+      "en": [
+        "Water supply: Municipality",
+        "Proximity: Highway, Cegep, Daycare centre, Hospital, Park - green area, Bicycle path, Elementary school, High school, Cross-country skiing, Public transport, University",
+        "Sewage system: Municipal sewer",
+        "View: City",
+        "Zoning: Residential",
+        "Insurance: $10,037 / year",
+        "Energy cost: $8,300 / year",
+        "Municipal Taxes: $11,926 / year",
+        "School taxes: $1,520 / year"
+      ],
+      "fr": [
+        "Approvisionnement en eau: Municipalité",
+        "Proximité: Autoroute/Voie rapide, Cegep, Garderie/CPE, Hôpital, Parc-espace vert, Piste cyclable, École primaire, École secondaire, Ski de fond, Transport en commun, Université",
+        "Système d'égouts: Municipal",
+        "Vue: Sur la ville",
+        "Zonage: Résidentiel",
+        "Assurances: $10,037 / année",
+        "Coût d'énergie: $8,300 / année",
+        "Taxes municipales: $11,926 / année",
+        "Taxes scolaires: $1,520 / année"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 11926,
+      "school": 1520
+    },
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644BAD1CEA42FD1A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644BBD1CEA42FD4F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644B9D1CEA42FD2D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644B5D1CEA42FDCC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644B6D1CEA42FDEA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F1D1CEA42FDA0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F2D1CEA42FD0D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644FCD1CEA42FDB4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644FED1CEA42FDFC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F0D1CEA42FD8C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644FFD1CEA42FD90&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F8D1CEA42FD7A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F9D1CEA42FD3B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F7D1CEA42FD5D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F5D1CEA42FD62&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD644F6D1CEA42F1D2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6448DD1CEA42F11D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64481D1CEA42F144&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64484D1CEA42F12C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64482D1CEA42F1CA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6448ED1CEA42F1EF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6448AD1CEA42F1A1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64480D1CEA42F102&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6448BD1CEA42F1BE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64488D1CEA42F1FE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64483D1CEA42F18A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64485D1CEA42F19B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64486D1CEA42F17D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6449DD1CEA42F13D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD64494D1CEA42F152&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6449CD1CEA42F16A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6449ED1CEA42F4DA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDAD6449BD1CEA42F41D&t=pi&f=I"
+    ]
+  },
+  {
     "id": 1549,
     "centrisId": "14408082",
     "status": "for-sale",
-    "featured": true,
+    "category": "residential",
+    "featured": false,
     "type": {
       "en": "House",
       "fr": "Maison"
@@ -1534,6 +1651,7 @@
     "id": 1546,
     "centrisId": "26756717",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1628,6 +1746,7 @@
     "id": 1542,
     "centrisId": "10088984",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1690,6 +1809,7 @@
     "id": 1539,
     "centrisId": "28891954",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1787,6 +1907,7 @@
     "id": 1536,
     "centrisId": "23594087",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1845,6 +1966,7 @@
     "id": 1535,
     "centrisId": "20580461",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -1962,6 +2084,7 @@
     "id": 1531,
     "centrisId": "10461397",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -2054,6 +2177,7 @@
     "id": 1530,
     "centrisId": "28746348",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -2169,6 +2293,7 @@
     "id": 1529,
     "centrisId": "25370170",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -2254,6 +2379,7 @@
     "id": 1528,
     "centrisId": "27331295",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -2354,6 +2480,7 @@
     "id": 1527,
     "centrisId": "17531538",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -2460,6 +2587,7 @@
     "id": 1526,
     "centrisId": "16770411",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -2540,6 +2668,7 @@
     "id": 1525,
     "centrisId": "23256389",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -2602,6 +2731,7 @@
     "id": 1523,
     "centrisId": "27691109",
     "status": "for-sale",
+    "category": "residential",
     "featured": true,
     "type": {
       "en": "House",
@@ -2726,6 +2856,7 @@
     "id": 1520,
     "centrisId": "9751084",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -2807,6 +2938,7 @@
     "id": 1518,
     "centrisId": "14064857",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Duplex",
@@ -2909,6 +3041,7 @@
     "id": 1515,
     "centrisId": "18549142",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -2981,6 +3114,7 @@
     "id": 1514,
     "centrisId": "27567512",
     "status": "for-sale",
+    "category": "residential",
     "featured": true,
     "type": {
       "en": "House",
@@ -3112,6 +3246,7 @@
     "id": 1513,
     "centrisId": "12708771",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3177,6 +3312,7 @@
     "id": 1511,
     "centrisId": "19629471",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -3289,6 +3425,7 @@
     "id": 1505,
     "centrisId": "21790055",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3378,6 +3515,7 @@
     "id": 1503,
     "centrisId": "9655813",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3459,6 +3597,7 @@
     "id": 1502,
     "centrisId": "28560764",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3527,6 +3666,7 @@
     "id": 1500,
     "centrisId": "16414905",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3615,6 +3755,7 @@
     "id": 1496,
     "centrisId": "24496270",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3711,6 +3852,7 @@
     "id": 1495,
     "centrisId": "25089503",
     "status": "for-sale",
+    "category": "residential",
     "featured": true,
     "type": {
       "en": "House",
@@ -3836,6 +3978,7 @@
     "id": 1489,
     "centrisId": "9239090",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -3929,9 +4072,109 @@
     ]
   },
   {
+    "id": 1486,
+    "centrisId": "25419645",
+    "status": "for-sale",
+    "category": "commercial",
+    "featured": false,
+    "type": {
+      "en": "Property",
+      "fr": "Property"
+    },
+    "price": 1650000,
+    "address": "4020 Rue Berri",
+    "postalCode": "H2L 4H1",
+    "city": "Montréal",
+    "borough": "Le Plateau-Mont-Royal",
+    "neighbourhood": "plateau-mont-royal",
+    "beds": 2,
+    "baths": 1,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 3960,
+      "unit": "ft²"
+    },
+    "yearBuilt": null,
+    "parking": null,
+    "listedDate": null,
+    "agentId": "mark-reiner",
+    "description": {
+      "en": "Six Spacious Units: Each unit is approximately 750 square\nfeet, offering ample living space.\nFlexible Layouts: Units can be easily converted from\n1-bedroom to 2-bedroom configurations to maximize rental\npotential.\nPrime Location: Nestled in Le Plateau, steps from trendy\ncafes, boutiques, and public transit, ensuring consistent\ntenant demand.\nWell-Maintained: Significant upgrades by the previous owner\nensure durability and modern appeal.\nThird-Floor Front Balcony: Rebuilt using durable fiberglass\nwith wood fascia and soffit for a polished, long-lasting\nfinish.\nSecond-Floor Balcony: Replaced wood soffit to enhance\nstructural integrity and aesthetics ($1,000 in 2014).\nFoundation Stabilization: Six piles installed under the\nsouth side foundation wall for added stability ($32,193 in\n2012).\nGround and Second-Floor Doors: Replaced five doors for\nimproved security and curb appeal.\nFront Porch Upgrade: Rebuilt with a wooden structure,\nfiberglass steps, and decking for low maintenance and\ndurability ($9,000 in 2012).\nWindow Upgrades: Installed two 50/50 sash windows (one on\nthe second floor, one on the third floor) for enhanced\nenergy efficiency and style ($2,123 in 2012).\nApartment Renovations: Three units fully renovated,\nincluding updated bathroom tiles, plumbing, and electrical\nwork, ensuring modern comfort for tenants. 4 of the 6 units\n(4020,4024,4028,4030) have been semi -renovated by the\ncurrent owner.\n\nThis 6-plex is a rare gem in one of Montreal's most\ndesirable neighborhood, combining historic charm with\nmodern upgrades. Don't miss your chance to own a turnkey\ninvestment property with strong rental potential. Contact\nus today for more details.",
+      "fr": "Six Spacious Units: Each unit is approximately 750 square\nfeet, offering ample living space.\nFlexible Layouts: Units can be easily converted from\n1-bedroom to 2-bedroom configurations to maximize rental\npotential.\nPrime Location: Nestled in Le Plateau, steps from trendy\ncafes, boutiques, and public transit, ensuring consistent\ntenant demand.\nWell-Maintained: Significant upgrades by the previous owner\nensure durability and modern appeal.\nThird-Floor Front Balcony: Rebuilt using durable fiberglass\nwith wood fascia and soffit for a polished, long-lasting\nfinish.\nSecond-Floor Balcony: Replaced wood soffit to enhance\nstructural integrity and aesthetics ($1,000 in 2014).\nFoundation Stabilization: Six piles installed under the\nsouth side foundation wall for added stability ($32,193 in\n2012).\nGround and Second-Floor Doors: Replaced five doors for\nimproved security and curb appeal.\nFront Porch Upgrade: Rebuilt with a wooden structure,\nfiberglass steps, and decking for low maintenance and\ndurability ($9,000 in 2012).\nWindow Upgrades: Installed two 50/50 sash windows (one on\nthe second floor, one on the third floor) for enhanced\nenergy efficiency and style ($2,123 in 2012).\nApartment Renovations: Three units fully renovated,\nincluding updated bathroom tiles, plumbing, and electrical\nwork, ensuring modern comfort for tenants. 4 of the 6 units\n(4020,4024,4028,4030) have been semi -renovated by the\ncurrent owner.\n\nThis 6-plex is a rare gem in one of Montreal's most\ndesirable neighborhood, combining historic charm with\nmodern upgrades. Don't miss your chance to own a turnkey\ninvestment property with strong rental potential. Contact\nus today for more details."
+    },
+    "features": {
+      "en": [
+        "Heating system: Electric baseboard units",
+        "Water supply: Municipality",
+        "Heating energy: Electricity",
+        "Sewage system: Municipal sewer",
+        "Zoning: Residential",
+        "Municipal Taxes: $8,613 / year",
+        "School taxes: $1,090 / year"
+      ],
+      "fr": [
+        "Mode de chauffage: Plinthes électriques",
+        "Approvisionnement en eau: Municipalité",
+        "Énergie pour le chauffage: Électricité",
+        "Système d'égouts: Municipal",
+        "Zonage: Résidentiel",
+        "Taxes municipales: $8,613 / année",
+        "Taxes scolaires: $1,090 / année"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 8613,
+      "school": 1090
+    },
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D39D1B23603D1C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D33D1B23603D40&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D36D1B23603D2D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D5DD1B23603DCD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D51D1B23603DE4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D54D1B23603DAC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D52D1B23603D0A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D5ED1B23603DBF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D5AD1B23603DF1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D50D1B23603D8D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D5FD1B23603D92&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D58D1B23603D74&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D57D1B23603D3E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D53D1B23603D50&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D56D1B23603D6D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D6DD1B236031DB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D61D1B2360311D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D64D1B23603144&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D62D1B2360312C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D6CD1B236031CA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D6ED1B236031EB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D6AD1B236031AD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D60D1B23603104&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D6BD1B236031BC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D6FD1B236031FA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D68D1B23603184&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D69D1B2360319C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D67D1B2360317A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D63D1B2360313B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D65D1B2360315D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D66D1B23603164&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D3FD1B236034DA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B11DDD1B2360341F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B11D1D1B23603441&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B11D4D1B23603422&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B11DCD1B236034CA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE5B1D37D1B236034E1&t=pi&f=I"
+    ]
+  },
+  {
     "id": 1485,
     "centrisId": "26431515",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -4017,6 +4260,7 @@
     "id": 1483,
     "centrisId": "10189045",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -4148,6 +4392,7 @@
     "id": 1481,
     "centrisId": "25709774",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -4257,6 +4502,7 @@
     "id": 1478,
     "centrisId": "15672962",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -4368,6 +4614,7 @@
     "id": 1477,
     "centrisId": "11682402",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -4482,6 +4729,7 @@
     "id": 1474,
     "centrisId": "15035944",
     "status": "for-sale",
+    "category": "residential",
     "featured": true,
     "type": {
       "en": "House",
@@ -4601,6 +4849,7 @@
     "id": 1471,
     "centrisId": "22749926",
     "status": "for-rent",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -4717,6 +4966,7 @@
     "id": 1469,
     "centrisId": "28754633",
     "status": "for-rent",
+    "category": "commercial",
     "featured": false,
     "type": {
       "en": "Property",
@@ -4796,7 +5046,8 @@
     "id": 1464,
     "centrisId": "14299444",
     "status": "for-sale",
-    "featured": true,
+    "category": "residential",
+    "featured": false,
     "type": {
       "en": "Quadruplex",
       "fr": "Quadruplex"
@@ -4893,6 +5144,7 @@
     "id": 1461,
     "centrisId": "27260825",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Condo",
@@ -4996,9 +5248,372 @@
     ]
   },
   {
+    "id": 1448,
+    "centrisId": "20129055",
+    "status": "for-sale",
+    "category": "commercial",
+    "featured": false,
+    "type": {
+      "en": "Property",
+      "fr": "Property"
+    },
+    "price": 1825000,
+    "address": "3875 Rue de Rouen",
+    "postalCode": "H1W 1N2",
+    "city": "Montréal",
+    "borough": "Mercier/Hochelaga-Maisonneuve",
+    "beds": 1,
+    "baths": 1,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 333,
+      "unit": "m²"
+    },
+    "yearBuilt": null,
+    "parking": {
+      "en": "Outdoor",
+      "fr": "Outdoor"
+    },
+    "listedDate": null,
+    "agentId": "mark-reiner",
+    "description": {
+      "en": "Outstanding turnkey investment opportunity in one of\nMontreal's most sought-after and rapidly appreciating\nneighborhood's!Solid brick 8-unit building consisting\nentirely of spacious 3½ apartments, perfectly located on\nRue de Rouen in the vibrant Hochelaga-Maisonneuve district.\nSteps from Joliette and Pie-IX metro stations, parks,\nschools, trendy cafés, restaurants, and all amenities.Key\nHighlights:8 x 3½ apartments (large, bright, and very easy\nto rent)\n5 units currently vacant -- ideal for immediate rent resets\nto current market rates or owner-occupation\n4 units fully and tastefully renovated (new kitchens,\nbathrooms, flooring, paint, etc.)\nHorizontal slider windows in excellent condition\nInsulated metal exterior doors\nFlat roof with TPO membrane installed in 2015 (transferable\nwarranty remaining)\nPlumbing: copper water entry, brand-new PEX lines\nthroughout (full replacement scheduled for spring 2025),\ncast iron & ABS waste lines\nElectrical: breakers panels with copper wiring\nIndividual electric baseboard heating in every unit (no\ncommon panel -- tenants pay their own electricity)\nStrong revenue potential thanks to the vacant units and\nrecent upgrades\n\nWell-maintained building ready to generate immediate cash\nflow with significant upside in the short term.",
+      "fr": "Outstanding turnkey investment opportunity in one of\nMontreal's most sought-after and rapidly appreciating\nneighborhood's!Solid brick 8-unit building consisting\nentirely of spacious 3½ apartments, perfectly located on\nRue de Rouen in the vibrant Hochelaga-Maisonneuve district.\nSteps from Joliette and Pie-IX metro stations, parks,\nschools, trendy cafés, restaurants, and all amenities.Key\nHighlights:8 x 3½ apartments (large, bright, and very easy\nto rent)\n5 units currently vacant -- ideal for immediate rent resets\nto current market rates or owner-occupation\n4 units fully and tastefully renovated (new kitchens,\nbathrooms, flooring, paint, etc.)\nHorizontal slider windows in excellent condition\nInsulated metal exterior doors\nFlat roof with TPO membrane installed in 2015 (transferable\nwarranty remaining)\nPlumbing: copper water entry, brand-new PEX lines\nthroughout (full replacement scheduled for spring 2025),\ncast iron & ABS waste lines\nElectrical: breakers panels with copper wiring\nIndividual electric baseboard heating in every unit (no\ncommon panel -- tenants pay their own electricity)\nStrong revenue potential thanks to the vacant units and\nrecent upgrades\n\nWell-maintained building ready to generate immediate cash\nflow with significant upside in the short term."
+    },
+    "features": {
+      "en": [
+        "Driveway: Asphalt",
+        "Heating system: Electric baseboard units",
+        "Water supply: Municipality",
+        "Heating energy: Electricity",
+        "Distinctive features: Environmental study phase 1, Environmental study phase 2",
+        "Proximity: Highway, Cegep, Daycare centre, Golf, Hospital, Park - green area, Bicycle path, Elementary school, Alpine skiing, High school, Cross-country skiing, Public transport, University",
+        "Parking: Outdoor",
+        "Sewage system: Municipal sewer",
+        "Zoning: Residential",
+        "Insurance: $7,712 / year",
+        "Municipal Taxes: $7,975 / year",
+        "School taxes: $974 / year"
+      ],
+      "fr": [
+        "Allée: Asphalte",
+        "Mode de chauffage: Plinthes électriques",
+        "Approvisionnement en eau: Municipalité",
+        "Énergie pour le chauffage: Électricité",
+        "Particularités: Étude environnementale phase 1, Étude environnementale phase 2",
+        "Proximité: Autoroute/Voie rapide, Cegep, Garderie/CPE, Golf, Hôpital, Parc-espace vert, Piste cyclable, École primaire, Ski alpin, École secondaire, Ski de fond, Transport en commun, Université",
+        "Stationnement: Extérieur",
+        "Système d'égouts: Municipal",
+        "Zonage: Résidentiel",
+        "Assurances: $7,712 / année",
+        "Taxes municipales: $7,975 / année",
+        "Taxes scolaires: $974 / année"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 7975,
+      "school": 974
+    },
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E5DDAD1224E16D12&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E5DDED1224E16D42&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3659D1224E16D2F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E366DD1224E16DC2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3655D1224E16DEC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3656D1224E16DAA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3664D1224E16D0B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3650D1224E16DB2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3662D1224E16DF1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E366CD1224E16D8D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E366ED1224E16D94&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E366AD1224E16D7C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3660D1224E16D3A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E366FD1224E16D5F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3668D1224E16D6B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3667D1224E161DF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3663D1224E16111&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3665D1224E16142&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3666D1224E1612E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E5DDDD1224E161C1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E5DD1D1224E161E2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E5DD4D1224E161AE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E5DDCD1224E1610B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E365AD1224E161B2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E365FD1224E161F0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3658D1224E16182&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3653D1224E16190&t=pi&f=I"
+    ]
+  },
+  {
+    "id": 1447,
+    "centrisId": "16015865",
+    "status": "for-sale",
+    "category": "commercial",
+    "featured": true,
+    "type": {
+      "en": "Property",
+      "fr": "Property"
+    },
+    "price": 6100000,
+    "address": "6595 Rue St-Urbain",
+    "postalCode": "H2S 3G6",
+    "city": "Montréal",
+    "borough": "Rosemont/La Petite-Patrie",
+    "beds": 0,
+    "baths": 0,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 40000,
+      "unit": "ft²"
+    },
+    "yearBuilt": null,
+    "parking": {
+      "en": "Garage",
+      "fr": "Garage"
+    },
+    "listedDate": null,
+    "agentId": "mark-reiner",
+    "description": {
+      "en": "Welcome to 6595 St Urbain, a commercial/industrial building\nlocated in the heart of Montreal's tech cluster, surrounded\nby industry giants such as Microsoft, Facebook, and Mila.\nThis building is a prime opportunity for an owner occupied\nbusiness looking to establish their presence in this\nthriving tech hub. PGI $800,000\n\nOriginally spanning 30,000 sqft, the building has been\nexpanded to include an additional 10,000 sqft through the\naddition of offices and a mezzanine level. The building is\nzoned for an additional 15,000 sqft third floor, offering\nlimitless potential for further expansion.\n\nThe building features a loading dock and a large garage\nparking area, providing convenient and efficient options\nfor both vehicle parking and deliveries. Additionally, a\nfreight elevator ensures smooth and easy transportation of\ngoods within the building.\n\nLocated at the highly sought-after address of 6595 St\nUrbain, this building offers an ideal location for any\nbusiness seeking to establish a presence in Montreal's\nthriving tech industry. Don't miss this incredible\nopportunity to become a part of this rapidly expanding\ncommunity.",
+      "fr": "Welcome to 6595 St Urbain, a commercial/industrial building\nlocated in the heart of Montreal's tech cluster, surrounded\nby industry giants such as Microsoft, Facebook, and Mila.\nThis building is a prime opportunity for an owner occupied\nbusiness looking to establish their presence in this\nthriving tech hub. PGI $800,000\n\nOriginally spanning 30,000 sqft, the building has been\nexpanded to include an additional 10,000 sqft through the\naddition of offices and a mezzanine level. The building is\nzoned for an additional 15,000 sqft third floor, offering\nlimitless potential for further expansion.\n\nThe building features a loading dock and a large garage\nparking area, providing convenient and efficient options\nfor both vehicle parking and deliveries. Additionally, a\nfreight elevator ensures smooth and easy transportation of\ngoods within the building.\n\nLocated at the highly sought-after address of 6595 St\nUrbain, this building offers an ideal location for any\nbusiness seeking to establish a presence in Montreal's\nthriving tech industry. Don't miss this incredible\nopportunity to become a part of this rapidly expanding\ncommunity."
+    },
+    "features": {
+      "en": [
+        "Water supply: Municipality",
+        "Heating energy: Electricity, Natural gas",
+        "Equipment available: Elevator",
+        "Distinctive features: Environmental study phase 1, Environmental study phase 2",
+        "Garage: Attached, Double width or more, Fitted",
+        "Kind of commerce: Other",
+        "Type of business/Industry: Retail",
+        "Proximity: Highway, Public transport",
+        "Siding: Brick",
+        "Parking: Garage",
+        "Sewage system: Municipal sewer",
+        "Zoning: Commercial, Industrial",
+        "Insurance: $15,733 / year",
+        "Energy cost: $19,811 / year",
+        "Municipal Taxes: $79,865 / year",
+        "School taxes: $2,206 / year"
+      ],
+      "fr": [
+        "Approvisionnement en eau: Municipalité",
+        "Énergie pour le chauffage: Électricité, Gaz naturel",
+        "Équipement disponible: Monte charge",
+        "Particularités: Étude environnementale phase 1, Étude environnementale phase 2",
+        "Garage: Attaché, Double largeur ou plus, Intégré",
+        "Genre de commerce: Autres",
+        "Type de commerce/Industrie: Detail",
+        "Proximité: Autoroute/Voie rapide, Transport en commun",
+        "Revêtements: Brique",
+        "Stationnement: Au garage",
+        "Système d'égouts: Municipal",
+        "Zonage: Commercial, Industriel",
+        "Assurances: $15,733 / année",
+        "Coût d'énergie: $19,811 / année",
+        "Taxes municipales: $79,865 / année",
+        "Taxes scolaires: $2,206 / année"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 79865,
+      "school": 2206
+    },
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A512FDD6CA16FD1B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A5120DD6CA16FD40&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D35DD6CA16FD22&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D95DD6CA16FDC4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D36DD6CA16FDEA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D5DDD6CA16FDAA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D51DD6CA16FD0B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D59DD6CA16FDBA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D57DD6CA16FDFB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D53DD6CA16FD80&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D55DD6CA16FD9F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D56DD6CA16FD71&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D6DDD6CA16FD31&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D61DD6CA16FD52&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D64DD6CA16FD6E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D62DD6CA16F1DE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D6CDD6CA16F110&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D6EDD6CA16F14F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D6ADD6CA16F121&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D60DD6CA16F1C2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D6BDD6CA16F1EE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D6FDD6CA16F1A0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D68DD6CA16F10A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D96DD6CA16F1BB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D7DDD6CA16F1FB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D71DD6CA16F180&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D74DD6CA16F19F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D72DD6CA16F171&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D7CDD6CA16F132&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D7EDD6CA16F15E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D7ADD6CA16F160&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A51CADD6CA16F4D0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A5126DD6CA16F412&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A51C4DD6CA16F44E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D70DD6CA16F42D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D7BDD6CA16F4C4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D7FDD6CA16F4EC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D78DD6CA16F4A2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D79DD6CA16F40E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D77DD6CA16F4B0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D73DD6CA16F4FF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D75DD6CA16F48B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D76DD6CA16F49D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D3DDD6CA16F47D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D31DD6CA16F434&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D32DD6CA16F45E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D3CDD6CA16F460&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D3EDD6CA16F2D0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D3ADD6CA16F21F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D30DD6CA16F241&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D3BDD6CA16F222&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D39DD6CA16F2CC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D69DD6CA16F2E0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D67DD6CA16F2AF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D63DD6CA16F201&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D65DD6CA16F2B2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D66DD6CA16F2FE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E81DDDD6CA16F28D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E81D1DD6CA16F294&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E81D4DD6CA16F27C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E81D2DD6CA16F23A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E81DCDD6CA16F25B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D98DD6CA16F26F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E8D99DD6CA16FCDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A5129DD6CA16FC11&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A512BDD6CA16FC44&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A5128DD6CA16FC24&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A51CDDD6CA16FCC0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A51CCDD6CA16FCE4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7A5127DD6CA16FCA0&t=pi&f=I"
+    ]
+  },
+  {
+    "id": 1446,
+    "centrisId": "24912218",
+    "status": "for-sale",
+    "category": "commercial",
+    "featured": false,
+    "type": {
+      "en": "Property",
+      "fr": "Property"
+    },
+    "price": 1599000,
+    "address": "685 16e Avenue",
+    "postalCode": "H8S 3N3",
+    "city": "Montréal",
+    "borough": "Lachine",
+    "beds": 1,
+    "baths": 1,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 371,
+      "unit": "m²"
+    },
+    "yearBuilt": null,
+    "parking": {
+      "en": "Outdoor",
+      "fr": "Outdoor"
+    },
+    "listedDate": null,
+    "agentId": "mark-reiner",
+    "description": {
+      "en": "Prime 6-Plex Investment Opportunity, across from major\nhospital.\n\n-- 685 16e Avenue, Lachine (Montréal), QC | $1,650,000\nNestled in the charming and highly sought-after borough of\nLachine, just steps from the vibrant waterfront, parks, and\nthe bustling Providence sector, this solid brick 6-unit\nbuilding offers the perfect blend of stability, cash flow,\nand future upside.Rare unit mix ideal for families and\nprofessionals:1 × spacious 3½\n4 × generous 4½\n1 × expansive 5½\nTurnkey revenue with growth potential:Three units\ncompletely renovated with modern finishes, new kitchens,\nbathrooms, flooring, and windows -- two of these are\nalready leased at strong market rents.\nThree well-maintained original units occupied by long-term,\nreliable tenants (two 4½ and one 5½), providing immediate\nand stable income.\nExcellent tenant profile and low vacancy history.\n\nSeparate entrances and plenty of natural light\nHighly desirable location: walking distance to the parks,\nschools, grocery stores, cafés, and public transit\nSeparate hydro meters (tenants pay their own electricity)\nSignificant value-add potential through progressive\nrenovation of the remaining units\n\nWindows= horizontal slider windows. The exterior\ndoors consist of metal insulated doors.\nRoof= flat roof covering of the building is of TPO\nmembrane. Installed in 2019.\nPlumbing= Copper pipes Cast iron waste pipes.\nElectrical= breaker boxes copper wires.\nHeating systems= baseboards no Common electrical panel\n\n\nWhether you're an experienced investor looking to add a\ncash-flowing, low-maintenance asset to your portfolio or a\nbuyer considering owner-occupation while collecting rent\nfrom the other five units, this property checks every box.A\nrare find in one of Montréal's most stable and appreciated\nrental markets.\nPriced at $1,650,000 Contact us today for financials, rent\nroll, and to schedule your private visit!",
+      "fr": "Prime 6-Plex Investment Opportunity, across from major\nhospital.\n\n-- 685 16e Avenue, Lachine (Montréal), QC | $1,650,000\nNestled in the charming and highly sought-after borough of\nLachine, just steps from the vibrant waterfront, parks, and\nthe bustling Providence sector, this solid brick 6-unit\nbuilding offers the perfect blend of stability, cash flow,\nand future upside.Rare unit mix ideal for families and\nprofessionals:1 × spacious 3½\n4 × generous 4½\n1 × expansive 5½\nTurnkey revenue with growth potential:Three units\ncompletely renovated with modern finishes, new kitchens,\nbathrooms, flooring, and windows -- two of these are\nalready leased at strong market rents.\nThree well-maintained original units occupied by long-term,\nreliable tenants (two 4½ and one 5½), providing immediate\nand stable income.\nExcellent tenant profile and low vacancy history.\n\nSeparate entrances and plenty of natural light\nHighly desirable location: walking distance to the parks,\nschools, grocery stores, cafés, and public transit\nSeparate hydro meters (tenants pay their own electricity)\nSignificant value-add potential through progressive\nrenovation of the remaining units\n\nWindows= horizontal slider windows. The exterior\ndoors consist of metal insulated doors.\nRoof= flat roof covering of the building is of TPO\nmembrane. Installed in 2019.\nPlumbing= Copper pipes Cast iron waste pipes.\nElectrical= breaker boxes copper wires.\nHeating systems= baseboards no Common electrical panel\n\n\nWhether you're an experienced investor looking to add a\ncash-flowing, low-maintenance asset to your portfolio or a\nbuyer considering owner-occupation while collecting rent\nfrom the other five units, this property checks every box.A\nrare find in one of Montréal's most stable and appreciated\nrental markets.\nPriced at $1,650,000 Contact us today for financials, rent\nroll, and to schedule your private visit!"
+    },
+    "features": {
+      "en": [
+        "Driveway: Asphalt",
+        "Heating system: Electric baseboard units",
+        "Water supply: Municipality",
+        "Heating energy: Electricity",
+        "Distinctive features: Environmental study phase 1, Environmental study phase 2",
+        "Proximity: Highway, Cegep, Daycare centre, Golf, Hospital, Park - green area, Bicycle path, Elementary school, Alpine skiing, High school, Cross-country skiing, Public transport, University",
+        "Parking: Outdoor",
+        "Sewage system: Municipal sewer",
+        "Zoning: Residential",
+        "Insurance: $5,873 / year",
+        "Municipal Taxes: $6,774 / year",
+        "School taxes: $838 / year"
+      ],
+      "fr": [
+        "Allée: Asphalte",
+        "Mode de chauffage: Plinthes électriques",
+        "Approvisionnement en eau: Municipalité",
+        "Énergie pour le chauffage: Électricité",
+        "Particularités: Étude environnementale phase 1, Étude environnementale phase 2",
+        "Proximité: Autoroute/Voie rapide, Cegep, Garderie/CPE, Golf, Hôpital, Parc-espace vert, Piste cyclable, École primaire, Ski alpin, École secondaire, Ski de fond, Transport en commun, Université",
+        "Stationnement: Extérieur",
+        "Système d'égouts: Municipal",
+        "Zonage: Résidentiel",
+        "Assurances: $5,873 / année",
+        "Taxes municipales: $6,774 / année",
+        "Taxes scolaires: $838 / année"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 6774,
+      "school": 838
+    },
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30EFD10741E8D14&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E3D10741E8D4C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E0D10741E8D24&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E4D10741E8DCB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3028D10741E8DE4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3029D10741E8DAC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3027D10741E8D0A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3023D10741E8DBB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3025D10741E8DFD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E3026D10741E8D8F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30CDD10741E8D9F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C1D10741E8D71&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C4D10741E8D32&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C2D10741E8D5E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30CCD10741E8D60&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30CED10741E81D0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30CAD10741E811F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C0D10741E8141&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30CBD10741E8122&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30CFD10741E81CE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C8D10741E81EC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C9D10741E81AA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C7D10741E810B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C3D10741E81BD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C5D10741E81F4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30C6D10741E8181&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30EDD10741E8191&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E1D10741E8172&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E2D10741E813A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30EED10741E815F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30EBD10741E8162&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E9D10741E84D4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E7D10741E841C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E5D10741E8440&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE7E30E6D10741E842F&t=pi&f=I"
+    ]
+  },
+  {
     "id": 1440,
     "centrisId": "28552696",
     "status": "for-rent",
+    "category": "commercial",
     "featured": false,
     "type": {
       "en": "Property",
@@ -5054,6 +5669,7 @@
     "id": 1439,
     "centrisId": "24749065",
     "status": "for-rent",
+    "category": "commercial",
     "featured": false,
     "type": {
       "en": "Property",
@@ -5109,6 +5725,7 @@
     "id": 1413,
     "centrisId": "17902810",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "House",
@@ -5223,6 +5840,7 @@
     "id": 1405,
     "centrisId": "20288988",
     "status": "for-sale",
+    "category": "residential",
     "featured": false,
     "type": {
       "en": "Quadruplex",

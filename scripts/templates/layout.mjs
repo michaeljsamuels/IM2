@@ -13,6 +13,7 @@ export function layout(ctx, { title, description, path, altPath, body, hasHero =
   const navLinks = [
     [ROUTES.sale[locale], T('nav.sale')],
     [ROUTES.rent[locale], T('nav.rent')],
+    [ROUTES.contact[locale], T('nav.listWithUs')],
     [ROUTES.team[locale], T('nav.team')],
     [ROUTES.contact[locale], T('nav.contact')],
   ];

@@ -88,7 +88,7 @@ function agentIdFor(email) {
   return byName ? byName.id : null;
 }
 
-function parseDetail(html, { id, status }) {
+function parseDetail(html, { id, status, category }) {
   // Header block: <h5 class="subtitle-margin">TYPE for sale</h5> <h3>ADDRESS <br>Borough (City), POSTAL <br><br> <b>MLS # 12345678</b>...</h3>
   // The page repeats this block; only the main one carries borough + MLS,
   // so prefer a match containing "MLS", falling back to the longest.
@@ -128,6 +128,7 @@ function parseDetail(html, { id, status }) {
     id,
     centrisId,
     status,
+    category: category ?? 'residential',
     featured: false,
     type: { en: typeRaw ? typeRaw[0].toUpperCase() + typeRaw.slice(1) : 'Property', fr: null },
     price,
@@ -160,28 +161,45 @@ function parseDetail(html, { id, status }) {
 
 async function main() {
   const indexes = [
-    { path: '/en/listings/sale', status: 'for-sale' },
-    { path: '/en/listings/rent', status: 'for-rent' },
+    { path: '/en/listings/sale', status: 'for-sale', category: 'residential' },
+    { path: '/en/listings/rent', status: 'for-rent', category: 'residential' },
+    { path: '/en/listings/commercial', status: 'for-sale', category: 'commercial' },
+    { path: '/en/listings/commercial-rental', status: 'for-rent', category: 'commercial' },
   ];
 
-  const targets = [];
-  for (const { path, status } of indexes) {
+  // Dedup across categories by listing id; a commercial index entry wins so
+  // dual-listed properties keep the commercial tag.
+  const byId = new Map();
+  for (const { path, status, category } of indexes) {
     const html = await fetchText(path);
-    const urls = [...new Set([...html.matchAll(/href="(\/en\/listing\/(\d+)\/[^"]+)"/g)].map((m) => JSON.stringify({ url: m[1], id: Number(m[2]), status })))];
-    targets.push(...urls.map((s) => JSON.parse(s)));
-    console.log(`${path}: ${urls.length} listings`);
+    const found = new Set();
+    for (const m of html.matchAll(/href="(\/en\/listing\/(\d+)\/[^"]+)"/g)) {
+      const id = Number(m[2]);
+      found.add(id);
+      const existing = byId.get(id);
+      if (!existing || category === 'commercial') byId.set(id, { url: m[1], id, status, category });
+    }
+    console.log(`${path}: ${found.size} listings`);
   }
+  const targets = [...byId.values()];
 
   const listings = [];
   const failures = [];
   for (const t of targets) {
     try {
-      const html = await fetchText(t.url);
-      const listing = parseDetail(html, t);
+      // Some EN detail pages 500 on the source site; fall back to the FR
+      // mirror so the listing is still captured (FR text used for both).
+      let listing;
+      const frUrl = t.url.replace('/en/listing/', '/fr/annonce/');
+      try {
+        listing = parseDetail(await fetchText(t.url), t);
+      } catch (enErr) {
+        listing = parseDetail(await fetchText(frUrl), t);
+        console.warn(`  EN page failed for #${t.id} (${enErr.message}) — captured from FR mirror`);
+      }
       // French description/type from the FR mirror page (best-effort)
       try {
-        const frHtml = await fetchText(t.url.replace('/en/listing/', '/fr/annonce/'));
-        const fr = parseDetail(frHtml, t);
+        const fr = parseDetail(await fetchText(frUrl), t);
         listing.description.fr = fr.description.en || null;
         listing.type.fr = fr.type.en;
         listing.features.fr = fr.features.en;
