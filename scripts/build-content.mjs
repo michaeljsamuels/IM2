@@ -12,12 +12,12 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { LOCALES, ROUTES, listingUrl, makeCtx } from './templates/helpers.mjs';
+import { LOCALES, ROUTES, listingUrl, agentUrl, makeCtx } from './templates/helpers.mjs';
 import { layout } from './templates/layout.mjs';
 import { homePage } from './templates/home.mjs';
 import { listingsPage } from './templates/listings.mjs';
 import { listingPage } from './templates/listing.mjs';
-import { teamPage, contactPage } from './templates/pages.mjs';
+import { teamPage, agentPage, contactPage } from './templates/pages.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
@@ -88,6 +88,20 @@ for (const locale of LOCALES) {
     emit(
       ROUTES[route][locale],
       layout(ctx, { title, description, path: ROUTES[route][locale], altPath: ROUTES[route][other], body: render(), hasHero }),
+    );
+  }
+
+  for (const a of agents) {
+    emit(
+      agentUrl(a, locale),
+      layout(ctx, {
+        title: `${a.name} — ${site.brand}`,
+        description: a.title[locale],
+        path: agentUrl(a, locale),
+        altPath: agentUrl(a, other),
+        body: agentPage(ctx, a),
+        hasHero: false,
+      }),
     );
   }
 

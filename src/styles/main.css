@@ -648,6 +648,72 @@ body:not(.has-hero) main {
   color: rgba(255, 255, 255, 0.85);
 }
 
+/* ---- broker profile --------------------------------------------------------- */
+
+.agent-profile-band {
+  padding-top: 2.5rem;
+}
+
+.agent-profile {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: start;
+}
+
+.agent-profile__media img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+
+.agent-profile__body h1 {
+  font-size: clamp(2.2rem, 4.5vw, 3.6rem);
+  margin-bottom: 0.15em;
+}
+
+.agent-profile__title {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin: 0 0 1.4rem;
+}
+
+.agent-profile__contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
+  margin: 0 0 1.8rem;
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.98rem;
+}
+
+.agent-profile__body .inquiry-form {
+  margin-top: 2rem;
+  max-width: 520px;
+}
+
+.agent-listings {
+  margin-top: clamp(3rem, 6vw, 5rem);
+}
+
+.agent-listings h2 {
+  font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+}
+
+@media (max-width: 1000px) {
+  .agent-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .agent-profile__media {
+    max-width: 380px;
+  }
+}
+
 /* ---- contact band --------------------------------------------------------- */
 
 .band--contact {

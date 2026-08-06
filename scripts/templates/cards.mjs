@@ -1,4 +1,4 @@
-import { esc, fmtPrice, fmtArea, listingUrl } from './helpers.mjs';
+import { esc, fmtPrice, fmtArea, listingUrl, agentUrl } from './helpers.mjs';
 import { icons } from './icons.mjs';
 
 /** Cream listing card used on the homepage, index pages and similar-strip. */
@@ -30,15 +30,15 @@ export function listingCard(ctx, listing) {
   </a>`;
 }
 
-/** 3:4 portrait card with name overlaid, used for the broker grids. */
+/** 3:4 portrait card with name overlaid, linking to the broker's profile. */
 export function agentCard(ctx, agent) {
   const { locale } = ctx;
   return `
-  <div class="agent-card">
+  <a class="agent-card" href="${agentUrl(agent, locale)}">
     <img src="${agent.photo}" alt="${esc(agent.name)}" loading="lazy" />
     <div class="agent-card__overlay">
       <h4>${esc(agent.name)}</h4>
       <p>${esc(agent.title[locale])}</p>
     </div>
-  </div>`;
+  </a>`;
 }

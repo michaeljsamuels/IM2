@@ -33,6 +33,10 @@ export function listingUrl(listing, locale) {
   return `${base}/${listing.id}/${slugify(listing.address)}/`;
 }
 
+export function agentUrl(agent, locale) {
+  return `${ROUTES.team[locale]}${agent.id}/`;
+}
+
 /** "1 150 000 $" (fr) / "$1,150,000" (en); appends /month for rentals. */
 export function fmtPrice(listing, locale, strings) {
   const n = listing.price;

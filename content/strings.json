@@ -76,6 +76,7 @@
   "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },
 
   "team.title": { "en": "Our Team", "fr": "Notre équipe" },
+  "agent.listings": { "en": "Active Listings", "fr": "Inscriptions en vigueur" },
 
   "contact.title": { "en": "Contact Us", "fr": "Nous joindre" },
   "contact.office": { "en": "Our Office", "fr": "Notre bureau" },
