@@ -2,100 +2,133 @@
   {
     "id": "kayla-samuels",
     "name": "Kayla Samuels",
-    "title": { "en": "President & Agency Executive Officer", "fr": "Présidente et dirigeante d'agence" },
+    "title": {
+      "en": "President & Agency Executive Officer",
+      "fr": "Présidente et dirigeante d'agence"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-1.svg",
+    "photo": "/images/team/kayla-samuels.jpg",
     "featured": true
   },
   {
     "id": "mark-reiner",
     "name": "Mark Reiner",
-    "title": { "en": "Vice-President, Real Estate Broker", "fr": "Vice-président, courtier immobilier" },
+    "title": {
+      "en": "Vice-President, Real Estate Broker",
+      "fr": "Vice-président, courtier immobilier"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-2.svg",
+    "photo": "/images/team/mark-reiner.jpg",
     "featured": true
   },
   {
     "id": "thomas-reiner",
     "name": "Thomas Reiner",
-    "title": { "en": "Development & Architecture Consultant", "fr": "Consultant, développement et architecture" },
+    "title": {
+      "en": "Development & Architecture Consultant",
+      "fr": "Consultant, développement et architecture"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-3.svg",
+    "photo": "/images/team/thomas-reiner.jpg",
     "featured": false
   },
   {
     "id": "maximilian-cronin",
     "name": "Maximilian Cronin",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtier immobilier résidentiel" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtier immobilier résidentiel"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-4.svg",
+    "photo": "/images/team/maximilian-cronin.jpg",
     "featured": true
   },
   {
     "id": "michelle-johnson",
     "name": "Michelle Johnson",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtière immobilière résidentielle" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtière immobilière résidentielle"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-5.svg",
+    "photo": "/images/team/michelle-johnson.jpg",
     "featured": true
   },
   {
     "id": "xinfa-wen",
     "name": "Xinfa Wen 文新发",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtier immobilier résidentiel" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtier immobilier résidentiel"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-6.svg",
+    "photo": "/images/team/xinfa-wen.jpg",
     "featured": false
   },
   {
     "id": "julien-bohbot",
     "name": "Julien Bohbot",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtier immobilier résidentiel" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtier immobilier résidentiel"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-7.svg",
+    "photo": "/images/team/julien-bohbot.jpg",
     "featured": false
   },
   {
     "id": "william-gallo",
     "name": "William Gallo",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtier immobilier résidentiel" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtier immobilier résidentiel"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-8.svg",
+    "photo": "/images/team/william-gallo.jpg",
     "featured": false
   },
   {
     "id": "michael-lashchuk",
     "name": "Michael Lashchuk",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtier immobilier résidentiel" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtier immobilier résidentiel"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-9.svg",
+    "photo": "/images/team/michael-lashchuk.jpg",
     "featured": false
   },
   {
     "id": "marina-pietrantonio",
     "name": "Marina Pietrantonio",
-    "title": { "en": "Residential Real Estate Broker", "fr": "Courtière immobilière résidentielle" },
+    "title": {
+      "en": "Residential Real Estate Broker",
+      "fr": "Courtière immobilière résidentielle"
+    },
     "phone": "514-409-6252",
     "email": "info@luxurymtl.com",
-    "photo": "/images/team/portrait-10.svg",
+    "photo": "/images/team/marina-pietrantonio.jpg",
     "featured": false
   },
   {
     "id": "brandon-cohen",
     "name": "Brandon Cohen",
-    "title": { "en": "Commercial Real Estate Broker", "fr": "Courtier immobilier commercial" },
+    "title": {
+      "en": "Commercial Real Estate Broker",
+      "fr": "Courtier immobilier commercial"
+    },
     "phone": "514-409-6252",
     "email": "brandon@immeublesmontria.com",
-    "photo": "/images/team/portrait-11.svg",
+    "photo": "/images/team/brandon-cohen.jpg",
     "featured": false
   }
 ]
