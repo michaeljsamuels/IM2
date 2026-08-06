@@ -19,6 +19,7 @@
   --shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
 
   --font-display: 'Anton', 'Arial Narrow', sans-serif;
+  --font-hero: 'Jost', 'Futura', 'Helvetica Neue', sans-serif;
   --font-body: 'Barlow', 'Helvetica Neue', sans-serif;
   --font-serif: 'Cormorant', Georgia, serif;
 
@@ -256,10 +257,19 @@ body.is-scrolled .logo-img {
   color: var(--ink);
 }
 
-/* Transparent header over the hero until scrolled */
+/* Transparent header over the hero photo until scrolled: white text */
 body.has-hero:not(.is-scrolled) .site-header {
   background: transparent;
   border-color: transparent;
+}
+
+body.has-hero:not(.is-scrolled) .site-header a,
+body.has-hero:not(.is-scrolled) .menu-toggle span {
+  color: #fff;
+}
+
+body.has-hero:not(.is-scrolled) .lang-switch .is-active {
+  color: var(--accent);
 }
 
 body.is-scrolled .site-header {
@@ -339,7 +349,7 @@ body.is-scrolled .site-header {
   align-items: center;
   justify-content: center;
   text-align: center;
-  color: var(--ink);
+  color: #fff;
   overflow: hidden;
 }
 
@@ -356,7 +366,7 @@ body.is-scrolled .site-header {
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
+  background: rgba(0, 0, 0, 0.35);
 }
 
 .hero__content {
@@ -366,9 +376,16 @@ body.is-scrolled .site-header {
 }
 
 .hero__content h1 {
-  font-size: clamp(3.4rem, 11vw, 10.5rem);
-  line-height: 0.85;
-  margin-bottom: 0.15em;
+  font-family: var(--font-hero);
+  font-weight: 200;
+  font-size: clamp(2.6rem, 8vw, 7.5rem);
+  line-height: 1.05;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.2em;
+  color: #fff;
+}
+
+.accent-i {
   color: var(--accent);
 }
 
@@ -386,9 +403,9 @@ body.is-scrolled .site-header {
   width: 56px;
   height: 56px;
   margin-top: 2.5rem;
-  border: 1px solid rgba(34, 34, 34, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.6);
   border-radius: 50%;
-  color: var(--ink);
+  color: #fff;
   animation: bob 2.4s ease-in-out infinite;
 }
 
