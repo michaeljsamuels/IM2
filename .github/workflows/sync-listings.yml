@@ -1,0 +1,42 @@
+# Interim Centris datafeed: hourly scrape of luxurymtl.com (the firm's own
+# current site, which already syncs with Centris). If listings changed, the
+# refreshed content/listings.json is committed, which triggers the Amplify
+# build → the new site updates within ~1 hour of a listing change.
+name: Sync listings
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-listings
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Scrape listings
+        run: node scripts/sync-from-luxurymtl.mjs
+      - name: Validate content still builds
+        run: |
+          npm ci
+          npm run content
+      - name: Commit & push if changed
+        run: |
+          if git diff --quiet content/listings.json; then
+            echo "No listing changes."
+          else
+            git config user.name "listings-sync[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add content/listings.json
+            git commit -m "sync: refresh listings from luxurymtl.com"
+            git push
+          fi

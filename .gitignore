@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# AWS / Amplify local artifacts
+.amplify/
+aws-exports.js
+
+# Generated from content/ by scripts/build-content.mjs
+/index.html
+/en/
+/fr/

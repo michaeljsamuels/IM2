@@ -1,0 +1,113 @@
+{
+  "nav.about": { "en": "About", "fr": "À propos" },
+  "nav.sale": { "en": "Properties for Sale", "fr": "Propriétés à vendre" },
+  "nav.rent": { "en": "Properties for Rent", "fr": "Propriétés à louer" },
+  "nav.properties": { "en": "Properties", "fr": "Propriétés" },
+  "nav.team": { "en": "Our Team", "fr": "Notre équipe" },
+  "nav.neighbourhoods": { "en": "Neighbourhoods", "fr": "Quartiers" },
+  "nav.contact": { "en": "Contact", "fr": "Nous joindre" },
+  "nav.menu": { "en": "Menu", "fr": "Menu" },
+  "nav.close": { "en": "Close", "fr": "Fermer" },
+
+  "hero.eyebrow": { "en": "Montréal Luxury Real Estate", "fr": "Immobilier de luxe à Montréal" },
+  "hero.sub": { "en": "Boutique by design", "fr": "Boutique par choix" },
+  "hero.cta": { "en": "View Our Properties", "fr": "Voir nos propriétés" },
+
+  "about.heading": { "en": "Montréal Real Estate, Without Compromise.", "fr": "L'immobilier montréalais, sans compromis." },
+  "about.serif": { "en": "A boutique agency, by design.", "fr": "Une agence boutique, par choix." },
+  "about.body1": {
+    "en": "Luxury MTL is the boutique brokerage of Immeubles Montria, specializing in Montréal's finest condominiums, lofts and residences — from the Golden Square Mile to Old Montréal. We keep our roster small and our standards high.",
+    "fr": "Luxury MTL est la bannière boutique d'Immeubles Montria, spécialisée dans les plus belles copropriétés, lofts et résidences de Montréal — du Mille Carré Doré au Vieux-Montréal. Une équipe restreinte, des standards élevés."
+  },
+  "about.body2": {
+    "en": "Whether you are buying, selling or leasing, you work directly with a broker who knows the building, the block and the market — and who answers the phone.",
+    "fr": "Que vous achetiez, vendiez ou louiez, vous travaillez directement avec un courtier qui connaît l'immeuble, la rue et le marché — et qui répond au téléphone."
+  },
+  "about.cta": { "en": "Meet the Team", "fr": "Rencontrez l'équipe" },
+
+  "featured.heading": { "en": "Featured Properties", "fr": "Propriétés vedettes" },
+  "featured.serif": { "en": "Discover your next address.", "fr": "Découvrez votre prochaine adresse." },
+  "featured.cta": { "en": "View All Listings", "fr": "Voir toutes les inscriptions" },
+
+  "team.heading": { "en": "Our Brokers", "fr": "Nos courtiers" },
+  "team.cta": { "en": "View All Brokers", "fr": "Voir tous les courtiers" },
+
+  "quicklinks.sale": { "en": "For Sale", "fr": "À vendre" },
+  "quicklinks.rent": { "en": "For Rent", "fr": "À louer" },
+  "quicklinks.team": { "en": "Our Team", "fr": "Notre équipe" },
+  "quicklinks.contact": { "en": "Contact", "fr": "Nous joindre" },
+
+  "hoods.heading": { "en": "Neighbourhoods", "fr": "Quartiers" },
+  "hoods.serif": { "en": "Where do you see yourself?", "fr": "Où vous voyez-vous ?" },
+
+  "contactband.heading": { "en": "Let's Talk.", "fr": "Parlons-en." },
+  "contactband.serif": { "en": "Buying, selling, or just curious.", "fr": "Acheter, vendre, ou simplement curieux." },
+
+  "listings.sale.title": { "en": "Properties for Sale", "fr": "Propriétés à vendre" },
+  "listings.rent.title": { "en": "Properties for Rent", "fr": "Propriétés à louer" },
+  "listings.filter.all": { "en": "All neighbourhoods", "fr": "Tous les quartiers" },
+  "listings.filter.neighbourhood": { "en": "Neighbourhood", "fr": "Quartier" },
+  "listings.sort": { "en": "Sort by", "fr": "Trier par" },
+  "listings.sort.recent": { "en": "Most recent", "fr": "Plus récentes" },
+  "listings.sort.priceDesc": { "en": "Price (high to low)", "fr": "Prix (décroissant)" },
+  "listings.sort.priceAsc": { "en": "Price (low to high)", "fr": "Prix (croissant)" },
+  "listings.empty": { "en": "No properties match your filters.", "fr": "Aucune propriété ne correspond à vos filtres." },
+  "listings.count": { "en": "properties", "fr": "propriétés" },
+
+  "card.beds": { "en": "bedrooms", "fr": "chambres" },
+  "card.baths": { "en": "bathrooms", "fr": "salles de bain" },
+  "card.area": { "en": "living area", "fr": "superficie habitable" },
+  "card.perMonth": { "en": "/month", "fr": "/mois" },
+  "status.for-sale": { "en": "For Sale", "fr": "À vendre" },
+  "status.for-rent": { "en": "For Rent", "fr": "À louer" },
+  "status.sold": { "en": "Sold", "fr": "Vendu" },
+  "status.rented": { "en": "Rented", "fr": "Loué" },
+
+  "detail.photos": { "en": "photos", "fr": "photos" },
+  "detail.mls": { "en": "Centris No.", "fr": "No Centris" },
+  "detail.listed": { "en": "Listed", "fr": "Inscrite" },
+  "detail.yearBuilt": { "en": "Year built", "fr": "Année de construction" },
+  "detail.parking": { "en": "Parking", "fr": "Stationnement" },
+  "detail.tab.details": { "en": "Details", "fr": "Détails" },
+  "detail.tab.features": { "en": "Features", "fr": "Caractéristiques" },
+  "detail.tab.rooms": { "en": "Room Details", "fr": "Détails des pièces" },
+  "detail.condoFees": { "en": "Co-ownership fees", "fr": "Frais de copropriété" },
+  "detail.taxMunicipal": { "en": "Municipal taxes", "fr": "Taxes municipales" },
+  "detail.taxSchool": { "en": "School taxes", "fr": "Taxes scolaires" },
+  "detail.inclusions": { "en": "Inclusions", "fr": "Inclusions" },
+  "detail.exclusions": { "en": "Exclusions", "fr": "Exclusions" },
+  "detail.level": { "en": "Level", "fr": "Niveau" },
+  "detail.room": { "en": "Room", "fr": "Pièce" },
+  "detail.dimensions": { "en": "Dimensions", "fr": "Dimensions" },
+  "detail.agent.heading": { "en": "Listing Broker", "fr": "Courtier inscripteur" },
+  "detail.inquire": { "en": "Request a Visit", "fr": "Demander une visite" },
+  "detail.similar": { "en": "You May Also Like", "fr": "Vous aimerez aussi" },
+  "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },
+
+  "team.title": { "en": "Our Team", "fr": "Notre équipe" },
+  "team.serif": { "en": "Small team. Full attention.", "fr": "Petite équipe. Attention entière." },
+
+  "hoods.title": { "en": "Neighbourhoods", "fr": "Quartiers" },
+
+  "contact.title": { "en": "Contact Us", "fr": "Nous joindre" },
+  "contact.office": { "en": "Our Office", "fr": "Notre bureau" },
+  "form.name": { "en": "Name", "fr": "Nom" },
+  "form.email": { "en": "Email", "fr": "Courriel" },
+  "form.phone": { "en": "Phone", "fr": "Téléphone" },
+  "form.message": { "en": "Message", "fr": "Message" },
+  "form.iam": { "en": "I am a…", "fr": "Je suis…" },
+  "form.buyer": { "en": "Buyer", "fr": "Acheteur" },
+  "form.seller": { "en": "Seller", "fr": "Vendeur" },
+  "form.tenant": { "en": "Tenant", "fr": "Locataire" },
+  "form.other": { "en": "Other", "fr": "Autre" },
+  "form.send": { "en": "Send", "fr": "Envoyer" },
+  "form.disabled": {
+    "en": "Form delivery is not wired up yet — call or email us instead.",
+    "fr": "L'envoi du formulaire n'est pas encore activé — appelez-nous ou écrivez-nous."
+  },
+
+  "footer.follow": { "en": "Follow Along", "fr": "Suivez-nous" },
+  "footer.getInTouch": { "en": "Get In Touch", "fr": "Contactez-nous" },
+  "footer.rights": { "en": "All rights reserved.", "fr": "Tous droits réservés." },
+  "footer.privacy": { "en": "Privacy Policy", "fr": "Politique de confidentialité" }
+}

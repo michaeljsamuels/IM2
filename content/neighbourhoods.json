@@ -1,0 +1,74 @@
+[
+  {
+    "id": "westmount",
+    "name": { "en": "Westmount", "fr": "Westmount" },
+    "blurb": {
+      "en": "Stately homes, leafy streets and Montréal's most established address.",
+      "fr": "Demeures majestueuses, rues verdoyantes et l'adresse la plus établie de Montréal."
+    },
+    "image": "/images/placeholders/p1.svg"
+  },
+  {
+    "id": "vieux-montreal",
+    "name": { "en": "Old Montréal", "fr": "Vieux-Montréal" },
+    "blurb": {
+      "en": "Historic lofts and riverside condos in the city's oldest quarter.",
+      "fr": "Lofts historiques et condos au bord du fleuve dans le plus vieux quartier de la ville."
+    },
+    "image": "/images/placeholders/p2.svg"
+  },
+  {
+    "id": "centre-ville",
+    "name": { "en": "Downtown", "fr": "Centre-Ville" },
+    "blurb": {
+      "en": "Sky-high living steps from the Golden Square Mile and everything else.",
+      "fr": "La vie en hauteur, à deux pas du Mille Carré Doré et de tout le reste."
+    },
+    "image": "/images/placeholders/p3.svg"
+  },
+  {
+    "id": "quartier-des-spectacles",
+    "name": { "en": "Quartier des Spectacles", "fr": "Quartier des Spectacles" },
+    "blurb": {
+      "en": "Montréal's cultural heart — festivals, theatres and new-build condos.",
+      "fr": "Le cœur culturel de Montréal — festivals, salles de spectacle et condos neufs."
+    },
+    "image": "/images/placeholders/p4.svg"
+  },
+  {
+    "id": "le-sud-ouest",
+    "name": { "en": "Le Sud-Ouest", "fr": "Le Sud-Ouest" },
+    "blurb": {
+      "en": "Canal-side conversions and the city's best-kept industrial-chic secret.",
+      "fr": "Conversions au bord du canal et le secret industriel-chic le mieux gardé de la ville."
+    },
+    "image": "/images/placeholders/p5.svg"
+  },
+  {
+    "id": "plateau-mont-royal",
+    "name": { "en": "Plateau Mont-Royal", "fr": "Plateau Mont-Royal" },
+    "blurb": {
+      "en": "Iconic staircases, café culture and Montréal at its most photogenic.",
+      "fr": "Escaliers emblématiques, culture café et le Montréal le plus photogénique."
+    },
+    "image": "/images/placeholders/p6.svg"
+  },
+  {
+    "id": "outremont",
+    "name": { "en": "Outremont", "fr": "Outremont" },
+    "blurb": {
+      "en": "Elegant avenues and family homes on the mountain's north side.",
+      "fr": "Avenues élégantes et résidences familiales sur le versant nord de la montagne."
+    },
+    "image": "/images/placeholders/p7.svg"
+  },
+  {
+    "id": "ndg",
+    "name": { "en": "Notre-Dame-de-Grâce", "fr": "Notre-Dame-de-Grâce" },
+    "blurb": {
+      "en": "Classic brick, big trees and a true neighbourhood feel west of downtown.",
+      "fr": "Briques classiques, grands arbres et un vrai esprit de quartier à l'ouest du centre-ville."
+    },
+    "image": "/images/placeholders/p8.svg"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "brand": "Immeubles Montria",
+  "domain": "https://luxurymtl.com",
+  "legalName": "Immeubles Montria",
+  "slogan": { "en": "Highly recommended.", "fr": "Hautement recommandé." },
+  "office": {
+    "address": "1894 rue Notre-Dame Ouest",
+    "city": "Montréal",
+    "province": "QC",
+    "postalCode": "H3J 1M6"
+  },
+  "phone": "514-409-6252",
+  "email": "info@luxurymtl.com",
+  "social": {
+    "facebook": "https://www.facebook.com/ImmeublesMontria",
+    "instagram": "https://www.instagram.com/immeublesmontria",
+    "linkedin": "https://ca.linkedin.com/company/immeubles-montria"
+  },
+  "oaciq": {
+    "notice": {
+      "en": "Immeubles Montria — Real estate agency. TODO: confirm OACIQ licence number.",
+      "fr": "Immeubles Montria — Agence immobilière. TODO : confirmer le numéro de permis OACIQ."
+    }
+  }
+}
