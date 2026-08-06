@@ -3,7 +3,6 @@
  * scripts/build-content.mjs; this file only adds progressive enhancement:
  * sticky header, fullscreen menu, listing filters/sort, detail tabs, lightbox.
  */
-import '@fontsource/anton';
 import '@fontsource/jost/200.css';
 import '@fontsource/jost/300.css';
 import '@fontsource/barlow/400.css';
