@@ -46,15 +46,26 @@ async function fetchText(path) {
   return (await res.text()).replace(/\s+/g, ' ');
 }
 
-const decode = (s) =>
+// Full-ish HTML entity decoding: numeric (dec/hex) plus the named entities
+// that appear in Centris/Laravel French text. Applied twice to unwrap
+// double-encoded sequences like &amp;eacute;.
+const NAMED_ENTITIES = {
+  amp: '&', quot: '"', apos: "'", lt: '<', gt: '>', nbsp: ' ',
+  rsquo: '’', lsquo: '‘', ldquo: '“', rdquo: '”',
+  mdash: '—', ndash: '–', hellip: '…', deg: '°', sup2: '²',
+  eacute: 'é', egrave: 'è', ecirc: 'ê', euml: 'ë', agrave: 'à', acirc: 'â',
+  ccedil: 'ç', ocirc: 'ô', ucirc: 'û', ugrave: 'ù', icirc: 'î', iuml: 'ï',
+  ouml: 'ö', uuml: 'ü', oelig: 'œ', aelig: 'æ',
+  Eacute: 'É', Egrave: 'È', Ecirc: 'Ê', Agrave: 'À', Acirc: 'Â', Ccedil: 'Ç', Ocirc: 'Ô',
+};
+
+const decodeOnce = (s) =>
   s
-    .replaceAll('&amp;', '&')
-    .replaceAll('&#039;', "'")
-    .replaceAll('&quot;', '"')
-    .replaceAll('&nbsp;', ' ')
-    .replaceAll('&lt;', '<')
-    .replaceAll('&gt;', '>')
-    .trim();
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&([a-zA-Z]+);/g, (m, name) => NAMED_ENTITIES[name] ?? m);
+
+const decode = (s) => decodeOnce(decodeOnce(String(s))).trim();
 
 const cleanText = (html) =>
   decode(
