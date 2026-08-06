@@ -14,8 +14,12 @@ export function listingCard(ctx, listing) {
     listing.livingArea ? `<li title="${esc(T('card.area'))}">${icons.area}<span>${esc(fmtArea(listing.livingArea, locale))}</span></li>` : '',
   ].filter(Boolean);
 
+  const href = listing.partial
+    ? agentUrl({ id: listing.agentId }, locale)
+    : listingUrl(listing, locale);
+
   return `
-  <a class="property-card" href="${listingUrl(listing, locale)}"
+  <a class="property-card" href="${href}"
      data-price="${listing.price}" data-date="${listing.listedDate ?? ''}" data-hood="${listing.neighbourhood ?? ''}">
     <div class="property-card__media">
       <img src="${listing.photos[0]}" alt="${esc(listing.address)}" loading="lazy" />

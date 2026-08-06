@@ -170,6 +170,78 @@ function parseDetail(html, { id, status, category }) {
   };
 }
 
+/**
+ * "Listing light" fallback: when a listing's detail pages are broken on the
+ * source site (EN and FR both 500), build a partial listing from its index
+ * card (price, address, type, beds/baths, thumbnail). Partial listings get
+ * no detail page — their cards link to the listing broker's profile instead.
+ */
+function parseIndexCard(indexHtml, id) {
+  const m = indexHtml.match(new RegExp(`price="([\\d,]+)"[^>]*id="listing_${id}"(.*?)grid-offer-back`));
+  if (!m) return null;
+  const block = m[2];
+  const title = block.match(/grid-offer-title">([^<]+)<\/h4>\s*([^<]*?)\s*<br>\s*([A-Za-z0-9 ]*)/);
+  return {
+    price: Number(m[1].replace(/\D/g, '')),
+    photo: block.match(/img src="(\/images\/cropped\/[^"]+)"/)?.[1] ?? null,
+    type: decode(block.match(/class="estate-type">([^<]+)</)?.[1] ?? ''),
+    address: decode(title?.[1] ?? ''),
+    borough: decode(title?.[2] ?? ''),
+    postal: (title?.[3] ?? '').replace(/([A-Z]\d[A-Z])\s?(\d[A-Z]\d)/, '$1 $2').trim(),
+    beds: block.match(/grid-rooms">[^\d]*(\d+)/)?.[1] ?? null,
+    baths: block.match(/grid-baths">[^\d]*(\d+)/)?.[1] ?? null,
+  };
+}
+
+const PARTIAL_AGENT = 'kayla-samuels';
+const PARTIAL_DESC = {
+  en: 'Full details for this exclusive property are available on request — contact Kayla Samuels to arrange a private presentation.',
+  fr: 'Les détails complets de cette propriété exclusive sont disponibles sur demande — contactez Kayla Samuels pour une présentation privée.',
+};
+
+function partialListing(card, frCard, { id, status, category }) {
+  const hood = HOOD_MAP.find(([needle]) => card.borough.toLowerCase().includes(needle.toLowerCase()))?.[1];
+  const cap = (s) => (s ? s[0].toUpperCase() + s.slice(1) : 'Property');
+  return {
+    id,
+    centrisId: null,
+    status,
+    category,
+    partial: true,
+    featured: false,
+    type: { en: cap(card.type), fr: cap(frCard?.type ?? card.type) },
+    price: card.price,
+    address: card.address,
+    postalCode: card.postal,
+    city: card.borough || 'Montréal',
+    borough: card.borough,
+    ...(hood ? { neighbourhood: hood } : {}),
+    beds: card.beds != null ? Number(card.beds) : null,
+    baths: card.baths != null ? Number(card.baths) : null,
+    powderRooms: 0,
+    livingArea: null,
+    yearBuilt: null,
+    parking: null,
+    listedDate: null,
+    agentId: PARTIAL_AGENT,
+    description: { ...PARTIAL_DESC },
+    features: { en: [], fr: [] },
+    rooms: [],
+    condoFees: null,
+    taxes: null,
+    inclusions: null,
+    exclusions: null,
+    photos: card.photo ? [`${BASE}${card.photo}`] : [],
+  };
+}
+
+const FR_INDEX = {
+  '/en/listings/sale': '/fr/annonces/vente',
+  '/en/listings/rent': '/fr/annonces/location',
+  '/en/listings/commercial': '/fr/annonces/commercial',
+  '/en/listings/commercial-rental': '/fr/annonces/commercial-location',
+};
+
 async function main() {
   const indexes = [
     { path: '/en/listings/sale', status: 'for-sale', category: 'residential' },
@@ -181,14 +253,16 @@ async function main() {
   // Dedup across categories by listing id; a commercial index entry wins so
   // dual-listed properties keep the commercial tag.
   const byId = new Map();
+  const indexHtml = {};
   for (const { path, status, category } of indexes) {
     const html = await fetchText(path);
+    indexHtml[path] = html;
     const found = new Set();
     for (const m of html.matchAll(/href="(\/en\/listing\/(\d+)\/[^"]+)"/g)) {
       const id = Number(m[2]);
       found.add(id);
       const existing = byId.get(id);
-      if (!existing || category === 'commercial') byId.set(id, { url: m[1], id, status, category });
+      if (!existing || category === 'commercial') byId.set(id, { url: m[1], id, status, category, srcPath: path });
     }
     console.log(`${path}: ${found.size} listings`);
   }
@@ -203,24 +277,44 @@ async function main() {
       let listing;
       const frUrl = t.url.replace('/en/listing/', '/fr/annonce/');
       try {
-        listing = parseDetail(await fetchText(t.url), t);
-      } catch (enErr) {
-        listing = parseDetail(await fetchText(frUrl), t);
-        console.warn(`  EN page failed for #${t.id} (${enErr.message}) — captured from FR mirror`);
-      }
-      // French description/type from the FR mirror page (best-effort)
-      try {
-        const fr = parseDetail(await fetchText(frUrl), t);
-        listing.description.fr = fr.description.en || null;
-        listing.type.fr = fr.type.en;
-        listing.features.fr = fr.features.en;
-        if (fr.parking && listing.parking) listing.parking.fr = fr.parking.en;
+        try {
+          listing = parseDetail(await fetchText(t.url), t);
+        } catch (enErr) {
+          listing = parseDetail(await fetchText(frUrl), t);
+          console.warn(`  EN page failed for #${t.id} (${enErr.message}) — captured from FR mirror`);
+        }
       } catch {
-        /* FR page missing — EN fallback below */
+        // Both detail pages broken on the source site: fall back to a
+        // "listing light" built from the category index card.
+        const card = parseIndexCard(indexHtml[t.srcPath], t.id);
+        if (!card || !card.price || !card.address) throw new Error('detail pages broken and no index card');
+        const frPath = FR_INDEX[t.srcPath];
+        if (frPath && !indexHtml[frPath]) {
+          try {
+            indexHtml[frPath] = await fetchText(frPath);
+          } catch {
+            /* FR index unavailable — EN type used for both */
+          }
+        }
+        const frCard = indexHtml[frPath] ? parseIndexCard(indexHtml[frPath], t.id) : null;
+        listing = partialListing(card, frCard, t);
+        console.warn(`  detail pages broken for #${t.id} — created partial "listing light" (→ ${PARTIAL_AGENT})`);
       }
-      listing.description.fr ??= listing.description.en;
-      listing.type.fr ??= listing.type.en;
-      listing.features.fr = listing.features.fr?.length ? listing.features.fr : listing.features.en;
+      if (!listing.partial) {
+        // French description/type from the FR mirror page (best-effort)
+        try {
+          const fr = parseDetail(await fetchText(frUrl), t);
+          listing.description.fr = fr.description.en || null;
+          listing.type.fr = fr.type.en;
+          listing.features.fr = fr.features.en;
+          if (fr.parking && listing.parking) listing.parking.fr = fr.parking.en;
+        } catch {
+          /* FR page missing — EN fallback below */
+        }
+        listing.description.fr ??= listing.description.en;
+        listing.type.fr ??= listing.type.en;
+        listing.features.fr = listing.features.fr?.length ? listing.features.fr : listing.features.en;
+      }
       if (!listing.price || !listing.address || !listing.photos.length) throw new Error('incomplete parse');
       listings.push(listing);
     } catch (e) {

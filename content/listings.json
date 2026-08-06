@@ -647,6 +647,48 @@
     ]
   },
   {
+    "id": 1569,
+    "centrisId": null,
+    "status": "for-sale",
+    "category": "residential",
+    "partial": true,
+    "featured": true,
+    "type": {
+      "en": "Single-family",
+      "fr": "Unifamiliale"
+    },
+    "price": 9995000,
+    "address": "4 Av. Murray",
+    "postalCode": "H3Y 2Y1",
+    "city": "Westmount",
+    "borough": "Westmount",
+    "neighbourhood": "westmount",
+    "beds": 8,
+    "baths": 3,
+    "powderRooms": 0,
+    "livingArea": null,
+    "yearBuilt": null,
+    "parking": null,
+    "listedDate": null,
+    "agentId": "kayla-samuels",
+    "description": {
+      "en": "Full details for this exclusive property are available on request — contact Kayla Samuels to arrange a private presentation.",
+      "fr": "Les détails complets de cette propriété exclusive sont disponibles sur demande — contactez Kayla Samuels pour une présentation privée."
+    },
+    "features": {
+      "en": [],
+      "fr": []
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": null,
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://luxurymtl.com/images/cropped/th_cr_1569.jpg"
+    ]
+  },
+  {
     "id": 1568,
     "centrisId": "28853160",
     "status": "for-rent",
@@ -1437,11 +1479,53 @@
     ]
   },
   {
+    "id": 1553,
+    "centrisId": null,
+    "status": "for-sale",
+    "category": "residential",
+    "partial": true,
+    "featured": true,
+    "type": {
+      "en": "Single-family",
+      "fr": "Unifamiliale"
+    },
+    "price": 8500000,
+    "address": "3223 Av. de Trafalgar",
+    "postalCode": "H3Y 1H8",
+    "city": "Westmount",
+    "borough": "Westmount",
+    "neighbourhood": "westmount",
+    "beds": 4,
+    "baths": 5,
+    "powderRooms": 0,
+    "livingArea": null,
+    "yearBuilt": null,
+    "parking": null,
+    "listedDate": null,
+    "agentId": "kayla-samuels",
+    "description": {
+      "en": "Full details for this exclusive property are available on request — contact Kayla Samuels to arrange a private presentation.",
+      "fr": "Les détails complets de cette propriété exclusive sont disponibles sur demande — contactez Kayla Samuels pour une présentation privée."
+    },
+    "features": {
+      "en": [],
+      "fr": []
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": null,
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://luxurymtl.com/images/cropped/th_cr_1553.jpg"
+    ]
+  },
+  {
     "id": 1550,
     "centrisId": "21324345",
     "status": "for-sale",
     "category": "commercial",
-    "featured": true,
+    "featured": false,
     "type": {
       "en": "Property",
       "fr": "Property"
@@ -3853,7 +3937,7 @@
     "centrisId": "25089503",
     "status": "for-sale",
     "category": "residential",
-    "featured": true,
+    "featured": false,
     "type": {
       "en": "House",
       "fr": "Maison"

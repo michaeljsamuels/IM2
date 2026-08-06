@@ -106,6 +106,7 @@ for (const locale of LOCALES) {
   }
 
   for (const l of listings) {
+    if (l.partial) continue; // "listing light": card only, links to the broker profile
     emit(
       listingUrl(l, locale),
       layout(ctx, {
