@@ -21,17 +21,12 @@ export function homePage(ctx) {
 </section>
 
 <section class="band band--about" id="about">
-  <div class="band__inner split">
-    <div>
-      <h2>${esc(T('about.heading'))}</h2>
-      <p class="serif-accent">${esc(T('about.serif'))}</p>
-      <p>${esc(T('about.body1'))}</p>
-      <p>${esc(T('about.body2'))}</p>
-      <a class="btn btn--outline" href="${ROUTES.team[locale]}">${esc(T('about.cta'))}</a>
-    </div>
-    <div class="split__media">
-      <img src="/images/placeholders/p7.svg" alt="" loading="lazy" />
-    </div>
+  <div class="band__inner band__inner--narrow">
+    <h2>${esc(T('about.heading'))}</h2>
+    <p class="serif-accent">${esc(T('about.serif'))}</p>
+    <p>${esc(T('about.body1'))}</p>
+    <p>${esc(T('about.body2'))}</p>
+    <a class="btn btn--outline" href="${ROUTES.team[locale]}">${esc(T('about.cta'))}</a>
   </div>
 </section>
 

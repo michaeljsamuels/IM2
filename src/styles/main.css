@@ -426,6 +426,10 @@ body:not(.has-hero) main {
   padding: 0 24px;
 }
 
+.band__inner--narrow {
+  max-width: 880px;
+}
+
 .band__cta {
   margin-top: 3rem;
   text-align: center;
