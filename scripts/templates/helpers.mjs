@@ -8,7 +8,6 @@ export const ROUTES = {
   sale: { en: '/en/listings/sale/', fr: '/fr/annonces/vente/' },
   rent: { en: '/en/listings/rent/', fr: '/fr/annonces/location/' },
   team: { en: '/en/our-team/', fr: '/fr/notre-equipe/' },
-  hoods: { en: '/en/neighbourhoods/', fr: '/fr/quartiers/' },
   contact: { en: '/en/contact/', fr: '/fr/contact/' },
 };
 

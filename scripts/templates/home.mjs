@@ -66,24 +66,6 @@ export function homePage(ctx) {
   </div>
 </section>
 
-<section class="band band--alt" id="neighbourhoods">
-  <div class="band__inner">
-    <h2>${esc(T('hoods.heading'))}</h2>
-    <p class="serif-accent">${esc(T('hoods.serif'))}</p>
-    <div class="hood-grid">
-      ${hoods
-        .map(
-          (h) => `
-      <a class="hood-card" href="${ROUTES.hoods[locale]}#${h.id}">
-        <img src="${h.image}" alt="" loading="lazy" />
-        <span>${esc(h.name[locale])}</span>
-      </a>`,
-        )
-        .join('\n')}
-    </div>
-  </div>
-</section>
-
 <section class="band band--contact" id="contact-band">
   <div class="band__inner">
     <h2>${esc(T('contactband.heading'))}</h2>

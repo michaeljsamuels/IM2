@@ -629,78 +629,6 @@ body:not(.has-hero) main {
   color: rgba(255, 255, 255, 0.85);
 }
 
-/* ---- neighbourhoods --------------------------------------------------------- */
-
-.hood-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
-}
-
-.hood-card {
-  position: relative;
-  aspect-ratio: 1;
-  overflow: hidden;
-}
-
-.hood-card img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 0.4s ease;
-}
-
-.hood-card::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: var(--overlay);
-  transition: background 0.3s ease;
-}
-
-.hood-card:hover img {
-  transform: scale(1.05);
-}
-
-.hood-card:hover::after {
-  background: rgba(0, 0, 0, 0.25);
-}
-
-.hood-card span {
-  position: absolute;
-  inset: auto 0 1.2rem 0;
-  z-index: 1;
-  text-align: center;
-  color: #fff;
-  font-family: var(--font-display);
-  font-size: 1.4rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.hood-rows {
-  display: flex;
-  flex-direction: column;
-  gap: clamp(3rem, 6vw, 5rem);
-}
-
-.hood-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: clamp(2rem, 5vw, 4rem);
-  align-items: center;
-}
-
-.hood-row--flip img {
-  order: 2;
-}
-
-.hood-row img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-}
-
 /* ---- contact band --------------------------------------------------------- */
 
 .band--contact {
@@ -1208,18 +1136,9 @@ body:not(.has-hero) main {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .hood-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
   .split,
-  .detail-cols,
-  .hood-row {
+  .detail-cols {
     grid-template-columns: 1fr;
-  }
-
-  .hood-row--flip img {
-    order: 0;
   }
 
   .detail-side {

@@ -14,7 +14,6 @@ export function layout(ctx, { title, description, path, altPath, body, hasHero =
     [ROUTES.sale[locale], T('nav.sale')],
     [ROUTES.rent[locale], T('nav.rent')],
     [ROUTES.team[locale], T('nav.team')],
-    [ROUTES.hoods[locale], T('nav.neighbourhoods')],
     [ROUTES.contact[locale], T('nav.contact')],
   ];
 

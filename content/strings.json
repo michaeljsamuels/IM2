@@ -4,7 +4,6 @@
   "nav.rent": { "en": "Properties for Rent", "fr": "Propriétés à louer" },
   "nav.properties": { "en": "Properties", "fr": "Propriétés" },
   "nav.team": { "en": "Our Team", "fr": "Notre équipe" },
-  "nav.neighbourhoods": { "en": "Neighbourhoods", "fr": "Quartiers" },
   "nav.contact": { "en": "Contact", "fr": "Nous joindre" },
   "nav.menu": { "en": "Menu", "fr": "Menu" },
   "nav.close": { "en": "Close", "fr": "Fermer" },
@@ -36,9 +35,6 @@
   "quicklinks.rent": { "en": "For Rent", "fr": "À louer" },
   "quicklinks.team": { "en": "Our Team", "fr": "Notre équipe" },
   "quicklinks.contact": { "en": "Contact", "fr": "Nous joindre" },
-
-  "hoods.heading": { "en": "Neighbourhoods", "fr": "Quartiers" },
-  "hoods.serif": { "en": "Where do you see yourself?", "fr": "Où vous voyez-vous ?" },
 
   "contactband.heading": { "en": "Let's Talk.", "fr": "Parlons-en." },
   "contactband.serif": { "en": "Buying, selling, or just curious.", "fr": "Acheter, vendre, ou simplement curieux." },
@@ -86,8 +82,6 @@
 
   "team.title": { "en": "Our Team", "fr": "Notre équipe" },
   "team.serif": { "en": "Small team. Full attention.", "fr": "Petite équipe. Attention entière." },
-
-  "hoods.title": { "en": "Neighbourhoods", "fr": "Quartiers" },
 
   "contact.title": { "en": "Contact Us", "fr": "Nous joindre" },
   "contact.office": { "en": "Our Office", "fr": "Notre bureau" },

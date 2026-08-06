@@ -17,7 +17,7 @@ import { layout } from './templates/layout.mjs';
 import { homePage } from './templates/home.mjs';
 import { listingsPage } from './templates/listings.mjs';
 import { listingPage } from './templates/listing.mjs';
-import { teamPage, hoodsPage, contactPage } from './templates/pages.mjs';
+import { teamPage, contactPage } from './templates/pages.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
@@ -81,7 +81,6 @@ for (const locale of LOCALES) {
     ['sale', () => listingsPage(ctx, { status: 'for-sale', title: T('listings.sale.title') }), `${T('listings.sale.title')} — ${site.brand}`, T('hero.eyebrow'), false],
     ['rent', () => listingsPage(ctx, { status: 'for-rent', title: T('listings.rent.title') }), `${T('listings.rent.title')} — ${site.brand}`, T('hero.eyebrow'), false],
     ['team', () => teamPage(ctx), `${T('team.title')} — ${site.brand}`, T('team.serif'), false],
-    ['hoods', () => hoodsPage(ctx), `${T('hoods.title')} — ${site.brand}`, T('hoods.serif'), false],
     ['contact', () => contactPage(ctx), `${T('contact.title')} — ${site.brand}`, T('contactband.serif'), false],
   ];
 

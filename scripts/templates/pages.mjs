@@ -20,33 +20,6 @@ export function teamPage(ctx) {
 </section>`;
 }
 
-export function hoodsPage(ctx) {
-  const { locale, T, hoods } = ctx;
-  return `
-<section class="page-head">
-  <div class="band__inner">
-    <h1>${esc(T('hoods.title'))}</h1>
-    <p class="serif-accent">${esc(T('hoods.serif'))}</p>
-  </div>
-</section>
-<section class="band">
-  <div class="band__inner hood-rows">
-    ${hoods
-      .map(
-        (h, i) => `
-    <div class="hood-row ${i % 2 ? 'hood-row--flip' : ''}" id="${h.id}">
-      <img src="${h.image}" alt="${esc(h.name[locale])}" loading="lazy" />
-      <div>
-        <h2>${esc(h.name[locale])}</h2>
-        <p>${esc(h.blurb[locale])}</p>
-      </div>
-    </div>`,
-      )
-      .join('\n')}
-  </div>
-</section>`;
-}
-
 export function contactPage(ctx) {
   const { site, T } = ctx;
   return `
