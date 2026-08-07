@@ -219,6 +219,88 @@ if (detailMap || listingsMap) {
   })();
 }
 
+// ---- mortgage calculator ----
+const calc = document.querySelector<HTMLElement>('[data-calc]');
+if (calc) {
+  const locale = document.documentElement.lang.startsWith('fr') ? 'fr-CA' : 'en-CA';
+  const q = <T extends HTMLElement>(sel: string): T => calc.querySelector<T>(sel)!;
+
+  const priceEl = q<HTMLInputElement>('[data-calc-price]');
+  const downPctEl = q<HTMLInputElement>('[data-calc-down-pct]');
+  const downAmtEl = q<HTMLInputElement>('[data-calc-down-amt]');
+  const rateEl = q<HTMLInputElement>('[data-calc-rate]');
+  const amortEl = q<HTMLSelectElement>('[data-calc-amort]');
+  const freqEl = q<HTMLSelectElement>('[data-calc-freq]');
+  const warnEl = q<HTMLElement>('[data-calc-warn]');
+
+  const money = (n: number): string =>
+    n.toLocaleString(locale, { style: 'currency', currency: 'CAD', maximumFractionDigits: 0 });
+
+  /** Canadian minimum down payment: 5% to $500k, 10% to $1.5M, 20% above. */
+  const minDown = (price: number): number => {
+    if (price > 1_500_000) return price * 0.2;
+    if (price > 500_000) return 25_000 + (price - 500_000) * 0.1;
+    return price * 0.05;
+  };
+
+  /**
+   * Canadian mortgages compound semi-annually, not monthly — so the periodic
+   * rate is derived from the semi-annual rate, not by dividing by 12.
+   */
+  const periodicRate = (annualPct: number, periodsPerYear: number): number =>
+    Math.pow(1 + annualPct / 100 / 2, 2 / periodsPerYear) - 1;
+
+  const payment = (principal: number, i: number, n: number): number =>
+    i === 0 ? principal / n : (principal * i) / (1 - Math.pow(1 + i, -n));
+
+  let syncing = false;
+  const recalc = (from?: 'pct' | 'amt'): void => {
+    if (syncing) return;
+    syncing = true;
+
+    const price = Math.max(0, Number(priceEl.value) || 0);
+    if (from === 'amt') {
+      const amt = Math.min(price, Math.max(0, Number(downAmtEl.value) || 0));
+      downPctEl.value = price ? String(Math.round((amt / price) * 1000) / 10) : '0';
+    } else {
+      const pct = Math.min(100, Math.max(0, Number(downPctEl.value) || 0));
+      downAmtEl.value = String(Math.round((price * pct) / 100));
+    }
+
+    const down = Math.min(price, Number(downAmtEl.value) || 0);
+    const principal = Math.max(0, price - down);
+    const years = Number(amortEl.value);
+    const perYear = freqEl.value === 'biweekly' ? 26 : 12;
+    const n = years * perYear;
+    const i = periodicRate(Number(rateEl.value) || 0, perYear);
+    const pay = principal > 0 ? payment(principal, i, n) : 0;
+
+    q('[data-calc-payment]').textContent = money(pay);
+    q('[data-calc-loan]').textContent = money(principal);
+    q('[data-calc-interest]').textContent = money(Math.max(0, pay * n - principal));
+
+    // Down payment below the legal minimum, or insurance unavailable
+    const required = minDown(price);
+    const warnings: string[] = [];
+    if (price > 0 && down < required - 1) {
+      warnings.push(`${calc.dataset.minDownLabel ?? ''} ${money(required)}`.trim());
+    }
+    if (price > 1_500_000 && down < price * 0.2 - 1) {
+      warnings.push(calc.dataset.insuranceNote ?? '');
+    }
+    warnEl.textContent = warnings.filter(Boolean).join(' ');
+    warnEl.hidden = warnings.length === 0;
+
+    syncing = false;
+  };
+
+  priceEl.addEventListener('input', () => recalc('pct'));
+  downPctEl.addEventListener('input', () => recalc('pct'));
+  downAmtEl.addEventListener('input', () => recalc('amt'));
+  [rateEl, amortEl, freqEl].forEach((el) => el.addEventListener('input', () => recalc()));
+  recalc('pct');
+}
+
 // ---- forms: not wired to a backend yet ----
 document.querySelectorAll<HTMLFormElement>('[data-inquiry]').forEach((form) => {
   form.addEventListener('submit', (e) => {

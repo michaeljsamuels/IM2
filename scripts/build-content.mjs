@@ -27,6 +27,7 @@ const strings = read('content/strings.json');
 const listings = read('content/listings.json');
 const agents = read('content/agents.json');
 const hoods = read('content/neighbourhoods.json');
+const rates = read('content/rates.json');
 
 // ---- validate ----
 const errors = [];
@@ -50,6 +51,7 @@ for (const l of listings) {
 }
 for (const a of agents)
   if (!existsSync(join(root, 'public', a.photo))) errors.push(`agents: "${a.id}" photo missing: public${a.photo}`);
+if (!(rates.mortgage5yr > 0) || !rates.asOf) errors.push('rates.json: missing or invalid mortgage5yr/asOf');
 for (const [key, entry] of Object.entries(strings))
   for (const loc of LOCALES)
     if (typeof entry[loc] !== 'string') errors.push(`strings: "${key}" missing "${loc}"`);
@@ -71,7 +73,7 @@ function emit(urlPath, html) {
 }
 
 for (const locale of LOCALES) {
-  const ctx = makeCtx({ locale, site, strings, listings, agents, hoods });
+  const ctx = makeCtx({ locale, site, strings, listings, agents, hoods, rates });
   const other = locale === 'en' ? 'fr' : 'en';
   const T = ctx.T;
   const brandTitle = `${site.brand} — ${T('hero.eyebrow')}`;

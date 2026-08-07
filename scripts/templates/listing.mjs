@@ -1,6 +1,7 @@
 import { ROUTES, esc, fmtPrice, fmtMoney, fmtArea, fmtDate } from './helpers.mjs';
 import { icons } from './icons.mjs';
 import { listingCard } from './cards.mjs';
+import { mortgageCalculator } from './calculator.mjs';
 
 /** Property detail page: 1+4 gallery, key facts, tabs, broker card, similar strip. */
 export function listingPage(ctx, listing) {
@@ -112,6 +113,8 @@ export function listingPage(ctx, listing) {
               : ''
           }
         </div>
+
+        ${listing.status === 'for-sale' ? mortgageCalculator(ctx, listing) : ''}
       </div>
 
       <aside class="detail-side">

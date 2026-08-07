@@ -1108,6 +1108,144 @@ body:not(.has-hero) main {
   break-inside: avoid;
 }
 
+/* ---- mortgage calculator ------------------------------------------------- */
+
+.calc {
+  margin-top: 2.5rem;
+  padding: 1.8rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+}
+
+.calc h4 {
+  margin-bottom: 1.4rem;
+}
+
+.calc__fields {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem 1.6rem;
+}
+
+.calc__fields label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.calc__fields input,
+.calc__fields select {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--ink);
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 0.3rem;
+  padding: 0.6rem 0.8rem;
+  width: 100%;
+  min-width: 0;
+}
+
+.calc__pair {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.calc__pair input[data-calc-down-pct] {
+  max-width: 90px;
+}
+
+.calc__unit {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.calc__result {
+  margin-top: 1.6rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--card-border);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.6rem 2.5rem;
+}
+
+.calc__payment {
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.calc__payment-label {
+  margin: 0;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+}
+
+.calc__breakdown {
+  display: flex;
+  gap: 2rem;
+  margin: 0 0 0 auto;
+}
+
+.calc__breakdown div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.calc__breakdown dt {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.calc__breakdown dd {
+  margin: 0;
+  font-weight: 600;
+}
+
+.calc__warn {
+  margin: 1.2rem 0 0;
+  padding: 0.7rem 0.9rem;
+  background: #fff;
+  border-left: 3px solid var(--accent-hero);
+  font-size: 0.85rem;
+}
+
+.calc__note {
+  margin: 1rem 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.calc__note--fine {
+  font-size: 0.72rem;
+}
+
+@media (max-width: 640px) {
+  .calc__fields {
+    grid-template-columns: 1fr;
+  }
+
+  .calc__breakdown {
+    margin: 0.6rem 0 0;
+    gap: 1.5rem;
+  }
+}
+
 /* ---- broker card + forms ------------------------------------------------- */
 
 .broker-card {

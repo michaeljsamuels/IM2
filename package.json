@@ -6,6 +6,7 @@
   "scripts": {
     "content": "node scripts/build-content.mjs",
     "sync": "node scripts/sync-from-luxurymtl.mjs",
+    "rates": "node scripts/fetch-rates.mjs",
     "predev": "npm run content",
     "dev": "vite",
     "prebuild": "npm run content",

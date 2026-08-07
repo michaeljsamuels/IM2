@@ -74,6 +74,35 @@
   "detail.inquire": { "en": "Request a Visit", "fr": "Demander une visite" },
   "detail.similar": { "en": "You May Also Like", "fr": "Vous aimerez aussi" },
   "detail.map": { "en": "Location", "fr": "Emplacement" },
+
+  "calc.heading": { "en": "Mortgage Calculator", "fr": "Calculatrice hypothécaire" },
+  "calc.price": { "en": "Property price", "fr": "Prix de la propriété" },
+  "calc.down": { "en": "Down payment", "fr": "Mise de fonds" },
+  "calc.rate": { "en": "Interest rate (%)", "fr": "Taux d'intérêt (%)" },
+  "calc.amort": { "en": "Amortization", "fr": "Amortissement" },
+  "calc.years": { "en": "years", "fr": "ans" },
+  "calc.frequency": { "en": "Payment frequency", "fr": "Fréquence des paiements" },
+  "calc.monthly": { "en": "Monthly", "fr": "Mensuelle" },
+  "calc.biweekly": { "en": "Bi-weekly", "fr": "Aux deux semaines" },
+  "calc.result": { "en": "Estimated payment", "fr": "Paiement estimé" },
+  "calc.loan": { "en": "Mortgage amount", "fr": "Montant du prêt" },
+  "calc.totalInterest": { "en": "Total interest", "fr": "Intérêts totaux" },
+  "calc.minDown": {
+    "en": "Minimum down payment for this price:",
+    "fr": "Mise de fonds minimale pour ce prix :"
+  },
+  "calc.insuranceNote": {
+    "en": "Below 20% down, mortgage default insurance is required and is not available on properties over $1.5M.",
+    "fr": "Sous 20 % de mise de fonds, une assurance prêt hypothécaire est requise et n'est pas offerte pour les propriétés de plus de 1,5 M$."
+  },
+  "calc.rateNote": {
+    "en": "Default rate: Bank of Canada posted 5-year conventional rate, as of",
+    "fr": "Taux par défaut : taux conventionnel 5 ans affiché par la Banque du Canada, en date du"
+  },
+  "calc.disclaimer": {
+    "en": "Estimate only, for illustration. Assumes semi-annual compounding per Canadian convention. Not a mortgage offer or approval — your actual rate and payment will differ. Speak with your broker or lender.",
+    "fr": "Estimation à titre indicatif seulement. Calcul avec composition semestrielle selon la convention canadienne. Ne constitue ni une offre ni une approbation hypothécaire — votre taux et votre paiement réels différeront. Consultez votre courtier ou prêteur."
+  },
   "listings.view.grid": { "en": "Grid", "fr": "Grille" },
   "listings.view.map": { "en": "Map", "fr": "Carte" },
   "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },

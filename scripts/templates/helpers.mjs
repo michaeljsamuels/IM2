@@ -69,11 +69,11 @@ export function fmtDate(iso, locale) {
 }
 
 /** Build the per-page template context. */
-export function makeCtx({ locale, site, strings, listings, agents, hoods }) {
+export function makeCtx({ locale, site, strings, listings, agents, hoods, rates }) {
   const T = (key) => {
     const entry = strings[key];
     if (!entry) throw new Error(`strings.json: missing key "${key}"`);
     return entry[locale];
   };
-  return { locale, site, strings, listings, agents, hoods, T };
+  return { locale, site, strings, listings, agents, hoods, rates, T };
 }
