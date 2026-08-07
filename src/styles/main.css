@@ -9,9 +9,10 @@
   --ink: #222222;
   --accent: #36080c; /* swap here to re-brand the whole site */
   --accent-dark: #5c1319; /* lighter than --accent: hover must stay visible */
-  /* Over the hero photo --accent is too dark to read; this is the darkest
-     red that still pops against the skyline at the overlay depth below. */
-  --accent-hero: #8c151f;
+  /* Over the hero photo --accent is too dark to read. Two lifted values:
+     display type can stay deep, small UI text needs more to read at size. */
+  --accent-hero: #a21824;
+  --accent-hero-ui: #c21d2b;
   --muted: #777777;
   --faded: #aaaaaa;
   --alt-bg: #f6f6f6;
@@ -273,7 +274,7 @@ body.has-hero:not(.is-scrolled) .menu-toggle span {
 }
 
 body.has-hero:not(.is-scrolled) .lang-switch .is-active {
-  color: var(--accent-hero);
+  color: var(--accent-hero-ui);
 }
 
 body.is-scrolled .site-header {
