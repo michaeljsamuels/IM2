@@ -1,7 +1,7 @@
 {
   "nav.about": { "en": "About", "fr": "À propos" },
-  "nav.sale": { "en": "Properties for Sale", "fr": "Propriétés à vendre" },
-  "nav.rent": { "en": "Properties for Rent", "fr": "Propriétés à louer" },
+  "nav.sale": { "en": "For Sale", "fr": "À vendre" },
+  "nav.rent": { "en": "For Rent", "fr": "À louer" },
   "nav.properties": { "en": "Properties", "fr": "Propriétés" },
   "nav.listWithUs": { "en": "List With Us", "fr": "Inscrivez votre propriété" },
   "nav.team": { "en": "Our Team", "fr": "Notre équipe" },
