@@ -11,7 +11,7 @@
   --accent-dark: #5c1319; /* lighter than --accent: hover must stay visible */
   /* Over the hero photo --accent is too dark to read. Two lifted values:
      display type can stay deep, small UI text needs more to read at size. */
-  --accent-hero: #a21824;
+  --accent-hero: #b81b29;
   --accent-hero-ui: #c21d2b;
   --muted: #777777;
   --faded: #aaaaaa;
@@ -1236,6 +1236,13 @@ body:not(.has-hero) main {
 }
 
 @media (max-width: 640px) {
+  /* Hero type renders much smaller here; thinner strokes carry less colour,
+     so the accent needs lifting again to read as it does on desktop. */
+  :root {
+    --accent-hero: #cd1e2e;
+    --accent-hero-ui: #d82030;
+  }
+
   body {
     font-size: 15px;
     line-height: 1.65;
