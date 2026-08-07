@@ -1,5 +1,113 @@
 [
   {
+    "id": 1577,
+    "centrisId": "9884679",
+    "status": "for-sale",
+    "category": "residential",
+    "featured": false,
+    "type": {
+      "en": "Condo",
+      "fr": "Condo"
+    },
+    "price": 338000,
+    "address": "1155 Rue de la Montagne #909",
+    "postalCode": "H3G 0C7",
+    "city": "Montréal",
+    "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.49700602,
+      "lng": -73.57270041
+    },
+    "neighbourhood": "centre-ville",
+    "beds": 1,
+    "baths": 1,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 45,
+      "unit": "m²"
+    },
+    "yearBuilt": null,
+    "parking": null,
+    "listedDate": null,
+    "agentId": "xinfa-wen",
+    "description": {
+      "en": "The building offers an impressive range of amenities,\nincluding 24-hour security, rooftop tennis courts, an\nindoor swimming pool, a fully equipped gym, meeting rooms,\nand more, providing residents with comfort, convenience,\nand an exceptional lifestyle.",
+      "fr": "The building offers an impressive range of amenities,\nincluding 24-hour security, rooftop tennis courts, an\nindoor swimming pool, a fully equipped gym, meeting rooms,\nand more, providing residents with comfort, convenience,\nand an exceptional lifestyle."
+    },
+    "features": {
+      "en": [
+        "Heating system: Electric baseboard units",
+        "Available services: Exercise room, Sauna",
+        "Easy access: Elevator",
+        "Water supply: Municipality",
+        "Heating energy: Electricity",
+        "Equipment available: Central air conditioning",
+        "Pool: Heated, Indoor",
+        "Proximity: Highway, Cegep, Daycare centre, Hospital, Elementary school, High school, Public transport, University",
+        "Bathroom / Washroom: Adjoining to the master bedroom",
+        "Sewage system: Municipal sewer",
+        "View: Mountain, City",
+        "Zoning: Residential",
+        "Co-ownership fees: $5,580 / year",
+        "Municipal Taxes: $2,405 / year",
+        "School taxes: $285 / year"
+      ],
+      "fr": [
+        "Mode de chauffage: Plinthes électriques",
+        "Services disponibles: Salle d'exercice, Sauna",
+        "Facilité d'accès: Ascenseur",
+        "Approvisionnement en eau: Municipalité",
+        "Énergie pour le chauffage: Électricité",
+        "Équipement disponible: Climatiseur central",
+        "Piscine: Chauffée, Intérieure",
+        "Proximité: Autoroute/Voie rapide, Cegep, Garderie/CPE, Hôpital, École primaire, École secondaire, Transport en commun, Université",
+        "Salle de bains/salle d'eau: Attenante à la chambre principale",
+        "Système d'égouts: Municipal",
+        "Vue: Sur la montagne, Sur la ville",
+        "Zonage: Résidentiel",
+        "Frais de copropriété: $5,580 / année",
+        "Taxes municipales: $2,405 / année",
+        "Taxes scolaires: $285 / année"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 2405,
+      "school": 285
+    },
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488065DDFA3CD0D1B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488069DDFA3CD0D4A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA48806ADDFA3CD0D2E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA48806BDDFA3CD0DCB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA48806CDDFA3CD0DEE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488062DDFA3CD0DAE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA48806FDDFA3CD0D04&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488053DDFA3CD0DB2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488055DDFA3CD0DFE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488056DDFA3CD0D8C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA48806DDDFA3CD0D9C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488061DDFA3CD0D7A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488064DDFA3CD0D3B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488067DDFA3CD0D5A&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BD0DDFA3CD0D6C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488066DDFA3CD01DF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BDDDDFA3CD0110&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BD2DDFA3CD0141&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BDCDDFA3CD0122&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BDADDFA3CD01CA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BD8DDFA3CD01EB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BDEDDFA3CD01A0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488B11DDFA3CD010E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BD5DDFA3CD01BE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488B12DDFA3CD01FF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA488BD1DDFA3CD018C&t=pi&f=I"
+    ]
+  },
+  {
     "id": 1576,
     "centrisId": "11841807",
     "status": "for-sale",
