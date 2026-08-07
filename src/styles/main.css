@@ -730,6 +730,38 @@ body:not(.has-hero) main {
   font-family: var(--font-body);
 }
 
+/* Licence credit for OSM/CARTO is required, so it stays — but rendered as a
+   quiet footnote rather than a banner. */
+.leaflet-control-attribution {
+  background: rgba(255, 255, 255, 0.72) !important;
+  padding: 1px 5px !important;
+  font-size: 9px !important;
+  line-height: 1.5 !important;
+  color: var(--faded) !important;
+  box-shadow: none !important;
+}
+
+.leaflet-control-attribution a {
+  color: var(--muted) !important;
+  text-decoration: none;
+}
+
+.leaflet-control-attribution a:hover {
+  text-decoration: underline;
+}
+
+/* Zoom buttons: match the site's square, minimal chrome */
+.leaflet-touch .leaflet-bar,
+.leaflet-bar {
+  border: 1px solid var(--border) !important;
+  box-shadow: none !important;
+}
+
+.leaflet-bar a {
+  color: var(--ink) !important;
+  border-bottom-color: var(--border) !important;
+}
+
 .view-toggle {
   display: flex;
   align-self: flex-end;

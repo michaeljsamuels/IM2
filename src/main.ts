@@ -128,8 +128,11 @@ if (detailMap || listingsMap) {
     await import('leaflet/dist/leaflet.css');
 
     const TILES = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
+    // OSM (ODbL) and CARTO both require visible credit — kept, but styled
+    // small and muted in CSS. The "Leaflet" prefix is library branding only
+    // and is not required by its BSD licence, so it is switched off.
     const ATTRIB =
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>';
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>';
 
     const pin = (): L.DivIcon =>
       L.divIcon({
@@ -142,7 +145,8 @@ if (detailMap || listingsMap) {
     if (detailMap) {
       const lat = Number(detailMap.dataset.lat);
       const lng = Number(detailMap.dataset.lng);
-      const map = L.map(detailMap, { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 15);
+      const map = L.map(detailMap, { scrollWheelZoom: false }).setView([lat, lng], 15);
+      map.attributionControl.setPrefix('');
       L.tileLayer(TILES, { attribution: ATTRIB, maxZoom: 19 }).addTo(map);
       L.marker([lat, lng], { icon: pin(), title: detailMap.dataset.label }).addTo(map);
     }
@@ -156,6 +160,7 @@ if (detailMap || listingsMap) {
 
       const cards = Array.from(document.querySelectorAll<HTMLElement>('.property-card[data-lat]'));
       const map = L.map(listingsMap, { scrollWheelZoom: false }).setView([45.5019, -73.5674], 12);
+      map.attributionControl.setPrefix('');
       L.tileLayer(TILES, { attribution: ATTRIB, maxZoom: 19 }).addTo(map);
 
       const cluster = L.markerClusterGroup({
