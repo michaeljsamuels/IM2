@@ -7,8 +7,8 @@
 :root {
   --bg: #ffffff;
   --ink: #222222;
-  --accent: #e82127; /* Tesla red — swap here to re-brand the whole site */
-  --accent-dark: #d0181e;
+  --accent: #36080c; /* swap here to re-brand the whole site */
+  --accent-dark: #5c1319; /* lighter than --accent: hover must stay visible */
   --muted: #777777;
   --faded: #aaaaaa;
   --alt-bg: #f6f6f6;
