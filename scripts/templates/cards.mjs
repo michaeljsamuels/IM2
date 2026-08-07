@@ -18,9 +18,15 @@ export function listingCard(ctx, listing) {
     ? agentUrl({ id: listing.agentId }, locale)
     : listingUrl(listing, locale);
 
+  const geo = listing.coords
+    ? ` data-lat="${listing.coords.lat}" data-lng="${listing.coords.lng}"
+     data-label="${esc(listing.address)}" data-sub="${esc(fmtPrice(listing, locale, strings))}"
+     data-thumb="${esc(listing.photos[0] ?? '')}"`
+    : '';
+
   return `
   <a class="property-card" href="${href}"
-     data-price="${listing.price}" data-date="${listing.listedDate ?? ''}" data-hood="${listing.neighbourhood ?? ''}">
+     data-price="${listing.price}" data-date="${listing.listedDate ?? ''}" data-hood="${listing.neighbourhood ?? ''}"${geo}>
     <div class="property-card__media">
       <img src="${listing.photos[0]}" alt="${esc(listing.address)}" loading="lazy" />
       <span class="chip">${esc(listing.type[locale])}</span>

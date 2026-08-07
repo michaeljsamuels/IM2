@@ -73,6 +73,9 @@
   "detail.agent.heading": { "en": "Listing Broker", "fr": "Courtier inscripteur" },
   "detail.inquire": { "en": "Request a Visit", "fr": "Demander une visite" },
   "detail.similar": { "en": "You May Also Like", "fr": "Vous aimerez aussi" },
+  "detail.map": { "en": "Location", "fr": "Emplacement" },
+  "listings.view.grid": { "en": "Grid", "fr": "Grille" },
+  "listings.view.map": { "en": "Map", "fr": "Carte" },
   "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },
 
   "team.title": { "en": "Our Team", "fr": "Notre équipe" },

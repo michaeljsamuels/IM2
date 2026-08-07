@@ -652,6 +652,113 @@ body:not(.has-hero) main {
   color: rgba(255, 255, 255, 0.85);
 }
 
+/* ---- maps --------------------------------------------------------- */
+
+.listing-map {
+  height: 380px;
+  margin: 0 0 2.5rem;
+  border: 1px solid var(--border);
+  background: var(--alt-bg);
+}
+
+.listings-map {
+  height: 620px;
+  margin-bottom: 2rem;
+  border: 1px solid var(--border);
+  background: var(--alt-bg);
+}
+
+.listings-map[hidden] {
+  display: none;
+}
+
+/* Minimal circular pin in the brand accent */
+.map-pin span {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent-hero);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.map-cluster {
+  background: none;
+}
+
+.map-cluster span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--accent-hero);
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+  color: #fff;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.map-popup {
+  display: block;
+  width: 180px;
+  color: var(--ink);
+}
+
+.map-popup img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+
+.map-popup strong {
+  display: block;
+  font-size: 1.05rem;
+}
+
+.map-popup span {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.leaflet-container {
+  font-family: var(--font-body);
+}
+
+.view-toggle {
+  display: flex;
+  align-self: flex-end;
+  border: 1px solid var(--border);
+}
+
+.view-toggle button {
+  background: none;
+  border: none;
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--muted);
+  padding: 0.72rem 1.4rem;
+  cursor: pointer;
+}
+
+.view-toggle button.is-active {
+  background: var(--ink);
+  color: #fff;
+}
+
+@media (max-width: 640px) {
+  .listing-map { height: 260px; }
+  .listings-map { height: 420px; }
+}
+
 /* ---- broker profile --------------------------------------------------------- */
 
 .agent-profile-band {

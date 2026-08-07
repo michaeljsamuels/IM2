@@ -36,7 +36,13 @@ export function listingsPage(ctx, { status, title }) {
           <option value="price-asc">${esc(T('listings.sort.priceAsc'))}</option>
         </select>
       </label>
+      <div class="view-toggle" data-view-toggle>
+        <button class="is-active" data-view="grid">${esc(T('listings.view.grid'))}</button>
+        <button data-view="map">${esc(T('listings.view.map'))}</button>
+      </div>
     </div>
+
+    <div class="listings-map" data-listings-map hidden></div>
     <div class="card-grid" data-listing-grid>
       ${matches.map((l) => listingCard(ctx, l)).join('\n')}
     </div>

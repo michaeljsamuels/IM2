@@ -133,6 +133,9 @@ function parseDetail(html, { id, status, category }) {
   const photos = [...new Set([...html.matchAll(/https:\/\/mediaserver\.centris\.ca\/media\.ashx\?id=[A-F0-9]+(?:&(?:amp;)?t=pi&(?:amp;)?f=I)/g)].map((m) => decode(m[0])))];
 
   const agentEmail = html.match(/name="agent_email"[^>]*value="([^"]+)"/)?.[1] ?? null;
+  // Coordinates ride along in the Walk Score widget URL on the source page.
+  const geo = html.match(/walkscore\.com\/score\/loc\/lat=(-?[\d.]+)\/lng=(-?[\d.]+)/);
+  const coords = geo ? { lat: Number(geo[1]), lng: Number(geo[2]) } : null;
   const hood = HOOD_MAP.find(([needle]) => `${borough} ${locLine}`.toLowerCase().includes(needle.toLowerCase()))?.[1];
 
   return {
@@ -147,6 +150,7 @@ function parseDetail(html, { id, status, category }) {
     postalCode,
     city,
     borough,
+    ...(coords ? { coords } : {}),
     ...(hood ? { neighbourhood: hood } : {}),
     beds: params['bedrooms'] ? Number(params['bedrooms']) : null,
     baths: params['bathrooms'] ? Number(params['bathrooms']) : null,

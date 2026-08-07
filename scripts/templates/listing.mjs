@@ -73,6 +73,18 @@ export function listingPage(ctx, listing) {
 
         <p class="detail-desc">${esc(listing.description[locale])}</p>
 
+        ${
+          listing.coords
+            ? `<div class="listing-map"
+             data-map
+             data-lat="${listing.coords.lat}"
+             data-lng="${listing.coords.lng}"
+             data-label="${esc(listing.address)}"
+             role="img"
+             aria-label="${esc(T('detail.map'))} — ${esc(listing.address)}"></div>`
+            : ''
+        }
+
         <div class="tabs" data-tabs>
           <div class="tabs__bar" role="tablist">
             <button class="is-active" data-tab="details">${esc(T('detail.tab.details'))}</button>

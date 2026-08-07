@@ -116,6 +116,109 @@ if (gallery && lightbox) {
   });
 }
 
+// ---- maps ----
+// Leaflet is only pulled in on pages that actually show a map, so listing
+// index/detail pages stay light for everyone else.
+const detailMap = document.querySelector<HTMLElement>('[data-map]');
+const listingsMap = document.querySelector<HTMLElement>('[data-listings-map]');
+
+if (detailMap || listingsMap) {
+  void (async () => {
+    const L = (await import('leaflet')).default;
+    await import('leaflet/dist/leaflet.css');
+
+    const TILES = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
+    const ATTRIB =
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>';
+
+    const pin = (): L.DivIcon =>
+      L.divIcon({
+        className: 'map-pin',
+        html: '<span></span>',
+        iconSize: [18, 18],
+        iconAnchor: [9, 9],
+      });
+
+    if (detailMap) {
+      const lat = Number(detailMap.dataset.lat);
+      const lng = Number(detailMap.dataset.lng);
+      const map = L.map(detailMap, { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 15);
+      L.tileLayer(TILES, { attribution: ATTRIB, maxZoom: 19 }).addTo(map);
+      L.marker([lat, lng], { icon: pin(), title: detailMap.dataset.label }).addTo(map);
+    }
+
+    if (listingsMap) {
+      // Clustering keeps the dense Montréal core readable when a couple of
+      // Laurentians properties would otherwise force a region-wide zoom.
+      await import('leaflet.markercluster');
+      await import('leaflet.markercluster/dist/MarkerCluster.css');
+      await import('leaflet.markercluster/dist/MarkerCluster.Default.css');
+
+      const cards = Array.from(document.querySelectorAll<HTMLElement>('.property-card[data-lat]'));
+      const map = L.map(listingsMap, { scrollWheelZoom: false }).setView([45.5019, -73.5674], 12);
+      L.tileLayer(TILES, { attribution: ATTRIB, maxZoom: 19 }).addTo(map);
+
+      const cluster = L.markerClusterGroup({
+        showCoverageOnHover: false,
+        maxClusterRadius: 45,
+        iconCreateFunction: (c) =>
+          L.divIcon({
+            className: 'map-cluster',
+            html: `<span>${c.getChildCount()}</span>`,
+            iconSize: [36, 36],
+          }),
+      });
+      map.addLayer(cluster);
+
+      const markers = cards.map((card) => {
+        const m = L.marker([Number(card.dataset.lat), Number(card.dataset.lng)], { icon: pin() });
+        const href = card.getAttribute('href') ?? '#';
+        const thumb = card.dataset.thumb
+          ? `<img src="${card.dataset.thumb}" alt="" loading="lazy" />`
+          : '';
+        m.bindPopup(
+          `<a class="map-popup" href="${href}">${thumb}<strong>${card.dataset.sub ?? ''}</strong><span>${card.dataset.label ?? ''}</span></a>`,
+        );
+        return { card, marker: m };
+      });
+
+      // Keep pins in sync with the grid's filter state, and frame them.
+      const refit = (): void => {
+        const shown = markers.filter(({ card }) => card.style.display !== 'none');
+        cluster.clearLayers();
+        cluster.addLayers(shown.map(({ marker }) => marker));
+        if (shown.length) {
+          map.fitBounds(L.latLngBounds(shown.map(({ marker }) => marker.getLatLng())), {
+            padding: [40, 40],
+            maxZoom: 14,
+          });
+        }
+      };
+      refit();
+      document.querySelectorAll('[data-filter-hood], [data-sort]').forEach((el) =>
+        el.addEventListener('change', () => setTimeout(refit, 0)),
+      );
+
+      // Grid / map view toggle
+      const grid = document.querySelector<HTMLElement>('[data-listing-grid]');
+      document.querySelectorAll<HTMLButtonElement>('[data-view-toggle] button').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const wantMap = btn.dataset.view === 'map';
+          document
+            .querySelectorAll('[data-view-toggle] button')
+            .forEach((b) => b.classList.toggle('is-active', b === btn));
+          listingsMap.hidden = !wantMap;
+          if (grid) grid.hidden = wantMap;
+          if (wantMap) {
+            map.invalidateSize();
+            refit();
+          }
+        });
+      });
+    }
+  })();
+}
+
 // ---- forms: not wired to a backend yet ----
 document.querySelectorAll<HTMLFormElement>('[data-inquiry]').forEach((form) => {
   form.addEventListener('submit', (e) => {

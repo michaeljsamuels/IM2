@@ -14,6 +14,10 @@
     "postalCode": "H8N 3B4",
     "city": "Montréal",
     "borough": "LaSalle",
+    "coords": {
+      "lat": 45.4415175,
+      "lng": -73.61573792
+    },
     "beds": 2,
     "baths": 2,
     "powderRooms": 0,
@@ -120,6 +124,10 @@
     "postalCode": "H2H 2B3",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.490626,
+      "lng": -73.579726
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 2,
@@ -225,6 +233,10 @@
     "postalCode": "H3K 2S5",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.476079,
+      "lng": -73.558363
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 3,
     "baths": 1,
@@ -306,6 +318,10 @@
     "postalCode": "H1N 2T3",
     "city": "Montréal",
     "borough": "Mercier/Hochelaga-Maisonneuve",
+    "coords": {
+      "lat": 45.569968,
+      "lng": -73.526546
+    },
     "beds": 3,
     "baths": 1,
     "powderRooms": 0,
@@ -367,6 +383,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y2M3",
+    "coords": {
+      "lat": 45.479164,
+      "lng": -73.605762
+    },
     "neighbourhood": "westmount",
     "beds": 3,
     "baths": 3,
@@ -444,6 +464,10 @@
     "postalCode": "H2Y 1Z9",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.502333,
+      "lng": -73.555363
+    },
     "neighbourhood": "centre-ville",
     "beds": 2,
     "baths": 2,
@@ -551,6 +575,10 @@
     "postalCode": "H3C 1A1",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.499717,
+      "lng": -73.561625
+    },
     "neighbourhood": "centre-ville",
     "beds": 2,
     "baths": 2,
@@ -703,6 +731,10 @@
     "postalCode": "H2V 4L1",
     "city": "Montréal",
     "borough": "Rosemont/La Petite-Patrie",
+    "coords": {
+      "lat": 45.529217,
+      "lng": -73.614754
+    },
     "beds": 0,
     "baths": 0,
     "powderRooms": 0,
@@ -769,6 +801,10 @@
     "postalCode": "H4C 3A9",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.472575,
+      "lng": -73.586671
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 2,
     "baths": 1,
@@ -834,6 +870,10 @@
     "postalCode": "H2Y 2M5",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.501599,
+      "lng": -73.557453
+    },
     "neighbourhood": "centre-ville",
     "beds": 2,
     "baths": 2,
@@ -910,6 +950,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Z3L5",
+    "coords": {
+      "lat": 45.483732,
+      "lng": -73.591229
+    },
     "neighbourhood": "westmount",
     "beds": 2,
     "baths": 2,
@@ -1003,6 +1047,10 @@
     "postalCode": "H4C 1P5",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.479405,
+      "lng": -73.580993
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 0,
     "baths": 0,
@@ -1081,6 +1129,10 @@
     "postalCode": "H2H 1S9",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.531268,
+      "lng": -73.571722
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 1,
     "baths": 1,
@@ -1150,6 +1202,10 @@
     "postalCode": "H3Z 2X8",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.491093,
+      "lng": -73.58842673
+    },
     "neighbourhood": "centre-ville",
     "beds": 1,
     "baths": 1,
@@ -1273,6 +1329,10 @@
     "postalCode": "H2J 3L8",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.533735,
+      "lng": -73.58721
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 1,
     "baths": 1,
@@ -1340,6 +1400,10 @@
     "postalCode": "H2H 1V4",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.534589,
+      "lng": -73.577619
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 2,
     "baths": 1,
@@ -1424,6 +1488,10 @@
     "postalCode": "H2X 2E1",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.50779,
+      "lng": -73.574213
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 2,
     "baths": 1,
@@ -1535,6 +1603,10 @@
     "postalCode": "H2X 2N6",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.512186,
+      "lng": -73.572028
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 0,
     "baths": 0,
@@ -1634,6 +1706,10 @@
     "postalCode": "H7A 1R8",
     "city": "Laval",
     "borough": "Duvernay",
+    "coords": {
+      "lat": 45.649734,
+      "lng": -73.60542
+    },
     "beds": 4,
     "baths": 2,
     "powderRooms": 0,
@@ -1746,6 +1822,10 @@
     "postalCode": "H3H 1W2",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.49491,
+      "lng": -73.59419
+    },
     "neighbourhood": "centre-ville",
     "beds": 4,
     "baths": 4,
@@ -1841,6 +1921,10 @@
     "postalCode": "H2R 2C3",
     "city": "Montréal",
     "borough": "Villeray/Saint-Michel/Parc-Extension",
+    "coords": {
+      "lat": 45.538688,
+      "lng": -73.617809
+    },
     "beds": 4,
     "baths": 2,
     "powderRooms": 0,
@@ -1904,6 +1988,10 @@
     "postalCode": "H3J 2X4",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.480959,
+      "lng": -73.574781
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 3,
     "baths": 1,
@@ -2002,6 +2090,10 @@
     "postalCode": "H2L 2M1",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.519297,
+      "lng": -73.552166
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 1,
@@ -2061,6 +2153,10 @@
     "postalCode": "H3J 0C3",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.488285,
+      "lng": -73.564866
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 2,
     "baths": 2,
@@ -2179,6 +2275,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y1C2",
+    "coords": {
+      "lat": 45.490029,
+      "lng": -73.605617
+    },
     "neighbourhood": "westmount",
     "beds": 5,
     "baths": 3,
@@ -2272,6 +2372,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Sainte-Adèle, J8B1S3",
+    "coords": {
+      "lat": 45.95395,
+      "lng": -74.13057
+    },
     "beds": 3,
     "baths": 2,
     "powderRooms": 0,
@@ -2388,6 +2492,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Estérel, J0T1E0",
+    "coords": {
+      "lat": 46.038219,
+      "lng": -74.011125
+    },
     "beds": 4,
     "baths": 3,
     "powderRooms": 0,
@@ -2474,6 +2582,10 @@
     "postalCode": "H2R 2A9",
     "city": "Montréal",
     "borough": "Villeray/Saint-Michel/Parc-Extension",
+    "coords": {
+      "lat": 45.537813,
+      "lng": -73.617281
+    },
     "beds": 3,
     "baths": 2,
     "powderRooms": 0,
@@ -2575,6 +2687,10 @@
     "postalCode": "H3Y 3L2",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.491933,
+      "lng": -73.591734
+    },
     "neighbourhood": "centre-ville",
     "beds": 5,
     "baths": 4,
@@ -2682,6 +2798,10 @@
     "postalCode": "H2R 2A9",
     "city": "Montréal",
     "borough": "Villeray/Saint-Michel/Parc-Extension",
+    "coords": {
+      "lat": 45.537813,
+      "lng": -73.617281
+    },
     "beds": 2,
     "baths": 1,
     "powderRooms": 0,
@@ -2763,6 +2883,10 @@
     "postalCode": "H3G 2H4",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.495335,
+      "lng": -73.576416
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 2,
@@ -2826,6 +2950,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y1L7",
+    "coords": {
+      "lat": 45.489963,
+      "lng": -73.615489
+    },
     "neighbourhood": "westmount",
     "beds": 4,
     "baths": 3,
@@ -2951,6 +3079,10 @@
     "postalCode": "H2W 1Y9",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.516949,
+      "lng": -73.579716
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 1,
     "baths": 1,
@@ -3033,6 +3165,10 @@
     "postalCode": "H3X 2K7",
     "city": "Montréal",
     "borough": "Côte-des-Neiges/Notre-Dame-de-Grâce",
+    "coords": {
+      "lat": 45.481578,
+      "lng": -73.627042
+    },
     "neighbourhood": "ndg",
     "beds": 2,
     "baths": 1,
@@ -3136,6 +3272,10 @@
     "postalCode": "H2Y 2M5",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.501599,
+      "lng": -73.557453
+    },
     "neighbourhood": "centre-ville",
     "beds": 2,
     "baths": 2,
@@ -3209,6 +3349,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y1X1",
+    "coords": {
+      "lat": 45.484279,
+      "lng": -73.607384
+    },
     "neighbourhood": "westmount",
     "beds": 5,
     "baths": 3,
@@ -3341,6 +3485,10 @@
     "postalCode": "H4C 1M1",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.47008,
+      "lng": -73.592679
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 2,
     "baths": 1,
@@ -3407,6 +3555,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y1K4",
+    "coords": {
+      "lat": 45.48783,
+      "lng": -73.615011
+    },
     "neighbourhood": "westmount",
     "beds": 4,
     "baths": 3,
@@ -3520,6 +3672,10 @@
     "postalCode": "H2X 2E1",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.50786895,
+      "lng": -73.57423446
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 2,
     "baths": 1,
@@ -3610,6 +3766,10 @@
     "postalCode": "H3H 2B3",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.490626,
+      "lng": -73.579726
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 2,
@@ -3692,6 +3852,10 @@
     "postalCode": "H2V 3M7",
     "city": "Montréal",
     "borough": "Outremont",
+    "coords": {
+      "lat": 45.519407,
+      "lng": -73.610398
+    },
     "neighbourhood": "outremont",
     "beds": 3,
     "baths": 1,
@@ -3761,6 +3925,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Z2S5",
+    "coords": {
+      "lat": 45.487293,
+      "lng": -73.587829
+    },
     "neighbourhood": "westmount",
     "beds": 2,
     "baths": 2,
@@ -3850,6 +4018,10 @@
     "postalCode": "H4B 2Z1",
     "city": "Montréal",
     "borough": "Côte-des-Neiges/Notre-Dame-de-Grâce",
+    "coords": {
+      "lat": 45.462812,
+      "lng": -73.62499
+    },
     "neighbourhood": "ndg",
     "beds": 3,
     "baths": 1,
@@ -3947,6 +4119,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y2S8",
+    "coords": {
+      "lat": 45.484235,
+      "lng": -73.613336
+    },
     "neighbourhood": "westmount",
     "beds": 5,
     "baths": 3,
@@ -4073,6 +4249,10 @@
     "postalCode": "H3G 0H6",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.494053,
+      "lng": -73.574333
+    },
     "neighbourhood": "centre-ville",
     "beds": 0,
     "baths": 1,
@@ -4170,6 +4350,10 @@
     "postalCode": "H2L 4H1",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.521497,
+      "lng": -73.574787
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 2,
     "baths": 1,
@@ -4269,6 +4453,10 @@
     "postalCode": "H3B 3A7",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.502543,
+      "lng": -73.567684
+    },
     "neighbourhood": "centre-ville",
     "beds": 2,
     "baths": 2,
@@ -4355,6 +4543,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Côte-Saint-Luc, H4W3K6",
+    "coords": {
+      "lat": 45.479271,
+      "lng": -73.66342
+    },
     "beds": 2,
     "baths": 2,
     "powderRooms": 0,
@@ -4487,6 +4679,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Hampstead, H3X0A8",
+    "coords": {
+      "lat": 45.48352766,
+      "lng": -73.63972041
+    },
     "beds": 5,
     "baths": 4,
     "powderRooms": 0,
@@ -4597,6 +4793,10 @@
     "postalCode": "H2Y 1Z9",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.502333,
+      "lng": -73.555363
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 3,
@@ -4709,6 +4909,10 @@
     "postalCode": "H2Y 1Z9",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.502333,
+      "lng": -73.555363
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 2,
@@ -4824,6 +5028,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Westmount, H3Y1P1",
+    "coords": {
+      "lat": 45.491885,
+      "lng": -73.612649
+    },
     "neighbourhood": "westmount",
     "beds": 5,
     "baths": 3,
@@ -4944,6 +5152,10 @@
     "postalCode": "H2Y 1M9",
     "city": "Montréal",
     "borough": "Ville-Marie",
+    "coords": {
+      "lat": 45.50283341,
+      "lng": -73.55927684
+    },
     "neighbourhood": "centre-ville",
     "beds": 3,
     "baths": 2,
@@ -5061,6 +5273,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Saint-Jérôme, J7Y4V5",
+    "coords": {
+      "lat": 45.77124,
+      "lng": -74.01978
+    },
     "beds": 0,
     "baths": 0,
     "powderRooms": 0,
@@ -5141,6 +5357,10 @@
     "postalCode": "H2V 4K2",
     "city": "Montréal",
     "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.521058,
+      "lng": -73.596533
+    },
     "neighbourhood": "plateau-mont-royal",
     "beds": 3,
     "baths": 1,
@@ -5239,6 +5459,10 @@
     "postalCode": "H3K 3G9",
     "city": "Montréal",
     "borough": "Le Sud-Ouest",
+    "coords": {
+      "lat": 45.486174,
+      "lng": -73.562193
+    },
     "neighbourhood": "le-sud-ouest",
     "beds": 1,
     "baths": 1,
@@ -5346,6 +5570,10 @@
     "postalCode": "H1W 1N2",
     "city": "Montréal",
     "borough": "Mercier/Hochelaga-Maisonneuve",
+    "coords": {
+      "lat": 45.549242,
+      "lng": -73.546628
+    },
     "beds": 1,
     "baths": 1,
     "powderRooms": 0,
@@ -5447,6 +5675,10 @@
     "postalCode": "H2S 3G6",
     "city": "Montréal",
     "borough": "Rosemont/La Petite-Patrie",
+    "coords": {
+      "lat": 45.530336,
+      "lng": -73.611817
+    },
     "beds": 0,
     "baths": 0,
     "powderRooms": 0,
@@ -5599,6 +5831,10 @@
     "postalCode": "H8S 3N3",
     "city": "Montréal",
     "borough": "Lachine",
+    "coords": {
+      "lat": 45.44125511,
+      "lng": -73.67817034
+    },
     "beds": 1,
     "baths": 1,
     "powderRooms": 0,
@@ -5708,6 +5944,10 @@
     "postalCode": "H3N 1Y5",
     "city": "Montréal",
     "borough": "Villeray/Saint-Michel/Parc-Extension",
+    "coords": {
+      "lat": 45.528378,
+      "lng": -73.617637
+    },
     "beds": 0,
     "baths": 0,
     "powderRooms": 0,
@@ -5764,6 +6004,10 @@
     "postalCode": "H3N 1Y5",
     "city": "Montréal",
     "borough": "Villeray/Saint-Michel/Parc-Extension",
+    "coords": {
+      "lat": 45.528378,
+      "lng": -73.617637
+    },
     "beds": 0,
     "baths": 0,
     "powderRooms": 0,
@@ -5820,6 +6064,10 @@
     "postalCode": "",
     "city": "Montréal",
     "borough": "Estérel, J0T1L0",
+    "coords": {
+      "lat": 46.038219,
+      "lng": -74.011125
+    },
     "beds": 4,
     "baths": 3,
     "powderRooms": 0,
@@ -5935,6 +6183,10 @@
     "postalCode": "H3X 2K7",
     "city": "Montréal",
     "borough": "Côte-des-Neiges/Notre-Dame-de-Grâce",
+    "coords": {
+      "lat": 45.481515,
+      "lng": -73.626685
+    },
     "neighbourhood": "ndg",
     "beds": 4,
     "baths": 2,
