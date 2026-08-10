@@ -1,5 +1,81 @@
 [
   {
+    "id": 1578,
+    "centrisId": "9356297",
+    "status": "for-rent",
+    "category": "residential",
+    "featured": false,
+    "type": {
+      "en": "Condo",
+      "fr": "Condo"
+    },
+    "price": 4000,
+    "address": "2010 Rue St-Hubert",
+    "postalCode": "H2L 3Z5",
+    "city": "Montréal",
+    "borough": "Le Plateau-Mont-Royal",
+    "coords": {
+      "lat": 45.517935,
+      "lng": -73.56472
+    },
+    "neighbourhood": "plateau-mont-royal",
+    "beds": 4,
+    "baths": 2,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 1400,
+      "unit": "ft²"
+    },
+    "yearBuilt": null,
+    "parking": null,
+    "listedDate": null,
+    "agentId": "william-gallo",
+    "description": {
+      "en": "Located at 2010 Rue St-Hubert, this beautiful four-bedroom,\ntwo-bathroom apartment offers spacious living in a charming\ngrey stone building in the heart of Montreal. The apartment\nfeatures four well-sized bedrooms, two full bathrooms, and\na comfortable living space, making it an excellent option\nfor families, roommates, or professionals looking for\nplenty of space. All appliances and utilities are included\nfor added convenience. Enjoy access to outdoor space,\nperfect for relaxing or enjoying the warmer months. Ideally\nlocated within walking distance of the metro, Parc La\nFontaine, and an abundance of excellent restaurants, cafés,\nand local shops, this apartment offers the perfect\ncombination of comfort, convenience, and city living.\n\nFeatures:\n4 bedrooms\n2 bathrooms\nBeautiful grey stone building\nAll appliances included\nUtilities included\nOutdoor space\nWalking distance to metro\nClose to Parc La Fontaine\nSurrounded by restaurants, cafés, and shops",
+      "fr": "Located at 2010 Rue St-Hubert, this beautiful four-bedroom,\ntwo-bathroom apartment offers spacious living in a charming\ngrey stone building in the heart of Montreal. The apartment\nfeatures four well-sized bedrooms, two full bathrooms, and\na comfortable living space, making it an excellent option\nfor families, roommates, or professionals looking for\nplenty of space. All appliances and utilities are included\nfor added convenience. Enjoy access to outdoor space,\nperfect for relaxing or enjoying the warmer months. Ideally\nlocated within walking distance of the metro, Parc La\nFontaine, and an abundance of excellent restaurants, cafés,\nand local shops, this apartment offers the perfect\ncombination of comfort, convenience, and city living.\n\nFeatures:\n4 bedrooms\n2 bathrooms\nBeautiful grey stone building\nAll appliances included\nUtilities included\nOutdoor space\nWalking distance to metro\nClose to Parc La Fontaine\nSurrounded by restaurants, cafés, and shops"
+    },
+    "features": {
+      "en": [
+        "Zoning: Residential"
+      ],
+      "fr": [
+        "Zonage: Résidentiel"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": null,
+    "inclusions": null,
+    "exclusions": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C55DDB57CDFD1E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C59DDB57CDFD42&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C58DDB57CDFD22&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C56DDB57CDFDCF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C57DDB57CDFDE0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C5FDDB57CDFDAB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494E18DDB57CDFD0B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494E4EDDB57CDFDBB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494E1ADDB57CDFDFF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494E14DDB57CDFD82&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494ED8DDB57CDFD9B&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494ED6DDB57CDFD7C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C6DDDB57CDFD3C&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C63DDB57CDFD5E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C6CDDB57CDFD6D&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C6ADDB57CDF1D1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C60DDB57CDF112&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C64DDB57CDF14F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C61DDB57CDF12F&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C6BDDB57CDF1C0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C68DDB57CDF1E0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C66DDB57CDF1A2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494EDCDDB57CDF10E&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C6EDDB57CDF1BB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDA494C5BDDB57CDF1F1&t=pi&f=I"
+    ]
+  },
+  {
     "id": 1577,
     "centrisId": "9884679",
     "status": "for-sale",
@@ -3259,113 +3335,6 @@
     ]
   },
   {
-    "id": 1518,
-    "centrisId": "14064857",
-    "status": "for-sale",
-    "category": "residential",
-    "featured": false,
-    "type": {
-      "en": "Duplex",
-      "fr": "Duplex"
-    },
-    "price": 715000,
-    "address": "4761 Av. Coolbrook",
-    "postalCode": "H3X 2K7",
-    "city": "Montréal",
-    "borough": "Côte-des-Neiges/Notre-Dame-de-Grâce",
-    "coords": {
-      "lat": 45.481578,
-      "lng": -73.627042
-    },
-    "neighbourhood": "ndg",
-    "beds": 2,
-    "baths": 1,
-    "powderRooms": 0,
-    "livingArea": {
-      "value": 2228,
-      "unit": "ft²"
-    },
-    "yearBuilt": null,
-    "parking": {
-      "en": "Garage",
-      "fr": "Garage"
-    },
-    "listedDate": null,
-    "agentId": "maximilian-cronin",
-    "description": {
-      "en": "Beautiful corner duplex with enormous backyard and detached\ngarage spot included.\n\n- Recently replaced windows, doors, balconies, staircases.\n- Tremendous curb appeal.\n- Very bright.\n- Close to public transportation, highway access, grocery,\npharmacy.\n\nBoth units are currently rented:\nUpper unit: 4 1/2 renovated kitchen and bathroom, potlights\nthroughout, front and rear balconies. Currently rented\n$1,750 / Month.\n\nLower unit: 4 1/2 original bathroom and kitchen, recent\nappliances, hardwood floors, breakfast nook. Very large\nbackyard. Rented at $923 / Month.\n\nAccording to evalweb, each unit is approximately 1,150\nsquare feet.\n\nThe basement is currently used as storage, but could be\nfinished and combined with lower unit, or, potential to\nconvert to triplex by adding basement unit.\n\nVery good investment, tremendous potential as a revenue\nproperty or for owner occupancy.\n\nPlease note that the duplexes are privately owned, however\nthe courtyard and common land is managed by the six owners\nin a co-ownership for which each owner contributes:\ninsurance, landscaping / snow removal / maintenance /\nadministration- Total: $207 / month.",
-      "fr": "Beautiful corner duplex with enormous backyard and detached\ngarage spot included.\n\n- Recently replaced windows, doors, balconies, staircases.\n- Tremendous curb appeal.\n- Very bright.\n- Close to public transportation, highway access, grocery,\npharmacy.\n\nBoth units are currently rented:\nUpper unit: 4 1/2 renovated kitchen and bathroom, potlights\nthroughout, front and rear balconies. Currently rented\n$1,750 / Month.\n\nLower unit: 4 1/2 original bathroom and kitchen, recent\nappliances, hardwood floors, breakfast nook. Very large\nbackyard. Rented at $923 / Month.\n\nAccording to evalweb, each unit is approximately 1,150\nsquare feet.\n\nThe basement is currently used as storage, but could be\nfinished and combined with lower unit, or, potential to\nconvert to triplex by adding basement unit.\n\nVery good investment, tremendous potential as a revenue\nproperty or for owner occupancy.\n\nPlease note that the duplexes are privately owned, however\nthe courtyard and common land is managed by the six owners\nin a co-ownership for which each owner contributes:\ninsurance, landscaping / snow removal / maintenance /\nadministration- Total: $207 / month."
-    },
-    "features": {
-      "en": [
-        "Heating system: Electric baseboard units",
-        "Water supply: Municipality",
-        "Heating energy: Electricity",
-        "Garage: Detached, Single width",
-        "Proximity: Highway, Cegep, Daycare centre, Golf, Hospital, Park - green area, Bicycle path, Elementary school, High school, Cross-country skiing, Public transport, University",
-        "Basement: 6 feet and over, Unfinished",
-        "Parking: Garage",
-        "Sewage system: Municipal sewer",
-        "Landscaping: Fenced",
-        "Window type: Hung",
-        "Zoning: Residential",
-        "Common expenses/Rental: $2,484 / year",
-        "Municipal Taxes: $4,691 / year",
-        "School taxes: $1,000 / year"
-      ],
-      "fr": [
-        "Mode de chauffage: Plinthes électriques",
-        "Approvisionnement en eau: Municipalité",
-        "Énergie pour le chauffage: Électricité",
-        "Garage: Détaché, Simple largeur",
-        "Proximité: Autoroute/Voie rapide, Cegep, Garderie/CPE, Golf, Hôpital, Parc-espace vert, Piste cyclable, École primaire, École secondaire, Ski de fond, Transport en commun, Université",
-        "Sous-sol: 6 pieds et plus, Non aménagé",
-        "Stationnement: Au garage",
-        "Système d'égouts: Municipal",
-        "Aménagement du terrain: Clôturé",
-        "Type de fenêtre: Guillotine",
-        "Zonage: Résidentiel",
-        "Frais commun/Loyer de base: $2,484 / année",
-        "Taxes municipales: $4,691 / année",
-        "Taxes scolaires: $1,000 / année"
-      ]
-    },
-    "rooms": [],
-    "condoFees": null,
-    "taxes": {
-      "municipal": 4691,
-      "school": 1000
-    },
-    "inclusions": null,
-    "exclusions": null,
-    "photos": [
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609519DD3AF73FD1E&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609517DD3AF73FD40&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609513DD3AF73FD2F&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609515DD3AF73FDC1&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609516DD3AF73FDE2&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60954DDD3AF73FDA2&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609544DD3AF73FD0A&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609542DD3AF73FDBB&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60954CDD3AF73FDFD&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60954EDD3AF73FD8F&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60954ADD3AF73FD91&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609540DD3AF73FD72&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60954BDD3AF73FD3E&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60954FDD3AF73FD50&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609548DD3AF73FD6A&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609547DD3AF73F1D0&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609543DD3AF73F11F&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609545DD3AF73F141&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609546DD3AF73F122&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60952DDD3AF73F1C2&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609521DD3AF73F1EE&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE609522DD3AF73F1AB&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60952CDD3AF73F10D&t=pi&f=I",
-      "https://mediaserver.centris.ca/media.ashx?id=ADDC05EDE60952EDD3AF73F1B4&t=pi&f=I"
-    ]
-  },
-  {
     "id": 1515,
     "centrisId": "18549142",
     "status": "for-rent",
@@ -4420,7 +4389,7 @@
       "en": "Condo",
       "fr": "Condo"
     },
-    "price": 2750,
+    "price": 2650,
     "address": "1188 Av. Union #2204",
     "postalCode": "H3B 3A7",
     "city": "Montréal",
