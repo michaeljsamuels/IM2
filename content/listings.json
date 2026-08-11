@@ -22,7 +22,10 @@
     "beds": 4,
     "baths": 2,
     "powderRooms": 0,
-    "livingArea": null,
+    "livingArea": {
+      "value": 1400,
+      "unit": "ft²"
+    },
     "yearBuilt": null,
     "parking": null,
     "listedDate": null,
