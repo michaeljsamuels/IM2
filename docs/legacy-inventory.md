@@ -195,6 +195,59 @@ here suggests a pipe was cut.
 human cadence), whether `Centris*` lookup tables were populated once or
 refreshed, and who holds `/admin` logins (`users` table, `/admin/users/*`).
 
+### Corrected workflow model (2026-08-12, per client)
+
+The brokerage's real workflow is **Centris Broker Loading**: the broker creates
+the listing in Centris's own broker platform — ~10 pages of data plus photo and
+contract uploads. **Centris is the source of truth and that does not change.**
+
+The legacy website was therefore never an integration; it was a **manual
+double-entry bridge**. Someone re-typed each listing into the site's 121-field
+admin form after the broker had already entered it in Centris.
+
+Verified mechanics of that bridge:
+- `resources/views/admin/listings-edit.blade.php` (44 KB) is the hand-entry form;
+  `/admin/upload` is an **iframe file-uploader** writing to `/images/uploads/`
+- Photo `src` values are echoed raw from the DB, so the pictures column holds
+  *either* local upload paths *or* full `mediaserver.centris.ca` URLs
+- The Centris URLs in the DB were therefore populated from outside this
+  codebase (no server-side fetcher exists) — most plausibly by the agency
+  using their own local tooling
+- Latitude/longitude has a "Fetch" button (geocoding), which is where the
+  coordinates we harvested come from
+- `ListingHelper::format_number()` divides by 1000 and appends "k" without
+  rounding — the source of the site's "1.228k ft²" values
+
+**Open question, highest operational priority: WHO performs the double entry?**
+Evidence points to MEG Interactive / Brahm (he fixed listings #1553 and #1569
+immediately before handover, and `admin/users-*.blade.php` was modified at
+17:25 that day). If it is the agency we are replacing, then **listing updates
+stop when that relationship ends**, the legacy site goes stale, and our scraper
+silently inherits the staleness. Must be confirmed with the client.
+
+### Assumption corrections
+
+| Earlier assumption | Reality |
+|---|---|
+| Site auto-updates from Centris when an agent gets a listing | False. A human re-types it. The site only *looks* Centris-connected |
+| We must replicate an upstream integration | There is nothing to replicate. The Passerelle feed is a **new capability**, not a reconstruction |
+| A broker admin panel recreates their workflow | No — it would add a **third** place to type the same data. Brokers already do full entry in Centris |
+| Recreating parity means rebuilding the 121-field form | No. That form is an artifact of the double-entry hack, not of the brokerage's workflow |
+
+**Therefore the Passerelle feed is the critical path**, and it is the only thing
+that "intercepts the workflow seamlessly": broker fills Centris → feed → our
+site. No double entry, no transcription lag, no manual photo wrangling.
+
+**Privacy constraint:** Broker Loading includes **contract uploads**. Feed
+mapping must whitelist public fields explicitly; never publish the feed
+wholesale.
+
+### Residual scope for a thin admin (NOT listing data entry)
+Things the Centris feed cannot supply, which still need an editor eventually:
+featured/homepage selection, exclusive & off-market listings not on Centris,
+agent bios and portraits, testimonials, marketing copy overrides, and
+curation of the sold/rented archives.
+
 ### Cron / scheduling
 - **Only one cron job exists**, running every minute:
   `/usr/local/bin/ea-php83 /home/immeublesmontria/public_html/artisan schedule:run >> /dev/null 2>&1`
