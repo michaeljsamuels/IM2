@@ -147,7 +147,55 @@ _(fill in as captured)_
 - Other top-level dirs of interest: `public_ftp/`, `mail/`, `logs/`, `ssl/`,
   `.ssh/` (mtime 2026-08-10, same as `public_html` — likely the handover)
 
-### Centris connection
+### ⚠️ HEADLINE FINDING: there is no automated Centris integration (2026-08-12)
+
+The legacy site does **not** pull from Centris. It never did. Listings are
+typed in by hand through a Laravel admin panel. Evidence:
+
+| Evidence | Detail |
+|---|---|
+| No credentials | `.env` has **zero** Centris/FTP/Passerelle keys — only DB, mail, and unused AWS/Pusher/Redis placeholders |
+| No FTP disk | `league/flysystem-ftp` is in `composer.json` but `config/filesystems.php` defines only `local` and `public` |
+| Empty scheduler | `Kernel::schedule()` is empty (stock Laravel 10 skeleton). `app/Console/Commands/` does not exist |
+| No import command | `routes/console.php` contains only two *newsletter email* prototypes (`OptNewListings`, `OptNewListings2`) that mail to the dev agency |
+| Full manual CRUD | `/admin/listings/{index,edit,request,delete}` → `ListingController::adminRequest` reads **121 form fields** via `$request->input()`, with cascading region → municipality → neighbourhood dropdowns. New listings start at `mls = 0`; the broker types the MLS number |
+| Human-paced edits | Our scrape diff caught a listing's `livingArea` going `null` → `1400 ft²` on 2026-08-11 01:43 — someone filling in a blank field |
+| Sequential IDs | Internal listing IDs run ~138→1575 over years, consistent with hand creation, not feed keys |
+
+**The `Centris*` models are taxonomy, not feed data.** `CentrisQuartier`,
+`CentrisNeighbourhood`, `CentrisGenrePropriete`, `CentrisTypeCaracteristique`,
+`CentrisSousTypeCaracteristique`, `CentrisValeursFixes`, `Municipality`,
+`Region` are lookup tables that make the admin form's dropdowns mirror Centris
+vocabulary. Photos are hotlinked to `mediaserver.centris.ca` because a human
+pastes those URLs in.
+
+**No sabotage by the previous developer.** The empty `schedule()` plus
+`$this->load(__DIR__.'/Commands')` is verbatim Laravel 10's default skeleton
+(a missing `Commands` dir is handled gracefully), and a per-minute
+`schedule:run` cron is boilerplate. The Aug 10 16:34 mtimes on `.env`,
+`config/`, `routes/`, `Kernel.php` look like routine handover prep, not
+removal. Worth a diff against `.env.example` for completeness, but nothing
+here suggests a pipe was cut.
+
+**Consequences for the migration:**
+1. There is **nothing upstream to replicate**. The premise that the site
+   "auto-updates from Centris" does not hold — it is a people process.
+2. Our scraper is reading **hand-entered data**, which explains the quality
+   quirks we already hit (mixed ft²/m², null areas, untranslated FR text, and
+   probably the two 500-erroring listings).
+3. The new site cannot retire the legacy one until it offers **either** a
+   broker-facing admin for listing entry (like-for-like) **or** the real
+   Passerelle Centris feed (a genuine upgrade that removes 121-field manual
+   entry). The Passerelle plan is now clearly the right ambition rather than a
+   reconstruction job.
+4. The true dependency on the legacy system is **brokers' daily admin usage**,
+   not a technical integration. Retiring it changes their workflow.
+
+**Still to verify in the DB:** `listings.updated_at` distribution (confirm
+human cadence), whether `Centris*` lookup tables were populated once or
+refreshed, and who holds `/admin` logins (`users` table, `/admin/users/*`).
+
+### Cron / scheduling
 - **Only one cron job exists**, running every minute:
   `/usr/local/bin/ea-php83 /home/immeublesmontria/public_html/artisan schedule:run >> /dev/null 2>&1`
 - This is the generic **Laravel scheduler** entry, not the import itself. The
