@@ -134,8 +134,29 @@ _(fill in as captured)_
 - Previous webmaster: Brahm Morganstein (credentials handed over; no further
   support expected)
 
+### Hosting details confirmed (2026-08-12)
+- cPanel 134.0.49; PHP **8.3** via `/usr/local/bin/ea-php83`
+- Laravel app root is **`/home/immeublesmontria/public_html`** — the app lives
+  *directly in the webroot* (non-standard; only `public/` should be exposed).
+  Verified NOT publicly readable: `/.env`, `/artisan`, `/composer.json`,
+  `/storage/logs/laravel.log`, `/app/Console/Kernel.php`, `/.git/config` all
+  return Laravel's own 404 page, so requests are routed through the framework
+  rather than served from disk. **Fragile, not broken:** a single `.htaccess`
+  regression would expose `.env` and every credential in it. Argues for the
+  migration; do not "tidy" it on the live host.
+- Other top-level dirs of interest: `public_ftp/`, `mail/`, `logs/`, `ssl/`,
+  `.ssh/` (mtime 2026-08-10, same as `public_html` — likely the handover)
+
 ### Centris connection
-- _unknown — primary objective_
+- **Only one cron job exists**, running every minute:
+  `/usr/local/bin/ea-php83 /home/immeublesmontria/public_html/artisan schedule:run >> /dev/null 2>&1`
+- This is the generic **Laravel scheduler** entry, not the import itself. The
+  real schedule (what runs, how often) is defined in code — `app/Console/Kernel.php`
+  (or `routes/console.php`) — with the work in `app/Console/Commands/`.
+  **Next target.**
+- Output is discarded to `/dev/null`, so failures have been silent for years.
+  This is very likely why nobody noticed listings #1553/#1569 breaking.
+- Credentials expected in `public_html/.env`.
 
 ### Database
 - _unknown_
