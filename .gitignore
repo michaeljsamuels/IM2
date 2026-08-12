@@ -26,3 +26,9 @@ aws-exports.js
 /index.html
 /en/
 /fr/
+
+# Legacy migration artifacts — contain production secrets, never commit
+/legacy/
+*.sql
+*.sql.gz
+*.tar.gz
