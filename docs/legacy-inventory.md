@@ -195,7 +195,51 @@ here suggests a pipe was cut.
 human cadence), whether `Centris*` lookup tables were populated once or
 refreshed, and who holds `/admin` logins (`users` table, `/admin/users/*`).
 
-### Corrected workflow model (2026-08-12, per client)
+### ⚠️ CORRECTION — the Centris importer EXISTS, but not in the assets we received (2026-08-12)
+
+An earlier note in this file concluded "there is no automated Centris
+integration." **That was wrong in an important way.** There is no integration
+*in the cPanel account we were given*. But something is writing listings into
+the database from outside the web application.
+
+Access-log forensics (Jul + Aug 2026 SSL logs, ~750k requests):
+
+| Evidence | Finding |
+|---|---|
+| New listing IDs first requested | 1575 → **Aug 4**, 1576 → **Aug 6**, 1577 → **Aug 7**, 1578 → Aug 10 |
+| `POST /admin/listings/request` in all of August | **11 requests, all on Aug 10, 20:27–21:18, from one IP**, after a login at 20:16 — Brahm fixing #1553/#1569 on handover day |
+| `POST /admin/listings/request` in all of July | **zero**. Also zero admin POSTs and zero logins all month |
+| July's 1,746 `GET /admin` hits | Bot noise: 247 distinct IPs, 1,169 × 404 + 432 × 401 |
+
+So listings 1575–1577 appeared **days before anyone touched the admin**. They
+were not typed in. Combined with: no import code in the app, no Centris
+credentials in `.env`, empty scheduler, only a `schedule:run` cron, MySQL
+`DB_HOST=localhost` with port 3306 firewalled externally, and no shell history
+of manual runs — the importer must run **on the server but outside this
+account**, most plausibly under another cPanel account owned by the agency
+(port 2087/WHM is open, consistent with MEG being the reseller), or as a
+server-level task.
+
+**Consequences:**
+1. The brokerage **does** have a working Centris pipeline. It is an asset we did
+   **not** receive and cannot read from this account.
+2. It will very likely **stop** when MEG's involvement ends — silently. Our
+   scraper would keep succeeding while serving frozen data.
+3. Any Passerelle/data-transfer agreement is probably registered with **MEG as
+   recipient**, not the brokerage directly. That is the thing to reclaim.
+
+**Highest-value action: one targeted question to Brahm.** Not a general
+handover request — a single specific question we can now ask precisely:
+*"Where does the Centris import run? New listings appear in the database with no
+admin activity, and there's no import code or cron in the account you gave us.
+Is it a script under another account, or a server-level job? And is there a
+Centris Passerelle data-transfer agreement — who is the registered recipient?"*
+
+**Mitigation shipped:** the sync workflow now fails loudly if the legacy
+listing set stops changing (see `.github/workflows/sync-listings.yml`), so a
+silent upstream death cannot masquerade as a healthy site.
+
+### Workflow model (2026-08-12, per client)
 
 The brokerage's real workflow is **Centris Broker Loading**: the broker creates
 the listing in Centris's own broker platform — ~10 pages of data plus photo and

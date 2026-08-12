@@ -33,6 +33,23 @@ jobs:
         run: |
           npm ci
           npm run content
+      - name: Staleness guard
+        # The upstream Centris importer runs on infrastructure we do not
+        # control (see docs/legacy-inventory.md). If it dies, the legacy site
+        # freezes and this scraper would keep "succeeding" on stale data.
+        # Fail loudly if the listing set has not changed in STALE_DAYS.
+        env:
+          STALE_DAYS: 10
+        run: |
+          last=$(git log -1 --format=%ct -- content/listings.json)
+          age=$(( ( $(date +%s) - last ) / 86400 ))
+          echo "content/listings.json last changed ${age} day(s) ago"
+          if [ "$age" -gt "$STALE_DAYS" ]; then
+            echo "::error::Legacy listings unchanged for ${age} days (> ${STALE_DAYS})."
+            echo "::error::The upstream Centris importer may have stopped. Verify luxurymtl.com before trusting this site's data."
+            exit 1
+          fi
+
       - name: Commit & push if changed
         run: |
           if git diff --quiet content/listings.json content/rates.json; then
