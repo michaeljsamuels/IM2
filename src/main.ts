@@ -39,6 +39,9 @@ if (grid) {
   const emptyNote = document.querySelector<HTMLElement>('[data-empty-note]');
   const cards = Array.from(grid.querySelectorAll<HTMLElement>('.property-card'));
 
+  const assetTabs = document.querySelector<HTMLElement>('[data-asset-tabs]');
+  let assetFilter = '';
+
   const apply = (): void => {
     const hood = hoodSelect?.value ?? '';
     const sort = sortSelect?.value ?? 'recent';
@@ -53,7 +56,9 @@ if (grid) {
 
     let visible = 0;
     for (const card of sorted) {
-      const show = !hood || card.dataset.hood === hood;
+      const show =
+        (!hood || card.dataset.hood === hood) &&
+        (!assetFilter || card.dataset.asset === assetFilter);
       card.style.display = show ? '' : 'none';
       if (show) visible++;
       grid.appendChild(card);
@@ -63,6 +68,15 @@ if (grid) {
 
   hoodSelect?.addEventListener('change', apply);
   sortSelect?.addEventListener('change', apply);
+
+  assetTabs?.querySelectorAll<HTMLButtonElement>('button').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      assetFilter = btn.dataset.asset ?? '';
+      assetTabs.querySelectorAll('button').forEach((b) => b.classList.toggle('is-active', b === btn));
+      apply();
+    });
+  });
+
   apply();
 }
 

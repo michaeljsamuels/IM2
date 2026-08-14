@@ -17,9 +17,10 @@
     "linkedin": "https://ca.linkedin.com/company/immeubles-montria"
   },
   "oaciq": {
+    "licence": "G4779",
     "notice": {
-      "en": "Immeubles Montria — Real estate agency. TODO: confirm OACIQ licence number.",
-      "fr": "Immeubles Montria — Agence immobilière. TODO : confirmer le numéro de permis OACIQ."
+      "en": "Immeubles Montria — Real estate agency. OACIQ licence no. G4779.",
+      "fr": "Immeubles Montria — Agence immobilière. Permis OACIQ n° G4779."
     }
   }
 }

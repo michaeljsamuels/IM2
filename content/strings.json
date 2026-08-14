@@ -3,6 +3,10 @@
   "nav.sale": { "en": "For Sale", "fr": "À vendre" },
   "nav.rent": { "en": "For Rent", "fr": "À louer" },
   "nav.properties": { "en": "Properties", "fr": "Propriétés" },
+  "nav.commercial": { "en": "Commercial", "fr": "Commercial" },
+  "nav.commercialSale": { "en": "For Sale", "fr": "À vendre" },
+  "nav.commercialRent": { "en": "For Rent", "fr": "À louer" },
+  "nav.sold": { "en": "Sold", "fr": "Vendues" },
   "nav.listWithUs": { "en": "List With Us", "fr": "Inscrivez votre propriété" },
   "nav.team": { "en": "Our Team", "fr": "Notre équipe" },
   "nav.contact": { "en": "Contact", "fr": "Nous joindre" },
@@ -103,6 +107,38 @@
     "en": "Estimate only, for illustration. Assumes semi-annual compounding per Canadian convention. Not a mortgage offer or approval — your actual rate and payment will differ. Speak with your broker or lender.",
     "fr": "Estimation à titre indicatif seulement. Calcul avec composition semestrielle selon la convention canadienne. Ne constitue ni une offre ni une approbation hypothécaire — votre taux et votre paiement réels différeront. Consultez votre courtier ou prêteur."
   },
+  "asset.all": { "en": "All", "fr": "Toutes" },
+  "asset.residential": { "en": "Residential", "fr": "Résidentiel" },
+  "asset.multiplex": { "en": "Multiplex", "fr": "Multiplex" },
+  "asset.commercial": { "en": "Commercial", "fr": "Commercial" },
+  "asset.industrial": { "en": "Industrial", "fr": "Industriel" },
+  "asset.land": { "en": "Land", "fr": "Terrain" },
+  "asset.filter": { "en": "Property type", "fr": "Type de propriété" },
+
+  "rev.heading": { "en": "Revenue Property", "fr": "Propriété à revenus" },
+  "rev.units": { "en": "Units", "fr": "Logements" },
+  "rev.occupancy": { "en": "Leased / vacant", "fr": "Loués / vacants" },
+  "rev.gross": { "en": "Gross annual revenue", "fr": "Revenus bruts annuels" },
+  "rev.yield": { "en": "Gross yield", "fr": "Rendement brut" },
+  "rev.yieldNote": {
+    "en": "Gross yield is gross scheduled revenue divided by list price. It is not a cap rate — operating expenses are not included. Verify all figures independently.",
+    "fr": "Le rendement brut correspond aux revenus bruts prévus divisés par le prix demandé. Il ne s'agit pas d'un taux de capitalisation — les dépenses d'exploitation ne sont pas incluses. Vérifiez tous les chiffres de façon indépendante."
+  },
+  "rev.unitMix": { "en": "Unit mix", "fr": "Répartition des logements" },
+  "rev.zoning": { "en": "Zoning", "fr": "Zonage" },
+
+  "sold.title": { "en": "Sold Properties", "fr": "Propriétés vendues" },
+  "sold.serif": { "en": "A record of closed transactions.", "fr": "Un registre des transactions conclues." },
+  "sold.empty": { "en": "No closed transactions to display yet.", "fr": "Aucune transaction conclue à afficher pour le moment." },
+  "sold.priceNote": {
+    "en": "Prices shown are the last list price. Final sale prices are not published under Centris distribution terms.",
+    "fr": "Les prix affichés correspondent au dernier prix demandé. Les prix de vente finaux ne sont pas publiés selon les conditions de diffusion Centris."
+  },
+
+  "commercial.saleTitle": { "en": "Commercial Properties for Sale", "fr": "Propriétés commerciales à vendre" },
+  "commercial.rentTitle": { "en": "Commercial Properties for Lease", "fr": "Propriétés commerciales à louer" },
+  "commercial.serif": { "en": "Multiplex, industrial and commercial.", "fr": "Multiplex, industriel et commercial." },
+
   "listings.view.grid": { "en": "Grid", "fr": "Grille" },
   "listings.view.map": { "en": "Map", "fr": "Carte" },
   "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },

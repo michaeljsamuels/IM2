@@ -41,6 +41,8 @@ const RESOURCES = {
       { name: 'media', select: 'ListingKey,ModificationTimestamp', expand: 'Media' },
       { name: 'rooms', select: 'ListingKey,ModificationTimestamp', expand: 'Rooms(expand=Translations)' },
       { name: 'expenses', select: 'ListingKey,ModificationTimestamp', expand: 'Expenses(expand=Translations)' },
+      // Unit mix for revenue properties (Québec notation: 4½, 6½ …)
+      { name: 'units', select: 'ListingKey,ModificationTimestamp', expand: 'Units(expand=Translations)' },
     ],
   },
   // Member is NOT scoped to our brokerage — the API returns every agent in

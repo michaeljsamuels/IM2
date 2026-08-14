@@ -4,6 +4,7 @@
     "centrisId": "28891954",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -232,6 +233,11 @@
       "en": "Tenant belongings. ",
       "fr": "Effets personnels du locataire. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2169ADDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21690DDDDDDDDDDD&t=pi&f=I",
@@ -263,6 +269,7 @@
     "centrisId": "28860554",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -360,6 +367,11 @@
       "en": "Utilities, insurance, wifi. ",
       "fr": "Services publics, assurance, wifi. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA41DAEEDDDDDDDDDDB&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA41DAECDDDDDDDDDD0&t=pi&f=I",
@@ -386,6 +398,7 @@
     "centrisId": "28853160",
     "status": "for-rent",
     "category": "commercial",
+    "assetType": "industrial",
     "featured": false,
     "type": {
       "en": "Industrial",
@@ -458,6 +471,27 @@
       "en": "Utilities. (70 cents per foot)",
       "fr": "Services publiques. (70 cents)"
     },
+    "zoning": {
+      "en": "Commercial, Industrial",
+      "fr": "Commercial, Industriel"
+    },
+    "revenue": {
+      "units": 1,
+      "unitsLeased": 0,
+      "unitsVacant": 0,
+      "grossIncome": null,
+      "grossIncomeYear": null,
+      "grossYieldPct": null,
+      "unitMix": [
+        {
+          "type": "Industrial",
+          "beds": null,
+          "baths": null,
+          "rooms": null,
+          "use": "Commercial"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4286D2DDDDDDDDDDA&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4286DCDDDDDDDDDD0&t=pi&f=I",
@@ -475,6 +509,7 @@
     "centrisId": "28746348",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -706,6 +741,11 @@
       "fr": "Stores, rideaux, plaque de cuisson, four encastré, micro-onde, lave-vaisselle, laveuse, sécheuse, broyeur à déchets, luminaires, deux thermopompes. "
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6348E7DDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6348EADDDDDDDDDDD&t=pi&f=I",
@@ -753,6 +793,7 @@
     "centrisId": "28560764",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -910,6 +951,11 @@
       "en": "Electricity and tenant insurance is required",
       "fr": "Electricite et assurance locataire est obligatoire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6D8EDDDDDDDDDDDD4&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6D8ED1DDDDDDDDDD2&t=pi&f=I",
@@ -937,6 +983,7 @@
     "centrisId": "28552696",
     "status": "for-rent",
     "category": "commercial",
+    "assetType": "industrial",
     "featured": false,
     "type": {
       "en": "Industrial",
@@ -993,6 +1040,11 @@
       "en": "Additional rent is $1000/month. Municipality and school taxes, electricity, building maintenance and insurance. ",
       "fr": "Le loyer supplémentaire est de 1000$/mois. Taxes municipales et scolaires, électricité, entretien de l'immeuble et assurance. "
     },
+    "zoning": {
+      "en": "Commercial, Industrial",
+      "fr": "Commercial, Industriel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE97B859DDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE97B853DDDDDDDDDD1&t=pi&f=I",
@@ -1010,6 +1062,7 @@
     "centrisId": "27733979",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -1122,6 +1175,11 @@
       "en": "Hydro-Quebec, Insurance civil liability 5M$",
       "fr": "Hydro Quebec, Assurance responsabilité civile 5M$"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4E27C9DDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4E27C0DDDDDDDDDDF&t=pi&f=I",
@@ -1164,6 +1222,7 @@
     "centrisId": "27691109",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": true,
     "type": {
       "en": "Single Family Residence",
@@ -1490,6 +1549,11 @@
       "fr": "Cuisinière (Miele), laveuse (Miele), sécheuse (Miele), réfrigérateur (Thermador), lave-vaisselle (Thermador), rideaux "
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6B7703DDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6B77BDDDDDDDDDDDC&t=pi&f=I",
@@ -1545,6 +1609,7 @@
     "centrisId": "27381464",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -1721,6 +1786,11 @@
       "en": "Certain light fixtures are excluded. ",
       "fr": "Certains luminaires sont exclus."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA406180DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA40618EDDDDDDDDDD2&t=pi&f=I",
@@ -1744,6 +1814,7 @@
     "centrisId": "27331295",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -1962,6 +2033,11 @@
       "en": "None",
       "fr": "Aucun"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA40C98DDDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE68974CDDDDDDDDDDD&t=pi&f=I",
@@ -1995,6 +2071,7 @@
     "centrisId": "27260825",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -2186,6 +2263,11 @@
       "en": "Sellers Personal Belongings.",
       "fr": "Effets personnels du vendeur."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE3E1FD8DDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE3E1FD0DDDDDDDDDDD&t=pi&f=I",
@@ -2224,6 +2306,7 @@
     "centrisId": "26756717",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -2314,6 +2397,11 @@
       "en": "Can be furnished for an additional $2k/month, Hydro quebec, Civil Liability insurance $2m coverage",
       "fr": "Peut être offert meublé pour un supplément de 2 000 $/mois. Hydro-Québec et une assurance responsabilité civile avec une couverture de 2 000 000 $ sont requis."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4FC7C3DDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4FC7C5DDDDDDDDDDB&t=pi&f=I",
@@ -2348,6 +2436,7 @@
     "centrisId": "26742818",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -2569,6 +2658,11 @@
       "fr": "Tous les appareils de cuisine : réfrigérateur, four et cuisinière, lave-vaisselle, laveuse et sécheuse ; 2 unités de climatisation murales au 2e et 3e étage, luminaires.  "
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4B960ADDDDDDDDDD4&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4B960BDDDDDDDDDDC&t=pi&f=I",
@@ -2608,6 +2702,7 @@
     "centrisId": "26431515",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -2721,6 +2816,11 @@
       "fr": "Tous les appareils, 1 place de parking intérieur, unité AC, 1 espace de stockage intérieur."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5AB48ADDDDDDDDDDB&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5AB480DDDDDDDDDDF&t=pi&f=I",
@@ -2750,6 +2850,7 @@
     "centrisId": "25709774",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -3032,6 +3133,11 @@
       "fr": "Cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, rideaux, luminaires."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5EB9CEDDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5EB9E0DDDDDDDDDD4&t=pi&f=I",
@@ -3072,6 +3178,7 @@
     "centrisId": "25665033",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -3261,6 +3368,11 @@
       "en": "Hydro, heating, wifi",
       "fr": "Hydro, chauffage, wifi"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4AAEAADDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4AAEA0DDDDDDDDDD1&t=pi&f=I",
@@ -3289,6 +3401,7 @@
     "centrisId": "25419645",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Other",
@@ -3355,6 +3468,62 @@
       "en": "tenants' belongings.",
       "fr": "les effets des locataires."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 6,
+      "unitsLeased": 6,
+      "unitsVacant": 0,
+      "grossIncome": 90840,
+      "grossIncomeYear": "2026",
+      "grossYieldPct": 5.5,
+      "unitMix": [
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5B1D39DDDDDDDDDDA&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5B1D33DDDDDDDDDDB&t=pi&f=I",
@@ -3400,6 +3569,7 @@
     "centrisId": "25370170",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -3584,6 +3754,11 @@
       "fr": "Réfrigérateur, congélateur, four, micro-ondes, lave-vaisselle, lave-linge et sèche-linge"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE69EF37DDDDDDDDDD1&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE69EF51DDDDDDDDDDC&t=pi&f=I",
@@ -3622,6 +3797,7 @@
     "centrisId": "25089503",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": true,
     "type": {
       "en": "Single Family Residence",
@@ -3913,6 +4089,11 @@
       "fr": "Cuisinière Wolf, Réfrigérateur, Lave-vaisselle, Laveuse, Sécheuse, Stores Hunter Douglas"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE55CDE4DDDDDDDDDD1&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE55CD9BDDDDDDDDDDD&t=pi&f=I",
@@ -3970,6 +4151,7 @@
     "centrisId": "24912218",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Other",
@@ -4072,6 +4254,62 @@
       "en": "Tenant belongings. ",
       "fr": "Effets personnels du locataire. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 6,
+      "unitsLeased": 5,
+      "unitsVacant": 1,
+      "grossIncome": 90360,
+      "grossIncomeYear": "2025",
+      "grossYieldPct": 5.7,
+      "unitMix": [
+        {
+          "type": "4 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "5 1/2",
+          "beds": 3,
+          "baths": 1,
+          "rooms": 5,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE7E30EFDDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE7E30E3DDDDDDDDDDC&t=pi&f=I",
@@ -4115,6 +4353,7 @@
     "centrisId": "24749065",
     "status": "for-rent",
     "category": "commercial",
+    "assetType": "commercial",
     "featured": false,
     "type": {
       "en": "Business",
@@ -4165,6 +4404,11 @@
       "en": "Additional rent is 2885$/month. Municipality and school taxes, electricity, building maintenance and insurance.",
       "fr": "Le loyer supplémentaire est de 2885 $/mois. Taxes municipales et scolaires, électricité, entretien de l'immeuble et assurance."
     },
+    "zoning": {
+      "en": "Commercial, Industrial",
+      "fr": "Commercial, Industriel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE719595DDDDDDDDDDA&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE719599DDDDDDDDDD2&t=pi&f=I",
@@ -4184,6 +4428,7 @@
     "centrisId": "24546993",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": true,
     "type": {
       "en": "Single Family Residence",
@@ -4545,6 +4790,11 @@
       "fr": "Appareils électroménagers, laveuse, sécheuse, luminaires, couvre-fenêtres. "
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4C2747DDDDDDDDDDB&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4C2745DDDDDDDDDDD&t=pi&f=I",
@@ -4582,6 +4832,7 @@
     "centrisId": "24496270",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -4734,6 +4985,11 @@
       "fr": "Cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, climatisation murale."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE56EBF5DDDDDDDDDDC&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE56EB92DDDDDDDDDDE&t=pi&f=I",
@@ -4764,6 +5020,7 @@
     "centrisId": "24490311",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -4909,6 +5166,11 @@
       "fr": "Réfrigérateur, cuisinière, lave-vaisselle, lave-linge, sèche-linge, climatiseur, échangeur d'air, luminaires, casier de rangement, local à vélos commun"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1CFA4DDDDDDDDDDD1&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1CFE06DDDDDDDDDD0&t=pi&f=I",
@@ -4937,6 +5199,7 @@
     "centrisId": "24468067",
     "status": "sold",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -5137,6 +5400,11 @@
       "en": "Tenants' personal belongings",
       "fr": "Effets personnels des locataires"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DADE1549DDDDDDDDDDA&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DADE152DDDDDDDDDDDF&t=pi&f=I",
@@ -5171,6 +5439,7 @@
     "centrisId": "24012161",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -5280,6 +5549,11 @@
       "en": "Internet, cable and tenant(s) civil liability insurance covering 2M. ",
       "fr": "Internet, le câble ainsi qu'une assurance responsabilité civile du ou des locataires offrant une couverture minimale de 2 millions de dollars. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA12A44EDDDDDDDDDDB&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA12A414DDDDDDDDDDC&t=pi&f=I",
@@ -5311,6 +5585,7 @@
     "centrisId": "23594087",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -5431,6 +5706,11 @@
       "en": "Appliances, electricity, heating, wifi, tenant insurance",
       "fr": "Électroménagers, électricité, chauffage, wifi, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE66E31EDDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE66E31BDDDDDDDDDDA&t=pi&f=I",
@@ -5452,6 +5732,7 @@
     "centrisId": "23256389",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -5507,6 +5788,11 @@
       "en": "Heating, electricity, wifi, tenant insurance",
       "fr": "Chauffage, électricité, Wi-Fi, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6F5D1BDDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6F5D1FDDDDDDDDDDD&t=pi&f=I",
@@ -5532,6 +5818,7 @@
     "centrisId": "22749926",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -5628,6 +5915,11 @@
       "en": "Hydro Quebec, Civil liability Insurance 5M$ Coverage",
       "fr": "Hydro-Québec, Assurance responsabilité civile avec une couverture de 5M$"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE35850DDDDDDDDDDDC&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE358501DDDDDDDDDDE&t=pi&f=I",
@@ -5678,6 +5970,7 @@
     "centrisId": "22117337",
     "status": "for-rent",
     "category": "commercial",
+    "assetType": "commercial",
     "featured": false,
     "type": {
       "en": "Business",
@@ -5741,6 +6034,11 @@
     "taxes": null,
     "inclusions": null,
     "exclusions": null,
+    "zoning": {
+      "en": "Commercial",
+      "fr": "Commercial"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1546C2DDDDDDDDDD4&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1546CCDDDDDDDDDD2&t=pi&f=I",
@@ -5773,6 +6071,7 @@
     "centrisId": "21790055",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -5898,6 +6197,8 @@
       "en": "Tenants' personal belongings are excluded. ",
       "fr": "Les effets personnels des locataires sont exclus. "
     },
+    "zoning": null,
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE61B17BDDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE61B174DDDDDDDDDD1&t=pi&f=I",
@@ -5929,6 +6230,7 @@
     "centrisId": "21324345",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Other",
@@ -6017,6 +6319,19 @@
       "en": "Tenant's personal belongings. ",
       "fr": "Effets personels des locataires. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 9,
+      "unitsLeased": 7,
+      "unitsVacant": 2,
+      "grossIncome": 161796,
+      "grossIncomeYear": "2026",
+      "grossYieldPct": 6.7,
+      "unitMix": []
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD644BADDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD644BBDDDDDDDDDD1&t=pi&f=I",
@@ -6058,6 +6373,7 @@
     "centrisId": "20660701",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -6164,6 +6480,11 @@
       "en": "Bed, Electricity, cable, civil liability insurance of 2M.  ",
       "fr": "Lit, Électricité, câble, assurance responsabilité civile de 2 000 000 $."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA17EDDADDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA17EDD0DDDDDDDDDD1&t=pi&f=I",
@@ -6187,6 +6508,7 @@
     "centrisId": "20580461",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -6383,6 +6705,11 @@
       "en": "Tenant's belongings",
       "fr": "Biens du locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE66F701DDDDDDDDDDB&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE66B995DDDDDDDDDD0&t=pi&f=I",
@@ -6422,6 +6749,7 @@
     "centrisId": "20288988",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Quadruplex",
@@ -6500,6 +6828,48 @@
       "fr": "5 appareils électroménagers par unité, 4 réservoirs d'eau chaude, 2 places de stationnement intérieur."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 4,
+      "unitsLeased": 4,
+      "unitsVacant": 0,
+      "grossIncome": 108960,
+      "grossIncomeYear": "2025",
+      "grossYieldPct": 6.2,
+      "unitMix": [
+        {
+          "type": "5 1/2",
+          "beds": 4,
+          "baths": 2,
+          "rooms": 5,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "5 1/2",
+          "beds": 4,
+          "baths": 2,
+          "rooms": 5,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE8ABF03DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE8ABB6EDDDDDDDDDDC&t=pi&f=I",
@@ -6543,6 +6913,7 @@
     "centrisId": "20129055",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Other",
@@ -6647,6 +7018,76 @@
       "en": "Tenant belongings. ",
       "fr": "Effets personnels du locataire. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 8,
+      "unitsLeased": 6,
+      "unitsVacant": 2,
+      "grossIncome": 114588,
+      "grossIncomeYear": "2025",
+      "grossYieldPct": 6.3,
+      "unitMix": [
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        },
+        {
+          "type": "3 1/2",
+          "beds": 1,
+          "baths": 1,
+          "rooms": 3,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE7E5DDADDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE7E5DDEDDDDDDDDDDB&t=pi&f=I",
@@ -6682,6 +7123,7 @@
     "centrisId": "19629471",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -6959,6 +7401,11 @@
       "en": "Hydro, gas, internet, alarm system monthly service charge, snow removal and gardening.",
       "fr": "L'électricité, gaz, l'internet, les frais mensuels de service du système d'alarme, le déneigement et l'entretien du jardin."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6E6D99DDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6E61D4DDDDDDDDDDD&t=pi&f=I",
@@ -7009,6 +7456,7 @@
     "centrisId": "19620193",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -7178,6 +7626,11 @@
       "en": "Furniture & Personal Belongings",
       "fr": "Meubles et effet personelle"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1F1A99DDDDDDDDDD4&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1F1A97DDDDDDDDDD2&t=pi&f=I",
@@ -7210,6 +7663,7 @@
     "centrisId": "18549142",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -7307,6 +7761,11 @@
       "en": "Utilities, insurance, wifi. ",
       "fr": "Services publics, assurance, wifi. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE601D25DDDDDDDDDD4&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE601DCADDDDDDDDDDB&t=pi&f=I",
@@ -7330,6 +7789,7 @@
     "centrisId": "18255041",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -7416,6 +7876,11 @@
       "en": "Hydro, insurance",
       "fr": "hydro, assurances "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA160985DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA160900DDDDDDDDDD1&t=pi&f=I",
@@ -7450,6 +7915,7 @@
     "centrisId": "17964370",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -7523,6 +7989,11 @@
       "en": "Electricity, heating, wifi, tenant insurance",
       "fr": "Électricité, chauffage, Wi-Fi, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4242C4DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4242C6DDDDDDDDDDE&t=pi&f=I",
@@ -7546,6 +8017,7 @@
     "centrisId": "17902810",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -7747,6 +8219,11 @@
       "fr": "Réfrigérateur/congélateur, cuisinière, micro-ondes, lave-vaisselle, table de cuisson"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE899619DDDDDDDDDD4&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE899617DDDDDDDDDD2&t=pi&f=I",
@@ -7794,6 +8271,7 @@
     "centrisId": "17531538",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -8082,6 +8560,8 @@
       "en": "Electricity, heating, air conditioning, gas, alarm system contract, landscaping, snow removal, Lessee is responsible for repairs up to $1000, civil liability insurance $5m coverage",
       "fr": "Électricité, chauffage, climatisation, gaz, contrat du système d'alarme, aménagement paysager, déneigement, le locataire est responsable des réparations jusqu'à concurrence de 1 000 $, assurance responsabilité civile avec couverture de 5 millions $"
     },
+    "zoning": null,
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6F550FDDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6F53E4DDDDDDDDDD0&t=pi&f=I",
@@ -8125,6 +8605,7 @@
     "centrisId": "16855224",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -8332,6 +8813,11 @@
       "en": "Hydro Quebec, Tenant Liability insurance with $2m Coverage",
       "fr": "Hydro-Québec, assurance responsabilité civile du locataire avec une couverture de 2 000 000 $."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4C797BDDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4C7999DDDDDDDDDDB&t=pi&f=I",
@@ -8377,6 +8863,7 @@
     "centrisId": "16770411",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -8529,6 +9016,11 @@
       "en": "None",
       "fr": "Aucun"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE68A879DDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE68A873DDDDDDDDDDF&t=pi&f=I",
@@ -8553,6 +9045,7 @@
     "centrisId": "16414905",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -8708,6 +9201,11 @@
       "en": "Hydro-Quebec, Tenant Civil Liability Insurance $2m",
       "fr": "Hydro-Québec, Assurance de responsabilité civile locative de 2 millions de dollars"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE566977DDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE566973DDDDDDDDDDD&t=pi&f=I",
@@ -8742,6 +9240,7 @@
     "centrisId": "16015865",
     "status": "for-sale",
     "category": "commercial",
+    "assetType": "industrial",
     "featured": true,
     "type": {
       "en": "Industrial",
@@ -8834,6 +9333,34 @@
       "en": "As per leases",
       "fr": "Selon les baux"
     },
+    "zoning": {
+      "en": "Commercial, Industrial",
+      "fr": "Commercial, Industriel"
+    },
+    "revenue": {
+      "units": 2,
+      "unitsLeased": 2,
+      "unitsVacant": 0,
+      "grossIncome": null,
+      "grossIncomeYear": null,
+      "grossYieldPct": null,
+      "unitMix": [
+        {
+          "type": "Commercial",
+          "beds": null,
+          "baths": null,
+          "rooms": null,
+          "use": "Commercial"
+        },
+        {
+          "type": "Commercial",
+          "beds": null,
+          "baths": null,
+          "rooms": null,
+          "use": "Commercial"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE7A512FDDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE7A5120DDDDDDDDDDE&t=pi&f=I",
@@ -8912,6 +9439,7 @@
     "centrisId": "15672962",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -9135,6 +9663,11 @@
       "en": "Hydro-Quebec, Insurance civil liability 5M$",
       "fr": "Hydro-Quebec, Assurance responsabilité civile 5M$"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE526CDBDDDDDDDDDDA&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE526CDEDDDDDDDDDD2&t=pi&f=I",
@@ -9182,6 +9715,7 @@
     "centrisId": "15271606",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -9234,6 +9768,11 @@
       "en": "Heating, electricity, wifi, tenant insurance",
       "fr": "Chauffage, électricité, wifi, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4046A2DDDDDDDDDD1&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA404350DDDDDDDDDDB&t=pi&f=I",
@@ -9258,6 +9797,7 @@
     "centrisId": "15035944",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": true,
     "type": {
       "en": "Single Family Residence",
@@ -9581,6 +10121,11 @@
       "fr": "cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, couvre-fenêtres, luminaires."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE365001DDDDDDDDDDA&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE3650EDDDDDDDDDDD2&t=pi&f=I",
@@ -9624,6 +10169,7 @@
     "centrisId": "14408082",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -9913,6 +10459,11 @@
       "fr": "Réfrigérateur et congélateur Sub Zero Lave-vaisselle LG Un téléviseur et système de sécurité domestique Réfrigérateur à vin Mini réfrigérateur Four et cuisinière"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD3DB8FDDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD3DB88DDDDDDDDDD1&t=pi&f=I",
@@ -9966,6 +10517,7 @@
     "centrisId": "14299444",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Quadruplex",
@@ -10428,6 +10980,48 @@
       "en": "Tenants' personal belongings",
       "fr": " Effets personnels des locataires"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 4,
+      "unitsLeased": 4,
+      "unitsVacant": 0,
+      "grossIncome": 133200,
+      "grossIncomeYear": "2026",
+      "grossYieldPct": 6.1,
+      "unitMix": [
+        {
+          "type": "7 1/2",
+          "beds": 3,
+          "baths": 1,
+          "rooms": 7,
+          "use": "Residential"
+        },
+        {
+          "type": "7 1/2",
+          "beds": 3,
+          "baths": 1,
+          "rooms": 7,
+          "use": "Residential"
+        },
+        {
+          "type": "8 1/2",
+          "beds": 3,
+          "baths": 1,
+          "rooms": 8,
+          "use": "Residential"
+        },
+        {
+          "type": "6 1/2",
+          "beds": 3,
+          "baths": 1,
+          "rooms": 6,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA17D96DDDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA17D3D7DDDDDDDDDDB&t=pi&f=I",
@@ -10474,6 +11068,7 @@
     "centrisId": "14064857",
     "status": "sold",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Duplex",
@@ -10583,6 +11178,34 @@
       "en": "Tenant's personal belongings. ",
       "fr": "Effets personel des locataires. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 2,
+      "unitsLeased": 2,
+      "unitsVacant": 0,
+      "grossIncome": 31440,
+      "grossIncomeYear": "2026",
+      "grossYieldPct": 4.4,
+      "unitMix": [
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE609519DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE609517DDDDDDDDDDA&t=pi&f=I",
@@ -10615,6 +11238,7 @@
     "centrisId": "14006903",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -10676,6 +11300,11 @@
       "en": "Electricity, heating, wifi, tenant insurance",
       "fr": "Électricité, chauffage, wifi, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1B79A9DDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1B79A1DDDDDDDDDD4&t=pi&f=I",
@@ -10701,6 +11330,7 @@
     "centrisId": "13947034",
     "status": "sold",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -10983,6 +11613,11 @@
       "fr": "cuisinière WOLF, réfrigérateur,  laveuse, sécheuse, BBQ au gaz."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD0A6C7DDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD0A6C3DDDDDDDDDDB&t=pi&f=I",
@@ -11030,6 +11665,7 @@
     "centrisId": "13690752",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": true,
     "type": {
       "en": "Single Family Residence",
@@ -11457,6 +12093,11 @@
       "en": "n/a",
       "fr": "n/a"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA187EA2DDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA1163EADDDDDDDDDDC&t=pi&f=I",
@@ -11517,6 +12158,7 @@
     "centrisId": "12708771",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -11586,6 +12228,11 @@
       "en": "Heating, electricity, wifi, tenant insurance",
       "fr": "Chauffage, électricité, Wi-Fi, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6AB1A7DDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6AB107DDDDDDDDDD1&t=pi&f=I",
@@ -11612,6 +12259,7 @@
     "centrisId": "12333111",
     "status": "sold",
     "category": "residential",
+    "assetType": "multiplex",
     "featured": false,
     "type": {
       "en": "Duplex",
@@ -11717,6 +12365,34 @@
       "en": "Tenant belongings. Option to purchase additional garage space for $35,000. ",
       "fr": "Biens du locataire.  Option d'achat d'un espace de garage supplémentaire pour 35 000 $. "
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 2,
+      "unitsLeased": 2,
+      "unitsVacant": 0,
+      "grossIncome": 52500,
+      "grossIncomeYear": "2026",
+      "grossYieldPct": 5.8,
+      "unitMix": [
+        {
+          "type": "6 1/2",
+          "beds": 4,
+          "baths": 2,
+          "rooms": 6,
+          "use": "Residential"
+        },
+        {
+          "type": "4 1/2",
+          "beds": 2,
+          "baths": 1,
+          "rooms": 4,
+          "use": "Residential"
+        }
+      ]
+    },
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE607F7EDDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE607F72DDDDDDDDDD0&t=pi&f=I",
@@ -11761,6 +12437,7 @@
     "centrisId": "11841807",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -11940,6 +12617,11 @@
       "fr": "Cuisinière, lave-vaisselle, laveuse, sécheuse, tous les luminaires et l'armoire dans la chambre principale."
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4F5262DDDDDDDDDDF&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4F526ADDDDDDDDDD4&t=pi&f=I",
@@ -11970,6 +12652,7 @@
     "centrisId": "11682402",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -12193,6 +12876,11 @@
       "en": "Hydro-Quebec, Insurance civil liability 5M$",
       "fr": "Hydro Quebec, Assurance responsabilité civile 5M$"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE526AEADDDDDDDDDD1&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE526AE0DDDDDDDDDD4&t=pi&f=I",
@@ -12243,6 +12931,7 @@
     "centrisId": "10461397",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Single Family Residence",
@@ -12501,6 +13190,11 @@
       "en": "Hydro, internet, alarm system monthly charge, gardening and snow removal",
       "fr": "Hydro, internet, frais mensuels du système d'alarme, entretien du jardin et déneigement"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE67E384DDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE67E38ADDDDDDDDDD0&t=pi&f=I",
@@ -12543,6 +13237,7 @@
     "centrisId": "10189045",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -12772,6 +13467,11 @@
       "fr": "Réfrigérateur, cuisinière, laveuse, sécheuse, 2 télécommande d'accès (FOB), 1 ouvre-porte de garage, stores et habillages de fenêtres, chauffe-eau"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA4D5E29DDDDDDDDDDB&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5A217FDDDDDDDDDD0&t=pi&f=I",
@@ -12816,6 +13516,7 @@
     "centrisId": "10088984",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -12865,6 +13566,11 @@
       "en": "Heating, hot water, electricity, tenant insurance",
       "fr": "Chauffage, eau chaude, electricite, assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DADE1F53DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DADE1F55DDDDDDDDDDA&t=pi&f=I",
@@ -12894,6 +13600,7 @@
     "centrisId": "9884679",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -13023,6 +13730,11 @@
       "fr": "cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, un rangement(P1-NE36)"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA488065DDDDDDDDDDE&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA488069DDDDDDDDDD4&t=pi&f=I",
@@ -13057,6 +13769,7 @@
     "centrisId": "9751084",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -13188,6 +13901,11 @@
       "fr": "Appareils électroménagers, luminaires, étagères encastrées. Chauffage et eau chaude inclus dans les charges de copropriété. "
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Commercial, Residential",
+      "fr": "Commercial, Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6BA87DDDDDDDDDDDD&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE6BA871DDDDDDDDDD1&t=pi&f=I",
@@ -13214,6 +13932,7 @@
     "centrisId": "9655813",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -13419,6 +14138,11 @@
       "en": "Utilities - electricity, telephone, cable, internet are tenants cost        Parking available at $165. per month",
       "fr": "Electricite, cable, téléphone, internet aux couts du locataire    Stationnement prive disponible pour un frais de $165. par mois."
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE61E51EDDDDDDDDDD2&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE61E51CDDDDDDDDDD4&t=pi&f=I",
@@ -13453,6 +14177,7 @@
     "centrisId": "9356297",
     "status": "for-rent",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -13504,6 +14229,11 @@
       "en": "Tenant insurance",
       "fr": "Assurance locataire"
     },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA494C55DDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DA494C59DDDDDDDDDDC&t=pi&f=I",
@@ -13538,6 +14268,7 @@
     "centrisId": "9239090",
     "status": "for-sale",
     "category": "residential",
+    "assetType": "residential",
     "featured": false,
     "type": {
       "en": "Condominium",
@@ -13667,6 +14398,11 @@
       "fr": "cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, rideaux, un rangement"
     },
     "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
     "photos": [
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5B6C44DDDDDDDDDD0&t=pi&f=I",
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE5B6C42DDDDDDDDDDB&t=pi&f=I",

@@ -7,6 +7,9 @@ export const ROUTES = {
   home: { en: '/en/', fr: '/fr/' },
   sale: { en: '/en/listings/sale/', fr: '/fr/annonces/vente/' },
   rent: { en: '/en/listings/rent/', fr: '/fr/annonces/location/' },
+  commercialSale: { en: '/en/commercial/sale/', fr: '/fr/commercial/vente/' },
+  commercialRent: { en: '/en/commercial/rent/', fr: '/fr/commercial/location/' },
+  sold: { en: '/en/sold-properties/', fr: '/fr/proprietes-vendues/' },
   team: { en: '/en/our-team/', fr: '/fr/notre-equipe/' },
   contact: { en: '/en/contact/', fr: '/fr/contact/' },
 };

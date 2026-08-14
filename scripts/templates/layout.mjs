@@ -10,13 +10,34 @@ export function layout(ctx, { title, description, path, altPath, body, hasHero =
   const { locale, site, T } = ctx;
   const other = locale === 'en' ? 'fr' : 'en';
 
+  // A nav entry is [href, label] or [null, label, children] for a dropdown.
   const navLinks = [
     [ROUTES.sale[locale], T('nav.sale')],
     [ROUTES.rent[locale], T('nav.rent')],
+    [null, T('nav.commercial'), [
+      [ROUTES.commercialSale[locale], T('nav.commercialSale')],
+      [ROUTES.commercialRent[locale], T('nav.commercialRent')],
+    ]],
+    [ROUTES.sold[locale], T('nav.sold')],
     [ROUTES.contact[locale], T('nav.listWithUs')],
     [ROUTES.team[locale], T('nav.team')],
     [ROUTES.contact[locale], T('nav.contact')],
   ];
+
+  /** Render nav entries; `flat` expands dropdowns inline (menu + footer). */
+  const renderNav = (flat = false) =>
+    navLinks
+      .map(([href, label, children]) => {
+        if (!children) return `<a href="${href}">${esc(label)}</a>`;
+        if (flat) return children.map(([h, l]) => `<a href="${h}">${esc(label)} — ${esc(l)}</a>`).join('\n      ');
+        return `<div class="nav-group">
+        <button type="button" aria-haspopup="true" aria-expanded="false">${esc(label)}</button>
+        <div class="nav-group__menu">
+          ${children.map(([h, l]) => `<a href="${h}">${esc(l)}</a>`).join('\n          ')}
+        </div>
+      </div>`;
+      })
+      .join('\n      ');
 
   const langSwitch = `
     <div class="lang-switch">
@@ -43,7 +64,7 @@ export function layout(ctx, { title, description, path, altPath, body, hasHero =
       <img class="logo-img" src="/images/im-logo.png" alt="${esc(site.brand)} — ${esc(site.slogan[locale])}" />
     </a>
     <nav class="site-header__nav" aria-label="Main">
-      ${navLinks.map(([href, label]) => `<a href="${href}">${esc(label)}</a>`).join('\n      ')}
+      ${renderNav()}
     </nav>
     <div class="site-header__right">
       ${langSwitch}
@@ -58,7 +79,7 @@ export function layout(ctx, { title, description, path, altPath, body, hasHero =
   <button class="fullscreen-menu__close" data-menu-close aria-label="${esc(T('nav.close'))}">${icons.close}</button>
   <nav aria-label="Fullscreen">
     <a href="${ROUTES.home[locale]}">${esc(T('nav.about'))}</a>
-    ${navLinks.map(([href, label]) => `<a href="${href}">${esc(label)}</a>`).join('\n    ')}
+    ${renderNav(true)}
   </nav>
   <div class="fullscreen-menu__meta">
     ${langSwitch}
@@ -75,7 +96,7 @@ ${body}
     <div class="site-footer__col">
       <span class="logo-word">${esc(site.brand)}</span>
       <nav aria-label="Footer">
-        ${navLinks.map(([href, label]) => `<a href="${href}">${esc(label)}</a>`).join('\n        ')}
+        ${renderNav(true)}
       </nav>
     </div>
     <div class="site-footer__col">

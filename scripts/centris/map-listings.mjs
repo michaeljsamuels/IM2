@@ -116,6 +116,40 @@ function neighbourhoodId(p) {
   return null;
 }
 
+/**
+ * Asset class, used for the listing-index filter tabs and the commercial
+ * section. Derived from RESO PropertyType/PropertySubType plus
+ * BuildingCurrentUse. Only classes with inventory are ever shown as tabs.
+ */
+function assetTypeOf(p) {
+  const type = p.PropertyType ?? '';
+  const sub = p.PropertySubType ?? '';
+  const uses = p.BuildingCurrentUse ?? [];
+
+  if (sub === 'Industrial' || uses.includes('Industrial')) return 'industrial';
+  if (/Commercial/i.test(type) || sub === 'Business' || uses.includes('Commercial') || uses.includes('Office'))
+    return 'commercial';
+  if (type === 'Residential Income' || ['Duplex', 'Triplex', 'Quadruplex', 'Quintuplex'].includes(sub))
+    return 'multiplex';
+  if (/^Lots?|Land/i.test(sub)) return 'land';
+  return 'residential';
+}
+
+/** Unit mix for revenue properties, e.g. [{ type: '6 1/2', beds: 4, baths: 2 }]. */
+function unitsOf(p) {
+  return (p.Units ?? [])
+    .slice()
+    .sort((a, b) => (a.Order ?? 0) - (b.Order ?? 0))
+    .map((u) => ({
+      type: u.UnitType ?? null,
+      beds: u.UnitBedroomsTotal ?? null,
+      baths: u.UnitBathroomsFullTotal ?? null,
+      rooms: u.UnitRoomsTotal ?? null,
+      use: u.UnitCurrentUse ?? null,
+    }))
+    .filter((u) => u.type || u.beds != null);
+}
+
 function statusOf(p) {
   const isLease = /Lease/i.test(p.PropertyType ?? '');
   const closed = p.StandardStatus === 'Closed' || /sold|rented|leased/i.test(p.MlsStatus ?? '');
@@ -202,6 +236,7 @@ function mapListing(p) {
     centrisId: String(p.ListingId ?? p.ListingKey),
     status,
     category: /Commercial/i.test(p.PropertyType ?? '') ? 'commercial' : 'residential',
+    assetType: assetTypeOf(p),
     featured: false,
     type: {
       en: subLabel?.en ?? subType.en ?? 'Property',
@@ -250,6 +285,26 @@ function mapListing(p) {
         : null,
     inclusions: bi(p, 'Inclusions'),
     exclusions: bi(p, 'Exclusions'),
+    zoning: bi(p, 'ZoningDescription'),
+    // Revenue-property data. NOTE: Centris carries gross scheduled income but
+    // NOT net operating income, and expense data is partial (taxes/condo fees
+    // only). We therefore expose GROSS YIELD, explicitly labelled — never a
+    // "cap rate", which investors would act on and we cannot stand behind.
+    revenue:
+      p.GrossScheduledIncomeResidential || p.NumberOfUnitsTotal
+        ? {
+            units: p.NumberOfUnitsTotal ?? null,
+            unitsLeased: p.NumberOfUnitsLeased ?? null,
+            unitsVacant: p.NumberOfUnitsVacant ?? null,
+            grossIncome: p.GrossScheduledIncomeResidential ?? null,
+            grossIncomeYear: (p.GrossScheduledIncomeDate ?? '').slice(0, 4) || null,
+            grossYieldPct:
+              p.GrossScheduledIncomeResidential && p.ListPrice
+                ? Math.round((p.GrossScheduledIncomeResidential / p.ListPrice) * 1000) / 10
+                : null,
+            unitMix: unitsOf(p),
+          }
+        : null,
     photos: photosOf(p),
     rental: isLease || undefined,
   };

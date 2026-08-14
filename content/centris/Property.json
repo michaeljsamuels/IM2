@@ -647,7 +647,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "10088984",
+        "ListingKey": "10088984",
+        "ModificationTimestamp": "2026-05-12T15:38:06Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "10088984_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -2452,6 +2477,31 @@
         "ListingId": "10189045",
         "ListingKey": "10189045",
         "ModificationTimestamp": "2026-03-10T02:47:31Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "10189045",
+        "ListingKey": "10189045",
+        "ModificationTimestamp": "2026-03-05T17:11:25Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "10189045_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 11,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -4316,7 +4366,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "10461397",
+        "ListingKey": "10461397",
+        "ModificationTimestamp": "2026-04-24T14:22:39Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 5,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "10461397_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 14,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -5997,7 +6072,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "11682402",
+        "ListingKey": "11682402",
+        "ModificationTimestamp": "2026-03-04T19:15:41Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "11682402_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -7197,6 +7297,31 @@
         "ModificationTimestamp": "2026-08-05T22:05:35Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "11841807",
+        "ListingKey": "11841807",
+        "ModificationTimestamp": "2026-08-05T20:41:06Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "11841807_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -8219,6 +8344,54 @@
         "ModificationTimestamp": "2026-04-15T15:17:50Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "12333111",
+        "ListingKey": "12333111",
+        "ModificationTimestamp": "2026-04-15T15:17:50Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "12333111_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "6 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "12333111",
+        "ListingKey": "12333111",
+        "ModificationTimestamp": "2026-04-15T15:17:50Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "12333111_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      }
     ]
   },
   {
@@ -8826,7 +8999,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "12708771",
+        "ListingKey": "12708771",
+        "ModificationTimestamp": "2026-04-13T15:42:15Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "12708771_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 9.08,
@@ -12022,6 +12220,31 @@
         "ModificationTimestamp": "2026-06-04T19:45:00Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "13690752",
+        "ListingKey": "13690752",
+        "ModificationTimestamp": "2026-06-04T20:35:49Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 5,
+        "UnitBathroomsPartialTotal": 3,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "13690752_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 14,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -14190,6 +14413,31 @@
         "ModificationTimestamp": "2026-05-16T13:07:19Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "13947034",
+        "ListingKey": "13947034",
+        "ModificationTimestamp": "2026-05-16T12:58:35Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 5,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "13947034_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 14,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -14777,7 +15025,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "14006903",
+        "ListingKey": "14006903",
+        "ModificationTimestamp": "2026-06-19T15:38:19Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14006903_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 49.4,
@@ -15587,6 +15860,54 @@
         "ListingId": "14064857",
         "ListingKey": "14064857",
         "ModificationTimestamp": "2026-04-15T14:38:17Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "14064857",
+        "ListingKey": "14064857",
+        "ModificationTimestamp": "2026-04-15T14:34:51Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14064857_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "14064857",
+        "ListingKey": "14064857",
+        "ModificationTimestamp": "2026-04-15T14:34:51Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14064857_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
         "Translations": []
       }
     ]
@@ -18890,6 +19211,100 @@
         "ModificationTimestamp": "2026-02-09T16:35:01Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Partially",
+        "ListingId": "14299444",
+        "ListingKey": "14299444",
+        "ModificationTimestamp": "2026-04-15T19:16:15Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14299444_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "7 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": "Partially",
+        "ListingId": "14299444",
+        "ListingKey": "14299444",
+        "ModificationTimestamp": "2026-05-06T17:01:47Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14299444_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "7 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "14299444",
+        "ListingKey": "14299444",
+        "ModificationTimestamp": "2026-05-06T17:01:47Z",
+        "Order": 3,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14299444_3",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 8,
+        "UnitType": "8 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "14299444",
+        "ListingKey": "14299444",
+        "ModificationTimestamp": "2026-05-06T17:01:47Z",
+        "Order": 4,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14299444_4",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "6 1/2",
+        "Translations": []
+      }
     ]
   },
   {
@@ -21338,6 +21753,31 @@
         "ModificationTimestamp": "2026-05-27T20:55:04Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "14408082",
+        "ListingKey": "14408082",
+        "ModificationTimestamp": "2026-05-27T20:37:23Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "14408082_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 20,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -23649,6 +24089,31 @@
         "ModificationTimestamp": "2026-02-24T13:18:15Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "15035944",
+        "ListingKey": "15035944",
+        "ModificationTimestamp": "2026-02-24T02:52:15Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 5,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "15035944_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 20,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -24215,7 +24680,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "15271606",
+        "ListingKey": "15271606",
+        "ModificationTimestamp": "2026-07-29T15:54:10Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "15271606_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -25870,7 +26360,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "15672962",
+        "ListingKey": "15672962",
+        "ModificationTimestamp": "2026-03-04T18:58:40Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "15672962_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 100,
@@ -27471,6 +27986,63 @@
         "ModificationTimestamp": "2025-12-03T03:01:32Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": 15000,
+        "Furnished": null,
+        "ListingId": "16015865",
+        "ListingKey": "16015865",
+        "ModificationTimestamp": "2025-12-11T00:17:45Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Hot water",
+          "Heating",
+          "Cooling",
+          "Snow removal",
+          "Water taxes",
+          "Taxes"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": "Square Feet",
+        "UnitBathroomsFullTotal": null,
+        "UnitBathroomsPartialTotal": null,
+        "UnitBedroomsTotal": null,
+        "UnitBusinessName": "Bloc Shop",
+        "UnitCurrentUse": "Commercial",
+        "UnitFranchiseYN": true,
+        "UnitKey": "16015865_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": true,
+        "UnitRoomsTotal": null,
+        "UnitType": "Commercial",
+        "Translations": []
+      },
+      {
+        "UnitArea": 5000,
+        "Furnished": null,
+        "ListingId": "16015865",
+        "ListingKey": "16015865",
+        "ModificationTimestamp": "2025-12-04T18:12:33Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": "Square Feet",
+        "UnitBathroomsFullTotal": null,
+        "UnitBathroomsPartialTotal": null,
+        "UnitBedroomsTotal": null,
+        "UnitBusinessName": "Non-Profit organization",
+        "UnitCurrentUse": "Commercial",
+        "UnitFranchiseYN": null,
+        "UnitKey": "16015865_2",
+        "UnitLeaseFeatures": [
+          "Month"
+        ],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": null,
+        "UnitType": "Commercial",
+        "Translations": []
+      }
     ]
   },
   {
@@ -28645,7 +29217,36 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "16414905",
+        "ListingKey": "16414905",
+        "ModificationTimestamp": "2026-03-30T16:48:56Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Heating",
+          "Hot water",
+          "Cooling"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "16414905_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 25,
@@ -29727,6 +30328,31 @@
         "ListingId": "16770411",
         "ListingKey": "16770411",
         "ModificationTimestamp": "2026-06-01T20:04:30Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "16770411",
+        "ListingKey": "16770411",
+        "ModificationTimestamp": "2026-04-21T16:33:53Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "16770411_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -31291,7 +31917,34 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "16855224",
+        "ListingKey": "16855224",
+        "ModificationTimestamp": "2026-07-21T17:09:39Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Hot water"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "16855224_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 8,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 70.2,
@@ -33255,7 +33908,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "17531538",
+        "ListingKey": "17531538",
+        "ModificationTimestamp": "2026-04-20T17:16:34Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 4,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 5,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "17531538_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 17,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 15.53,
@@ -35002,6 +35680,31 @@
         "ModificationTimestamp": "2025-09-18T17:32:40Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "17902810",
+        "ListingKey": "17902810",
+        "ModificationTimestamp": "2025-09-18T17:32:40Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "17902810_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -35567,7 +36270,34 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "17964370",
+        "ListingKey": "17964370",
+        "ModificationTimestamp": "2026-07-16T17:34:18Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Cooling"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "17964370_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -36320,7 +37050,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "18255041",
+        "ListingKey": "18255041",
+        "ModificationTimestamp": "2026-07-06T20:29:11Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "18255041_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -36899,7 +37654,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "18549142",
+        "ListingKey": "18549142",
+        "ModificationTimestamp": "2026-04-14T13:35:49Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "18549142_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -38076,6 +38856,31 @@
         "ListingId": "19620193",
         "ListingKey": "19620193",
         "ModificationTimestamp": "2026-06-20T12:19:25Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "19620193",
+        "ListingKey": "19620193",
+        "ModificationTimestamp": "2026-06-10T12:14:41Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "19620193_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -40198,7 +41003,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "19629471",
+        "ListingKey": "19629471",
+        "ModificationTimestamp": "2026-04-10T02:46:39Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "19629471_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 16,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 90,
@@ -41057,6 +41887,196 @@
         "ListingId": "20129055",
         "ListingKey": "20129055",
         "ModificationTimestamp": "2025-12-03T20:48:26Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2025-12-03T20:26:46Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_1",
+        "UnitLeaseFeatures": [
+          "Vacant"
+        ],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 3,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_3",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 4,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_4",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 5,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_5",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 6,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_6",
+        "UnitLeaseFeatures": [
+          "Vacant"
+        ],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 7,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_7",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20129055",
+        "ListingKey": "20129055",
+        "ModificationTimestamp": "2026-04-15T14:25:00Z",
+        "Order": 8,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20129055_8",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
         "Translations": []
       }
     ]
@@ -42018,6 +43038,100 @@
         "ListingId": "20288988",
         "ListingKey": "20288988",
         "ModificationTimestamp": "2025-09-06T18:49:03Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20288988",
+        "ListingKey": "20288988",
+        "ModificationTimestamp": "2025-09-06T18:40:22Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20288988_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "5 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20288988",
+        "ListingKey": "20288988",
+        "ModificationTimestamp": "2025-09-06T18:40:22Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20288988_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20288988",
+        "ListingKey": "20288988",
+        "ModificationTimestamp": "2025-09-06T19:15:13Z",
+        "Order": 3,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20288988_3",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "5 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20288988",
+        "ListingKey": "20288988",
+        "ModificationTimestamp": "2025-09-06T18:40:22Z",
+        "Order": 4,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20288988_4",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
         "Translations": []
       }
     ]
@@ -43506,6 +44620,31 @@
         "ModificationTimestamp": "2026-04-30T19:14:30Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "20580461",
+        "ListingKey": "20580461",
+        "ModificationTimestamp": "2026-04-30T18:50:27Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20580461_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 8,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -44324,7 +45463,36 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Partially",
+        "ListingId": "20660701",
+        "ListingKey": "20660701",
+        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Hot water",
+          "Cooling",
+          "Water taxes"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "20660701_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 36.58,
@@ -45299,7 +46467,8 @@
         "ModificationTimestamp": "2026-06-01T17:31:06Z",
         "Translations": []
       }
-    ]
+    ],
+    "Units": []
   },
   {
     "BuildingSizeLength": null,
@@ -46392,6 +47561,31 @@
         "ModificationTimestamp": "2026-04-02T00:25:38Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "21790055",
+        "ListingKey": "21790055",
+        "ModificationTimestamp": "2026-04-02T00:31:20Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "21790055_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -47076,7 +48270,8 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": []
   },
   {
     "BuildingSizeLength": null,
@@ -48107,7 +49302,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "22749926",
+        "ListingKey": "22749926",
+        "ModificationTimestamp": "2026-02-20T16:30:53Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "22749926_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 13,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -48691,7 +49911,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "23256389",
+        "ListingKey": "23256389",
+        "ModificationTimestamp": "2026-04-20T16:17:01Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "23256389_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -49588,7 +50833,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "23594087",
+        "ListingKey": "23594087",
+        "ModificationTimestamp": "2026-04-30T15:27:41Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "23594087_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -50608,7 +51878,38 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24012161",
+        "ListingKey": "24012161",
+        "ModificationTimestamp": "2026-06-09T15:28:04Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Heating",
+          "Hot water",
+          "Electricity",
+          "Cooling",
+          "Water taxes"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24012161_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -51956,6 +53257,31 @@
         "ModificationTimestamp": "2026-05-12T15:51:25Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24468067",
+        "ListingKey": "24468067",
+        "ModificationTimestamp": "2026-05-12T15:51:25Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24468067_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -53099,6 +54425,31 @@
         "ListingId": "24490311",
         "ListingKey": "24490311",
         "ModificationTimestamp": "2026-06-03T19:20:57Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24490311",
+        "ListingKey": "24490311",
+        "ModificationTimestamp": "2026-06-05T18:24:06Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24490311_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -54284,6 +55635,31 @@
         "ListingId": "24496270",
         "ListingKey": "24496270",
         "ModificationTimestamp": "2026-03-27T16:19:04Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24496270",
+        "ListingKey": "24496270",
+        "ModificationTimestamp": "2026-03-27T16:19:04Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24496270_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -56587,6 +57963,31 @@
         "ModificationTimestamp": "2026-07-19T20:35:22Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24546993",
+        "ListingKey": "24546993",
+        "ModificationTimestamp": "2026-07-20T15:39:59Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 8,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24546993_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 17,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -57074,7 +58475,8 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": []
   },
   {
     "BuildingSizeLength": 45,
@@ -58060,6 +59462,148 @@
         "ListingId": "24912218",
         "ListingKey": "24912218",
         "ModificationTimestamp": "2025-12-03T19:19:45Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24912218",
+        "ListingKey": "24912218",
+        "ModificationTimestamp": "2025-12-03T19:50:41Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24912218_1",
+        "UnitLeaseFeatures": [
+          "Vacant"
+        ],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24912218",
+        "ListingKey": "24912218",
+        "ModificationTimestamp": "2025-12-03T19:16:49Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24912218_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24912218",
+        "ListingKey": "24912218",
+        "ModificationTimestamp": "2025-12-03T19:16:49Z",
+        "Order": 3,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24912218_3",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24912218",
+        "ListingKey": "24912218",
+        "ModificationTimestamp": "2025-12-03T19:16:49Z",
+        "Order": 4,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24912218_4",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24912218",
+        "ListingKey": "24912218",
+        "ModificationTimestamp": "2025-12-03T19:16:49Z",
+        "Order": 5,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24912218_5",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "5 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "24912218",
+        "ListingKey": "24912218",
+        "ModificationTimestamp": "2025-12-03T19:16:49Z",
+        "Order": 6,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "24912218_6",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
         "Translations": []
       }
     ]
@@ -60457,6 +62001,31 @@
         "ModificationTimestamp": "2026-03-24T01:27:22Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25089503",
+        "ListingKey": "25089503",
+        "ModificationTimestamp": "2026-03-24T01:13:48Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 5,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25089503_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 16,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -61979,7 +63548,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Unfurnished",
+        "ListingId": "25370170",
+        "ListingKey": "25370170",
+        "ModificationTimestamp": "2026-04-22T22:15:40Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25370170_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 11,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 48,
@@ -62965,6 +64559,146 @@
         "ListingId": "25419645",
         "ListingKey": "25419645",
         "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25419645",
+        "ListingKey": "25419645",
+        "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25419645_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 4,
+        "UnitType": "4 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25419645",
+        "ListingKey": "25419645",
+        "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Order": 2,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25419645_2",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25419645",
+        "ListingKey": "25419645",
+        "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Order": 3,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25419645_3",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25419645",
+        "ListingKey": "25419645",
+        "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Order": 4,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25419645_4",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25419645",
+        "ListingKey": "25419645",
+        "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Order": 5,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25419645_5",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
+        "Translations": []
+      },
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25419645",
+        "ListingKey": "25419645",
+        "ModificationTimestamp": "2026-03-12T20:42:21Z",
+        "Order": 6,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25419645_6",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "3 1/2",
         "Translations": []
       }
     ]
@@ -64235,7 +65969,32 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25665033",
+        "ListingKey": "25665033",
+        "ModificationTimestamp": "2026-07-27T15:29:56Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25665033_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 37.11,
@@ -66222,6 +67981,31 @@
         "ModificationTimestamp": "2026-03-08T16:45:27Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "25709774",
+        "ListingKey": "25709774",
+        "ModificationTimestamp": "2026-03-08T15:51:17Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 4,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 5,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "25709774_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 16,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -66901,7 +68685,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "26431515",
+        "ListingKey": "26431515",
+        "ModificationTimestamp": "2026-03-10T16:03:42Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "26431515_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 5,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -68504,6 +70313,31 @@
         "ModificationTimestamp": "2026-08-03T19:54:44Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "26742818",
+        "ListingKey": "26742818",
+        "ModificationTimestamp": "2026-08-03T19:54:44Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "26742818_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 11,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -69270,7 +71104,36 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "26756717",
+        "ListingKey": "26756717",
+        "ModificationTimestamp": "2026-05-19T18:46:53Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Heating",
+          "Hot water",
+          "Cooling"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 4,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "26756717_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 18,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -70612,6 +72475,31 @@
         "ListingId": "27260825",
         "ListingKey": "27260825",
         "ModificationTimestamp": "2026-01-30T16:31:29Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "27260825",
+        "ListingKey": "27260825",
+        "ModificationTimestamp": "2026-01-30T16:26:55Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "27260825_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -72198,6 +74086,31 @@
         "ModificationTimestamp": "2026-06-01T20:06:14Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "27331295",
+        "ListingKey": "27331295",
+        "ModificationTimestamp": "2026-04-20T23:21:34Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "27331295_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -73286,6 +75199,31 @@
         "ListingId": "27381464",
         "ListingKey": "27381464",
         "ModificationTimestamp": "2026-07-31T19:57:29Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "27381464",
+        "ListingKey": "27381464",
+        "ModificationTimestamp": "2026-07-31T19:57:29Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "27381464_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -75768,6 +77706,31 @@
         "ModificationTimestamp": "2026-04-17T02:35:26Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "27691109",
+        "ListingKey": "27691109",
+        "ModificationTimestamp": "2026-04-17T02:18:31Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 3,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "27691109_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 20,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -76670,7 +78633,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Furnished",
+        "ListingId": "27733979",
+        "ListingKey": "27733979",
+        "ModificationTimestamp": "2026-07-22T21:00:19Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "27733979_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -77129,7 +79117,8 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": []
   },
   {
     "BuildingSizeLength": null,
@@ -78199,7 +80188,35 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "28560764",
+        "ListingKey": "28560764",
+        "ModificationTimestamp": "2026-03-31T17:47:30Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Hot water",
+          "Heating"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "28560764_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 7,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": 26,
@@ -80012,6 +82029,31 @@
         "ModificationTimestamp": "2026-04-22T17:41:32Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "28746348",
+        "ListingKey": "28746348",
+        "ModificationTimestamp": "2026-04-22T17:20:31Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "28746348_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 12,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -80487,7 +82529,34 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": 1475,
+        "Furnished": null,
+        "ListingId": "28853160",
+        "ListingKey": "28853160",
+        "ModificationTimestamp": "2026-07-17T17:55:37Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": "Square Feet",
+        "UnitBathroomsFullTotal": null,
+        "UnitBathroomsPartialTotal": null,
+        "UnitBedroomsTotal": null,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Commercial",
+        "UnitFranchiseYN": null,
+        "UnitKey": "28853160_1",
+        "UnitLeaseFeatures": [
+          "Vacant"
+        ],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": null,
+        "UnitType": "Industrial",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -81114,7 +83183,32 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "28860554",
+        "ListingKey": "28860554",
+        "ModificationTimestamp": "2026-07-10T18:38:56Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "28860554_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 6,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -82625,6 +84719,31 @@
         "ModificationTimestamp": "2026-05-07T19:18:24Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "28891954_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -83580,6 +85699,31 @@
         "ModificationTimestamp": "2026-03-15T21:55:55Z",
         "Translations": []
       }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "9239090",
+        "ListingKey": "9239090",
+        "ModificationTimestamp": "2026-03-15T21:48:06Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 0,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "9239090_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "Primary",
+        "Translations": []
+      }
     ]
   },
   {
@@ -84304,7 +86448,39 @@
       }
     ],
     "Rooms": [],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Unfurnished",
+        "ListingId": "9356297",
+        "ListingKey": "9356297",
+        "ModificationTimestamp": "2026-08-10T14:32:47Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Heating",
+          "Hot water",
+          "Electricity",
+          "Internet",
+          "Cooling",
+          "Water taxes"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 4,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "9356297_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 9,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -85793,7 +87969,37 @@
         ]
       }
     ],
-    "Expenses": []
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": "Partially",
+        "ListingId": "9655813",
+        "ListingKey": "9655813",
+        "ModificationTimestamp": "2026-04-01T19:43:07Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Hot water",
+          "Cooling",
+          "Snow removal",
+          "Water taxes"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "9655813_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   },
   {
     "BuildingSizeLength": null,
@@ -86662,6 +88868,31 @@
         "ListingId": "9751084",
         "ListingKey": "9751084",
         "ModificationTimestamp": "2026-04-16T15:09:51Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "9751084",
+        "ListingKey": "9751084",
+        "ModificationTimestamp": "2026-04-16T15:09:51Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "9751084_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]
@@ -87706,6 +89937,31 @@
         "ListingId": "9884679",
         "ListingKey": "9884679",
         "ModificationTimestamp": "2026-08-07T19:37:34Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "9884679",
+        "ListingKey": "9884679",
+        "ModificationTimestamp": "2026-08-07T19:24:26Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 1,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "9884679_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 3,
+        "UnitType": "Primary",
         "Translations": []
       }
     ]

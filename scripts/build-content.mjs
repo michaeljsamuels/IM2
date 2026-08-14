@@ -15,7 +15,7 @@ import { fileURLToPath } from 'node:url';
 import { LOCALES, ROUTES, listingUrl, agentUrl, makeCtx } from './templates/helpers.mjs';
 import { layout } from './templates/layout.mjs';
 import { homePage } from './templates/home.mjs';
-import { listingsPage } from './templates/listings.mjs';
+import { listingsPage, soldPage } from './templates/listings.mjs';
 import { listingPage } from './templates/listing.mjs';
 import { teamPage, agentPage, contactPage } from './templates/pages.mjs';
 
@@ -82,6 +82,21 @@ for (const locale of LOCALES) {
     ['home', () => homePage(ctx), brandTitle, T('hero.eyebrow'), true],
     ['sale', () => listingsPage(ctx, { status: 'for-sale', title: T('listings.sale.title') }), `${T('listings.sale.title')} — ${site.brand}`, T('hero.eyebrow'), false],
     ['rent', () => listingsPage(ctx, { status: 'for-rent', title: T('listings.rent.title') }), `${T('listings.rent.title')} — ${site.brand}`, T('hero.eyebrow'), false],
+    // Commercial section: multiplex, commercial and industrial assets, split
+    // by transaction type and kept separate from residential listings.
+    ['commercialSale', () => listingsPage(ctx, {
+      status: 'for-sale',
+      assetTypes: ['multiplex', 'commercial', 'industrial', 'land'],
+      title: T('commercial.saleTitle'),
+      serif: T('commercial.serif'),
+    }), `${T('commercial.saleTitle')} — ${site.brand}`, T('commercial.serif'), false],
+    ['commercialRent', () => listingsPage(ctx, {
+      status: 'for-rent',
+      assetTypes: ['multiplex', 'commercial', 'industrial', 'land'],
+      title: T('commercial.rentTitle'),
+      serif: T('commercial.serif'),
+    }), `${T('commercial.rentTitle')} — ${site.brand}`, T('commercial.serif'), false],
+    ['sold', () => soldPage(ctx), `${T('sold.title')} — ${site.brand}`, T('sold.serif'), false],
     ['team', () => teamPage(ctx), `${T('team.title')} — ${site.brand}`, T('about.serif'), false],
     ['contact', () => contactPage(ctx), `${T('contact.title')} — ${site.brand}`, T('contactband.serif'), false],
   ];

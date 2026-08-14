@@ -24,9 +24,23 @@ export function listingCard(ctx, listing) {
      data-thumb="${esc(listing.photos[0] ?? '')}"`
     : '';
 
+  // Revenue snapshot for multiplex/commercial cards: units and gross yield
+  // are what an investor scans for first.
+  const rev = listing.revenue;
+  const revBadge =
+    rev && (rev.units || rev.grossYieldPct)
+      ? `<p class="property-card__revenue">${[
+          rev.units ? `${rev.units} ${esc(T('rev.units').toLowerCase())}` : '',
+          rev.grossYieldPct ? `${rev.grossYieldPct}% ${esc(T('rev.yield').toLowerCase())}` : '',
+        ]
+          .filter(Boolean)
+          .join(' · ')}</p>`
+      : '';
+
   return `
   <a class="property-card" href="${href}"
-     data-price="${listing.price}" data-date="${listing.listedDate ?? ''}" data-hood="${listing.neighbourhood ?? ''}"${geo}>
+     data-price="${listing.price}" data-date="${listing.listedDate ?? ''}" data-hood="${listing.neighbourhood ?? ''}"
+     data-asset="${listing.assetType ?? ''}"${geo}>
     <div class="property-card__media">
       <img src="${listing.photos[0]}" alt="${esc(listing.address)}" loading="lazy" />
       <span class="chip">${esc(listing.type[locale])}</span>
@@ -35,6 +49,7 @@ export function listingCard(ctx, listing) {
     <div class="property-card__body">
       <p class="property-card__price">${esc(fmtPrice(listing, locale, strings))}</p>
       <h3 class="property-card__address">${esc(listing.address)}<span> — ${esc(place)}</span></h3>
+      ${revBadge}
       ${facts.length ? `<ul class="property-card__facts">${facts.join('')}</ul>` : ''}
     </div>
   </a>`;

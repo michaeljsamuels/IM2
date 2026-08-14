@@ -3,6 +3,62 @@ import { icons } from './icons.mjs';
 import { listingCard } from './cards.mjs';
 import { mortgageCalculator } from './calculator.mjs';
 
+/**
+ * Revenue-property panel for multiplex / commercial listings.
+ *
+ * Shows gross yield, NOT a cap rate: Centris supplies gross scheduled income
+ * but no net operating income, and expense data is partial. The distinction is
+ * stated on the page so nobody mistakes one for the other.
+ */
+function revenueBlock(ctx, listing) {
+  const { locale, T } = ctx;
+  const r = listing.revenue;
+  if (!r || (!r.units && !r.grossIncome)) return '';
+
+  const money = (n) =>
+    locale === 'fr' ? `${n.toLocaleString('fr-CA')} $` : `$${n.toLocaleString('en-CA')}`;
+
+  const stats = [
+    r.units ? [T('rev.units'), String(r.units)] : null,
+    r.unitsLeased != null && r.unitsVacant != null
+      ? [T('rev.occupancy'), `${r.unitsLeased} / ${r.unitsVacant}`]
+      : null,
+    r.grossIncome
+      ? [`${T('rev.gross')}${r.grossIncomeYear ? ` (${r.grossIncomeYear})` : ''}`, money(r.grossIncome)]
+      : null,
+    r.grossYieldPct ? [T('rev.yield'), `${r.grossYieldPct}%`] : null,
+    listing.zoning?.[locale] ? [T('rev.zoning'), listing.zoning[locale]] : null,
+  ].filter(Boolean);
+
+  const mix = r.unitMix ?? [];
+
+  return `
+<div class="revenue">
+  <h4>${esc(T('rev.heading'))}</h4>
+  <dl class="revenue__stats">
+    ${stats.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('\n    ')}
+  </dl>
+  ${
+    mix.length
+      ? `<div class="revenue__mix">
+    <h5>${esc(T('rev.unitMix'))}</h5>
+    <ul>
+      ${mix
+        .map(
+          (u) =>
+            `<li><strong>${esc(u.type ?? '—')}</strong>${
+              u.beds != null ? `<span>${u.beds} ${esc(T('card.beds').toLowerCase())}</span>` : ''
+            }</li>`,
+        )
+        .join('\n      ')}
+    </ul>
+  </div>`
+      : ''
+  }
+  ${r.grossYieldPct ? `<p class="revenue__note">${esc(T('rev.yieldNote'))}</p>` : ''}
+</div>`;
+}
+
 /** Property detail page: 1+4 gallery, key facts, tabs, broker card, similar strip. */
 export function listingPage(ctx, listing) {
   const { locale, strings, T, listings, agents, hoods } = ctx;
@@ -73,6 +129,8 @@ export function listingPage(ctx, listing) {
         </ul>
 
         <p class="detail-desc">${esc(listing.description[locale])}</p>
+
+        ${revenueBlock(ctx, listing)}
 
         ${
           listing.coords
