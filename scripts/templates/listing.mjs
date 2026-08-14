@@ -59,6 +59,55 @@ function revenueBlock(ctx, listing) {
 </div>`;
 }
 
+/**
+ * Broker card(s). Listings are frequently co-listed (40% of our inventory),
+ * so every broker on the listing is shown. Team members link to their profile
+ * and show full contact details; co-listing brokers from other agencies are
+ * credited by name only.
+ */
+function brokerCards(ctx, listing) {
+  const { locale, T, agents } = ctx;
+  const brokers = listing.brokers?.length
+    ? listing.brokers
+    : listing.agentId
+      ? [{ id: listing.agentId, name: null, external: false }]
+      : [];
+  if (!brokers.length) return '';
+
+  const heading = brokers.length > 1 ? T('detail.agents.heading') : T('detail.agent.heading');
+
+  const cards = brokers
+    .map((b) => {
+      const a = b.id ? agents.find((x) => x.id === b.id) : null;
+      if (!a) {
+        return b.name
+          ? `<div class="broker-card broker-card--external">
+          <p class="broker-card__name">${esc(b.name)}</p>
+          <p class="broker-card__title">${esc(T('detail.agent.coListing'))}</p>
+        </div>`
+          : '';
+      }
+      return `<div class="broker-card">
+          <a href="${ROUTES.team[locale]}${a.id}/">
+            <img src="${a.photo}" alt="${esc(a.name)}" loading="lazy" />
+            <p class="broker-card__name">${esc(a.name)}</p>
+          </a>
+          <p class="broker-card__title">${esc(a.title[locale])}</p>
+          <p class="broker-card__contact">
+            <a href="tel:+1${a.phone.replaceAll('-', '')}">${icons.phone} ${esc(a.phone)}</a>
+            <a href="mailto:${esc(a.email)}">${icons.mail} ${esc(a.email)}</a>
+          </p>
+        </div>`;
+    })
+    .filter(Boolean);
+
+  return `
+        <div class="broker-cards">
+          <h4>${esc(heading)}</h4>
+          ${cards.join('\n          ')}
+        </div>`;
+}
+
 /** Property detail page: 1+4 gallery, key facts, tabs, broker card, similar strip. */
 export function listingPage(ctx, listing) {
   const { locale, strings, T, listings, agents, hoods } = ctx;
@@ -176,21 +225,7 @@ export function listingPage(ctx, listing) {
       </div>
 
       <aside class="detail-side">
-        ${
-          agent
-            ? `
-        <div class="broker-card">
-          <h4>${esc(T('detail.agent.heading'))}</h4>
-          <img src="${agent.photo}" alt="${esc(agent.name)}" loading="lazy" />
-          <p class="broker-card__name">${esc(agent.name)}</p>
-          <p class="broker-card__title">${esc(agent.title[locale])}</p>
-          <p class="broker-card__contact">
-            <a href="tel:+1${agent.phone.replaceAll('-', '')}">${icons.phone} ${esc(agent.phone)}</a>
-            <a href="mailto:${esc(agent.email)}">${icons.mail} ${esc(agent.email)}</a>
-          </p>
-        </div>`
-            : ''
-        }
+        ${brokerCards(ctx, listing)}
         <form class="inquiry-form" data-inquiry>
           <h4>${esc(T('detail.inquire'))}</h4>
           <input type="text" name="name" placeholder="${esc(T('form.name'))}" required />

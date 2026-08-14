@@ -1,96 +1,328 @@
 {
-  "nav.about": { "en": "About", "fr": "À propos" },
-  "nav.sale": { "en": "For Sale", "fr": "À vendre" },
-  "nav.rent": { "en": "For Rent", "fr": "À louer" },
-  "nav.properties": { "en": "Properties", "fr": "Propriétés" },
-  "nav.commercial": { "en": "Commercial", "fr": "Commercial" },
-  "nav.commercialSale": { "en": "For Sale", "fr": "À vendre" },
-  "nav.commercialRent": { "en": "For Rent", "fr": "À louer" },
-  "nav.sold": { "en": "Sold", "fr": "Vendues" },
-  "nav.listWithUs": { "en": "List With Us", "fr": "Inscrivez votre propriété" },
-  "nav.team": { "en": "Our Team", "fr": "Notre équipe" },
-  "nav.contact": { "en": "Contact", "fr": "Nous joindre" },
-  "nav.menu": { "en": "Menu", "fr": "Menu" },
-  "nav.close": { "en": "Close", "fr": "Fermer" },
-
-  "hero.eyebrow": { "en": "Montréal Luxury Real Estate", "fr": "Immobilier de luxe à Montréal" },
-  "hero.cta": { "en": "View Our Properties", "fr": "Voir nos propriétés" },
-
-  "about.heading": { "en": "Montréal Real Estate, Without Compromise.", "fr": "L'immobilier montréalais, sans compromis." },
-  "about.serif": { "en": "Family owned and operated since 2000.", "fr": "Une entreprise familiale depuis 2000." },
+  "nav.about": {
+    "en": "About",
+    "fr": "À propos"
+  },
+  "nav.sale": {
+    "en": "For Sale",
+    "fr": "À vendre"
+  },
+  "nav.rent": {
+    "en": "For Rent",
+    "fr": "À louer"
+  },
+  "nav.properties": {
+    "en": "Properties",
+    "fr": "Propriétés"
+  },
+  "nav.commercial": {
+    "en": "Commercial",
+    "fr": "Commercial"
+  },
+  "nav.commercialSale": {
+    "en": "For Sale",
+    "fr": "À vendre"
+  },
+  "nav.commercialRent": {
+    "en": "For Rent",
+    "fr": "À louer"
+  },
+  "nav.sold": {
+    "en": "Sold",
+    "fr": "Vendues"
+  },
+  "nav.listWithUs": {
+    "en": "List With Us",
+    "fr": "Inscrivez votre propriété"
+  },
+  "nav.team": {
+    "en": "Our Team",
+    "fr": "Notre équipe"
+  },
+  "nav.contact": {
+    "en": "Contact",
+    "fr": "Nous joindre"
+  },
+  "nav.menu": {
+    "en": "Menu",
+    "fr": "Menu"
+  },
+  "nav.close": {
+    "en": "Close",
+    "fr": "Fermer"
+  },
+  "hero.eyebrow": {
+    "en": "Montréal Luxury Real Estate",
+    "fr": "Immobilier de luxe à Montréal"
+  },
+  "hero.cta": {
+    "en": "View Our Properties",
+    "fr": "Voir nos propriétés"
+  },
+  "about.heading": {
+    "en": "Montréal Real Estate, Without Compromise.",
+    "fr": "L'immobilier montréalais, sans compromis."
+  },
+  "about.serif": {
+    "en": "Family owned and operated since 2000.",
+    "fr": "Une entreprise familiale depuis 2000."
+  },
   "about.body1": {
     "en": "At Immeubles Montria, bespoke service meets high-stakes real estate expertise. From maximizing the yields of multi-unit commercial assets to representing Canada's finest residential estates, our boutique firm delivers hyper-targeted strategies and seamless execution. When you partner with us, you gain direct, uncompromised access to a broker who commands the micro-market and protects your bottom line.",
     "fr": "Chez Immeubles Montria, le service sur mesure rencontre une expertise immobilière de haut niveau. De l'optimisation des rendements d'actifs commerciaux multilogements à la représentation des plus belles propriétés résidentielles au Canada, notre firme boutique livre des stratégies hyper-ciblées et une exécution impeccable. En travaillant avec nous, vous bénéficiez d'un accès direct et sans compromis à un courtier qui maîtrise le micromarché et protège vos intérêts financiers."
   },
-  "about.cta": { "en": "Meet the Team", "fr": "Rencontrez l'équipe" },
-
-  "featured.heading": { "en": "Featured Properties", "fr": "Propriétés vedettes" },
-  "featured.serif": { "en": "Discover your next address.", "fr": "Découvrez votre prochaine adresse." },
-  "featured.cta": { "en": "View All Listings", "fr": "Voir toutes les inscriptions" },
-
-  "team.cta": { "en": "View All Brokers", "fr": "Voir tous les courtiers" },
-
-  "quicklinks.sale": { "en": "For Sale", "fr": "À vendre" },
-  "quicklinks.rent": { "en": "For Rent", "fr": "À louer" },
-  "quicklinks.team": { "en": "Our Team", "fr": "Notre équipe" },
-  "quicklinks.contact": { "en": "Contact", "fr": "Nous joindre" },
-
-  "contactband.heading": { "en": "Let's Talk.", "fr": "Parlons-en." },
-  "contactband.serif": { "en": "Buying, selling, or just curious.", "fr": "Acheter, vendre, ou simplement curieux." },
-
-  "listings.sale.title": { "en": "Properties for Sale", "fr": "Propriétés à vendre" },
-  "listings.rent.title": { "en": "Properties for Rent", "fr": "Propriétés à louer" },
-  "listings.filter.all": { "en": "All neighbourhoods", "fr": "Tous les quartiers" },
-  "listings.filter.neighbourhood": { "en": "Neighbourhood", "fr": "Quartier" },
-  "listings.sort": { "en": "Sort by", "fr": "Trier par" },
-  "listings.sort.recent": { "en": "Most recent", "fr": "Plus récentes" },
-  "listings.sort.priceDesc": { "en": "Price (high to low)", "fr": "Prix (décroissant)" },
-  "listings.sort.priceAsc": { "en": "Price (low to high)", "fr": "Prix (croissant)" },
-  "listings.empty": { "en": "No properties match your filters.", "fr": "Aucune propriété ne correspond à vos filtres." },
-  "listings.count": { "en": "properties", "fr": "propriétés" },
-
-  "card.beds": { "en": "bedrooms", "fr": "chambres" },
-  "card.baths": { "en": "bathrooms", "fr": "salles de bain" },
-  "card.area": { "en": "living area", "fr": "superficie habitable" },
-  "card.perMonth": { "en": "/month", "fr": "/mois" },
-  "status.for-sale": { "en": "For Sale", "fr": "À vendre" },
-  "status.for-rent": { "en": "For Rent", "fr": "À louer" },
-  "status.sold": { "en": "Sold", "fr": "Vendu" },
-  "status.rented": { "en": "Rented", "fr": "Loué" },
-
-  "detail.photos": { "en": "photos", "fr": "photos" },
-  "detail.mls": { "en": "Centris No.", "fr": "No Centris" },
-  "detail.listed": { "en": "Listed", "fr": "Inscrite" },
-  "detail.yearBuilt": { "en": "Year built", "fr": "Année de construction" },
-  "detail.parking": { "en": "Parking", "fr": "Stationnement" },
-  "detail.tab.details": { "en": "Details", "fr": "Détails" },
-  "detail.tab.features": { "en": "Features", "fr": "Caractéristiques" },
-  "detail.tab.rooms": { "en": "Room Details", "fr": "Détails des pièces" },
-  "detail.condoFees": { "en": "Co-ownership fees", "fr": "Frais de copropriété" },
-  "detail.taxMunicipal": { "en": "Municipal taxes", "fr": "Taxes municipales" },
-  "detail.taxSchool": { "en": "School taxes", "fr": "Taxes scolaires" },
-  "detail.inclusions": { "en": "Inclusions", "fr": "Inclusions" },
-  "detail.exclusions": { "en": "Exclusions", "fr": "Exclusions" },
-  "detail.level": { "en": "Level", "fr": "Niveau" },
-  "detail.room": { "en": "Room", "fr": "Pièce" },
-  "detail.dimensions": { "en": "Dimensions", "fr": "Dimensions" },
-  "detail.agent.heading": { "en": "Listing Broker", "fr": "Courtier inscripteur" },
-  "detail.inquire": { "en": "Request a Visit", "fr": "Demander une visite" },
-  "detail.similar": { "en": "You May Also Like", "fr": "Vous aimerez aussi" },
-  "detail.map": { "en": "Location", "fr": "Emplacement" },
-
-  "calc.heading": { "en": "Mortgage Calculator", "fr": "Calculatrice hypothécaire" },
-  "calc.price": { "en": "Property price", "fr": "Prix de la propriété" },
-  "calc.down": { "en": "Down payment", "fr": "Mise de fonds" },
-  "calc.rate": { "en": "Interest rate (%)", "fr": "Taux d'intérêt (%)" },
-  "calc.amort": { "en": "Amortization", "fr": "Amortissement" },
-  "calc.years": { "en": "years", "fr": "ans" },
-  "calc.frequency": { "en": "Payment frequency", "fr": "Fréquence des paiements" },
-  "calc.monthly": { "en": "Monthly", "fr": "Mensuelle" },
-  "calc.biweekly": { "en": "Bi-weekly", "fr": "Aux deux semaines" },
-  "calc.result": { "en": "Estimated payment", "fr": "Paiement estimé" },
-  "calc.loan": { "en": "Mortgage amount", "fr": "Montant du prêt" },
-  "calc.totalInterest": { "en": "Total interest", "fr": "Intérêts totaux" },
+  "about.cta": {
+    "en": "Meet the Team",
+    "fr": "Rencontrez l'équipe"
+  },
+  "featured.heading": {
+    "en": "Featured Properties",
+    "fr": "Propriétés vedettes"
+  },
+  "featured.serif": {
+    "en": "Discover your next address.",
+    "fr": "Découvrez votre prochaine adresse."
+  },
+  "featured.cta": {
+    "en": "View All Listings",
+    "fr": "Voir toutes les inscriptions"
+  },
+  "team.cta": {
+    "en": "View All Brokers",
+    "fr": "Voir tous les courtiers"
+  },
+  "quicklinks.sale": {
+    "en": "For Sale",
+    "fr": "À vendre"
+  },
+  "quicklinks.rent": {
+    "en": "For Rent",
+    "fr": "À louer"
+  },
+  "quicklinks.team": {
+    "en": "Our Team",
+    "fr": "Notre équipe"
+  },
+  "quicklinks.contact": {
+    "en": "Contact",
+    "fr": "Nous joindre"
+  },
+  "contactband.heading": {
+    "en": "Let's Talk.",
+    "fr": "Parlons-en."
+  },
+  "contactband.serif": {
+    "en": "Buying, selling, or just curious.",
+    "fr": "Acheter, vendre, ou simplement curieux."
+  },
+  "listings.sale.title": {
+    "en": "Properties for Sale",
+    "fr": "Propriétés à vendre"
+  },
+  "listings.rent.title": {
+    "en": "Properties for Rent",
+    "fr": "Propriétés à louer"
+  },
+  "listings.filter.all": {
+    "en": "All neighbourhoods",
+    "fr": "Tous les quartiers"
+  },
+  "listings.filter.neighbourhood": {
+    "en": "Neighbourhood",
+    "fr": "Quartier"
+  },
+  "listings.sort": {
+    "en": "Sort by",
+    "fr": "Trier par"
+  },
+  "listings.sort.recent": {
+    "en": "Most recent",
+    "fr": "Plus récentes"
+  },
+  "listings.sort.priceDesc": {
+    "en": "Price (high to low)",
+    "fr": "Prix (décroissant)"
+  },
+  "listings.sort.priceAsc": {
+    "en": "Price (low to high)",
+    "fr": "Prix (croissant)"
+  },
+  "listings.empty": {
+    "en": "No properties match your filters.",
+    "fr": "Aucune propriété ne correspond à vos filtres."
+  },
+  "listings.count": {
+    "en": "properties",
+    "fr": "propriétés"
+  },
+  "card.beds": {
+    "en": "bedrooms",
+    "fr": "chambres"
+  },
+  "card.baths": {
+    "en": "bathrooms",
+    "fr": "salles de bain"
+  },
+  "card.area": {
+    "en": "living area",
+    "fr": "superficie habitable"
+  },
+  "card.perMonth": {
+    "en": "/month",
+    "fr": "/mois"
+  },
+  "status.for-sale": {
+    "en": "For Sale",
+    "fr": "À vendre"
+  },
+  "status.for-rent": {
+    "en": "For Rent",
+    "fr": "À louer"
+  },
+  "status.sold": {
+    "en": "Sold",
+    "fr": "Vendu"
+  },
+  "status.rented": {
+    "en": "Rented",
+    "fr": "Loué"
+  },
+  "detail.photos": {
+    "en": "photos",
+    "fr": "photos"
+  },
+  "detail.mls": {
+    "en": "Centris No.",
+    "fr": "No Centris"
+  },
+  "detail.listed": {
+    "en": "Listed",
+    "fr": "Inscrite"
+  },
+  "detail.yearBuilt": {
+    "en": "Year built",
+    "fr": "Année de construction"
+  },
+  "detail.parking": {
+    "en": "Parking",
+    "fr": "Stationnement"
+  },
+  "detail.tab.details": {
+    "en": "Details",
+    "fr": "Détails"
+  },
+  "detail.tab.features": {
+    "en": "Features",
+    "fr": "Caractéristiques"
+  },
+  "detail.tab.rooms": {
+    "en": "Room Details",
+    "fr": "Détails des pièces"
+  },
+  "detail.condoFees": {
+    "en": "Co-ownership fees",
+    "fr": "Frais de copropriété"
+  },
+  "detail.taxMunicipal": {
+    "en": "Municipal taxes",
+    "fr": "Taxes municipales"
+  },
+  "detail.taxSchool": {
+    "en": "School taxes",
+    "fr": "Taxes scolaires"
+  },
+  "detail.inclusions": {
+    "en": "Inclusions",
+    "fr": "Inclusions"
+  },
+  "detail.exclusions": {
+    "en": "Exclusions",
+    "fr": "Exclusions"
+  },
+  "detail.level": {
+    "en": "Level",
+    "fr": "Niveau"
+  },
+  "detail.room": {
+    "en": "Room",
+    "fr": "Pièce"
+  },
+  "detail.dimensions": {
+    "en": "Dimensions",
+    "fr": "Dimensions"
+  },
+  "detail.agent.heading": {
+    "en": "Listing Broker",
+    "fr": "Courtier inscripteur"
+  },
+  "detail.agents.heading": {
+    "en": "Listing Brokers",
+    "fr": "Courtiers inscripteurs"
+  },
+  "detail.agent.coListing": {
+    "en": "Co-listing broker",
+    "fr": "Courtier collaborateur"
+  },
+  "detail.inquire": {
+    "en": "Request a Visit",
+    "fr": "Demander une visite"
+  },
+  "detail.similar": {
+    "en": "You May Also Like",
+    "fr": "Vous aimerez aussi"
+  },
+  "detail.map": {
+    "en": "Location",
+    "fr": "Emplacement"
+  },
+  "calc.heading": {
+    "en": "Mortgage Calculator",
+    "fr": "Calculatrice hypothécaire"
+  },
+  "calc.price": {
+    "en": "Property price",
+    "fr": "Prix de la propriété"
+  },
+  "calc.down": {
+    "en": "Down payment",
+    "fr": "Mise de fonds"
+  },
+  "calc.rate": {
+    "en": "Interest rate (%)",
+    "fr": "Taux d'intérêt (%)"
+  },
+  "calc.amort": {
+    "en": "Amortization",
+    "fr": "Amortissement"
+  },
+  "calc.years": {
+    "en": "years",
+    "fr": "ans"
+  },
+  "calc.frequency": {
+    "en": "Payment frequency",
+    "fr": "Fréquence des paiements"
+  },
+  "calc.monthly": {
+    "en": "Monthly",
+    "fr": "Mensuelle"
+  },
+  "calc.biweekly": {
+    "en": "Bi-weekly",
+    "fr": "Aux deux semaines"
+  },
+  "calc.result": {
+    "en": "Estimated payment",
+    "fr": "Paiement estimé"
+  },
+  "calc.loan": {
+    "en": "Mortgage amount",
+    "fr": "Montant du prêt"
+  },
+  "calc.totalInterest": {
+    "en": "Total interest",
+    "fr": "Intérêts totaux"
+  },
   "calc.minDown": {
     "en": "Minimum down payment for this price:",
     "fr": "Mise de fonds minimale pour ce prix :"
@@ -107,64 +339,180 @@
     "en": "Estimate only, for illustration. Assumes semi-annual compounding per Canadian convention. Not a mortgage offer or approval — your actual rate and payment will differ. Speak with your broker or lender.",
     "fr": "Estimation à titre indicatif seulement. Calcul avec composition semestrielle selon la convention canadienne. Ne constitue ni une offre ni une approbation hypothécaire — votre taux et votre paiement réels différeront. Consultez votre courtier ou prêteur."
   },
-  "asset.all": { "en": "All", "fr": "Toutes" },
-  "asset.residential": { "en": "Residential", "fr": "Résidentiel" },
-  "asset.multiplex": { "en": "Multiplex", "fr": "Multiplex" },
-  "asset.commercial": { "en": "Commercial", "fr": "Commercial" },
-  "asset.industrial": { "en": "Industrial", "fr": "Industriel" },
-  "asset.land": { "en": "Land", "fr": "Terrain" },
-  "asset.filter": { "en": "Property type", "fr": "Type de propriété" },
-
-  "rev.heading": { "en": "Revenue Property", "fr": "Propriété à revenus" },
-  "rev.units": { "en": "Units", "fr": "Logements" },
-  "rev.occupancy": { "en": "Leased / vacant", "fr": "Loués / vacants" },
-  "rev.gross": { "en": "Gross annual revenue", "fr": "Revenus bruts annuels" },
-  "rev.yield": { "en": "Gross yield", "fr": "Rendement brut" },
+  "asset.all": {
+    "en": "All",
+    "fr": "Toutes"
+  },
+  "asset.residential": {
+    "en": "Residential",
+    "fr": "Résidentiel"
+  },
+  "asset.multiplex": {
+    "en": "Multiplex",
+    "fr": "Multiplex"
+  },
+  "asset.commercial": {
+    "en": "Commercial",
+    "fr": "Commercial"
+  },
+  "asset.industrial": {
+    "en": "Industrial",
+    "fr": "Industriel"
+  },
+  "asset.land": {
+    "en": "Land",
+    "fr": "Terrain"
+  },
+  "asset.filter": {
+    "en": "Property type",
+    "fr": "Type de propriété"
+  },
+  "rev.heading": {
+    "en": "Revenue Property",
+    "fr": "Propriété à revenus"
+  },
+  "rev.units": {
+    "en": "Units",
+    "fr": "Logements"
+  },
+  "rev.occupancy": {
+    "en": "Leased / vacant",
+    "fr": "Loués / vacants"
+  },
+  "rev.gross": {
+    "en": "Gross annual revenue",
+    "fr": "Revenus bruts annuels"
+  },
+  "rev.yield": {
+    "en": "Gross yield",
+    "fr": "Rendement brut"
+  },
   "rev.yieldNote": {
     "en": "Gross yield is gross scheduled revenue divided by list price. It is not a cap rate — operating expenses are not included. Verify all figures independently.",
     "fr": "Le rendement brut correspond aux revenus bruts prévus divisés par le prix demandé. Il ne s'agit pas d'un taux de capitalisation — les dépenses d'exploitation ne sont pas incluses. Vérifiez tous les chiffres de façon indépendante."
   },
-  "rev.unitMix": { "en": "Unit mix", "fr": "Répartition des logements" },
-  "rev.zoning": { "en": "Zoning", "fr": "Zonage" },
-
-  "sold.title": { "en": "Sold Properties", "fr": "Propriétés vendues" },
-  "sold.serif": { "en": "A record of closed transactions.", "fr": "Un registre des transactions conclues." },
-  "sold.empty": { "en": "No closed transactions to display yet.", "fr": "Aucune transaction conclue à afficher pour le moment." },
+  "rev.unitMix": {
+    "en": "Unit mix",
+    "fr": "Répartition des logements"
+  },
+  "rev.zoning": {
+    "en": "Zoning",
+    "fr": "Zonage"
+  },
+  "sold.title": {
+    "en": "Sold Properties",
+    "fr": "Propriétés vendues"
+  },
+  "sold.serif": {
+    "en": "A record of closed transactions.",
+    "fr": "Un registre des transactions conclues."
+  },
+  "sold.empty": {
+    "en": "No closed transactions to display yet.",
+    "fr": "Aucune transaction conclue à afficher pour le moment."
+  },
   "sold.priceNote": {
     "en": "Prices shown are the last list price. Final sale prices are not published under Centris distribution terms.",
     "fr": "Les prix affichés correspondent au dernier prix demandé. Les prix de vente finaux ne sont pas publiés selon les conditions de diffusion Centris."
   },
-
-  "commercial.saleTitle": { "en": "Commercial Properties for Sale", "fr": "Propriétés commerciales à vendre" },
-  "commercial.rentTitle": { "en": "Commercial Properties for Lease", "fr": "Propriétés commerciales à louer" },
-  "commercial.serif": { "en": "Multiplex, industrial and commercial.", "fr": "Multiplex, industriel et commercial." },
-
-  "listings.view.grid": { "en": "Grid", "fr": "Grille" },
-  "listings.view.map": { "en": "Map", "fr": "Carte" },
-  "detail.back": { "en": "All properties", "fr": "Toutes les propriétés" },
-
-  "team.title": { "en": "Our Team", "fr": "Notre équipe" },
-  "agent.listings": { "en": "Active Listings", "fr": "Inscriptions en vigueur" },
-
-  "contact.title": { "en": "Contact Us", "fr": "Nous joindre" },
-  "contact.office": { "en": "Our Office", "fr": "Notre bureau" },
-  "form.name": { "en": "Name", "fr": "Nom" },
-  "form.email": { "en": "Email", "fr": "Courriel" },
-  "form.phone": { "en": "Phone", "fr": "Téléphone" },
-  "form.message": { "en": "Message", "fr": "Message" },
-  "form.iam": { "en": "I am a…", "fr": "Je suis…" },
-  "form.buyer": { "en": "Buyer", "fr": "Acheteur" },
-  "form.seller": { "en": "Seller", "fr": "Vendeur" },
-  "form.tenant": { "en": "Tenant", "fr": "Locataire" },
-  "form.other": { "en": "Other", "fr": "Autre" },
-  "form.send": { "en": "Send", "fr": "Envoyer" },
+  "commercial.saleTitle": {
+    "en": "Commercial Properties for Sale",
+    "fr": "Propriétés commerciales à vendre"
+  },
+  "commercial.rentTitle": {
+    "en": "Commercial Properties for Lease",
+    "fr": "Propriétés commerciales à louer"
+  },
+  "commercial.serif": {
+    "en": "Multiplex, industrial and commercial.",
+    "fr": "Multiplex, industriel et commercial."
+  },
+  "listings.view.grid": {
+    "en": "Grid",
+    "fr": "Grille"
+  },
+  "listings.view.map": {
+    "en": "Map",
+    "fr": "Carte"
+  },
+  "detail.back": {
+    "en": "All properties",
+    "fr": "Toutes les propriétés"
+  },
+  "team.title": {
+    "en": "Our Team",
+    "fr": "Notre équipe"
+  },
+  "agent.listings": {
+    "en": "Active Listings",
+    "fr": "Inscriptions en vigueur"
+  },
+  "contact.title": {
+    "en": "Contact Us",
+    "fr": "Nous joindre"
+  },
+  "contact.office": {
+    "en": "Our Office",
+    "fr": "Notre bureau"
+  },
+  "form.name": {
+    "en": "Name",
+    "fr": "Nom"
+  },
+  "form.email": {
+    "en": "Email",
+    "fr": "Courriel"
+  },
+  "form.phone": {
+    "en": "Phone",
+    "fr": "Téléphone"
+  },
+  "form.message": {
+    "en": "Message",
+    "fr": "Message"
+  },
+  "form.iam": {
+    "en": "I am a…",
+    "fr": "Je suis…"
+  },
+  "form.buyer": {
+    "en": "Buyer",
+    "fr": "Acheteur"
+  },
+  "form.seller": {
+    "en": "Seller",
+    "fr": "Vendeur"
+  },
+  "form.tenant": {
+    "en": "Tenant",
+    "fr": "Locataire"
+  },
+  "form.other": {
+    "en": "Other",
+    "fr": "Autre"
+  },
+  "form.send": {
+    "en": "Send",
+    "fr": "Envoyer"
+  },
   "form.disabled": {
     "en": "Form delivery is not wired up yet — call or email us instead.",
     "fr": "L'envoi du formulaire n'est pas encore activé — appelez-nous ou écrivez-nous."
   },
-
-  "footer.follow": { "en": "Follow Along", "fr": "Suivez-nous" },
-  "footer.getInTouch": { "en": "Get In Touch", "fr": "Contactez-nous" },
-  "footer.rights": { "en": "All rights reserved.", "fr": "Tous droits réservés." },
-  "footer.privacy": { "en": "Privacy Policy", "fr": "Politique de confidentialité" }
+  "footer.follow": {
+    "en": "Follow Along",
+    "fr": "Suivez-nous"
+  },
+  "footer.getInTouch": {
+    "en": "Get In Touch",
+    "fr": "Contactez-nous"
+  },
+  "footer.rights": {
+    "en": "All rights reserved.",
+    "fr": "Tous droits réservés."
+  },
+  "footer.privacy": {
+    "en": "Privacy Policy",
+    "fr": "Politique de confidentialité"
+  }
 }

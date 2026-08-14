@@ -34,6 +34,20 @@
     },
     "listedDate": "2026-05-07",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Stunning 1,200+ sq. ft. unit in Little Burgundy. This rare 3-BR, 1.5-bath condo was recently renovated and repainted, featuring a designer quartz kitchen and modern bathroom. Highlights include a cozy gas fireplace, private indoor parking, and a storage locker. Enjoy the outdoors with two private balconies (front and back) offering city views. Steps from the Lachine Canal, Atwater Market, and Metro Lionel-Groulx. Well-maintained building with low fees. Note: Property is currently rented at $3,500/month. Occupancy available as of July 1, 2026. A must-see for those seeking a turnkey home in a prime location.",
       "fr": "Superbe unité de 1 200+ pc au coeur de la Petite-Bourgogne. Ce rare condo de 3 CAC et 1.5 SDB a été récemment rénové et repeint, incluant une cuisine de designer en quartz et une salle de bain moderne. Points saillants : foyer au gaz, garage intérieur privé et espace de rangement. Profitez de deux balcons privés (avant et arrière) avec vue sur la ville. À deux pas du Canal Lachine, du Marché Atwater et du métro Lionel-Groulx. Immeuble bien entretenu avec bas frais de condo. Note : Propriété louée à 3 500 $/mois. Occupation disponible dès le 1er juillet 2026. Une opportunité clé en main."
@@ -296,6 +310,20 @@
     "parking": null,
     "listedDate": "2026-07-10",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Heritage St-Andrew | 430 Rue St-Pierre #402  Experience Old Montreal living at its finest in this newly converted 1,500 sq. ft. residence. Located on a quiet, iconic cobblestone street, this bright 4th-floor walk-up seamlessly blends historic character with modern luxury.  Features:  Open-concept layout with soaring ceilings & recessed lighting  High-end kitchen with premium appliances  Luxurious bathrooms & spacious walk-in closet  Finest materials & storage locker included  Steps from the Notre-Dame Basilica and the city's best dining. Available now for immediate occupancy.  Book your private visit today!",
       "fr": "Gemini said Héritage St-Andrew | 430, rue St-Pierre #402  Vivez le Vieux-Montréal à son meilleur dans cette unité de 1 500 pi² récemment convertie. Situé sur une rue pavée emblématique et paisible, ce lumineux condo au 4e étage allie cachet historique et luxe moderne.  Atouts :  Aire ouverte, hauts plafonds et lumières encastrées  Cuisine haut de gamme avec électroménagers inclus  Salles de bain luxueuses et grand walk-in  Matériaux nobles et espace de rangement  À deux pas de la basilique Notre-Dame et des meilleurs restos. Disponible dès maintenant pour occupation immédiate.  Réservez votre visite privée dès aujourd'hui !"
@@ -424,6 +452,20 @@
     "parking": null,
     "listedDate": "2026-07-17",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Customize and build out your ideal space.  AAA location, available for long term lease.  Close proximity to highway 40.  Easily accessible by public transport (I.E ; Bus or Metro).Ceiling height over 12 feet. Perfect for Distribution/import/export with easy access to 3 loading docks.  Can be converted to closed offices. Ideal for office space. Close proximity to coffee shops, restaurants, shops  Large open space easily convertible according to your company's needs. ",
       "fr": "Personnalisez et aménagez votre espace idéal. Emplacement AAA, disponible pour une location à long terme.  À proximité immédiate de l'autoroute 40.  Facilement accessible par les transports en commun (bus ou métro). Hauteur sous plafond de plus de 3,65 mètres. Parfait pour la distribution/l'importation/l'exportation avec un accès facile à 3 quais de chargement.  Peut être converti en bureaux fermés. Idéal pour des espaces de bureaux. À proximité immédiate de cafés, restaurants et magasins.  "
@@ -535,6 +577,14 @@
     },
     "listedDate": "2026-04-23",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Impressive 3-bedroom property nestled on the mountainside, offering spectacular views of the surrounding neighborhood. The spacious interior features a bright living room with high ceilings, a wood-burning fireplace, and elegant hardwood floors, creating a warm and inviting atmosphere. The primary bedroom includes a private balcony. The kitchen is both functional and inviting, complete with a central island and adjoining dining area. Step outside to enjoy a huge patio terrace, perfect for entertaining, set on a private, wooded lot of over 14,000 sq. ft. Ideally located close to all services and amenities.",
       "fr": "Superbe propriété de 3 chambres à coucher nichée sur le flanc de la montagne, offrant une vue spectaculaire sur le quartier environnant. L'intérieur spacieux se distingue par un salon à plafond cathédrale avec foyer au bois et planchers de bois, créant une ambiance chaleureuse et élégante. La chambre principale bénéficie d'un balcon privé. La cuisine, fonctionnelle et conviviale, est dotée d'un îlot central et s'ouvre sur une salle à manger lumineuse. À l'extérieur, profitez d'une immense terrasse idéale pour recevoir, le tout sur un terrain boisé et intime de plus de 14 000 pi². Emplacement recherché, à proximité de tous les services."
@@ -820,6 +870,14 @@
     "parking": null,
     "listedDate": "2026-03-31",
     "agentId": "marina-pietrantonio",
+    "brokers": [
+      {
+        "key": "118490",
+        "id": "marina-pietrantonio",
+        "name": "Marina Pietrantonio",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Amazing 3 bedroom apartment in the heart of Outremont! Located at the corner of the prestigious Bernard Avenue, it is walking distance from restaurants, grocery stores, pharmacies, schools and all public transport including Outremont Metro. The original mouldings and charm were preserved while still being up to date with all 5 appliances included, as well as heating and hot water. No pets please",
       "fr": " Charmant appartement avec trois chambres a coucher au coeur d'Outremont. Situé sur le coin de de l'avenue Bernard, il est à proximité des restaurants, épiceries, écoles et tous les transports publiques incluant le Métro Outremont. Toutes les moulures originales ont été preserver avec une mise à jour incluant les 5 électroménagers, et eau chaude et chauffage aussi. Pas d'animaux "
@@ -1009,6 +1067,20 @@
     "parking": null,
     "listedDate": "2025-11-18",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      },
+      {
+        "key": "120458",
+        "id": null,
+        "name": "Lieba Jacobson",
+        "external": true
+      }
+    ],
     "description": {
       "en": "AAA Location, versatile 9,300 sq. ft. basement commercial space featuring 9-foot ceilings and a wide-open layout ideal for a variety of uses, from storage and distribution to production, studio space etc. Minimum 5 year lease. Additional street-level commercial space and office suites are available for lease upstairs. Located in a strategic area near downtown with quick access to Highway 40, this property offers convenience for employees, clients, and deliveries alike. With its flexible layout and strong logistical advantages, this space presents an excellent opportunity for businesses.",
       "fr": "Espace commercial polyvalent de 860 m² au sous-sol, avec des plafonds de 2,75 m et un agencement ouvert, idéal pour divers usages, du stockage et de la distribution à la production, en passant par les studios, etc. Des espaces commerciaux supplémentaires au rez-de-chaussée et des bureaux à l'étage sont disponibles à la location, ce qui permet aux entreprises de configurer la combinaison idéale d'espaces de travail et d'espaces opérationnels. Située dans un quartier stratégique près du centre-ville, avec un accès rapide à l'autoroute 40, cette propriété offre un grand confort aux employés, aux clients et aux livreurs. "
@@ -1092,6 +1164,14 @@
     },
     "listedDate": "2026-07-23",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "More than a residence, this is a private retreat in the heart of Old Montréal. One of only four residences in a meticulously restored boutique building, this exceptional fully furnished two-storey home offers over 2,200 sq. ft. of refined living space, two luxurious ensuite bedrooms, and a stunning private rooftop terrace with BBQ. Thoughtfully curated with designer furnishings and timeless finishes, it seamlessly blends historic character with contemporary luxury, just steps from Montréal's finest restaurants, boutiques and downtown.",
       "fr": "Bien plus qu'une résidence, cette propriété est un véritable havre de paix au coeur du Vieux-Montréal. L'une des quatre résidences d'un immeuble boutique méticuleusement restauré, cette demeure entièrement meublée sur deux niveaux offre plus de 2 200 pi² d'espaces raffinés, deux chambres avec salles de bains attenantes ainsi qu'une spectaculaire terrasse privée sur le toit avec BBQ. Un mariage exceptionnel entre le cachet historique et le luxe contemporain, à quelques pas des meilleurs restaurants, boutiques et du centre-ville."
@@ -1249,6 +1329,20 @@
     },
     "listedDate": "2026-04-17",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Experience the pinnacle of Upper Westmount living in this exceptional residence, boasting some of the most spectacular panoramic city views in the area. Nestled on a prestigious, quiet street near St. Joseph's Oratory, this home blends timeless Art Deco character with extensive high-end renovations. Enjoy an open-concept main floor, a chef's kitchen with Miele appliances, and a sun-drenched solarium leading to a massive terrace. Features include a luxurious master suite with a skylit spa bath, a walk-out garden level, and a landscaped oasis. Fully updated systems, new flooring, and a heated double garage. ",
       "fr": "Sommet de Westmount : résidence d'exception offrant des vues panoramiques spectaculaires. Alliant charme Art déco et rénovations haut de gamme (2019-2021), cette demeure clé en main se situe sur une rue prestigieuse près de l'Oratoire. Espace de vie ouvert, cuisine de chef avec appareils Miele et vaste terrasse reconstruite. La suite principale dispose d'une salle de bain spa avec puits de lumière. Rez-de-jardin polyvalent donnant sur une oasis paysagée. Planchers chauffants, systèmes modernisés, garage double chauffé et finitions de luxe. Une opportunité rare alliant confort moderne et sérénité. "
@@ -1636,6 +1730,20 @@
     "parking": null,
     "listedDate": "2026-07-31",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "3-BD Gem Facing Parc Marguerite-Bourgeoys  Rare find in Pointe-St-Charles! This bright 2nd-floor divided condo combines historic charm and modern design. Set on a quiet street in a 3-unit building, it features high ceilings, hardwood floors, a renovated kitchen, and an updated bath.  Enjoy park views from the front balcony or relax on the private back terrace.  Highlights:  3 spacious bedrooms  Turn-key (renovations since 2021)  Condo fees include heating  Huge basement storage locker  Walk to Wellington St. shops & dining  Great school & daycare area",
       "fr": "3 CH face au parc Marguerite-Bourgeoys  Rareté à Pointe-St-Charles ! Ce condo divisé lumineux au 2e étage allie cachet d'époque et design moderne. Rue paisible, immeuble de 3 unités, hauts plafonds, planchers de bois, cuisine et sdb rénovées.  Vue sur le parc depuis le balcon avant et terrasse arrière privée.  Atouts :  3 chambres spacieuses  Clé en main (rénovations depuis 2021)  Frais de condo incluent le chauffage  Grand rangement au sous-sol  À deux pas des commerces de la rue Wellington  Excellent secteur pour écoles et garderies"
@@ -1843,6 +1951,14 @@
     },
     "listedDate": "2026-04-21",
     "agentId": "marina-pietrantonio",
+    "brokers": [
+      {
+        "key": "118490",
+        "id": "marina-pietrantonio",
+        "name": "Marina Pietrantonio",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Modern three-bedroom undivided condo on two floors. Unit ideally located in the heart of Villeray--one of Montréal's most sought-after neighbourhoods! The building has been fully renovated from top to bottom, including flooring, kitchen, bathroom, electrical and plumbing, windows, roof, and so much more! Just steps from cafés, restaurants, Jean-Talon Market, De Castelnau metro, Little Italy, Jarry Park, and everything Villeray has to offer.",
       "fr": "Magnifique condo moderne de trois chambres à coucher sur deux étages, idéalement situé au coeur de Villeray, l'un des quartiers les plus prisés de Montréal! L'immeuble a été entièrement rénové, du sol au plafond : planchers, cuisine, salle de bain, électricité et plomberie, fenêtres, toiture et bien plus encore! À deux pas des cafés, restaurants, du marché Jean-Talon, du métro De Castelnau, de la Petite Italie, du parc Jarry et de tout ce que Villeray a à offrir."
@@ -2101,6 +2217,20 @@
     },
     "listedDate": "2026-01-30",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Stunning condo at prestigious Redpath Lofts, along the Lachine Canal. Soaring 12-ft ceilings, premium finishes, abundant light. Large master bedroom w/ walk-in closet & ensuite. Open living/dining/gourmet kitchen perfect for entertaining. Guest half-bath + ample storage.Includes: 1 indoor parking space + exclusive canal dock parking. Full Kitec-to-copper plumbing upgrade ($50k reno, invoice avail.) Prime location: steps to shops, dining, transit & canal paths.",
       "fr": "Plafonds hauts (12 - FT), finitions haut de gamme, lumière abondante. Grande chambre principale avec dressing et salle de bains attenante. Salon/salle à manger/cuisine gastronomique ouverte, idéale pour recevoir. Salle d'eau pour invités + nombreux rangements. Comprend : 1 place de parking intérieur + parking exclusif sur le quai du canal. Rénovation complète de la plomberie (Kitec vers cuivre) (50 000 $ de rénovation, facture disponible)."
@@ -2336,6 +2466,14 @@
     },
     "listedDate": "2026-05-19",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Located within the iconic Gleneagles, this exceptional two-storey penthouse is currently undergoing a complete designer renovation blending timeless architecture with a refined contemporary aesthetic. Be the very first to live in this one-of-a-kind condo, available August 1st.  Spanning two levels, the unit offers 4 spacious bedrooms, each with its own private ensuite bathroom, in addition to an elegant powder room. The interiors have been thoughtfully curated with a focus on sophisticated materials, warm textures, and dramatic yet inviting design. ",
       "fr": "Située dans le prestigieux Gleneagles, ce penthouse exceptionnelle sur deux étages est actuellement en cours de rénovation complète, mettant en valeur un design raffiné qui marie le cachet architectural intemporel de l'immeuble à une esthétique contemporaine élégante. Soyez les tout premiers à habiter ce condo unique en son genre, disponible à compter du 1er août.  Répartie sur deux niveaux, l'unité offre 4 spacieuses chambres à coucher, chacune dotée de sa propre salle de bain attenante, en plus d'une élégante salle d'eau. Les intérieurs ont été soigneusement pensés avec une attention particulière portée aux matériaux sophistiqués."
@@ -2463,6 +2601,14 @@
     "parking": null,
     "listedDate": "2026-08-03",
     "agentId": "kayla-samuels",
+    "brokers": [
+      {
+        "key": "106794",
+        "id": "kayla-samuels",
+        "name": "Kayla Samuels",
+        "external": false
+      }
+    ],
     "description": {
       "en": "This stunning 3-level townhouse condo in Montreal's Shaughnessy Village combines modern comfort with historic charm, featuring 2 bedrooms, 2+1 bathrooms, and versatile living spaces. At the Garden level Den and full bathroom make this an ideal space for private offfice, guest bedroom or Den.   Ideally located between Guy and Atwater metro stations, it offers breathtaking city and park views, plus easy access to trendy shops, restaurants, and major universities--recently updated and ready to move in!",
       "fr": "Ce superbe condo townhouse sur 3 niveaux, situé dans le quartier historique de Shaughnessy Village à Montréal, allie confort moderne et charme d'antan, avec 2 chambres, 2+1 salles de bains et des espaces de vie polyvalents. Le salon au niveau jardin offre la flexibilité de faire un bureau privé, salon ou chambre d'invité avec son propre salle de bain complete.   Idéalement situé entre les stations de métro Guy et Atwater, il offre des vues imprenables sur la ville et le parc, tout en étant à proximité des magasins branchés, des restaurants et des grandes universités--récemment mis à jour et prêt à emménager !"
@@ -2732,6 +2878,20 @@
     },
     "listedDate": "2026-03-10",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Beautiful new construction 2BED 2BATH at 1188 Union. High end finishings, brand new appliances: Fridge, stove, dishwasher, W/D. Beautiful rooftop terrace and outdoor pool. Condo comes with an interior parking spot included as well as a private balcony. Furniture is not included.",
       "fr": "Magnifique construction neuve 2CBED 2BATH au 1188 Union. Finitions haut de gamme, appareils électroménagers neufs : Réfrigérateur, cuisinière, lave-vaisselle, lave-linge. Belle terrasse sur le toit et piscine extérieure. Le condo comprend une place de stationnement intérieur ainsi qu'un balcon privé. Le mobilier n'est pas inclus."
@@ -2879,6 +3039,14 @@
     },
     "listedDate": "2026-03-08",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Prime location facing Langhorne Park! Meticulously maintained, sun-filled townhouse offering 2,391 sq. ft. of living space. Features 5 spacious bedrooms, 4.5 bathrooms, a private fenced backyard, and a double garage. Hardwood floors throughout, high ceilings on all three levels, central heat pump, and a bright open-concept layout that fills the home with natural light. A perfect blend of comfort, space, and modern upgrades.",
       "fr": "Emplacement de choix face au parc Langhorne! Superbe maison de ville soigneusement entretenue offrant 2 391 pi² d'espace habitable. Elle comprend 5 grandes chambres, 4 salles de bain et une salle d'eau, une cour arrière privée clôturée et un garage double. Planchers de bois franc partout, plafonds élevés sur trois niveaux, thermopompe centrale et aire de vie à concept ouvert baignée de lumière naturelle. Un parfait équilibre entre espace, confort et modernité."
@@ -3208,6 +3376,14 @@
     },
     "listedDate": "2026-07-27",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Welcome to 35 Avenue Chesterfield. This charming Victorian style apartment is located on the corner of Chesterfield and Prince Albert, nestled a stone's throw from a beautiful park and all the amenities and services of Sherbrooke and the Victoria Village. The residence features high ceilings and can accommodate a minimum of three bedrooms and has three full bathrooms. Additional highlights include a lovely terrace off of the kitchen, a street level basement with family room and an abundance of storage.  Do not miss out on this gem! ",
       "fr": "Bienvenue au 35 avenue Chesterfield. Ce charmant appartement de style victorien est situé à l'angle de Chesterfield et Prince Albert, à deux pas d'un magnifique parc et de toutes les commodités et services de Sherbrooke et du Village Victoria. La résidence présente de hauts plafonds et peut accueillir un minimum de trois chambres à coucher et trois salles de bain complètes. Les autres points forts comprennent une belle terrasse à partir de la cuisine, un sous-sol au niveau de la rue avec une salle familiale et une abondance d'espace de rangement.  Ne manquez pas ce bien! "
@@ -3428,6 +3604,20 @@
     "parking": null,
     "listedDate": "2026-03-12",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "This 6-plex is a rare gem in one of Montreal's most desirable neighborhood, combining historic charm with modern upgrades. Don't miss your chance to own a turnkey investment property with strong rental potential. Contact us today for more details. 2 Metro stations walking distance from the property. ",
       "fr": "Ce complexe de six logements est un joyau rare dans l'un des quartiers les plus prisés de Montréal, alliant charme historique et rénovations modernes. Ne manquez pas cette occasion d'acquérir un immeuble de placement clé en main offrant un fort potentiel locatif. Contactez-nous dès aujourd'hui pour plus de détails. 2 stations de métro accessibles à pied depuis la propriété."
@@ -3598,6 +3788,14 @@
     },
     "listedDate": "2026-04-22",
     "agentId": "michael-lashchuk",
+    "brokers": [
+      {
+        "key": "121452",
+        "id": "michael-lashchuk",
+        "name": "Michael Lashchuk",
+        "external": false
+      }
+    ],
     "description": {
       "en": "",
       "fr": ""
@@ -3827,6 +4025,20 @@
     },
     "listedDate": "2026-03-26",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "A sun-filled Westmount gem, fully renovated and move-in ready. This semi-detached home features a redone roof (2018), new central A/C (2020), and a refreshed walkway/driveway (2023) with 2-car parking. Highlights include a stunning basement fully renovated (2017) with a private sauna, new hardwood floors throughout, and 3+1 updated bathrooms throughout the home. Enjoy a private backyard with a renovated deck (2022) off the kitchen. Modern comfort meets classic charm with new windows (2024), Hunter Douglas blinds, and upgraded insulation (2025). A rare, meticulously maintained opportunity.",
       "fr": "Bijou semi-détaché au coeur de Westmount, baigné de lumière et clé en main. Entièrement rénovée : toit (2018), clim centrale (2020) et entrée/allée prestigieuse (2023) offrant 2 stationnements. Sous-sol refait (2017) avec sauna privé, nouveaux planchers de bois franc et 3+1 salles de bain modernisées. Profitez d'une cour privée avec terrasse refaite (2022) attenante à la cuisine. Confort optimal avec fenêtres neuves (2024), stores Hunter Douglas et isolation supérieure (2025). Une propriété impeccablement entretenue alliant luxe et tranquillité. Une opportunité rare à ne pas manquer."
@@ -4180,6 +4392,20 @@
     },
     "listedDate": "2025-12-03",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "685 16e Avenue, Lachine -- $1,599,000 Rare brick 6-plex in the heart of Lachine! Ideal mix: 1×3½, 4×4½, 1×5½. 3 fully renovated units (2 already leased at top rents), 3 with solid long-term tenants. Stable income + strong value-add potential. Steps to Lachine Hospital, parks, shops & transit. Separate hydro, great condition, timeless charm. Perfect for investors or owner-occupant.",
       "fr": "685, 16e Avenue, Lachine -- 1 599 000 $ Rare immeuble en brique de 6 logements au coeur de Lachine ! Combinaison idéale : 1×3½, 4×4½, 1×5½. 3 logements entièrement rénovés (2 déjà loués à des loyers élevés), 3 avec des locataires solides à long terme. Revenu stable + fort potentiel de plus-value. À quelques pas de l'hôpital de Lachine, des parcs, des commerces et des transports en commun. Électricité séparée, excellent état, charme intemporel. Parfait pour les investisseurs ou les propriétaires occupants."
@@ -4379,6 +4605,20 @@
     "parking": null,
     "listedDate": "2025-11-18",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      },
+      {
+        "key": "120458",
+        "id": null,
+        "name": "Lieba Jacobson",
+        "external": true
+      }
+    ],
     "description": {
       "en": "Ground-Floor Commercial Space for Lease -- High Ceilings, Flexible Layout, Prime Location. Offering approximately 4,944 sq. ft. of ground-floor commercial space with impressive 19.2-foot ceiling height, this open-concept area provides exceptional versatility for a wide range of uses. The expansive layout allows incoming tenants to design and customize the space to meet their operational needs. The building also features additional basement commercial space and office suites on the upper floor available for lease, providing the opportunity to combine areas for storage, administration, or expanded operations.",
       "fr": "Espace commercial au rez-de-chaussée à louer - Hauts plafonds, agencement flexible, emplacement privilégié. Offrant environ 458 m² d'espace commercial au rez-de-chaussée avec une hauteur sous plafond impressionnante de 5,8 mètres, cet espace ouvert offre une polyvalence exceptionnelle pour un large éventail d'utilisations. L'agencement spacieux permet aux nouveaux locataires de concevoir et de personnaliser l'espace en fonction de leurs besoins opérationnels. Le bâtiment comprend également des espaces commerciaux supplémentaires au sous-sol et des bureaux à l'étage supérieur disponibles à la location."
@@ -4458,6 +4698,20 @@
     },
     "listedDate": "2026-07-20",
     "agentId": null,
+    "brokers": [
+      {
+        "key": "91649",
+        "id": null,
+        "name": "Joseph Montanaro",
+        "external": true
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "One of Westmount's rarest and most prestigious estates. Characterized by a massive 21,000 sqft corner lot backing onto King George (Murray Hill) park. A stunning mansion with over 10,000 sqft of livable interior space. Remarkable Victorian character abundant throughout the estate. The iconic greenhouse and lush grounds offer unparalleled curb appeal and endless possibilities to a potential new owner. Double garage, detached & heated. Significant renovations executed between 2020-2021.",
       "fr": "L'une des propriétés les plus rares et les plus prestigieuses de Westmount. Caractérisé par un énorme terrain de coin de 21 000 pieds carrés donnant sur le parc King George (Murray Hill). Un superbe manoir avec plus de 10 000 pi2 d'espace intérieur habitable. Le caractère victorien remarquable est omniprésent dans la propriété. La serre emblématique et le terrain luxuriant offrent un attrait incomparable et des possibilités infinies à un nouveau propriétaire potentiel. Garage double, détaché et chauffé. D'importantes rénovations ont été effectuées entre 2020 et 2021."
@@ -4862,6 +5116,14 @@
     },
     "listedDate": "2026-03-28",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Very sunny top-floor unit featuring a spacious mezzanine and a veranda with stunning south-facing city views, offering abundant natural light throughout the day. Recently updated open-concept kitchen with brand-new appliances, complemented by mostly new windows. A bright, turnkey condo--one visit will convince!",
       "fr": "Unité au dernier étage, très ensoleillée et lumineuse, avec une grande mezzanine et une véranda offrant une vue dégagée orientée plein sud sur la ville, baignée de lumière naturelle toute la journée. Cuisine à aire ouverte récemment rénovée avec électroménagers neufs, la majorité des fenêtres ont été remplacées. Condo clé en main -- une visite saura vous convaincre !"
@@ -5047,6 +5309,14 @@
     "parking": null,
     "listedDate": "2026-06-11",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Beautiful two-bedroom (4 ½) corner unit condo of 787 sq.ft., filled with natural light, ideally located in the heart of Plateau-Mont-Royal in a building built in 2013. Includes appliances, storage space and a bicycle parking spot. Well soundproofed for optimal comfort, within walking distance to shops and the iconic Parc La Fontaine. Don't wait to discover this rare gem on the Plateau Mont-Royal!",
       "fr": "Magnifique condo de 2 chambres (4 ½) de 787 pi², baigné de lumière naturelle, idéalement situé au coeur du Plateau-Mont-Royal dans un immeuble construit en 2013. Électroménagers inclus, espace de rangement et stationnement pour vélos. Excellente insonorisation pour un confort optimal. À distance de marche des commerces et du célèbre parc La Fontaine. Ne manquez pas cette perle rare du Plateau-Mont-Royal!"
@@ -5228,6 +5498,20 @@
     },
     "listedDate": "2026-05-12",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Unveil this exquisitely updated condo in the prestigious EVOLO 1, where sophisticated design meets unparalleled elegance. Perfectly positioned in a coveted location, it boasts mesmerizing panoramic views of the city skyline and tranquil waterways, harmoniously blending urban energy with serene beauty. Every element has been thoughtfully curated, featuring premium materials, impeccable finishes, and a modern yet inviting ambiance. Tailored for those who cherish style, comfort, and breathtaking vistas, this condo is an extraordinary masterpiece that demands your attention. Don't miss the chance to own this rare gem!",
       "fr": "Découvrez cet appartement superbement rénové dans le prestigieux EVOLO 1, où un design sophistiqué rencontre une élégance inégalée. Idéalement situé dans un emplacement très convoité, il offre une vue panoramique fascinante sur les toits de la ville et les cours d'eau paisibles, alliant harmonieusement l'énergie urbaine à une beauté sereine. Chaque élément a été soigneusement sélectionné, avec des matériaux haut de gamme, des finitions impeccables et une ambiance moderne et accueillante. Conçu pour ceux qui apprécient le style, le confort et les vues à couper le souffle, cet appartement est un chef-d'oeuvre extraordinaire. "
@@ -5466,6 +5750,20 @@
     "parking": null,
     "listedDate": "2026-06-09",
     "agentId": "michelle-johnson",
+    "brokers": [
+      {
+        "key": "112818",
+        "id": "michelle-johnson",
+        "name": "Michelle Johnson",
+        "external": false
+      },
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "This fully furnished apartment, located on the first floor in a storey stone building, offers unique features such as: - Plenty of storage. - Lots of light and brightness. - Beautiful living room, open to the dining area and the kitchen. - Safe and well managed building. - Washer and dryer, in laundry room located on the same floor. - Balcony - Heating and hot water included - AC included and electricity - Located in the Plateau Mont-Royal, in the heartbeat of Milton Park. Walkscore is 98 and you will find all services at your door step. McGill University, Concordia University, Mont-Royal, 5 min walk to Metro Place des Arts. ",
       "fr": "Ce logement entièrement meublé, situé au premier étage d'un immeuble en pierre de trois étages, offre des caractéristiques uniques, notamment : Beaucoup d'espaces de rangement. Une excellente luminosité naturelle. Un magnifique salon à aire ouverte sur la salle à manger et la cuisine. Un immeuble sécuritaire et bien géré. Laveuse et sécheuse dans une salle de lavage située sur le même étage. Balcon. Chauffage et eau chaude inclus. Climatisation et électricité incluses. Situé sur le Plateau-Mont-Royal, au coeur du secteur Milton-Parc, cet appartement bénéficie d'un emplacement exceptionnel. "
@@ -5612,6 +5910,14 @@
     "parking": null,
     "listedDate": "2026-04-30",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Renovated three-bedroom apartment centrally located in the neighbourhood of Ville-Marie. The apartment features open concept kitchen and living room, three bedrooms, one bathroom, two balconies, and is conveniently located near all services. Easy access to public transportation, old port of Montreal, CHUM, Multimedia/Radio Can, restaurants, cafes, groceries, , parks and much more - Perfect for those seeking a mix of historic charm and modern amenities. ",
       "fr": "Appartement rénové de trois chambres à coucher, idéalement situé au coeur du quartier Ville-Marie. Il comprend une cuisine et un salon à aire ouverte, trois chambres, une salle de bain, deux balcons et bénéficie d'un emplacement privilégié à proximité de tous les services. Accès facile aux transports en commun, au Vieux-Port de Montréal, au CHUM, à Multimédia/Radio-Canada, aux restaurants, cafés, épiceries, parcs et bien plus encore. Parfait pour ceux qui recherchent un mélange de charme historique et de commodités modernes."
@@ -5759,6 +6065,14 @@
     "parking": null,
     "listedDate": "2026-04-20",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Located on the 3rd floor of a historic building in the heart of downtown Montreal. Walking distance to Concordia / McGill Campuses. All essentials within walking distance. High ceilings, spacious & bright layout with very large bedrooms, renovated kitchen, two full bathrooms. Perfect for 3 students or roommates. Appliances included: Fridge, stove, dishwasher, washer/ dryer. ",
       "fr": "Situé au 3e étage d'un immeuble historique au coeur du centre-ville de Montréal. À quelques pas des campus de Concordia et de McGill. Tout ce dont vous avez besoin est accessible à pied. Plafonds hauts, agencement spacieux et lumineux avec de très grandes chambres, cuisine rénovée, deux salles de bains complètes. Idéal pour 3 étudiants ou colocataires. Électroménagers inclus : réfrigérateur, cuisinière, lave-vaisselle, lave-linge/sèche-linge. "
@@ -5848,6 +6162,14 @@
     },
     "listedDate": "2026-02-20",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Welcome to the St-Regis! Experience elegance in this fully furnished, 3,485 sq ft custom residence in Old Montreal's most prestigious condo complex. Recently reimagined with meticulous detail, this condo features a Poliform kitchen, Minotti furnishings, a private exercise room, electric window coverings, sound systems in every room, and heated bathroom floors. Two spacious bedrooms each have en-suites, and a separate den/office can serve as a third bedroom. Sunlit, open-plan living areas with restored artisan moldings and accent lighting complete this exceptional home--a perfect blend of historic charm and contemporary luxury.",
       "fr": "Bienvenue au St-Régis! Découvrez cette résidence de 3 485 pi², meublée et sur mesure, dans le complexe le plus prestigieux du Vieux-Montréal. Rénovée avec soin, elle offre une cuisine Poliform, des meubles Minotti, une salle d'exercice privée, des stores électriques, un système audio dans chaque pièce et des planchers chauffants dans les salles de bain. Les deux chambres disposent de salles de bain attenantes, et un bureau/salon peut servir de troisième chambre. Des espaces de vie baignés de lumière, avec moulures restaurées et éclairage d'accentuation, allient charme historique et luxe contemporain."
@@ -5997,6 +6319,14 @@
     "parking": null,
     "listedDate": "2026-07-03",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Rare Restaurant Opportunity: Prime Corner on Notre-Dame Ouest Seize a rare chance to occupy a high-exposure corner unit on Montreal's most prestigious culinary and retail artery. This exceptional space comes with a coveted restaurant permit already in place, bypassing the typical municipal hurdles. Boasting soaring 11-foot ceilings and expansive windows, the 1,420 SQFT ground floor is flooded with natural light, supported by a massive 1,260 SQFT basement for prep and storage. Currently operating as a café; available June 1st, 2026.",
       "fr": "Opportunité rare pour restaurateur : Coin de rue de premier choix sur Notre-Dame Ouest  Saisissez la chance unique d'occuper une unité de coin à haute visibilité sur l'artère culinaire et commerciale la plus prestigieuse de Montréal. Cet espace exceptionnel bénéficie d'un permis de restaurant déjà en place, vous permettant d'éviter les obstacles municipaux habituels. Doté de plafonds de 11 pieds et d'une fenestration abondante, le rez-de-chaussée de 1 420 pi² est baigné de lumière naturelle, le tout soutenu par un vaste sous-sol de 1 260 pi² idéal pour la préparation et l'entreposage. Actuellement exploité en tant que café ;disponible 01/06"
@@ -6101,6 +6431,20 @@
     },
     "listedDate": "2026-04-02",
     "agentId": "michelle-johnson",
+    "brokers": [
+      {
+        "key": "112818",
+        "id": "michelle-johnson",
+        "name": "Michelle Johnson",
+        "external": false
+      },
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Charming 2-bedroom, 1-bathroom condo in the heart of downtown Montreal, located in the vibrant McGill Ghetto. Condo fees include electricity, heating, hot water, and contributions to the contingency fund.  This unit includes indoor parking and a storage locker, offering both convenience and peace of mind. Perfect opportunity for a first-time buyer or an investor looking to rent near McGill University. The building is well-managed, ensuring a hassle-free living experience in a prime, sought-after location. Condo fees include : heating, electricity, parking, Contingency fund, and Self-insurance fund ",
       "fr": "Charmant condo de 2 chambres et 1 salle de bain au coeur du centre-ville de Montréal, situé dans le dynamique quartier du McGill Ghetto. L'unité comprend un stationnement intérieur et un casier, offrant à la fois confort et tranquillité d'esprit. Une opportunité idéale pour un premier acheteur ou un investisseur souhaitant louer à proximité de l'Université McGill.  L'immeuble est bien géré, garantissant une expérience de vie sans souci dans un emplacement prisé et central.  Les frais de copropriété comprennent: chauffage, électricité, stationnement, le fonds de prévoyance et le fonds d'auto-assurance. "
@@ -6257,6 +6601,20 @@
     "parking": null,
     "listedDate": "2026-06-01",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Discover a nine-unit rental building that exudes charm with its stunning greystone facade and original Victorian details. This prime investment opportunity is situated in one of Montreal's most desirable rental markets, just minutes from McGill and Concordia campuses. The property boasts easy-to-rent units and is conveniently close to all essential amenities. Key upgrades include new windows and roof (2005), extensive electrical and plumbing renovations, a top-of-the-line furnace (2016), and refreshed common areas within the last two years. With strong revenue potential, low expenses, and minimal management, 2 units vacant. ",
       "fr": "Découvrez un immeuble locatif de neuf logements au charme unique, avec sa façade en pierre grise et ses détails victoriens. Situé dans l'un des marchés les plus recherchés de Montréal, cet investissement se trouve à quelques minutes des campus de McGill et de Concordia. Les unités, faciles à louer, sont à proximité de toutes les commodités essentielles. Parmi les améliorations, on trouve de nouvelles fenêtres et un toit (2005), des rénovations électriques et de plomberie, une fournaise haut de gamme (2016) et des aires communes modernisées récemment. Avec un fort potentiel de revenus et peu de gestion requise,  2 logements disponibles. "
@@ -6400,6 +6758,20 @@
     "parking": null,
     "listedDate": "2026-06-30",
     "agentId": "michelle-johnson",
+    "brokers": [
+      {
+        "key": "112818",
+        "id": "michelle-johnson",
+        "name": "Michelle Johnson",
+        "external": false
+      },
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "OCCUPANCY JULY 1ST, 2026 -MODERN 429 SQ. FT. STUDIO Welcome to Plateau Lafontaine! Enjoy access to a charming, beautifully landscaped courtyard, a spacious and inviting rooftop terrace with views of Mount Royal, and a garage where you can store your bike. Living in the vibrant Plateau-Mont-Royal neighbourhood places you just steps from Rachel Street, the gourmet shops of Mont-Royal Avenue, and La Fontaine Park. This is a place you'll truly fall in love with!",
       "fr": "Occupation le 1er juillet.. STUDIO MODERNE DE 429 PI² Bienvenue au Plateau Lafontaine! Profitez d'un accès à une charmante cour intérieure joliment aménagée, d'une grande terrasse sur le toit conviviale avec vue sur le mont Royal, ainsi que d'un garage pour y ranger votre vélo. Vivre dans le dynamique quartier du Plateau-Mont-Royal vous place à quelques pas de la rue Rachel, des commerces gourmets de l'avenue du Mont-Royal et du parc La Fontaine. Un véritable coup de coeur vous attend!"
@@ -6538,6 +6910,14 @@
     },
     "listedDate": "2026-04-30",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Welcome to CHARLOTTE CONDOS, where luxury meets convenience in the heart of vibrant Griffintown!  Unit 831 offers modern elegance with its top floor location, 9-foot ceilings, and open concept design. The fully equipped kitchen boasts stainless steel appliances and quartz countertops. Enjoy 2 bedrooms, 2 bathrooms, in-unit washer/dryer, central air conditioning, and a large balcony with stunning canal and courtyard views.  Parking is easy with an included space and 2 lockers. Access shared amenities like a rooftop terrace with pool, fitness center, bike storage, landscaped courtyard, and doorman service.  Experience luxury living!",
       "fr": "Bienvenue aux CONDOS CHARLOTTE, où le luxe rencontre la commodité au coeur du vibrant Griffintown ! L'unité 831 offre une élégance moderne avec son emplacement au dernier étage, ses plafonds de 9 pieds et son design à aire ouverte. La cuisine entièrement équipée est dotée d'appareils en acier inoxydable et de comptoirs en quartz. Profitez de 2 chambres à coucher, 2 salles de bains, d'une laveuse/sécheuse dans l'unité, climatisation centrale et d'un grand balcon offrant une vue magnifique sur le canal et la cour intérieure. une place de stationnement et 2 casiers. Profitez de la piscine, un centre de fitness et bien plus!"
@@ -6779,6 +7159,20 @@
     },
     "listedDate": "2025-09-06",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "TWO Semi-detached corner duplex with garage, fully renovated and in excellent condition. Lower Unit: Multi-level with open concept living, dining, and kitchen, two bedrooms, and a full bath. Access to a balcony and fenced backyard. Basement features a family room, two more bedrooms, and an additional bath. Total: 4 beds, 2 baths, ~2,000 SQFT. Equipped with 5 appliances per unit (4 renovated unites). ",
       "fr": "DUPLEX mitoyen en angle avec garage, entièrement rénové et en excellent état. Unité inférieure : plusieurs niveaux avec salon, salle à manger et cuisine à aire ouverte, deux chambres et une salle de bain complète. Accès à un balcon et à une cour arrière clôturée. Le sous-sol comprend une salle familiale, deux autres chambres et une salle de bain supplémentaire. Total : 4 chambres, 2 salles de bain, environ 186 m². Équipé de 5 appareils électroménagers par unité (4 unités rénovées). "
@@ -6942,6 +7336,20 @@
     },
     "listedDate": "2025-12-04",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Turnkey 8-plex in Hochelaga-Maisonneuve! 8 spacious 3½ units, 3 currently vacant for instant rent optimization or owner-occupation of which 5 units fully renovated. 2015 TPO roof, horizontal slider windows, insulated metal doors. Copper/PEX plumbing (full PEX upgrade Spring 2025), copper electrical with breakers. Individual electric baseboards (tenants pay hydro). Steps to Joliette/Pie-IX metro, parks & shops. Strong cash flow + excellent upside. $1,825,000. Proof of funds/pre-approval required. Rare opportunity! ",
       "fr": "Immeuble clé en main de 8 logements à Hochelaga-Maisonneuve ! 8 unités spacieuses de 3½ pièces, dont 4 actuellement vacantes pour une optimisation immédiate des loyers ou une occupation par le propriétaire, dont 5 unités entièrement rénovées. Toiture TPO de 2015, fenêtres coulissantes horizontales, portes métalliques isolées. Plomberie en cuivre/PEX (mise à niveau complète en PEX au printemps 2025), électricité en cuivre avec disjoncteurs. Plinthes électriques individuelles (les locataires paient l'électricité). À quelques pas du métro Joliette/Pie-IX, des parcs et des commerces."
@@ -7153,6 +7561,14 @@
     },
     "listedDate": "2026-04-11",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Located on a quiet street in sought-after Upper Westmount, just steps from parks and top schools, this charming stone Tudor-style residence is impeccably maintained and rich in character. 3 bedrooms (4th possible) and 3+1 bathrooms. Highlights include beautifully restored hardwood floors, sun-filled west-facing kitchen with an adjoining den opening onto a spacious terrace, renovated mezzanine and basement that add valuable living space and comfort. All bathrooms feature heated floors. Central A/C and a well-designed, generous layout ensure optimal comfort. 2 garage plus 3 outdoor parking spaces. ",
       "fr": "Située sur une rue paisible du secteur prisé du Haut-Westmount, à deux pas des parcs et des meilleures écoles, cette élégante résidence en pierre de style Tudor, impeccablement entretenue, offre 3 chambres (possibilité d'une 4e) et 3+1 salles de bain. Planchers de bois franc restaurés, cuisine lumineuse orientée ouest avec coin détente ouvrant sur une grande terrasse. Mezzanine et sous-sol rénovés ajoutant espace et confort. Salles de bains avec planchers chauffants, climatisation centrale. Garage double + 3 stationnements extérieurs. Propriété clé en main alliant charme et emplacement de choix."
@@ -7486,6 +7902,14 @@
     },
     "listedDate": "2026-06-20",
     "agentId": "kayla-samuels",
+    "brokers": [
+      {
+        "key": "106794",
+        "id": "kayla-samuels",
+        "name": "Kayla Samuels",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Condo fees Include:  Heating, Hydro, Hot Water, Videotron, Doorman/ Security;  Building Improvements over the last 10 years have been extensive:  Sprinklers, New Roof Top Terrasse, Balconies, Hot Water Tanks, Garage ramps, doors, lighting;  New carpets in common area hallways, new individual front doors & frames.   New Gym",
       "fr": "Les frais de coproprieté comprends:  Le chauffage, Hydro, Eau Chaude, Videotron,Portier/Securité; Ameliorations du batiment des dernières années inclus des travaux extensif:  Gicleurs, Nouveau Toit Terrasse, Balcons, Reservoirs d'Eau Chaude, Rampes de Garage, porte et lumières de garage, Nouveau tapis dans les espaces communes, porte individuel.  Nouveau Gym"
@@ -7690,6 +8114,20 @@
     "parking": null,
     "listedDate": "2026-04-14",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Heritage St-Andrew | 430 Rue St-Pierre #401  Experience Old Montreal living at its finest in this newly converted 1,500 sq. ft. residence. Located on a quiet, iconic cobblestone street, this bright 4th-floor walk-up seamlessly blends historic character with modern luxury.  Features:  Open-concept layout with soaring ceilings & recessed lighting  High-end kitchen with premium appliances  Luxurious bathrooms & spacious walk-in closet  Finest materials & storage locker included  Steps from the Notre-Dame Basilica and the city's best dining. Available now for immediate occupancy.  Book your private visit today!",
       "fr": "Gemini said Héritage St-Andrew | 430, rue St-Pierre #401  Vivez le Vieux-Montréal à son meilleur dans cette unité de 1 500 pi² récemment convertie. Situé sur une rue pavée emblématique et paisible, ce lumineux condo au 4e étage allie cachet historique et luxe moderne.  Atouts :  Aire ouverte, hauts plafonds et lumières encastrées  Cuisine haut de gamme avec électroménagers inclus  Salles de bain luxueuses et grand walk-in  Matériaux nobles et espace de rangement  À deux pas de la basilique Notre-Dame et des meilleurs restos. Disponible dès maintenant pour occupation immédiate.  Réservez votre visite privée dès aujourd'hui !"
@@ -7819,6 +8257,14 @@
     },
     "listedDate": "2026-07-07",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Nestled on one of Westmount's quiet, tree-lined streets, this elegant residence offers over 1,400 sq. ft. of refined living space with 2 bedrooms, 2 full bathrooms, an open-concept layout, soaring ceilings, hardwood floors, floor-to-ceiling windows, and a private terrace. Superior soundproofing ensures exceptional comfort. Residents enjoy 24-hour concierge and doorman service, a rooftop indoor pool, fitness centre, and beautifully landscaped rooftop terraces, all within walking distance of shops, restaurants, parks, and public transit.",
       "fr": "Située sur une rue paisible et bordée d'arbres à Westmount, cette élégante unité de plus de 1 400 pi² offre 2 chambres, 2 salles de bains, une aire de vie lumineuse à aire ouverte, de hauts plafonds, des planchers de bois franc, des fenêtres pleine hauteur et une terrasse privée. Insonorisation supérieure. Le 215 Redfern propose un portier et concierge 24 h, une piscine intérieure sur le toit, une salle d'entraînement et de magnifiques terrasses. À quelques pas des commerces, restaurants, parcs et transports en commun."
@@ -7942,6 +8388,14 @@
     "parking": null,
     "listedDate": "2026-07-16",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Welcome to this beautifully furnished 2-bedroom ground-floor apartment in the heart of St-Henri, one of Montreal's most sought-after neighbourhoods. Offering the perfect blend of comfort and convenience, this bright and inviting home features a spacious private backyard, ideal for relaxing, entertaining, or enjoying the warmer months. The apartment comes fully furnished and includes all appliances, making it completely move-in ready. Whether you're relocating, working in Montreal, or simply looking for a turnkey rental, everything you need is already here.",
       "fr": "Bienvenue dans cet appartement de deux chambres magnifiquement meublé, situé au rez-de-chaussée en plein coeur de Saint-Henri, l'un des quartiers les plus prisés de Montréal. Alliant parfaitement confort et commodité, ce logement lumineux et accueillant dispose d'une vaste cour privée, idéale pour se détendre, recevoir ou profiter de la belle saison. L'appartement est entièrement meublé et équipé de tous les appareils électroménagers ; il est donc prêt à vous accueillir immédiatement. Que vous déménagiez, que vous travailliez à Montréal ou que vous recherchiez simplement une location clé en main, tout ce dont vous avez besoin est déjà là. "
@@ -8046,6 +8500,14 @@
     },
     "listedDate": "2025-09-18",
     "agentId": "michael-lashchuk",
+    "brokers": [
+      {
+        "key": "121452",
+        "id": "michael-lashchuk",
+        "name": "Michael Lashchuk",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Room Measurements in listing are not accurate, and will be updated shortly. ",
       "fr": "Les mesures des pièces indiquées dans l'annonce ne sont pas exactes et seront mises à jour sous peu. "
@@ -8298,6 +8760,14 @@
     },
     "listedDate": "2026-04-21",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "A rare opportunity to lease a landmark residence in one of Montreals's most coveted locations. This exceptional home embodies prestige, scale, and refined elegance, offering an uncompromising standard of living.  Gracious principal rooms, soaring volumes, and impeccable finishes define this outstanding property, designed for both grand entertaining and elevated everyday living. Bathed in natural light and offering exceptional privacy, it delivers a true sense of exclusivity throughout.  This caliber of residence is seldom available on the rental market. Offered at $17,500/month, ",
       "fr": "Une opportunité rare de louer une résidence d'exception située dans le secteur très prisé de Ville-Marie, aux abords de Westmount. Cette propriété remarquable incarne prestige, volumes généreux et élégance raffinée, offrant un niveau de vie sans compromis.  Les pièces principales, baignées de lumière naturelle, se distinguent par leurs proportions gracieuses et leurs finitions impeccables, idéales tant pour recevoir que pour un quotidien raffiné. L'ensemble dégage une impression d'exclusivité et de confort absolu.  Une résidence de ce calibre est rarement disponible sur le marché locatif. Offerte à 17 500 $/mois."
@@ -8635,6 +9105,14 @@
     },
     "listedDate": "2026-07-21",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Perched on the 36th floor of prestigious Victoria sur le Parc, this exceptional 2-bedroom, 2-bathroom residence offers over 1,250 sq. ft. of elegant living space with spectacular views of the St. Lawrence River, Mount Royal and the Montréal skyline. The open-concept layout features floor-to-ceiling windows, a spacious balcony with access from the primary and the living room, a luxurious primary suite with ensuite and large walk-in closet. Offered fully furnished and equipped--simply bring your luggage. Enjoy over 10,000 sq. ft. of amenities, 24/7 concierge and direct access to Square-Victoria metro.",
       "fr": "Perchée au 36e étage du prestigieux Victoria sur le Parc, cette magnifique unité de 2 chambres et 2 salles de bains offre plus de 1 250 pi² d'espace de vie raffiné avec une vue imprenable sur le fleuve Saint-Laurent, le mont Royal et le centre-ville de Montréal. Son aire ouverte, ses fenêtres pleine hauteur et son vaste balcon créent un cadre de vie exceptionnel. La suite principale comprend une salle de bains attenante et un grand walk-in. Offerte entièrement meublée et équipée, il ne vous reste qu'à apporter vos valises. Profitez de plus de 10 000 pi² d'espaces communs haut de gamme, d'un service de conciergerie et de sécurité 24 h/24 "
@@ -8889,6 +9367,14 @@
     "parking": null,
     "listedDate": "2026-04-21",
     "agentId": "marina-pietrantonio",
+    "brokers": [
+      {
+        "key": "118490",
+        "id": "marina-pietrantonio",
+        "name": "Marina Pietrantonio",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Modern two-bedroom undivided condo, ideally located in the heart of Villeray--one of Montréal's most sought-after neighbourhoods! The building has been fully renovated from top to bottom, including flooring, kitchen, bathroom, electrical and plumbing, windows, roof, and so much more!  Just steps from cafés, restaurants, Jean-Talon Market, De Castelnau metro, Little Italy, Jarry Park, and everything Villeray has to offer.",
       "fr": "Magnifique condo moderne de deux chambres à coucher, idéalement situé au coeur de Villeray, l'un des quartiers les plus prisés de Montréal! L'immeuble a été entièrement rénové, du sol au plafond : planchers, cuisine, salle de bain, électricité et plomberie, fenêtres, toiture et bien plus encore! À deux pas des cafés, restaurants, du marché Jean-Talon, du métro De Castelnau, de la Petite Italie, du parc Jarry et de tout ce que Villeray a à offrir."
@@ -9075,6 +9561,14 @@
     },
     "listedDate": "2026-03-30",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Welcome to Westmount-Square! Experience luxury living in this sun-filled, fully renovated 2-bedroom, 2-bathroom condo, nestled in one  Westmount's most prestigious building. The open-concept kitchen, complete with a sleek island, seamlessly flows into the spacious living room, adorned with floor-to-ceiling windows that flood the space with natural light. Enjoy direct indoor access to the upscale amenities of Westmount Square, including medical clinics, hair salons, boutiques, fine dining, and the convenience of the metro. This exceptional condo offers the perfect blend of comfort, style, and urban convenience.",
       "fr": "Bienvenue à Westmount Square! Découvrez la vie de luxe dans ce condo entièrement rénové, baigné de soleil, avec 2 chambres et 2 salles de bains, niché dans l'un des bâtiments les plus prestigieux de Westmount. La cuisine à concept ouvert, avec son îlot élégant, s'ouvre harmonieusement sur le salon spacieux, orné de fenêtres du sol au plafond qui inondent l'espace de lumière naturelle. Profitez d'un accès intérieur direct aux commodités haut de gamme de Westmount Square, y compris les cliniques médicales, les salons de coiffure, les boutiques, les restaurants raffinés et la commodité du métro. Cet exceptionnel condo offre le parfait mélange de"
@@ -9269,6 +9763,20 @@
     },
     "listedDate": "2025-12-04",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "128561",
+        "id": null,
+        "name": "Charles Frischman",
+        "external": true
+      }
+    ],
     "description": {
       "en": "Discover 6595 St Urbain, a versatile commercial/industrial property positioned in the center of Montreal's booming tech district. Surrounded by tech industry leaders , this location is ideal for a business seeking visibility and growth.  Offering 40,000 sq.ft. of usable space, the building includes office areas, a mezzanine, and the possibility to add a 15,000 sq.ft. third floor, giving you exceptional expansion potential. Practical features such as a loading dock, spacious indoor parking, and a freight elevator ensure smooth day-to-day operations. PGI $800,000",
       "fr": "Découvrez le 6595 rue St-Urbain, une propriété commerciale/industrielle polyvalente située au coeur du quartier technologique en plein essor de Montréal. Entouré de leaders de l'industrie, cet emplacement est idéal pour une entreprise souhaitant accroître sa visibilité et soutenir sa croissance. Offrant 40000 pi² d'espace utilisable, l'immeuble comprend des bureaux, une mezzanine ainsi que la possibilité d'ajouter un 3e étage de 15000 pi², offrant un potentiel d'expansion exceptionnel. Des caractéristiques pratiques telles qu'un quai de chargement, vaste stationnement intérieur et un monte-charge assurent une exploitation quotidienne efficace"
@@ -9469,6 +9977,14 @@
     },
     "listedDate": "2026-03-04",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Indulge in luxury living in Old Montreal with this meticulously restored condo in an exceptionally private, secure, historic building with only four exclusive units. Spanning 3000 sqft of timeless elegance, this residence features herringbone floors, custom closets and a top-of-the-line kitchen. Enjoy ultimate privacy with an elevator that opens directly into the unit. Relax by the gas fireplace or take in the views through custom windows. With 3 bedrooms, 3 bathrooms and a powder room, including a master suite with a marble double vanity and separate tub, this fully furnished condo is a sanctuary of luxury for those who cherish their privacy",
       "fr": "Offrez-vous une vie de luxe à Old Montreal avec ce condo minutieusement restauré dans un bâtiment historique exceptionnellement privé. Profitez de 2900 pieds carrés d'élégance intemporelle, de parquets en chevron, de placards sur mesure et d'une cuisine haut de gamme. Détendez-vous près de la cheminée au gaz ou admirez la vue à travers les fenêtres sur mesure. Profitez d'une intimité absolue avec un ascenseur qui s'ouvre dans l'unité. Avec 3 chambres à coucher, 3 salles de bains et une salle d'eau, y compris une suite principale avec double vasque en marbre et baignoire séparé Ce condo entièrement meublé offre un confort opulent et intimité."
@@ -9741,6 +10257,14 @@
     "parking": null,
     "listedDate": "2026-07-29",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Renovated two-bedroom plus office apartment in the heart of the Hochelaga/Mercier area. This bright and spacious unit features an open-concept living and dining area, perfect for both relaxing and entertaining. The modern kitchen is equipped with all major appliances, including a fridge, stove, dishwasher, as well as an in-unit washer and dryer for added convenience. Situated in a peaceful, family-friendly neighbourhood, the apartment is within walking distance to parks, schools, grocery stores, cafes, and a variety of local shops.",
       "fr": "Appartement rénové de deux chambres et un bureau au coeur du secteur Hochelaga/Mercier. Ce logement lumineux et spacieux comprend un espace de vie et salle à manger à aire ouverte, idéal pour se détendre et recevoir. La cuisine moderne est entièrement équipée avec réfrigérateur, cuisinière, lave-vaisselle, laveuse et sécheuse pour plus de commodité. Situé dans un quartier paisible et familial, l'appartement se trouve à distance de marche des parcs, des écoles, des épiceries, des cafés et de divers commerces de proximité."
@@ -9827,6 +10351,20 @@
     },
     "listedDate": "2026-02-24",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Stunning Mid-Century Gem in Westmount! Beautifully renovated split-level home on prestigious Oakland Ave, offering 4,175 sq ft of living space on a 9,445 sq ft lot. Features include an open-concept gourmet kitchen, high ceilings, spacious bedrooms, and a garden-level entertainment area with bar. The basement and backyard have been fully transformed, with a new fence creating a private oasis ideal for family life. New roof (2020), integrated 2-car garage, and elegant mid-century charm throughout.",
       "fr": "Superbe Maison Mid-Century à Westmount! Magnifique propriété rénovée située sur la prestigieuse avenue Oakland, offrant 4 175 pi² de superficie habitable sur un terrain de 9 445 pi². Comprend une cuisine gastronomique à aire ouverte, de hauts plafonds, des chambres spacieuses et une salle familiale au niveau jardin avec bar. Le sous-sol et la cour arrière ont été entièrement réaménagés, avec une nouvelle clôture créant une oasis privée idéale pour la vie de famille. Toiture refaite en 2020, garage intégré pour 2 voitures et charme intemporel."
@@ -10195,6 +10733,14 @@
     },
     "listedDate": "2026-05-27",
     "agentId": "michael-lashchuk",
+    "brokers": [
+      {
+        "key": "121452",
+        "id": "michael-lashchuk",
+        "name": "Michael Lashchuk",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Beautifully updated waterfront property located in the highly desirable Duvernay East neighborhood. This home features a newly renovated interior with an open-concept layout, ideal for modern living and entertaining. The brand-new kitchen is equipped with high-end finishes, including a Sub-Zero refrigerator.  Enjoy a spacious master bedroom, a large two-car garage, and a private backyard with an in-ground pool and hot tub. Located directly on the river, this home offers scenic views and a tranquil setting, all while being close to local amenities.  Move-in ready and perfect for buyers seeking luxury, comfort, and location.",
       "fr": "Magnifique propriété rénovée située dans le secteur très recherché de Duvernay Est, en bordure de la rivière. Offrant une superficie de 4 900 pi², cette maison spacieuse propose un intérieur entièrement modernisé avec un concept à aire ouverte, parfait pour la vie contemporaine et les réceptions. La cuisine neuve est équipée de finitions haut de gamme, incluant un réfrigérateur Sub-Zero. Parmi les caractéristiques remarquables : une grande chambre des maîtres, un garage double spacieux, ainsi qu'une cour arrière privée avec piscine creusée et spa. Située directement en bord de l'eau, la propriété offre des vues imprenables dans un cadre pais"
@@ -10544,6 +11090,14 @@
     "parking": null,
     "listedDate": "2026-02-12",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Exceptional investment opportunity in a sought-after area. The property features four spacious 6 1/2 apartments, each offering generously sized rooms, ideal for tenants seeking comfort and functionality. Generating solid current revenues ($133,200), this income property delivers stable returns with the opportunity to increase income further through targeted building improvements and value-add initiatives. The large unit layouts are highly desirable, contributing to consistent tenant demand and low vacancy potential. This quadruplex combines solid financial performance with attractive living spaces in a prime location.",
       "fr": "Une opportunité d'investissement exceptionnelle dans un secteur très prisé. L'immeuble comprend quatre appartements spacieux de type 6 ½, dotés de pièces aux dimensions généreuses, idéales pour des locataires en quête de confort et de fonctionnalité. Générant des revenus actuels solides (133 200 $), cet immeuble de rapport offre un rendement stable tout en présentant un potentiel d'augmentation des revenus grâce à des améliorations ciblées et des initiatives de valorisation. La configuration spacieuse des logements est très recherchée, ce qui assure une demande locative soutenue et un faible risque de vacance."
@@ -11098,6 +11652,20 @@
     },
     "listedDate": "2026-04-15",
     "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Beautiful corner duplex with a large backyard and detached garage included.  Recently updated windows, doors, balconies, and staircases. Bright with great curb appeal. Conveniently located near public transport, highways, groceries, and pharmacies. Both units are currently rented:  Upper unit: 4 1/2, renovated kitchen and bathroom, potlights, front and rear balconies, rented at $1,750/month. Lower unit: 4 1/2, original kitchen and bathroom, recent appliances, hardwood floors, large backyard, rented at $923/month. Each unit is about 1,150 sq. ft. The basement offers storage now, with potential for finishing or converting to a triplex.",
       "fr": "Magnifique duplex d'angle avec une grande cour et un garage détaché inclus. Fenêtres, portes, balcons et escaliers récemment rénovés. Lumineux et très attrayant. Idéalement situé à proximité des transports en commun, des autoroutes, des épiceries et des pharmacies. Les deux unités sont actuellement louées: Unité supérieure: 4 1/2, cuisine et salle de bain rénovées, lampes de chevet, balcons avant et arrière, louer à 1 750 $/mois. Unité inférieure: 4 1/2, cuisine et salle de bain originales, appareils récents, planchers en bois, grande cour, loué à 923 $/mois. Chaque unité a une superficie d'environ 1 150 pieds carrés. "
@@ -11265,6 +11833,14 @@
     "parking": null,
     "listedDate": "2026-06-19",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Discover this charming fully furnished one-bedroom apartment located in the heart of Plateau Mont-Royal, directly across the street from Parc Sir-Wilfrid-Laurier, one of Montreal's most beloved green spaces. Enjoy a vibrant neighborhood lifestyle with cafés, restaurants, boutiques, grocery stores, and local services all within walking distance. This bright and comfortable apartment is move-in ready and ideal for professionals, students, or anyone looking for a convenient and hassle-free Montreal living experience. The apartment comes fully equipped with everything you need to feel at home from day one.",
       "fr": "Découvrez ce charmant appartement meublé d'une chambre, situé au coeur du Plateau Mont-Royal, juste en face du parc Sir-Wilfrid-Laurier, l'un des espaces verts les plus appréciés de Montréal. Profitez d'une vie de quartier dynamique: cafés, restaurants, boutiques, épiceries et services de proximité sont accessibles à pied. Lumineux et confortable, cet appartement est prêt à vous accueillir et idéal pour les professionnels, les étudiants ou toute personne recherchant une expérience de vie montréalaise pratique et sans tracas. Il est entièrement équipé pour que vous vous sentiez comme chez vous dès le premier jour."
@@ -11360,6 +11936,14 @@
     },
     "listedDate": "2026-05-16",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Elegant detached family home in the heart of Westmount, offering beautifully designed living space across three floors plus a finished basement, creating intimate and comfortable spaces for the whole family. The main floor features a bright living room and inviting family room, while the dining room and high-end kitchen open onto a charming covered terrace and a stunning west-facing garden filled with natural light. Ideally located within walking distance to Victoria Village and King George Park, as well as top schools, parks, and amenities.",
       "fr": "Élégante maison familiale détachée au coeur de Westmount, offrant de magnifiques espaces de vie aménagés sur trois étages ainsi qu'un sous-sol entièrement fini, créant des espaces intimes et confortables pour toute la famille. Le rez-de-chaussée propose un salon lumineux et une chaleureuse salle familiale, tandis que la salle à manger et la cuisine haut de gamme s'ouvrent sur une charmante terrasse couverte et un superbe jardin orienté à l'ouest, baigné de lumière naturelle. Emplacement idéal à distance de marche de Victoria Village et du King George Park, ainsi que des meilleures écoles, parcs et commodités."
@@ -11692,6 +12276,20 @@
     },
     "listedDate": "2026-06-05",
     "agentId": null,
+    "brokers": [
+      {
+        "key": "81750",
+        "id": null,
+        "name": "Liza Kaufman",
+        "external": true
+      },
+      {
+        "key": "121452",
+        "id": "michael-lashchuk",
+        "name": "Michael Lashchuk",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Perched high above the city on one of Westmount's most exclusive and discreet cul-de-sacs, this extraordinary contemporary residence commands sweeping panoramic vistas that stretch across the city skyline and the river beyond. Conceived in concrete and glass and originally custom built for a prominent Montreal pharmaceutical magnate, the home is a bold architectural statement where scale, light, and landscape exist in perfect balance.",
       "fr": "Perchée au sommet de l'une des rues en cul-de-sac les plus exclusives et discrètes de Westmount, cette résidence contemporaine d'exception domine la ville et offre des vues panoramiques spectaculaires sur le centre-ville et le fleuve. Conçue en béton et verre et réalisée à l'origine sur mesure pour un important magnat pharmaceutique montréalais, cette propriété constitue une véritable déclaration architecturale où volumes, lumière et paysage se rencontrent en parfaite harmonie."
@@ -12185,6 +12783,14 @@
     "parking": null,
     "listedDate": "2026-04-13",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Ground floor two-bedroom apartment located in St-Henri! Footsteps away from canal, restaurants, cafes and much more. Two closed bedrooms with IKEA closets included in each bedroom, one bathroom, open living room/dining area. Apartment includes: fridge, stove, dishwasher, washer and dryer and two IKEA closets. Perfect for couples or single professionals.",
       "fr": "Appartement de deux chambres au rez-de-chaussée situé à Saint-Henri. À deux pas du canal, des restaurants, des cafés et de bien d'autres commodités. Deux chambres fermées équipées chacune d'armoires IKEA, une salle de bains, un salon/salle à manger ouvert. L'appartement comprend : un réfrigérateur, une cuisinière, un lave-vaisselle, un lave-linge et un sèche-linge, ainsi que deux armoires IKEA. Idéal pour les couples ou les jeunes actifs. "
@@ -12289,6 +12895,20 @@
     },
     "listedDate": "2026-04-15",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Semi-detached corner duplex with garage, fully renovated and in excellent condition.  Lower Unit: Multi-level with open concept living, dining, and kitchen, two bedrooms, and a full bath. Access to a balcony and fenced backyard. Basement features a family room, two more bedrooms, and an additional bath. Total: 4 beds, 2 baths, ~2,000 SQFT. Equipped with 5 appliances. Currently rented for $2,750; market value ~$2,800-$3,000.  Upper Unit: Front and back balconies, two bedrooms, full bath, and open kitchen/living area. Rented for $1,850.  Co-ownership fees: $207/month. Extra garage spots for $35,000.",
       "fr": "Duplex d'angle jumelé avec garage, entièrement rénové et en excellent état. Unité inférieure: Plusieurs niveaux avec salon, salle à manger et cuisine à aire ouverte, deux chambres et une salle de bain complète. Accès à un balcon et jardin clôturé. Le sous-sol comprend une salle familiale, deux autres chambres et une salle de bain supplémentaire. Total:4 lits, 2 salles de bains, ~2 000 SQFT. Équipé de 5 appareils. Loué à 2 750 $;valeur du marché ~2 800-3 000$.  Unité supérieure:Balcons avant et arrière, deux chambres, salle de bain complète et cuisine ouverte. Louée à 1 850 $.  Frais de copropriété:207 $/mois."
@@ -12466,6 +13086,14 @@
     },
     "listedDate": "2026-08-06",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "This bright and spacious corner-unit condo features an open-concept layout with a kitchen, dining room, and living room, along with a private entrance and a large balcony. Numerous windows provide an abundance of natural light throughout the day. The property offers two bedrooms and two full bathrooms, as well as a central heat pump. Includes two parking spaces--one in the garage and one in the driveway--with direct access to the garage. Ideally located near the Metro, Carrefour Angrignon, and the park. A must-see!",
       "fr": "Ce condo de coin lumineux et spacieux offre une aire de vie à concept ouvert comprenant la cuisine, la salle à manger et le salon, ainsi qu'une entrée privée et un grand balcon. De nombreuses fenêtres procurent une abondance de lumière naturelle tout au long de la journée. La propriété comprend deux chambres à coucher et deux salles de bains complètes, ainsi qu'une thermopompe centrale. Deux espaces de stationnement sont inclus, soit un dans le garage et un dans l'allée, avec accès direct au garage. Idéalement situé à proximité du métro, du Carrefour Angrignon et du parc. Une visite s'impose!"
@@ -12682,6 +13310,14 @@
     },
     "listedDate": "2026-03-04",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Experience exclusive luxury in Old Montreal's historic 4-story building. This meticulously restored condo boasts only 4 units, each with an elevator opening directly into the unit for unparalleled privacy and security. Enjoy 2900 sqft of timeless elegance, including fine wood floors, custom closets, and a top-tier kitchen. Relax by the gas fireplace in your primary suite. With 3 bedrooms, 2 bathrooms, and a powder room, including a master suite with marble double vanity, this condo offers opulent comfort. Fully furnished with hand-picked pieces, it's a sanctuary of luxury and intimate living.",
       "fr": "Découvrez le luxe exclusif dans un bâtiment historique du Vieux-Montréal. Ce condo méticuleusement restauré ne compte que 4 unités, chacune avec un ascenseur s'ouvrant dans l'unité pour une intimité et une sécurité sans pareil. Profitez de 2900 pieds carrés d'élégance intemporelle, comprenant de magnifiques planchers en bois, des placards sur mesure et une cuisine haut de gamme. Détendez-vous près de la cheminée à gaz dans votre suite principale. Avec 3 chambres, 2 salles de bains et une salle d'eau y compris une suite principale avec double vasque en marbre ce condo offre un confort opulent. Entièrement meublé c'est un sanctuaire de luxe."
@@ -12955,6 +13591,14 @@
     "parking": null,
     "listedDate": "2026-04-24",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Location!!! Stunning stone detached home set on one of the city's most prestigious and sought-after avenues, offering breathtaking views. This elegant residence features a bright kitchen with an eat-in area, 4+1 bedrooms, and 3 full bathrooms plus a powder room. The walkout basement opens onto a south-facing courtyard, perfect for enjoying natural light throughout the day. Central A/C. Spectacular views of the city, water, and forest. Ideally located just steps from Westmount's top private schools--an exceptional family home in a prime location.",
       "fr": "LOCATION!!! Superbe propriété détachée en pierre située sur l'une des avenues les plus prestigieuses et recherchées de la ville, offrant une vue à couper le souffle. Cette élégante demeure propose une cuisine conviviale avec coin repas, 4+1 chambres à coucher et 3 salles de bains + 1 salle d'eau. Le sous-sol avec sortie extérieure mène à une cour orientée plein sud. Climatisation centrale. Profitez de vues spectaculaires sur la ville, l'eau et la forêt. À quelques pas des meilleures écoles privées de Westmount -- un cadre de vie idéal pour la famille."
@@ -13266,6 +13910,14 @@
     },
     "listedDate": "2026-03-10",
     "agentId": "julien-bohbot",
+    "brokers": [
+      {
+        "key": "121910",
+        "id": "julien-bohbot",
+        "name": "Julien Bohbot",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Rare on the market - 1,500+ sq.ft. condo in the prestigious Le Bellagio.  Beautiful 2-bedroom, 2-bathroom unit featuring garage and storage locker, oak floors, gas fireplace, in-ceiling speakers, and a large private loggia accessible from both bedrooms.  Enjoy luxury amenities including 24/7 doorman, a live in concierge, heated indoor pool, whirlpool, Sauna, fitness room, and garden terrace.  Walking distance to Cavendish Mall and many services.  An exceptional lifestyle awaits you at the Bellagio, a visit will convince you.",
       "fr": "Rare sur le marché - Condo de plus de 1 500 pi² au prestigieux Le Bellagio.  Superbe unité 2 chambres, 2 salles de bain offrant garage et casier, planchers de chêne, foyer au gaz, haut-parleurs encastrés et grande loggia privée accessible des deux chambres.  Profitez des services haut de gamme : portier 24/7, Concierge résident à demeure piscine intérieure chauffée, bain tourbillon, sauna, salle d'exercice et terrasse jardin.  À distance de marche de Cavendish Mall et de nombreux services. Un style de vie exceptionnel vous attend au Bellagio -- une visite vous convaincra."
@@ -13539,6 +14191,14 @@
     "parking": null,
     "listedDate": "2026-05-12",
     "agentId": "marina-pietrantonio",
+    "brokers": [
+      {
+        "key": "118490",
+        "id": "marina-pietrantonio",
+        "name": "Marina Pietrantonio",
+        "external": false
+      }
+    ],
     "description": {
       "en": "4 large bedrooms, 2 full bathrooms and the unit is completely renovated. Includes all appliances and air conditioning with a large balcony. Great neighbourhood with plenty of life, services, Little-Italy, Jean-Talon Market, restaurants, cafés and parks. 5 minute walk to either the Jean-Talon or the De Castelnau metro stations. Available August 1st!",
       "fr": "4 larges chambres, 2 salles de bain et l'unité est complètement rénové. Inclus les électroménagers et air conditionné avec un grand patio. Dans un beau cartier près de tout les services, de la Petite-Italie, Marché Jean-Talon, restaurants, cafés et parcs. 5 min en marchand de les stations de métro Jean-Talon ou De Castelnau. Disponible 1er aout!"
@@ -13627,6 +14287,14 @@
     "parking": null,
     "listedDate": "2026-08-07",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Located in the prestigious Icône project in downtown Montreal, this elegant one-bedroom condo offers a bright and functional living space with an open-concept layout and floor-to-ceiling windows. The enclosed bedroom features a generous walk-in closet, while the private balcony offers breathtaking panoramic views of the city. Ideally situated in the heart of downtown, just steps from two metro lines, the property provides convenient access to shops, restaurants, universities, and all the amenities of the city centre. Residents also enjoy access to complete, well-maintained common areas designed for comfort and convenience.",
       "fr": "Situé dans le prestigieux projet Icône, au coeur du centre-ville de Montréal, ce condo d'une chambre à coucher offre un espace de vie lumineux et fonctionnel avec une aire ouverte et de grandes fenêtres pleine hauteur. La chambre fermée dispose d'un généreux walk-in, tandis que le balcon privé offre une vue panoramique exceptionnelle sur la ville. Idéalement situé à quelques pas de deux lignes de métro, l'immeuble bénéficie d'un emplacement privilégié à proximité des commerces, restaurants, universités et de tous les services du centre-ville. Les résidents profitent également d'espaces communs complets, modernes et bien entretenus."
@@ -13796,6 +14464,20 @@
     "parking": null,
     "listedDate": "2026-04-16",
     "agentId": "mark-reiner",
+    "brokers": [
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      },
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Experience the ultimate in flexibility at the iconic Le Berman in the heart of Le Plateau. This fully renovated artist loft boasts rare dual residential and commercial zoning, making it the perfect canvas for a creative studio, startup office, or a chic urban home.  Unique to this building, there are no restrictions on short-term rentals, offering incredible investment potential. This ground-floor unit (#108) features soaring 16-foot ceilings, exposed industrial elements, and abundant natural light. Just steps from Mont-Royal, trendy cafes, and transit. A versatile, high-income opportunity in Montreal's most vibrant cultural hub.",
       "fr": "Découvrez la polyvalence ultime au Le Berman, au coeur du Plateau. Ce loft d'artiste rénové bénéficie d'un double zonage rare, résidentiel et commercial, idéal pour un studio de création, un bureau ou un espace de vie unique.  Fait exceptionnel : l'immeuble n'impose aucune restriction sur les locations à court terme, offrant un potentiel d'investissement majeur. Cette unité au RDC (#108) impressionne avec ses plafonds de 16 pieds, son cachet industriel et sa lumière naturelle. À deux pas du Mont-Royal et des cafés branchés. Une opportunité rare alliant style de vie et rentabilité."
@@ -13959,6 +14641,14 @@
     "parking": null,
     "listedDate": "2026-04-01",
     "agentId": "kayla-samuels",
+    "brokers": [
+      {
+        "key": "106794",
+        "id": "kayla-samuels",
+        "name": "Kayla Samuels",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Townhouse, located in the heart of Shaughnessy Village, downtown Montreal, facing the gardens of the Architectural Museum CCA, walking distance to College LaSalle and Concordia University, Dawson Cegep, and 5 minutes to Atwater & Guy Metros.   Less then a 5 minute drive to the new Super Hospital at The Glenn. Available for occupancy May 1st, 2025",
       "fr": "Maison de Ville,Village Shaughnessy, Centre Ville, face des jardins du musée d'architecture CCA, à deux pas du Collège LaSalle, l'Université Concordia et  Cégep Dawson, 5 minutes à pied des Métros Atwater et Guy, face du parc du Centre Canadien d'Architecture, moins de 5 minutes au Super Hôpital au Glenn Occupation le 1er mai 2025"
@@ -14204,6 +14894,14 @@
     "parking": null,
     "listedDate": "2026-08-10",
     "agentId": "william-gallo",
+    "brokers": [
+      {
+        "key": "130046",
+        "id": "william-gallo",
+        "name": "William Gallo",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Beautiful 4-bedroom, 2-bathroom apartment occupying the ground floor and basement of a charming grey stone building at 2010 Rue St-Hubert. The spacious unit includes all appliances and utilities, as well as outdoor space. Ideally located within walking distance of the metro, Parc La Fontaine, and an array of excellent restaurants, cafés, and local shops. A great opportunity to enjoy comfortable and convenient living in the heart of Montreal.",
       "fr": "Magnifique appartement de 4 chambres et 2 salles de bain occupant le rez-de-chaussée et le sous-sol d'un charmant immeuble en pierre grise, situé au 2010, rue Saint-Hubert. Ce logement spacieux comprend tous les électroménagers et les charges (chauffage, électricité, eau chaude), ainsi qu'un espace extérieur. Il bénéficie d'un emplacement idéal, à distance de marche du métro, du parc La Fontaine et d'une multitude d'excellents restaurants, cafés et commerces de proximité. Une belle occasion de profiter d'un cadre de vie confortable et pratique au coeur de Montréal."
@@ -14295,6 +14993,14 @@
     "parking": null,
     "listedDate": "2026-03-15",
     "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
     "description": {
       "en": "Great opportunity to own this spacious studio that has never been occupied since built in 2023. Ideally located in the heart of downtown Montreal, just steps from Concordia University, Guy-Concordia and Lucien L'Allier metro stations, and countless shops, restaurants, and services. Enjoy top-tier amenities including a 24-hour doorman, indoor pool, spa, fully equipped gym, and an impressive 6,000 sq. ft. landscaped urban garden terrace -- perfect for relaxation and entertaining. Whether you're a student, professional, or investor, this turnkey unit is a smart choice for downtown living.",
       "fr": "Belle opportunité de posséder ce spacieux studio qui n'a jamais été occupé depuis sa construction en 2023. Idéalement situé au coeur du centre-ville de Montréal, à quelques pas de l'Université Concordia, des stations de métro Guy-Concordia et Lucien L'Allier, et d'innombrables boutiques, restaurants et services. Profitez de commodités de premier ordre, dont un portier 24/7, une piscine intérieure, un spa, une GYM entièrement équipée et une impressionnante terrasse-jardin urbaine de 6 000 pc. Que vous soyez étudiant, professionnel ou investisseur, cette unité clé en main est un choix judicieux pour vivre au centre-ville."

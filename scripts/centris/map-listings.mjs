@@ -150,6 +150,28 @@ function unitsOf(p) {
     .filter((u) => u.type || u.beds != null);
 }
 
+const memberByKey = new Map(members.map((m) => [String(m.MemberKey), m]));
+
+/**
+ * Listing + co-listing brokers, in order. `id` is our roster slug when the
+ * broker is on the team (so the card links to their profile); brokers from
+ * other brokerages appear by name only.
+ */
+function brokersOf(p) {
+  const out = [];
+  for (const keyField of ['ListAgentKey', 'CoListAgentKey']) {
+    const key = p[keyField];
+    if (!key) continue;
+    const k = String(key);
+    if (out.some((b) => b.key === k)) continue; // same broker in both slots
+    const slug = agentKeyToSlug.get(k) ?? null;
+    const name = memberByKey.get(k)?.MemberFullName ?? null;
+    if (!slug && !name) continue;
+    out.push({ key: k, id: slug, name, external: !slug });
+  }
+  return out;
+}
+
 function statusOf(p) {
   const isLease = /Lease/i.test(p.PropertyType ?? '');
   const closed = p.StandardStatus === 'Closed' || /sold|rented|leased/i.test(p.MlsStatus ?? '');
@@ -271,6 +293,9 @@ function mapListing(p) {
         : null,
     listedDate: (p.OnMarketTimestamp ?? p.StatusChangeTimestamp ?? '').slice(0, 10) || null,
     agentId: agentKeyToSlug.get(String(p.ListAgentKey)) ?? null,
+    // 40% of listings are co-listed. Both brokers must appear; co-listing
+    // agents from other brokerages are shown by name without a profile link.
+    brokers: brokersOf(p),
     description: bi(p, 'PublicRemarks') ?? { en: '', fr: '' },
     features: featuresOf(p),
     rooms: roomsOf(p),

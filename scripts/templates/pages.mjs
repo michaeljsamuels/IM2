@@ -23,7 +23,10 @@ export function teamPage(ctx) {
 /** Broker profile: photo, contact, bio, inquiry form, active listings. */
 export function agentPage(ctx, agent) {
   const { locale, T, listings } = ctx;
-  const mine = listings.filter((l) => l.agentId === agent.id);
+  // Include listings where this broker is either the listing or co-listing agent.
+  const mine = listings.filter(
+    (l) => l.agentId === agent.id || (l.brokers ?? []).some((b) => b.id === agent.id),
+  );
   const bio = agent.bio?.[locale]?.trim();
   const bioParagraphs = bio
     ? bio.split(/\n+/).map((p) => `<p>${esc(p)}</p>`).join('\n')

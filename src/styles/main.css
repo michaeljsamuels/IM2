@@ -1743,3 +1743,42 @@ body:not(.has-hero) main {
     font-size: 1.4rem;
   }
 }
+
+/* Multiple brokers on co-listed properties */
+.broker-cards {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  padding: 1.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.broker-cards > h4 {
+  font-size: 0.85rem;
+  font-family: var(--font-body);
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.broker-cards .broker-card {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0 0 1.4rem;
+}
+
+.broker-cards .broker-card:last-child {
+  margin-bottom: 0;
+}
+
+.broker-cards .broker-card + .broker-card {
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--card-border);
+}
+
+.broker-card--external .broker-card__title {
+  font-style: italic;
+  letter-spacing: 0.06em;
+  text-transform: none;
+}
