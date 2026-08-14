@@ -1,14 +1,19 @@
 # Replicates listings directly from the Centris Data Distribution API
 # (RESO Web API) and rebuilds the site when anything changed.
 #
-# Incremental pulls run hourly using per-resource ModificationTimestamp
-# cursors. A full reconciliation runs at most once a day inside the same
-# script — that is the only thing that detects REMOVALS (listings sold,
-# expired or withdrawn), which Centris flags as essential.
+# Incremental pulls run every 15 minutes using per-resource
+# ModificationTimestamp cursors — measured 2026-08-14: a Broker Loading edit
+# is visible on the API within ~1 minute, so polling interval is the only
+# latency we control. An incremental costs ~4-6 requests against a 200/min
+# ceiling, so this is well within budget.
+#
+# A full reconciliation runs at most once a day inside the same script — that
+# is the only thing that detects REMOVALS (listings sold, expired or
+# withdrawn), which Centris flags as essential.
 name: Sync listings
 on:
   schedule:
-    - cron: '7 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
     inputs:
       full:

@@ -66247,7 +66247,7 @@
     "LotSizeWidth": null,
     "OpenParkingSpaces": null,
     "ParkingTotal": 1,
-    "RentPrice": 2650,
+    "RentPrice": 2649,
     "AvailabilityDate": "2026-07-01",
     "EnvironmentalStudyPhase1Date": null,
     "EnvironmentalStudyPhase2Date": null,
@@ -66304,7 +66304,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26642686,
+    "EntityEventSequence": 26712841,
     "Exclusions": null,
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -66397,7 +66397,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-12T06:31:22Z",
+    "ModificationTimestamp": "2026-08-14T21:02:59Z",
     "NeighborhoodKey": "843_B",
     "NeighborhoodName": "Central West",
     "NumberOfUnitsAvailable": null,
@@ -66425,7 +66425,7 @@
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H3B3A7",
-    "PriceChangeTimestamp": "2026-08-10T15:55:02Z",
+    "PriceChangeTimestamp": "2026-08-14T21:02:59Z",
     "PrivateInteractiveShowingYN": true,
     "PropertyCondition": [],
     "PropertySubType": "Condominium",
@@ -66435,8 +66435,8 @@
     "RentPriceAddTaxesYN": null,
     "RentPriceAreaUnits": null,
     "RentPriceFrequency": "Monthly",
-    "RentPriceFull": "$2,650/month",
-    "RentPriceShort": "$2,650/mth",
+    "RentPriceFull": "$2,649/month",
+    "RentPriceShort": "$2,649/mth",
     "ResidentFeatures": [],
     "Roof": [],
     "RoofOther": null,
@@ -66527,11 +66527,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "$2,650/mth"
+            "Value": "$2,649/mth"
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "$2,650/month"
+            "Value": "$2,649/month"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -66565,11 +66565,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "2 650 $/m."
+            "Value": "2 649 $/m."
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "2 650 $/mois"
+            "Value": "2 649 $/mois"
           },
           {
             "FieldName": "UnparsedAddress",
