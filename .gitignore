@@ -32,3 +32,7 @@ aws-exports.js
 *.sql
 *.sql.gz
 *.tar.gz
+
+# Centris raw replication cache is committed (audit trail), but the
+# full unscoped Member dump must never be
+content/centris/Member.full.json

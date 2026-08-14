@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "content": "node scripts/build-content.mjs",
-    "sync": "node scripts/sync-from-luxurymtl.mjs",
+    "sync": "node scripts/centris/replicate.mjs && node scripts/centris/map-listings.mjs",
     "rates": "node scripts/fetch-rates.mjs",
     "predev": "npm run content",
     "dev": "vite",

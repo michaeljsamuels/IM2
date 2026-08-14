@@ -1,0 +1,431 @@
+[
+  {
+    "DisplayName": "Island of Montréal",
+    "EntityEventSequence": 5080250,
+    "LegacyODataValue": "GRANDSECT_1",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_1",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_1",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_1",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_1.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Island of Montréal"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_1.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Île de Montréal"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.548Z"
+  },
+  {
+    "DisplayName": "City of Sherbrooke",
+    "EntityEventSequence": 5080491,
+    "LegacyODataValue": "GRANDSECT_10",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_10",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_10",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_10",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_10.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "City of Sherbrooke"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_10.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Ville de Sherbrooke"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "City of Magog",
+    "EntityEventSequence": 5080492,
+    "LegacyODataValue": "GRANDSECT_11",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_11",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_11",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_11",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_11.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "City of Magog"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_11.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Ville de Magog"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "Sherbrooke Surrounding Areas",
+    "EntityEventSequence": 5080493,
+    "LegacyODataValue": "GRANDSECT_12",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_12",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_12",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_12",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_12.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Sherbrooke Surrounding Areas"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_12.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Périphérie de Sherbrooke"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "City of Trois-Rivières",
+    "EntityEventSequence": 5080495,
+    "LegacyODataValue": "GRANDSECT_13",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_13",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_13",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_13",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_13.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "City of Trois-Rivières"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_13.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Ville de Trois-Rivières"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "Trois-Rivières Surrounding Areas",
+    "EntityEventSequence": 5080494,
+    "LegacyODataValue": "GRANDSECT_14",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_14",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_14",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_14",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_14.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Trois-Rivières Surrounding Areas"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_14.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Périphérie de Trois-Rivières"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "City of Gatineau",
+    "EntityEventSequence": 5080496,
+    "LegacyODataValue": "GRANDSECT_15",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_15",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_15",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_15",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_15.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "City of Gatineau"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_15.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Ville de Gatineau"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "Gatineau Surrounding Areas",
+    "EntityEventSequence": 5080497,
+    "LegacyODataValue": "GRANDSECT_16",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_16",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_16",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_16",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_16.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Gatineau Surrounding Areas"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_16.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Périphérie de Gatineau"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "Laval",
+    "EntityEventSequence": 5080251,
+    "LegacyODataValue": "GRANDSECT_2",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_2",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_2",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_2",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_2.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Laval"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_2.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Laval"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "North Shore of Montréal",
+    "EntityEventSequence": 5080255,
+    "LegacyODataValue": "GRANDSECT_3",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_3",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_3",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_3",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_3.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "North Shore of Montréal"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_3.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Rive-Nord de Montréal"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "South Shore of Montréal",
+    "EntityEventSequence": 5080252,
+    "LegacyODataValue": "GRANDSECT_4",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_4",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_4",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_4",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_4.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "South Shore of Montréal"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_4.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Rive-Sud de Montréal"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "Vaudreuil-Soulanges",
+    "EntityEventSequence": 5080253,
+    "LegacyODataValue": "GRANDSECT_5",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_5",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_5",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_5",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_5.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Vaudreuil-Soulanges"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_5.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Vaudreuil-Soulanges"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  },
+  {
+    "DisplayName": "City of Saguenay",
+    "EntityEventSequence": 5080487,
+    "LegacyODataValue": "GRANDSECT_6",
+    "LookupKey": "CityOrTownshipGroupingCode.GRANDSECT_6",
+    "LookupName": "CityOrTownshipGroupingCode",
+    "LookupValue": "GRANDSECT_6",
+    "ModificationTimestamp": "2009-12-14T08:58:20Z",
+    "StandardLookupValue": "GRANDSECT_6",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_6.en",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "City of Saguenay"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Lookup.CityOrTownshipGroupingCode.GRANDSECT_6.fr",
+        "Values": [
+          {
+            "FieldName": "DisplayName",
+            "Value": "Ville de Saguenay"
+          }
+        ]
+      }
+    ],
+    "_archivedAt": "2026-08-14T20:12:53.549Z"
+  }
+]
