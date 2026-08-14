@@ -1,4 +1,35 @@
-# Centris Data Distribution — Integration Plan
+# Centris Data Distribution — Integration (SHIPPED 2026-08-14)
+
+**Status: live.** luxurymtl2.com now pulls directly from Centris. The legacy
+scraper (`scripts/sync-from-luxurymtl.mjs`) has been deleted and the site has
+**no remaining dependency on the legacy site or server.**
+
+Results of the initial replication and cutover:
+
+| | |
+|---|---|
+| Listings | **68** (was 65 via scraper), incl. **4 sold** the legacy site never showed |
+| Split | 32 for-sale · 32 for-rent · 4 sold |
+| Photos | 1,884, ordered, with room labels |
+| Agents | 13 referenced members (of 16,323 in Québec — see scoping note) |
+| Lookups | 2,100 translated label records |
+| API cost | Full pull ≈ 5 requests / 11s; hourly incremental ≈ 4 requests |
+| Verification | Diffed against the scraper: **64/65 matched**. Legacy had one **stale price** (93 Ch. Dupuis: $3,900 vs Centris $3,400) and one **mis-parsed commercial lease rate** ($17/sq ft read as the price). Centris was correct in both cases. |
+
+**Scoping note:** `Property` is scoped to the brokerage, but `Member` is **not** —
+it returns every agent in Québec (16,323 records / 26 MB). `Member` is therefore
+a *derived* resource: its key set comes from `ListAgentKey`/`CoListAgentKey` on
+our own listings, so we store the 13 that matter (including co-listing agents
+from other brokerages such as Sotheby's). Never replicate `Member` unscoped.
+
+**URL change:** listing URLs now use the Centris MLS number
+(`/en/listing/28891954/...`) instead of the legacy internal id. This is stable,
+matches Centris, and supports the `centris-redirection/{mls}` deep-link pattern
+the legacy site used — relevant when building the redirect map at cutover.
+
+---
+
+## Original plan (retained for reference)
 
 Replaces the interim `sync-from-luxurymtl.mjs` scraper with a direct,
 first-party connection to Centris. Once live, luxurymtl2.com has **no
