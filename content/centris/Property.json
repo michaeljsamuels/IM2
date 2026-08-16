@@ -23006,7 +23006,7 @@
     "GrossScheduledIncomeResidential": null,
     "LandLeaseAmount": null,
     "Latitude": 45.530336,
-    "ListPrice": 6100000,
+    "ListPrice": 7200000,
     "ListPriceTaxesIncluded": null,
     "LivingArea": 40000,
     "Longitude": -73.611817,
@@ -23081,7 +23081,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26577889,
+    "EntityEventSequence": 26730578,
     "Exclusions": "As per leases",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -23131,8 +23131,8 @@
     "ListOfficeMlsId": "SMU001",
     "ListPriceAddTaxesYN": true,
     "ListPriceAreaUnits": null,
-    "ListPriceFull": "$6,100,000 + GST/QST",
-    "ListPriceShort": "$6,100,000 + GST/QST",
+    "ListPriceFull": "$7,200,000 + GST/QST",
+    "ListPriceShort": "$7,200,000 + GST/QST",
     "LivingAreaSource": "Plans",
     "LivingAreaUnits": "Square Feet",
     "LoadingDockAdjustableTotal": null,
@@ -23155,7 +23155,7 @@
     "LotSizeDimensionsUnits": "Feet",
     "LotSizeUnits": "Square Meters",
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-09T10:29:57Z",
+    "ModificationTimestamp": "2026-08-16T19:48:55Z",
     "NeighborhoodKey": "844_G",
     "NeighborhoodName": "Little Italy",
     "NumberOfUnitsAvailable": null,
@@ -23187,7 +23187,7 @@
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H2S3G6",
-    "PriceChangeTimestamp": "2026-04-21T17:18:40Z",
+    "PriceChangeTimestamp": "2026-08-16T19:48:55Z",
     "PrivateInteractiveShowingYN": null,
     "PropertyCondition": [],
     "PropertySubType": "Industrial",
@@ -23295,11 +23295,11 @@
           },
           {
             "FieldName": "ListPriceShort",
-            "Value": "$6,100,000 + GST/QST"
+            "Value": "$7,200,000 + GST/QST"
           },
           {
             "FieldName": "ListPriceFull",
-            "Value": "$6,100,000 + GST/QST"
+            "Value": "$7,200,000 + GST/QST"
           },
           {
             "FieldName": "BuildingSizeDimensions",
@@ -23365,11 +23365,11 @@
           },
           {
             "FieldName": "ListPriceShort",
-            "Value": "6 100 000 $ + TPS/TVQ"
+            "Value": "7 200 000 $ + TPS/TVQ"
           },
           {
             "FieldName": "ListPriceFull",
-            "Value": "6 100 000 $ + TPS/TVQ"
+            "Value": "7 200 000 $ + TPS/TVQ"
           },
           {
             "FieldName": "BuildingSizeDimensions",
