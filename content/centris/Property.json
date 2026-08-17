@@ -8417,7 +8417,7 @@
     "LotSizeWidth": null,
     "OpenParkingSpaces": null,
     "ParkingTotal": null,
-    "RentPrice": 1650,
+    "RentPrice": 1595,
     "AvailabilityDate": "2026-06-01",
     "EnvironmentalStudyPhase1Date": null,
     "EnvironmentalStudyPhase2Date": null,
@@ -8474,7 +8474,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26717925,
+    "EntityEventSequence": 26739904,
     "Exclusions": "Heating, electricity, wifi, tenant insurance",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -8551,7 +8551,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-15T09:58:47Z",
+    "ModificationTimestamp": "2026-08-17T14:48:16Z",
     "NeighborhoodKey": "839_A",
     "NeighborhoodName": "Saint-Henri",
     "NumberOfUnitsAvailable": null,
@@ -8576,7 +8576,7 @@
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H4C1M1",
-    "PriceChangeTimestamp": "2026-07-20T18:59:18Z",
+    "PriceChangeTimestamp": "2026-08-17T14:48:16Z",
     "PrivateInteractiveShowingYN": null,
     "PropertyCondition": [],
     "PropertySubType": "Condominium",
@@ -8586,8 +8586,8 @@
     "RentPriceAddTaxesYN": null,
     "RentPriceAreaUnits": null,
     "RentPriceFrequency": "Monthly",
-    "RentPriceFull": "$1,650/month",
-    "RentPriceShort": "$1,650/mth",
+    "RentPriceFull": "$1,595/month",
+    "RentPriceShort": "$1,595/mth",
     "ResidentFeatures": [],
     "Roof": [],
     "RoofOther": null,
@@ -8669,11 +8669,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "$1,650/mth"
+            "Value": "$1,595/mth"
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "$1,650/month"
+            "Value": "$1,595/month"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -8711,11 +8711,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "1 650 $/m."
+            "Value": "1 595 $/m."
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "1 650 $/mois"
+            "Value": "1 595 $/mois"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -43155,7 +43155,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26739243,
+    "EntityEventSequence": 26739571,
     "Exclusions": null,
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -43244,7 +43244,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-17T14:30:35Z",
+    "ModificationTimestamp": "2026-08-17T14:39:12Z",
     "NeighborhoodKey": "839_E",
     "NeighborhoodName": "Petite-Bourgogne",
     "NumberOfUnitsAvailable": null,
@@ -47549,7 +47549,7 @@
     "LotSizeWidth": null,
     "OpenParkingSpaces": null,
     "ParkingTotal": null,
-    "RentPrice": 3100,
+    "RentPrice": 2950,
     "AvailabilityDate": "2026-07-01",
     "EnvironmentalStudyPhase1Date": null,
     "EnvironmentalStudyPhase2Date": null,
@@ -47606,7 +47606,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26627758,
+    "EntityEventSequence": 26739916,
     "Exclusions": "Heating, electricity, wifi, tenant insurance",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -47674,7 +47674,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-11T17:09:47Z",
+    "ModificationTimestamp": "2026-08-17T14:48:39Z",
     "NeighborhoodKey": "843_G",
     "NeighborhoodName": "Golden Square Mile",
     "NumberOfUnitsAvailable": null,
@@ -47701,7 +47701,7 @@
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H3G2H4",
-    "PriceChangeTimestamp": null,
+    "PriceChangeTimestamp": "2026-08-17T14:48:39Z",
     "PrivateInteractiveShowingYN": null,
     "PropertyCondition": [],
     "PropertySubType": "Condominium",
@@ -47711,8 +47711,8 @@
     "RentPriceAddTaxesYN": null,
     "RentPriceAreaUnits": null,
     "RentPriceFrequency": "Monthly",
-    "RentPriceFull": "$3,100/month",
-    "RentPriceShort": "$3,100/mth",
+    "RentPriceFull": "$2,950/month",
+    "RentPriceShort": "$2,950/mth",
     "ResidentFeatures": [],
     "Roof": [],
     "RoofOther": null,
@@ -47794,11 +47794,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "$3,100/mth"
+            "Value": "$2,950/mth"
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "$3,100/month"
+            "Value": "$2,950/month"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -47836,11 +47836,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "3 100 $/m."
+            "Value": "2 950 $/m."
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "3 100 $/mois"
+            "Value": "2 950 $/mois"
           },
           {
             "FieldName": "UnparsedAddress",
