@@ -3394,5 +3394,1542 @@
       }
     ],
     "_archivedAt": "2026-08-15T16:14:29.800Z"
+  },
+  {
+    "BuildingSizeLength": null,
+    "BuildingSizeWidth": null,
+    "CarportSpaces": null,
+    "CoOwnershipSharePercentage": null,
+    "CoveredSpaces": 1,
+    "FoundationArea": null,
+    "GarageSpaces": 1,
+    "GrossScheduledIncomeCommercial": null,
+    "GrossScheduledIncomeOther": null,
+    "GrossScheduledIncomeParking": null,
+    "GrossScheduledIncomeResidential": null,
+    "LandLeaseAmount": null,
+    "Latitude": 45.480959,
+    "ListPrice": 899000,
+    "ListPriceTaxesIncluded": null,
+    "LivingArea": 112.4,
+    "Longitude": -73.574781,
+    "LotSizeArea": null,
+    "LotSizeLength": null,
+    "LotSizeWidth": null,
+    "OpenParkingSpaces": null,
+    "ParkingTotal": 1,
+    "RentPrice": null,
+    "AvailabilityDate": "2026-06-30",
+    "EnvironmentalStudyPhase1Date": null,
+    "EnvironmentalStudyPhase2Date": null,
+    "GrossScheduledIncomeDate": null,
+    "AboveGroundBedroomsTotal": 3,
+    "AccessibilityFeatures": [],
+    "Addenda": "Chic Urban Living at 2668 Rue Sainte-Cunégonde\r\nSpacious, Sun-Drenched, and Fully Renovated\r\n\r\nExperience the best of Little Burgundy in this stunning 1,200+ sq. ft. unit. Perfectly blending modern luxury with a premier location, this home offers a rare layout featuring three true bedrooms--a find that is increasingly hard to come by in the heart of the city.\r\n\r\nFreshly updated with a full repaint and high-end renovations to both the kitchen and bathroom, this condo is move-in ready and situated in a meticulously maintained building with low condo fees.\r\n\r\nThe Highlights\r\nModern Interiors: An expansive open-concept living area bathed in natural light through vast fenestration. The designer kitchen (2024) is a chef's dream, featuring custom cabinetry, quartz countertops, and a generous island perfect for entertaining.\r\n\r\nRenovated Comfort: Retreat to a spa-like bathroom. The unit also includes a convenient powder room and a dedicated laundry room.\r\n\r\nPrivate Outdoor Oasis: Enjoy morning coffee on your private balcony off the primary bedroom or front facing balcony, with views of Montreal's skyline. \r\n\r\nPremium Finishes: Stay cozy by the gas fireplace or enjoy the ease of motorized curtains throughout.\r\n\r\nParking & Storage: Includes one private indoor parking space and a storage locker.\r\n\r\nThe Neighborhood: A Walker's Paradise\r\nLocated in one of Montreal's most vibrant districts, you are steps away from the very best the city has to offer:\r\n\r\nNature & Leisure: Just a short stroll to the Lachine Canal and the iconic Atwater Market.\r\n\r\nCulinary & Culture: Steps from Rue Notre-Dame, home to world-class gourmet restaurants, trendy cafés, and chic boutiques.\r\n\r\nUltimate Convenience: Less than a minute's walk to the grocery store, pharmacy, and SAQ.\r\n\r\nTransit Hub: A 5-minute walk to Metro Lionel-Groulx (Green/Orange lines) with immediate access to Highway 720.\r\n\r\nProperty Summary: 3 Bedrooms | 1 Full Bathroom | 1 Powder Room | Indoor Parking | Storage Locker ",
+    "Appliances": [],
+    "AssociationAmenities": [],
+    "AttachedGarageYN": null,
+    "Basement": [],
+    "BasementBedroomsTotal": 0,
+    "BasementOther": null,
+    "BathroomFeatures": [],
+    "BathroomFeaturesOther": null,
+    "BathroomsFull": 1,
+    "BathroomsPartial": 1,
+    "BedroomsTotal": 3,
+    "BuildingBusinessSignsAllowedYN": null,
+    "BuildingCurrentUse": [],
+    "BuildingFeatures": [],
+    "BuildingSizeDimensions": null,
+    "BuildingSizeDimensionsFeet": null,
+    "BuildingSizeDimensionsMeters": null,
+    "BuildingSizeDimensionsPolygonYN": null,
+    "BuildingSizeDimensionsUnits": null,
+    "BusinessOperationType": [],
+    "BusinessType": [],
+    "BusinessTypeOther": null,
+    "CarportYN": null,
+    "CityOrTownshipKey": "839",
+    "CoListAgentKey": "125677",
+    "CoListAgentMlsId": "125677",
+    "CoListOfficeKey": "SMU001",
+    "CoListOfficeMlsId": "SMU001",
+    "CommonWalls": [
+      "1 Common Wall"
+    ],
+    "ConstructionMaterials": [],
+    "ConstructionMaterialsOtherDividingFloor": null,
+    "ConstructionMaterialsOtherSiding": null,
+    "Cooling": [],
+    "CoolingYN": null,
+    "CoOwnershipType": "Divided",
+    "Country": "CA",
+    "CrossStreet": null,
+    "CurrentUse": [],
+    "CurrentUseOther": null,
+    "DaysBeforeAvailability": null,
+    "DocumentsChangeTimestamp": "2026-05-07T19:20:05Z",
+    "DriveInDoorsHeight": null,
+    "DriveInDoorsHeightUnits": null,
+    "DriveInDoorsTotal": null,
+    "ElectricAmp": null,
+    "ElectricPhase": null,
+    "ElectricVolts": null,
+    "EntityEventSequence": 26637293,
+    "Exclusions": "Tenant belongings. ",
+    "ExteriorDoorsHeight": null,
+    "ExteriorDoorsHeightUnits": null,
+    "ExteriorDoorsTotal": null,
+    "ExteriorFeatures": [],
+    "Fencing": [],
+    "FireplaceFeatures": [],
+    "FireplaceFeaturesOther": null,
+    "FireplaceFeaturesOtherStove": null,
+    "FireplaceYN": null,
+    "Floor": "3rd",
+    "Flooring": [],
+    "FlooringOther": null,
+    "FoundationAreaUnits": null,
+    "FoundationDetails": [],
+    "FoundationDetailsOther": null,
+    "Furnished": null,
+    "GarageYN": true,
+    "GreenBuildingVerificationType": [],
+    "GreenEnergyGeneration": [],
+    "GreenVerificationYN": null,
+    "Heating": [
+      "Electric",
+      "Electricity"
+    ],
+    "HeatingOther": null,
+    "HeatingOtherSystem": null,
+    "HeatingYN": true,
+    "HomeWarrantyYN": false,
+    "Inclusions": "Appliances, light fixtures, 1 indoor parking, 1 indoor storage locker",
+    "InteriorFeatures": [],
+    "InternetEntireListingDisplayYN": true,
+    "KitchenCabinetFeatures": [],
+    "KitchenCabinetFeaturesOther": null,
+    "LandLeaseAmountFrequency": null,
+    "LandLeaseYN": null,
+    "LaundryFeatures": [],
+    "LaundryFeaturesOther": null,
+    "Levels": [
+      "One"
+    ],
+    "ListAgentKey": "109924",
+    "ListAgentMlsId": "109924",
+    "ListingId": "28891954",
+    "ListingKey": "28891954",
+    "ListingTerms": [],
+    "ListingURL": "https://passerelle.centris.ca/redirect.aspx?NoMLS=28891954",
+    "ListOfficeKey": "SMU001",
+    "ListOfficeMlsId": "SMU001",
+    "ListPriceAddTaxesYN": null,
+    "ListPriceAreaUnits": null,
+    "ListPriceFull": "$899,000",
+    "ListPriceShort": "$899,000",
+    "LivingAreaSource": "Plans",
+    "LivingAreaUnits": "Square Meters",
+    "LoadingDockAdjustableTotal": null,
+    "LoadingDockPermanentTotal": null,
+    "LoadingDockTypeOther": null,
+    "LotFeatures": [
+      "Near highway",
+      "Near CEGEP",
+      "Near daycare centre",
+      "Near Golf Course",
+      "Near hospital",
+      "Near metro",
+      "Near park",
+      "Near bicycle path",
+      "Near elementary school",
+      "Near REM",
+      "Near alpine skiing",
+      "Near high school",
+      "Near cross-country skiing",
+      "Near Snowmobile Trail",
+      "Near commuter train",
+      "Near Public Transit",
+      "Near university"
+    ],
+    "LotFeaturesNearOther": null,
+    "LotFeaturesOther": null,
+    "LotFeaturesOtherDistinctive": null,
+    "LotFeaturesOtherTopography": null,
+    "LotSizeDimensions": null,
+    "LotSizeDimensionsFeet": null,
+    "LotSizeDimensionsMeters": null,
+    "LotSizeDimensionsPolygonYN": null,
+    "LotSizeDimensionsUnits": null,
+    "LotSizeUnits": null,
+    "MlsStatus": "Active",
+    "ModificationTimestamp": "2026-08-11T22:19:35Z",
+    "NeighborhoodKey": "839_E",
+    "NeighborhoodName": "Petite-Bourgogne",
+    "NumberOfUnitsAvailable": null,
+    "NumberOfUnitsInCommunity": null,
+    "NumberOfUnitsLeased": null,
+    "NumberOfUnitsTotal": null,
+    "NumberOfUnitsVacant": null,
+    "OnMarketTimestamp": "2026-05-07T19:20:05Z",
+    "OpenParkingYN": null,
+    "OtherEquipment": [],
+    "OtherEquipmentOther": null,
+    "OtherStructures": [],
+    "OwnerPays": [],
+    "ParkingFeatures": [
+      "Heated Garage",
+      "Built-in garage"
+    ],
+    "ParkingFeaturesOtherCarport": null,
+    "ParkingFeaturesOtherDriveway": null,
+    "ParkingFeaturesOtherGarage": null,
+    "ParkName": null,
+    "PetsAllowed": [],
+    "PhotosChangeTimestamp": "2026-05-07T19:20:05Z",
+    "PhotosCount": 23,
+    "PoolFeatures": [],
+    "PoolFeaturesOther": null,
+    "PostalCode": "H3J2X4",
+    "PriceChangeTimestamp": null,
+    "PrivateInteractiveShowingYN": null,
+    "PropertyCondition": [],
+    "PropertySubType": "Condominium",
+    "PropertySubTypeOther": null,
+    "PropertyType": "Residential",
+    "PublicRemarks": "Stunning 1,200+ sq. ft. unit in Little Burgundy. This rare 3-BR, 1.5-bath condo was recently renovated and repainted, featuring a designer quartz kitchen and modern bathroom. Highlights include a cozy gas fireplace, private indoor parking, and a storage locker. Enjoy the outdoors with two private balconies (front and back) offering city views. Steps from the Lachine Canal, Atwater Market, and Metro Lionel-Groulx. Well-maintained building with low fees. Note: Property is currently rented at $3,500/month. Occupancy available as of July 1, 2026. A must-see for those seeking a turnkey home in a prime location.",
+    "RentPriceAddTaxesYN": null,
+    "RentPriceAreaUnits": null,
+    "RentPriceFrequency": null,
+    "RentPriceFull": null,
+    "RentPriceShort": null,
+    "ResidentFeatures": [],
+    "Roof": [],
+    "RoofOther": null,
+    "RoomsTotal": 10,
+    "SecurityFeatures": [],
+    "SellerDisclosuresFormYN": true,
+    "Sewer": [
+      "Public Sewer"
+    ],
+    "SewerOther": null,
+    "ShortTermRentalsAllowedYN": null,
+    "SmokingAllowedYN": null,
+    "SpaFeatures": [],
+    "SpaYN": null,
+    "SpecialListingConditions": [
+      "Standard"
+    ],
+    "StandardStatus": "Active",
+    "StateOrProvince": "QC",
+    "StateRegion": "Montréal",
+    "StatusChangeTimestamp": "2026-05-07T19:20:05Z",
+    "StoriesTotal": null,
+    "StreetName": "Ste-Cunégonde",
+    "StreetNumberEnd": null,
+    "StreetNumberStart": "2668",
+    "StreetShortName": "Rue Ste-Cunégonde",
+    "StructureType": [
+      "Apartment"
+    ],
+    "TaxAssessedBuildingValue": 630700,
+    "TaxAssessedLotValue": 123800,
+    "TaxYear": 2024,
+    "Township": "Montréal (Le Sud-Ouest)",
+    "UnitCommonWalls": [],
+    "UnitNumber": "6",
+    "UnparsedAddress": " Rue Ste-Cunégonde, apt. 6",
+    "Utilities": [
+      "Water Connected",
+      "Electricity Connected",
+      "Sewer Connected"
+    ],
+    "VideosChangeTimestamp": null,
+    "View": [
+      "Mountain(s)",
+      "Panoramic",
+      "City"
+    ],
+    "ViewOther": null,
+    "ViewYN": true,
+    "WaterBodyName": null,
+    "WaterfrontFeatures": [],
+    "WaterfrontFeaturesOther": null,
+    "WaterfrontYN": null,
+    "WaterSource": [
+      "Municipality"
+    ],
+    "WaterSourceOther": null,
+    "WindowFeatures": [],
+    "WindowFeaturesOther": null,
+    "WindowFeaturesOtherWindowType": null,
+    "YearBuilt": 2001,
+    "YearBuiltFeatures": null,
+    "YearBusinessOperationStart": null,
+    "ZoningDescription": "Residential",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Property.28891954.en",
+        "Values": [
+          {
+            "FieldName": "Addenda",
+            "Value": "Chic Urban Living at 2668 Rue Sainte-Cunégonde\r\nSpacious, Sun-Drenched, and Fully Renovated\r\n\r\nExperience the best of Little Burgundy in this stunning 1,200+ sq. ft. unit. Perfectly blending modern luxury with a premier location, this home offers a rare layout featuring three true bedrooms--a find that is increasingly hard to come by in the heart of the city.\r\n\r\nFreshly updated with a full repaint and high-end renovations to both the kitchen and bathroom, this condo is move-in ready and situated in a meticulously maintained building with low condo fees.\r\n\r\nThe Highlights\r\nModern Interiors: An expansive open-concept living area bathed in natural light through vast fenestration. The designer kitchen (2024) is a chef's dream, featuring custom cabinetry, quartz countertops, and a generous island perfect for entertaining.\r\n\r\nRenovated Comfort: Retreat to a spa-like bathroom. The unit also includes a convenient powder room and a dedicated laundry room.\r\n\r\nPrivate Outdoor Oasis: Enjoy morning coffee on your private balcony off the primary bedroom or front facing balcony, with views of Montreal's skyline. \r\n\r\nPremium Finishes: Stay cozy by the gas fireplace or enjoy the ease of motorized curtains throughout.\r\n\r\nParking & Storage: Includes one private indoor parking space and a storage locker.\r\n\r\nThe Neighborhood: A Walker's Paradise\r\nLocated in one of Montreal's most vibrant districts, you are steps away from the very best the city has to offer:\r\n\r\nNature & Leisure: Just a short stroll to the Lachine Canal and the iconic Atwater Market.\r\n\r\nCulinary & Culture: Steps from Rue Notre-Dame, home to world-class gourmet restaurants, trendy cafés, and chic boutiques.\r\n\r\nUltimate Convenience: Less than a minute's walk to the grocery store, pharmacy, and SAQ.\r\n\r\nTransit Hub: A 5-minute walk to Metro Lionel-Groulx (Green/Orange lines) with immediate access to Highway 720.\r\n\r\nProperty Summary: 3 Bedrooms | 1 Full Bathroom | 1 Powder Room | Indoor Parking | Storage Locker "
+          },
+          {
+            "FieldName": "Exclusions",
+            "Value": "Tenant belongings. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "Appliances, light fixtures, 1 indoor parking, 1 indoor storage locker"
+          },
+          {
+            "FieldName": "NeighborhoodName",
+            "Value": "Petite-Bourgogne"
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "Stunning 1,200+ sq. ft. unit in Little Burgundy. This rare 3-BR, 1.5-bath condo was recently renovated and repainted, featuring a designer quartz kitchen and modern bathroom. Highlights include a cozy gas fireplace, private indoor parking, and a storage locker. Enjoy the outdoors with two private balconies (front and back) offering city views. Steps from the Lachine Canal, Atwater Market, and Metro Lionel-Groulx. Well-maintained building with low fees. Note: Property is currently rented at $3,500/month. Occupancy available as of July 1, 2026. A must-see for those seeking a turnkey home in a prime location."
+          },
+          {
+            "FieldName": "ZoningDescription",
+            "Value": "Residential"
+          },
+          {
+            "FieldName": "ListPriceShort",
+            "Value": "$899,000"
+          },
+          {
+            "FieldName": "ListPriceFull",
+            "Value": "$899,000"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Rue Ste-Cunégonde, apt. 6"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Property.28891954.fr",
+        "Values": [
+          {
+            "FieldName": "Addenda",
+            "Value": "Une vie urbaine chic au 2668, rue Sainte-Cunégonde\r\nSpacieux, ensoleillé et entièrement rénové\r\n\r\nDécouvrez le meilleur de la Petite Bourgogne dans ce superbe appartement de plus de 1 200 pieds carrés. Alliant à la perfection le luxe moderne et un emplacement de choix, cette maison offre un agencement rare comprenant trois véritables chambres à coucher, une perle rare de plus en plus difficile à trouver au coeur de la ville.\r\n\r\nRécemment rénové avec une nouvelle peinture et des rénovations haut de gamme dans la cuisine et la salle de bain, cet appartement est prêt à emménager et situé dans un immeuble méticuleusement entretenu avec des frais de copropriété peu élevés.\r\n\r\nLes points forts\r\nIntérieurs modernes : un vaste espace de vie à aire ouverte baigné de lumière naturelle grâce à de grandes fenêtres. La cuisine design (2024) est le rêve de tout chef, avec ses armoires sur mesure, ses plans de travail en quartz et son îlot généreux, parfait pour recevoir.\r\n\r\nConfort rénové : détendez-vous dans une salle de bains digne d'un spa. L'appartement comprend également une salle d'eau pratique et une buanderie dédiée.\r\n\r\nOasis extérieure privée : savourez votre café du matin sur votre balcon privé attenant à la chambre principale ou sur le balcon donnant sur l'avant, avec vue sur les toits de Montréal. \r\n\r\nFinitions haut de gamme : restez au chaud près de la cheminée à gaz ou profitez de la commodité des rideaux motorisés dans toute la maison.\r\n\r\nParking et rangement : comprend une place de parking privée intérieure et un casier de rangement.\r\n\r\nLe quartier : un paradis pour les piétons\r\nSitué dans l'un des quartiers les plus animés de Montréal, vous êtes à quelques pas de ce que la ville a de mieux à offrir :\r\n\r\nNature et loisirs : à quelques pas du canal Lachine et du célèbre marché Atwater.\r\n\r\nGastronomie et culture : à quelques pas de la rue Notre-Dame, qui regorge de restaurants gastronomiques de classe mondiale, de cafés branchés et de boutiques chics.\r\n\r\nCommodité ultime : à moins d'une minute à pied de l'épicerie, de la pharmacie et de la SAQ.\r\n\r\nPôle de transport : à 5 minutes à pied du métro Lionel-Groulx (lignes verte et orange) avec accès immédiat à l'autoroute 720.\r\n\r\nRésumé de la propriété : 3 chambres | 1 salle de bain complète | 1 salle d'eau | Parking intérieur | Casiers de rangement."
+          },
+          {
+            "FieldName": "Exclusions",
+            "Value": "Effets personnels du locataire. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "Appareils électroménagers, luminaires, 1 place de stationnement intérieure, 1 casier de rangement intérieur"
+          },
+          {
+            "FieldName": "NeighborhoodName",
+            "Value": "Petite-Bourgogne"
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "Superbe unité de 1 200+ pc au coeur de la Petite-Bourgogne. Ce rare condo de 3 CAC et 1.5 SDB a été récemment rénové et repeint, incluant une cuisine de designer en quartz et une salle de bain moderne. Points saillants : foyer au gaz, garage intérieur privé et espace de rangement. Profitez de deux balcons privés (avant et arrière) avec vue sur la ville. À deux pas du Canal Lachine, du Marché Atwater et du métro Lionel-Groulx. Immeuble bien entretenu avec bas frais de condo. Note : Propriété louée à 3 500 $/mois. Occupation disponible dès le 1er juillet 2026. Une opportunité clé en main."
+          },
+          {
+            "FieldName": "ZoningDescription",
+            "Value": "Résidentiel"
+          },
+          {
+            "FieldName": "ListPriceShort",
+            "Value": "899 000 $"
+          },
+          {
+            "FieldName": "ListPriceFull",
+            "Value": "899 000 $"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Rue Ste-Cunégonde, app. 6"
+          }
+        ]
+      }
+    ],
+    "Media": [
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350513",
+        "MediaObjectID": "100868022",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2169ADDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 1,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489654",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350514",
+        "MediaObjectID": "100868023",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21690DDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 2,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489655",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350515",
+        "MediaObjectID": "100868025",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2169FDDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 3,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489656",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350516",
+        "MediaObjectID": "100868026",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21698DDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 4,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489657",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350517",
+        "MediaObjectID": "100868027",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21699DDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 5,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489658",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Aerial View",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350518",
+        "MediaObjectID": "100868028",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21697DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 6,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489659",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Dining Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350519",
+        "MediaObjectID": "100868029",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21693DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 7,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489660",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350520",
+        "MediaObjectID": "100868032",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2167DDDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 8,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489661",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350521",
+        "MediaObjectID": "100868033",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21671DDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 9,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489662",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350522",
+        "MediaObjectID": "100868034",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21674DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 10,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489663",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350523",
+        "MediaObjectID": "100868035",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21672DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 11,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489664",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350524",
+        "MediaObjectID": "100868036",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2167CDDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 12,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489665",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Balcony",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350525",
+        "MediaObjectID": "100868037",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2167EDDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 13,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489666",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350526",
+        "MediaObjectID": "100868040",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2167BDDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 14,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489667",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350527",
+        "MediaObjectID": "100868041",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2167FDDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 15,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489668",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350528",
+        "MediaObjectID": "100868042",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21678DDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 16,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489669",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Laundry",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350529",
+        "MediaObjectID": "100868043",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21679DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 17,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489670",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Powder room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350530",
+        "MediaObjectID": "100868044",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21677DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 18,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489671",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Balcony",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350531",
+        "MediaObjectID": "100868046",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21675DDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 19,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489672",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Elevator",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350532",
+        "MediaObjectID": "100868047",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21676DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 20,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489673",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Garage",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350533",
+        "MediaObjectID": "100868048",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD2163DDDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 21,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489674",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Aerial View",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350534",
+        "MediaObjectID": "100868050",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21634DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 22,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489675",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Aerial View",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_28891954_Photo_106350535",
+        "MediaObjectID": "100868051",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD250DAD21632DDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-05-07T19:20:05Z",
+        "Order": 23,
+        "ResourceName": "Property",
+        "ResourceRecordID": "28891954",
+        "ResourceRecordKey": "28891954",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "476489676",
+        "VirtualTourType": null
+      }
+    ],
+    "Rooms": [
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 1,
+        "RoomDescription": null,
+        "RoomDimensions": "13.11 X 8.10 ft / 4.24 X 2.69 m",
+        "RoomDimensionsFeet": "13.11 X 8.10 ft",
+        "RoomDimensionsMeters": "4.24 X 2.69 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_1",
+        "RoomLengthFractional": "10",
+        "RoomLengthWholeNumber": "8",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Kitchen",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "11",
+        "RoomWidthWholeNumber": "13",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_1.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "13.11 X 8.10 ft / 4.24 X 2.69 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "13.11 X 8.10 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4.24 X 2.69 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_1.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "13,11 X 8,10 p / 4,24 X 2,69 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "13,11 X 8,10 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4,24 X 2,69 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 10,
+        "RoomDescription": null,
+        "RoomDimensions": "7.1 X 5.4 ft / 2.16 X 1.63 m",
+        "RoomDimensionsFeet": "7.1 X 5.4 ft",
+        "RoomDimensionsMeters": "2.16 X 1.63 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_10",
+        "RoomLengthFractional": "4",
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Other",
+        "RoomTypeOther": "Entree",
+        "RoomWidthFractional": "1",
+        "RoomWidthWholeNumber": "7",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_10.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomTypeOther",
+                "Value": "Entree"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "7.1 X 5.4 ft / 2.16 X 1.63 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "7.1 X 5.4 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.16 X 1.63 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_10.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomTypeOther",
+                "Value": "Entree"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "7,1 X 5,4 p / 2,16 X 1,63 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "7,1 X 5,4 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,16 X 1,63 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 2,
+        "RoomDescription": null,
+        "RoomDimensions": "7.11 X 12.9 ft / 2.41 X 3.89 m",
+        "RoomDimensionsFeet": "7.11 X 12.9 ft",
+        "RoomDimensionsMeters": "2.41 X 3.89 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_2",
+        "RoomLengthFractional": "9",
+        "RoomLengthWholeNumber": "12",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Dining Room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "11",
+        "RoomWidthWholeNumber": "7",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_2.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "7.11 X 12.9 ft / 2.41 X 3.89 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "7.11 X 12.9 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.41 X 3.89 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_2.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "7,11 X 12,9 p / 2,41 X 3,89 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "7,11 X 12,9 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,41 X 3,89 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 3,
+        "RoomDescription": null,
+        "RoomDimensions": "13.1 X 12.9 ft / 3.99 X 3.89 m",
+        "RoomDimensionsFeet": "13.1 X 12.9 ft",
+        "RoomDimensionsMeters": "3.99 X 3.89 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_3",
+        "RoomLengthFractional": "9",
+        "RoomLengthWholeNumber": "12",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Living Room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "1",
+        "RoomWidthWholeNumber": "13",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_3.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "13.1 X 12.9 ft / 3.99 X 3.89 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "13.1 X 12.9 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.99 X 3.89 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_3.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "13,1 X 12,9 p / 3,99 X 3,89 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "13,1 X 12,9 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,99 X 3,89 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 4,
+        "RoomDescription": null,
+        "RoomDimensions": "10.11 X 9.9 ft / 3.33 X 2.97 m",
+        "RoomDimensionsFeet": "10.11 X 9.9 ft",
+        "RoomDimensionsMeters": "3.33 X 2.97 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_4",
+        "RoomLengthFractional": "9",
+        "RoomLengthWholeNumber": "9",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "11",
+        "RoomWidthWholeNumber": "10",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_4.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "10.11 X 9.9 ft / 3.33 X 2.97 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "10.11 X 9.9 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.33 X 2.97 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_4.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "10,11 X 9,9 p / 3,33 X 2,97 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "10,11 X 9,9 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,33 X 2,97 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 5,
+        "RoomDescription": null,
+        "RoomDimensions": "5.1 X 5 ft / 1.55 X 1.52 m",
+        "RoomDimensionsFeet": "5.1 X 5 ft",
+        "RoomDimensionsMeters": "1.55 X 1.52 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Ceramic Tile"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_5",
+        "RoomLengthFractional": "0",
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Powder room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "1",
+        "RoomWidthWholeNumber": "5",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_5.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5.1 X 5 ft / 1.55 X 1.52 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5.1 X 5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1.55 X 1.52 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_5.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5,1 X 5 p / 1,55 X 1,52 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5,1 X 5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1,55 X 1,52 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 6,
+        "RoomDescription": null,
+        "RoomDimensions": "8.9 X 8.10 ft / 2.67 X 2.69 m",
+        "RoomDimensionsFeet": "8.9 X 8.10 ft",
+        "RoomDimensionsMeters": "2.67 X 2.69 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Ceramic Tile"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_6",
+        "RoomLengthFractional": "10",
+        "RoomLengthWholeNumber": "8",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "9",
+        "RoomWidthWholeNumber": "8",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_6.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8.9 X 8.10 ft / 2.67 X 2.69 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8.9 X 8.10 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.67 X 2.69 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_6.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8,9 X 8,10 p / 2,67 X 2,69 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8,9 X 8,10 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,67 X 2,69 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 7,
+        "RoomDescription": null,
+        "RoomDimensions": "14.6 X 11.5 ft / 4.42 X 3.48 m",
+        "RoomDimensionsFeet": "14.6 X 11.5 ft",
+        "RoomDimensionsMeters": "4.42 X 3.48 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_7",
+        "RoomLengthFractional": "5",
+        "RoomLengthWholeNumber": "11",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Master Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "6",
+        "RoomWidthWholeNumber": "14",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_7.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "14.6 X 11.5 ft / 4.42 X 3.48 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "14.6 X 11.5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4.42 X 3.48 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_7.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "14,6 X 11,5 p / 4,42 X 3,48 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "14,6 X 11,5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4,42 X 3,48 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 8,
+        "RoomDescription": null,
+        "RoomDimensions": "14.2 X 9.10 ft / 4.32 X 3.00 m",
+        "RoomDimensionsFeet": "14.2 X 9.10 ft",
+        "RoomDimensionsMeters": "4.32 X 3.00 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_8",
+        "RoomLengthFractional": "10",
+        "RoomLengthWholeNumber": "9",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "2",
+        "RoomWidthWholeNumber": "14",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_8.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "14.2 X 9.10 ft / 4.32 X 3.00 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "14.2 X 9.10 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4.32 X 3.00 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_8.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "14,2 X 9,10 p / 4,32 X 3,00 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "14,2 X 9,10 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4,32 X 3,00 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 9,
+        "RoomDescription": null,
+        "RoomDimensions": "7.3 X 5 ft / 2.21 X 1.52 m",
+        "RoomDimensionsFeet": "7.3 X 5 ft",
+        "RoomDimensionsMeters": "2.21 X 1.52 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "28891954_1_9",
+        "RoomLengthFractional": "0",
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "6e",
+        "RoomType": "Cold room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "3",
+        "RoomWidthWholeNumber": "7",
+        "UnitKey": "28891954_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.28891954_1_9.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "7.3 X 5 ft / 2.21 X 1.52 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "7.3 X 5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.21 X 1.52 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.28891954_1_9.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "6e"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "7,3 X 5 p / 2,21 X 1,52 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "7,3 X 5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,21 X 1,52 m"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Expenses": [
+      {
+        "ExpenseAmount": 7560,
+        "ExpenseKey": "28891954_General_Condominium fees",
+        "ExpenseMaturityYear": null,
+        "ExpenseSubType": "Condominium fees",
+        "ExpenseSubTypeOther": null,
+        "ExpenseType": "General",
+        "ExpenseYear": null,
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Translations": []
+      },
+      {
+        "ExpenseAmount": 4923,
+        "ExpenseKey": "28891954_Tax_Municipal",
+        "ExpenseMaturityYear": null,
+        "ExpenseSubType": "Municipal",
+        "ExpenseSubTypeOther": null,
+        "ExpenseType": "Tax",
+        "ExpenseYear": 2025,
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Translations": []
+      },
+      {
+        "ExpenseAmount": 614,
+        "ExpenseKey": "28891954_Tax_School",
+        "ExpenseMaturityYear": null,
+        "ExpenseSubType": "School",
+        "ExpenseSubTypeOther": null,
+        "ExpenseType": "Tax",
+        "ExpenseYear": 2025,
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "28891954",
+        "ListingKey": "28891954",
+        "ModificationTimestamp": "2026-05-07T19:18:24Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 1,
+        "UnitBathroomsPartialTotal": 1,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "28891954_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 10,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ],
+    "_archivedAt": "2026-08-17T08:25:35.348Z"
   }
 ]
