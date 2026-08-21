@@ -37020,7 +37020,7 @@
     "LotSizeWidth": null,
     "OpenParkingSpaces": null,
     "ParkingTotal": null,
-    "RentPrice": 1425,
+    "RentPrice": 1400,
     "AvailabilityDate": "2026-07-01",
     "EnvironmentalStudyPhase1Date": null,
     "EnvironmentalStudyPhase2Date": null,
@@ -37052,10 +37052,10 @@
     "BusinessTypeOther": null,
     "CarportYN": null,
     "CityOrTownshipKey": "842",
-    "CoListAgentKey": "130046",
-    "CoListAgentMlsId": "130046",
-    "CoListOfficeKey": "SMU001",
-    "CoListOfficeMlsId": "SMU001",
+    "CoListAgentKey": null,
+    "CoListAgentMlsId": null,
+    "CoListOfficeKey": null,
+    "CoListOfficeMlsId": null,
     "CommonWalls": [
       "2+ Common Walls"
     ],
@@ -37077,7 +37077,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26764751,
+    "EntityEventSequence": 26845989,
     "Exclusions": "Bed, Electricity, cable, civil liability insurance of 2M.  ",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -37145,7 +37145,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-18T14:58:03Z",
+    "ModificationTimestamp": "2026-08-21T22:26:48Z",
     "NeighborhoodKey": "842_A",
     "NeighborhoodName": "Le Plateau-Mont-Royal",
     "NumberOfUnitsAvailable": null,
@@ -37165,12 +37165,12 @@
     "ParkingFeaturesOtherGarage": null,
     "ParkName": null,
     "PetsAllowed": [],
-    "PhotosChangeTimestamp": "2026-07-10T21:43:39Z",
+    "PhotosChangeTimestamp": "2026-08-21T22:26:48Z",
     "PhotosCount": 14,
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H2H1S9",
-    "PriceChangeTimestamp": null,
+    "PriceChangeTimestamp": "2026-08-21T22:26:48Z",
     "PrivateInteractiveShowingYN": null,
     "PropertyCondition": [],
     "PropertySubType": "Condominium",
@@ -37180,8 +37180,8 @@
     "RentPriceAddTaxesYN": null,
     "RentPriceAreaUnits": null,
     "RentPriceFrequency": "Monthly",
-    "RentPriceFull": "$1,425/month",
-    "RentPriceShort": "$1,425/mth",
+    "RentPriceFull": "$1,400/month",
+    "RentPriceShort": "$1,400/mth",
     "ResidentFeatures": [],
     "Roof": [],
     "RoofOther": null,
@@ -37270,11 +37270,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "$1,425/mth"
+            "Value": "$1,400/mth"
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "$1,425/month"
+            "Value": "$1,400/month"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -37312,11 +37312,11 @@
           },
           {
             "FieldName": "RentPriceShort",
-            "Value": "1 425 $/m."
+            "Value": "1 400 $/m."
           },
           {
             "FieldName": "RentPriceFull",
-            "Value": "1 425 $/mois"
+            "Value": "1 400 $/mois"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -37333,13 +37333,13 @@
         "MediaObjectID": "102518790",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDDADDDDDDDDDDA&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 1,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917815",
+        "SourceSystemResourceVersion": "496421349",
         "VirtualTourType": null
       },
       {
@@ -37349,13 +37349,13 @@
         "MediaObjectID": "102518791",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD0DDDDDDDDDD0&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 2,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917816",
+        "SourceSystemResourceVersion": "496421350",
         "VirtualTourType": null
       },
       {
@@ -37365,13 +37365,13 @@
         "MediaObjectID": "102518792",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDDBDDDDDDDDDDB&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 3,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917817",
+        "SourceSystemResourceVersion": "496421351",
         "VirtualTourType": null
       },
       {
@@ -37381,13 +37381,13 @@
         "MediaObjectID": "102518793",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDDFDDDDDDDDDDF&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 4,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917818",
+        "SourceSystemResourceVersion": "496421352",
         "VirtualTourType": null
       },
       {
@@ -37397,13 +37397,13 @@
         "MediaObjectID": "102518794",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD8DDDDDDDDDD0&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 5,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917819",
+        "SourceSystemResourceVersion": "496421353",
         "VirtualTourType": null
       },
       {
@@ -37413,13 +37413,13 @@
         "MediaObjectID": "102518795",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD9DDDDDDDDDDB&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 6,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917820",
+        "SourceSystemResourceVersion": "496421354",
         "VirtualTourType": null
       },
       {
@@ -37429,13 +37429,13 @@
         "MediaObjectID": "102518796",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD7DDDDDDDDDDF&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 7,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917821",
+        "SourceSystemResourceVersion": "496421355",
         "VirtualTourType": null
       },
       {
@@ -37445,13 +37445,13 @@
         "MediaObjectID": "102518797",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD3DDDDDDDDDDD&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 8,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917822",
+        "SourceSystemResourceVersion": "496421356",
         "VirtualTourType": null
       },
       {
@@ -37461,13 +37461,13 @@
         "MediaObjectID": "102518798",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD5DDDDDDDDDD1&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 9,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917823",
+        "SourceSystemResourceVersion": "496421357",
         "VirtualTourType": null
       },
       {
@@ -37477,13 +37477,13 @@
         "MediaObjectID": "102518799",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17EDD6DDDDDDDDDD4&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 10,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917824",
+        "SourceSystemResourceVersion": "496421358",
         "VirtualTourType": null
       },
       {
@@ -37493,13 +37493,13 @@
         "MediaObjectID": "102518800",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17ED1DDDDDDDDDDD1&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 11,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917825",
+        "SourceSystemResourceVersion": "496421359",
         "VirtualTourType": null
       },
       {
@@ -37509,13 +37509,13 @@
         "MediaObjectID": "102518801",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17ED11DDDDDDDDDD4&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 12,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917826",
+        "SourceSystemResourceVersion": "496421360",
         "VirtualTourType": null
       },
       {
@@ -37525,13 +37525,13 @@
         "MediaObjectID": "102518802",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17ED14DDDDDDDDDD2&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 13,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917827",
+        "SourceSystemResourceVersion": "496421361",
         "VirtualTourType": null
       },
       {
@@ -37541,13 +37541,13 @@
         "MediaObjectID": "102518803",
         "MediaStatus": "Active",
         "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA17ED12DDDDDDDDDDC&t=pi&f=I",
-        "ModificationTimestamp": "2026-07-10T21:43:39Z",
+        "ModificationTimestamp": "2026-08-21T22:26:48Z",
         "Order": 14,
         "ResourceName": "Property",
         "ResourceRecordID": "20660701",
         "ResourceRecordKey": "20660701",
         "ShortDescription": null,
-        "SourceSystemResourceVersion": "489917828",
+        "SourceSystemResourceVersion": "496421362",
         "VirtualTourType": null
       }
     ],

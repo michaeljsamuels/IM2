@@ -6578,7 +6578,7 @@
       "en": "Condominium",
       "fr": "Condominium"
     },
-    "price": 1425,
+    "price": 1400,
     "address": "4312 Av. Papineau, apt. 207",
     "postalCode": "H2H 1S9",
     "city": "Montréal",
@@ -6604,12 +6604,6 @@
         "key": "112818",
         "id": "michelle-johnson",
         "name": "Michelle Johnson",
-        "external": false
-      },
-      {
-        "key": "130046",
-        "id": "william-gallo",
-        "name": "William Gallo",
         "external": false
       }
     ],
