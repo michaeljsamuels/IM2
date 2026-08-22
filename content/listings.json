@@ -8320,6 +8320,199 @@
     ]
   },
   {
+    "id": 17790477,
+    "centrisId": "17790477",
+    "status": "for-sale",
+    "category": "residential",
+    "assetType": "multiplex",
+    "featured": false,
+    "type": {
+      "en": "Duplex",
+      "fr": "Duplex"
+    },
+    "price": 1675000,
+    "address": "4426 Av. Coolbrook",
+    "postalCode": "H4A 3G2",
+    "city": "Montréal",
+    "borough": "Côte-des-Neiges/Notre-Dame-de-Grâce",
+    "neighbourhood": "ndg",
+    "coords": {
+      "lat": 45.479006,
+      "lng": -73.623217
+    },
+    "beds": 4,
+    "baths": 2,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 272,
+      "unit": "m²"
+    },
+    "yearBuilt": 1931,
+    "parking": {
+      "en": "4 spaces",
+      "fr": "4 places"
+    },
+    "listedDate": "2026-08-22",
+    "agentId": "maximilian-cronin",
+    "brokers": [
+      {
+        "key": "125677",
+        "id": "maximilian-cronin",
+        "name": "Maximilian Cronin",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
+    "description": {
+      "en": "Exceptionally well-maintained semi-detached duplex steps from Monkland Village. Fully rented to quality tenants generating $6,117/mo ($73.4K/yr), with buyer occupancy available for the ground floor and basement.  2019 Major Upgrade: Foundation & basement completely rebuilt A-Z with soaring ceilings & heated floors.  Ground Floor (RDC): High ceilings, hardwood, recessed lighting, renovated kitchen & bath.  Upper Unit ($2,917/mo): Bright 3+ bed, updated kitchen/bath & outdoor space.  Lower Unit ($3,200/mo)  Parking: 2 integrated garage spots + 2 driveway spots (4 total).  A rare turn-key investment or ideal owner-occupant opportunity in NDG.",
+      "fr": "Duplex semi-détaché impeccablement entretenu à deux pas du village Monkland. Entièrement loué à des locataires de choix générant 6117$/mois (73,4k$/an), avec possibilité d'occupation pour l'acheteur au RDC et sous-sol.  Majeur (2019): Fondation et sous-sol reboostés A-Z avec hauts plafonds et planchers chauffants.  RDC: Hauts plafonds, bois franc, encastrés, cuisine et sdb rénovées.  Haut (2917$/mo): Lumineux 3+ ch., cuisine/sdb mises à jour et espace extérieur.  Bas (3200$/mo)  Stationnement: 2 garages intégrés + 2 allées (4).  Rare opportunité clé en main ou pour propriétaire-occupant à NDG."
+    },
+    "features": {
+      "en": [
+        "Near highway",
+        "Near CEGEP",
+        "Near daycare centre",
+        "Near hospital",
+        "Near metro",
+        "Near park",
+        "Near bicycle path",
+        "Near elementary school",
+        "Near REM",
+        "Near high school",
+        "Near cross-country skiing",
+        "Near commuter train",
+        "Near Public Transit",
+        "Near university",
+        "Heated Garage",
+        "Built-in garage",
+        "Single garage",
+        "Hot Water",
+        "Natural Gas",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Natural Gas Connected",
+        "Sewer Connected",
+        "1 Common Wall"
+      ],
+      "fr": [
+        "Near highway",
+        "Near CEGEP",
+        "Near daycare centre",
+        "Near hospital",
+        "Near metro",
+        "Near park",
+        "Near bicycle path",
+        "Near elementary school",
+        "Near REM",
+        "Near high school",
+        "Near cross-country skiing",
+        "Near commuter train",
+        "Near Public Transit",
+        "Near university",
+        "Heated Garage",
+        "Built-in garage",
+        "Single garage",
+        "Hot Water",
+        "Natural Gas",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Natural Gas Connected",
+        "Sewer Connected",
+        "1 Common Wall"
+      ]
+    },
+    "rooms": [],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 8072,
+      "school": 983
+    },
+    "inclusions": {
+      "en": "Water heaters, appliances.",
+      "fr": "Chauffe eau, electros. "
+    },
+    "exclusions": {
+      "en": "Tenant's personal belongings. ",
+      "fr": "Effets personel des locataires. "
+    },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": {
+      "units": 2,
+      "unitsLeased": 2,
+      "unitsVacant": 0,
+      "grossIncome": 73404,
+      "grossIncomeYear": "2026",
+      "grossYieldPct": 4.4,
+      "unitMix": [
+        {
+          "type": "7 1/2",
+          "beds": 4,
+          "baths": 2,
+          "rooms": 7,
+          "use": "Residential"
+        },
+        {
+          "type": "7 1/2",
+          "beds": 3,
+          "baths": 1,
+          "rooms": 7,
+          "use": "Residential"
+        }
+      ]
+    },
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D16DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D4DDDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D41DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D44DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D42DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D13DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D15DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D4CDDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D4EDDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D4ADDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D40DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D4BDDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D19DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D26DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D2EDDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D2ADDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D20DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D2BDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D2FDDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D28DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D27DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465DCDDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D49DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D43DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D45DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D4FDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D48DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D47DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D46DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D2DDDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D21DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D24DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D22DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D2CDDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D29DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D25DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D18DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D23DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA465D17DDDDDDDDDDD&t=pi&f=I"
+    ]
+  },
+  {
     "id": 17531538,
     "centrisId": "17531538",
     "status": "for-rent",
