@@ -27685,7 +27685,7 @@
     "GrossScheduledIncomeDate": "2026-08-22",
     "AboveGroundBedroomsTotal": null,
     "AccessibilityFeatures": [],
-    "Addenda": "Exceptionally well-maintained, semi-detached duplex located within walking distance of vibrant Monkland Village. Fully rented to quality tenants, this turn-key property generates $6,117/month in gross rental income ($73,404/year), with immediate double-occupancy potential for an owner-occupant on the ground floor and basement.\r\n\r\nKey Features & Upgrades:\r\n\r\nMajor Renovation (2019): Complete A-Z rebuild of the foundation and basement, featuring exceptional ceiling height and heated floors throughout. Two new furnaces. \r\n\r\nGround Floor (RDC): Refined interior showcasing high ceilings, hardwood flooring, recessed lighting, and fully renovated kitchen and bathrooms.\r\n\r\nUpper Unit ($2,917/mo): Spacious, light-filled layout with 3+ bedrooms, updated kitchen and bathroom, and private outdoor living space.\r\n\r\nRare 4-Car Parking: Includes 2 integrated garage spaces plus 2 private outdoor driveway spots.",
+    "Addenda": "Exceptionally well-maintained, semi-detached duplex located within walking distance of vibrant Monkland Village. Fully rented to quality tenants, this turn-key property generates $6,117/month in gross rental income ($73,404/year), with occupancy potential for an owner-occupant on the ground floor and basement.\r\n\r\nKey Features & Upgrades:\r\n\r\nMajor Renovation (2019): Complete A-Z rebuild of the foundation and basement, featuring exceptional ceiling height and heated floors throughout. Two new furnaces. \r\n\r\nGround Floor (RDC): Refined interior showcasing high ceilings, hardwood flooring, recessed lighting, and fully renovated kitchen and bathrooms.\r\n\r\nUpper Unit ($2,917/mo): Spacious, light-filled layout with 3+ bedrooms, updated kitchen and bathroom, and private outdoor living space.\r\n\r\nRare 4-Car Parking: Includes 2 integrated garage spaces plus 2 private outdoor driveway spots.",
     "Appliances": [],
     "AssociationAmenities": [],
     "AttachedGarageYN": null,
@@ -27737,7 +27737,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26851684,
+    "EntityEventSequence": 26858814,
     "Exclusions": "Tenant's personal belongings. ",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -27823,7 +27823,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": "Square Meters",
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-22T15:57:48Z",
+    "ModificationTimestamp": "2026-08-23T16:32:51Z",
     "NeighborhoodKey": "838_A",
     "NeighborhoodName": "Côte-des-Neiges",
     "NumberOfUnitsAvailable": null,
@@ -27929,7 +27929,7 @@
         "Values": [
           {
             "FieldName": "Addenda",
-            "Value": "Exceptionally well-maintained, semi-detached duplex located within walking distance of vibrant Monkland Village. Fully rented to quality tenants, this turn-key property generates $6,117/month in gross rental income ($73,404/year), with immediate double-occupancy potential for an owner-occupant on the ground floor and basement.\r\n\r\nKey Features & Upgrades:\r\n\r\nMajor Renovation (2019): Complete A-Z rebuild of the foundation and basement, featuring exceptional ceiling height and heated floors throughout. Two new furnaces. \r\n\r\nGround Floor (RDC): Refined interior showcasing high ceilings, hardwood flooring, recessed lighting, and fully renovated kitchen and bathrooms.\r\n\r\nUpper Unit ($2,917/mo): Spacious, light-filled layout with 3+ bedrooms, updated kitchen and bathroom, and private outdoor living space.\r\n\r\nRare 4-Car Parking: Includes 2 integrated garage spaces plus 2 private outdoor driveway spots."
+            "Value": "Exceptionally well-maintained, semi-detached duplex located within walking distance of vibrant Monkland Village. Fully rented to quality tenants, this turn-key property generates $6,117/month in gross rental income ($73,404/year), with occupancy potential for an owner-occupant on the ground floor and basement.\r\n\r\nKey Features & Upgrades:\r\n\r\nMajor Renovation (2019): Complete A-Z rebuild of the foundation and basement, featuring exceptional ceiling height and heated floors throughout. Two new furnaces. \r\n\r\nGround Floor (RDC): Refined interior showcasing high ceilings, hardwood flooring, recessed lighting, and fully renovated kitchen and bathrooms.\r\n\r\nUpper Unit ($2,917/mo): Spacious, light-filled layout with 3+ bedrooms, updated kitchen and bathroom, and private outdoor living space.\r\n\r\nRare 4-Car Parking: Includes 2 integrated garage spaces plus 2 private outdoor driveway spots."
           },
           {
             "FieldName": "Exclusions",
