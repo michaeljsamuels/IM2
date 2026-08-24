@@ -82395,5 +82395,1358 @@
         "Translations": []
       }
     ]
+  },
+  {
+    "BuildingSizeLength": null,
+    "BuildingSizeWidth": null,
+    "CarportSpaces": null,
+    "CoOwnershipSharePercentage": null,
+    "CoveredSpaces": 1,
+    "FoundationArea": null,
+    "GarageSpaces": 1,
+    "GrossScheduledIncomeCommercial": null,
+    "GrossScheduledIncomeOther": null,
+    "GrossScheduledIncomeParking": null,
+    "GrossScheduledIncomeResidential": null,
+    "LandLeaseAmount": null,
+    "Latitude": 45.552918,
+    "ListPrice": 619000,
+    "ListPriceTaxesIncluded": null,
+    "LivingArea": 1063.47,
+    "Longitude": -73.632688,
+    "LotSizeArea": null,
+    "LotSizeLength": null,
+    "LotSizeWidth": null,
+    "OpenParkingSpaces": null,
+    "ParkingTotal": 1,
+    "RentPrice": null,
+    "AvailabilityDate": "2027-07-01",
+    "EnvironmentalStudyPhase1Date": null,
+    "EnvironmentalStudyPhase2Date": null,
+    "GrossScheduledIncomeDate": null,
+    "AboveGroundBedroomsTotal": 2,
+    "AccessibilityFeatures": [],
+    "Addenda": "Welcome to Domaine André-Grasset\r\n\r\n- Occupancy: July 1st, 2027 \r\n- Concrete building)\r\n- A/C\r\n- Secure building\r\n- Well managed\r\n- 2 elevators\r\n- Balcony facing the park\r\n- Gymnasium, outdoor swimming pool\r\n\r\nIn proximity to :\r\n- Metropolitan Highway 40\r\n- Center Claude Robillard\r\n- Bike path\r\n- Cégep André-Grasset\r\n- schools, daycares\r\n- grocery stores, shops (MAXI)\r\n\r\nPhotos date back to 2022. Since then, a second air conditioner has been added in the master bedroom, and the entire condo was freshly painted in white in 2024. All windows feature new blinds installed in 2022, giving the space a bright and modern feel.\r\n",
+    "Appliances": [],
+    "AssociationAmenities": [],
+    "AttachedGarageYN": null,
+    "Basement": [],
+    "BasementBedroomsTotal": 0,
+    "BasementOther": null,
+    "BathroomFeatures": [],
+    "BathroomFeaturesOther": null,
+    "BathroomsFull": 2,
+    "BathroomsPartial": 0,
+    "BedroomsTotal": 2,
+    "BuildingBusinessSignsAllowedYN": null,
+    "BuildingCurrentUse": [],
+    "BuildingFeatures": [],
+    "BuildingSizeDimensions": null,
+    "BuildingSizeDimensionsFeet": null,
+    "BuildingSizeDimensionsMeters": null,
+    "BuildingSizeDimensionsPolygonYN": null,
+    "BuildingSizeDimensionsUnits": null,
+    "BusinessOperationType": [],
+    "BusinessType": [],
+    "BusinessTypeOther": null,
+    "CarportYN": null,
+    "CityOrTownshipKey": "840",
+    "CoListAgentKey": null,
+    "CoListAgentMlsId": null,
+    "CoListOfficeKey": null,
+    "CoListOfficeMlsId": null,
+    "CommonWalls": [],
+    "ConstructionMaterials": [],
+    "ConstructionMaterialsOtherDividingFloor": null,
+    "ConstructionMaterialsOtherSiding": null,
+    "Cooling": [],
+    "CoolingYN": null,
+    "CoOwnershipType": "Divided",
+    "Country": "CA",
+    "CrossStreet": null,
+    "CurrentUse": [],
+    "CurrentUseOther": null,
+    "DaysBeforeAvailability": null,
+    "DocumentsChangeTimestamp": "2026-08-24T02:34:12Z",
+    "DriveInDoorsHeight": null,
+    "DriveInDoorsHeightUnits": null,
+    "DriveInDoorsTotal": null,
+    "ElectricAmp": null,
+    "ElectricPhase": null,
+    "ElectricVolts": null,
+    "EntityEventSequence": 26863817,
+    "Exclusions": "Tenant's personal belongings. ",
+    "ExteriorDoorsHeight": null,
+    "ExteriorDoorsHeightUnits": null,
+    "ExteriorDoorsTotal": null,
+    "ExteriorFeatures": [],
+    "Fencing": [],
+    "FireplaceFeatures": [],
+    "FireplaceFeaturesOther": null,
+    "FireplaceFeaturesOtherStove": null,
+    "FireplaceYN": null,
+    "Floor": "5th",
+    "Flooring": [],
+    "FlooringOther": null,
+    "FoundationAreaUnits": null,
+    "FoundationDetails": [],
+    "FoundationDetailsOther": null,
+    "Furnished": null,
+    "GarageYN": true,
+    "GreenBuildingVerificationType": [],
+    "GreenEnergyGeneration": [],
+    "GreenVerificationYN": null,
+    "Heating": [],
+    "HeatingOther": null,
+    "HeatingOtherSystem": null,
+    "HeatingYN": null,
+    "HomeWarrantyYN": true,
+    "Inclusions": "Kitchen appliances, Stove, refrigerator, dishwasher, washer and dryer, blinds, electrical fireplace, one AC in the master bedroom and one AC in the living room. one indoor parking spot (#44). ",
+    "InteriorFeatures": [],
+    "InternetEntireListingDisplayYN": true,
+    "KitchenCabinetFeatures": [],
+    "KitchenCabinetFeaturesOther": null,
+    "LandLeaseAmountFrequency": null,
+    "LandLeaseYN": null,
+    "LaundryFeatures": [],
+    "LaundryFeaturesOther": null,
+    "Levels": [
+      "One"
+    ],
+    "ListAgentKey": "112818",
+    "ListAgentMlsId": "112818",
+    "ListingId": "9975985",
+    "ListingKey": "9975985",
+    "ListingTerms": [],
+    "ListingURL": "https://passerelle.centris.ca/redirect.aspx?NoMLS=9975985",
+    "ListOfficeKey": "SMU001",
+    "ListOfficeMlsId": "SMU001",
+    "ListPriceAddTaxesYN": null,
+    "ListPriceAreaUnits": null,
+    "ListPriceFull": "$619,000",
+    "ListPriceShort": "$619,000",
+    "LivingAreaSource": "Public Records",
+    "LivingAreaUnits": "Square Feet",
+    "LoadingDockAdjustableTotal": null,
+    "LoadingDockPermanentTotal": null,
+    "LoadingDockTypeOther": null,
+    "LotFeatures": [],
+    "LotFeaturesNearOther": null,
+    "LotFeaturesOther": null,
+    "LotFeaturesOtherDistinctive": null,
+    "LotFeaturesOtherTopography": null,
+    "LotSizeDimensions": null,
+    "LotSizeDimensionsFeet": null,
+    "LotSizeDimensionsMeters": null,
+    "LotSizeDimensionsPolygonYN": null,
+    "LotSizeDimensionsUnits": null,
+    "LotSizeUnits": null,
+    "MlsStatus": "Active",
+    "ModificationTimestamp": "2026-08-24T03:16:09Z",
+    "NeighborhoodKey": "840_E",
+    "NeighborhoodName": "Ahuntsic Central",
+    "NumberOfUnitsAvailable": null,
+    "NumberOfUnitsInCommunity": null,
+    "NumberOfUnitsLeased": null,
+    "NumberOfUnitsTotal": null,
+    "NumberOfUnitsVacant": null,
+    "OnMarketTimestamp": "2026-08-24T03:05:10Z",
+    "OpenParkingYN": null,
+    "OtherEquipment": [],
+    "OtherEquipmentOther": null,
+    "OtherStructures": [],
+    "OwnerPays": [],
+    "ParkingFeatures": [
+      "Built-in garage"
+    ],
+    "ParkingFeaturesOtherCarport": null,
+    "ParkingFeaturesOtherDriveway": null,
+    "ParkingFeaturesOtherGarage": null,
+    "ParkName": null,
+    "PetsAllowed": [],
+    "PhotosChangeTimestamp": "2026-08-24T03:05:11Z",
+    "PhotosCount": 23,
+    "PoolFeatures": [],
+    "PoolFeaturesOther": null,
+    "PostalCode": "H2M2W7",
+    "PriceChangeTimestamp": null,
+    "PrivateInteractiveShowingYN": null,
+    "PropertyCondition": [],
+    "PropertySubType": "Condominium",
+    "PropertySubTypeOther": null,
+    "PropertyType": "Residential",
+    "PublicRemarks": "8600 Rue Raymond-Pelletier, Montréal (Ahuntsic-Cartierville) This bright and spacious 2-bedroom, 2-bathroom condo offers a comfortable and functional layout. The unit features two generous bedrooms, two bathrooms, a family room, and plenty of storage space. The sale includes one indoor parking space . Ideally located near Collège André-Grasset, a well-known private college, as well as public transportation, schools, shops, and other amenities. The property is situated in the Domaine André-Grasset area, offering a convenient and desirable location. The building is well managed and maintained, providing comfort and peace of min",
+    "RentPriceAddTaxesYN": null,
+    "RentPriceAreaUnits": null,
+    "RentPriceFrequency": null,
+    "RentPriceFull": null,
+    "RentPriceShort": null,
+    "ResidentFeatures": [],
+    "Roof": [],
+    "RoofOther": null,
+    "RoomsTotal": 8,
+    "SecurityFeatures": [],
+    "SellerDisclosuresFormYN": true,
+    "Sewer": [
+      "Public Sewer"
+    ],
+    "SewerOther": null,
+    "ShortTermRentalsAllowedYN": false,
+    "SmokingAllowedYN": null,
+    "SpaFeatures": [],
+    "SpaYN": null,
+    "SpecialListingConditions": [
+      "Standard"
+    ],
+    "StandardStatus": "Active",
+    "StateOrProvince": "QC",
+    "StateRegion": "Montréal",
+    "StatusChangeTimestamp": "2026-08-24T03:05:10Z",
+    "StoriesTotal": 8,
+    "StreetName": "Raymond-Pelletier",
+    "StreetNumberEnd": null,
+    "StreetNumberStart": "8600",
+    "StreetShortName": "Rue Raymond-Pelletier",
+    "StructureType": [
+      "Apartment"
+    ],
+    "TaxAssessedBuildingValue": 408700,
+    "TaxAssessedLotValue": 104600,
+    "TaxYear": 2026,
+    "Township": "Montréal (Ahuntsic-Cartierville)",
+    "UnitCommonWalls": [],
+    "UnitNumber": "501",
+    "UnparsedAddress": " Rue Raymond-Pelletier, apt. 501",
+    "Utilities": [
+      "Water Connected",
+      "Sewer Connected"
+    ],
+    "VideosChangeTimestamp": null,
+    "View": [],
+    "ViewOther": null,
+    "ViewYN": null,
+    "WaterBodyName": null,
+    "WaterfrontFeatures": [],
+    "WaterfrontFeaturesOther": null,
+    "WaterfrontYN": null,
+    "WaterSource": [
+      "Municipality"
+    ],
+    "WaterSourceOther": null,
+    "WindowFeatures": [],
+    "WindowFeaturesOther": null,
+    "WindowFeaturesOtherWindowType": null,
+    "YearBuilt": 2004,
+    "YearBuiltFeatures": null,
+    "YearBusinessOperationStart": null,
+    "ZoningDescription": "Residential",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Property.9975985.en",
+        "Values": [
+          {
+            "FieldName": "Addenda",
+            "Value": "Welcome to Domaine André-Grasset\r\n\r\n- Occupancy: July 1st, 2027 \r\n- Concrete building)\r\n- A/C\r\n- Secure building\r\n- Well managed\r\n- 2 elevators\r\n- Balcony facing the park\r\n- Gymnasium, outdoor swimming pool\r\n\r\nIn proximity to :\r\n- Metropolitan Highway 40\r\n- Center Claude Robillard\r\n- Bike path\r\n- Cégep André-Grasset\r\n- schools, daycares\r\n- grocery stores, shops (MAXI)\r\n\r\nPhotos date back to 2022. Since then, a second air conditioner has been added in the master bedroom, and the entire condo was freshly painted in white in 2024. All windows feature new blinds installed in 2022, giving the space a bright and modern feel.\r\n"
+          },
+          {
+            "FieldName": "Exclusions",
+            "Value": "Tenant's personal belongings. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "Kitchen appliances, Stove, refrigerator, dishwasher, washer and dryer, blinds, electrical fireplace, one AC in the master bedroom and one AC in the living room. one indoor parking spot (#44). "
+          },
+          {
+            "FieldName": "NeighborhoodName",
+            "Value": "Ahuntsic Central"
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "8600 Rue Raymond-Pelletier, Montréal (Ahuntsic-Cartierville) This bright and spacious 2-bedroom, 2-bathroom condo offers a comfortable and functional layout. The unit features two generous bedrooms, two bathrooms, a family room, and plenty of storage space. The sale includes one indoor parking space . Ideally located near Collège André-Grasset, a well-known private college, as well as public transportation, schools, shops, and other amenities. The property is situated in the Domaine André-Grasset area, offering a convenient and desirable location. The building is well managed and maintained, providing comfort and peace of min"
+          },
+          {
+            "FieldName": "ZoningDescription",
+            "Value": "Residential"
+          },
+          {
+            "FieldName": "ListPriceShort",
+            "Value": "$619,000"
+          },
+          {
+            "FieldName": "ListPriceFull",
+            "Value": "$619,000"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Rue Raymond-Pelletier, apt. 501"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Property.9975985.fr",
+        "Values": [
+          {
+            "FieldName": "Addenda",
+            "Value": "Bienvenue au Domaine André-Grasset\r\n\r\nOccupation : 1er juillet 2027\r\nImmeuble en béton\r\nClimatisation\r\nImmeuble sécuritaire\r\nImmeuble bien géré\r\n2 ascenseurs\r\nBalcon donnant sur le parc\r\nGymnase et piscine extérieure\r\n\r\nÀ proximité :\r\n\r\nAutoroute Métropolitaine (40)\r\nComplexe sportif Claude-Robillard\r\nPiste cyclable\r\nCollège André-Grasset\r\nÉcoles et garderies\r\n\r\nÉpiceries et commerces, notamment MAXI\r\nÀ noter : Les photos datent de 2022. Depuis, une deuxième unité de climatisation a été ajoutée dans la chambre principale et le condo a été entièrement repeint en blanc en 2024. Tous les fenêtres sont également équipées de nouveaux stores installés en 2022, offrant un espace lumineux et moderne."
+          },
+          {
+            "FieldName": "Exclusions",
+            "Value": "Les effets personnels du locataire. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "Appareils électroménagers de cuisine, cuisinière, réfrigérateur, lave-vaisselle , laveuse et sécheuse, stores, foyer électrique, climatiseur dans la chambre principale  et climatiseur dans le salon, une place de stationnement intérieure (#44) "
+          },
+          {
+            "FieldName": "NeighborhoodName",
+            "Value": "Ahuntsic Centre"
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "8600 Rue Raymond-Pelletier, Montréal (Ahuntsic-Cartierville) Ce condo lumineux et spacieux de 2 chambres et 2 salles de bains offre une disposition confortable et fonctionnelle. Il comprend deux grandes chambres, deux salles de bains, une salle familiale ainsi que beaucoup de rangement. La vente comprend une place de stationnement intérieure. Idéalement situé à proximité du Collège André-Grasset, un collège privé reconnu, ainsi que des transports en commun, des écoles, des commerces et de nombreux autres services. La propriété se trouve dans le secteur Domaine André-Grasset, un emplacement pratique et recherché. L'immeuble est bien géré"
+          },
+          {
+            "FieldName": "ZoningDescription",
+            "Value": "Résidentiel"
+          },
+          {
+            "FieldName": "ListPriceShort",
+            "Value": "619 000 $"
+          },
+          {
+            "FieldName": "ListPriceFull",
+            "Value": "619 000 $"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Rue Raymond-Pelletier, app. 501"
+          }
+        ]
+      }
+    ],
+    "Media": [
+      {
+        "ImageOf": "Overall view",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924207",
+        "MediaObjectID": "103832627",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE722DDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 1,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601654",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924208",
+        "MediaObjectID": "103832628",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72CDDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 2,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601655",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924209",
+        "MediaObjectID": "103832629",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72EDDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 3,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601656",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924210",
+        "MediaObjectID": "103832630",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72ADDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 4,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601657",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924211",
+        "MediaObjectID": "103832631",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE720DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 5,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601658",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924212",
+        "MediaObjectID": "103832632",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72BDDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 6,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601659",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924213",
+        "MediaObjectID": "103832633",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72FDDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 7,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601660",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Dining Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924214",
+        "MediaObjectID": "103832634",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE728DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 8,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601661",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924215",
+        "MediaObjectID": "103832635",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE729DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 9,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601662",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924216",
+        "MediaObjectID": "103832636",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE727DDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 10,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601663",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924217",
+        "MediaObjectID": "103832637",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE723DDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 11,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601664",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924218",
+        "MediaObjectID": "103832638",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE725DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 12,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601665",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924219",
+        "MediaObjectID": "103832639",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE726DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 13,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601666",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924220",
+        "MediaObjectID": "103832640",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CDDDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 14,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601667",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924221",
+        "MediaObjectID": "103832641",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C1DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 15,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601668",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924222",
+        "MediaObjectID": "103832642",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C4DDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 16,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601669",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924223",
+        "MediaObjectID": "103832643",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C2DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 17,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601670",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924224",
+        "MediaObjectID": "103832644",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CCDDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 18,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601671",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924225",
+        "MediaObjectID": "103832645",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CEDDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 19,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": "Washer and dryer in the bathroom",
+        "SourceSystemResourceVersion": "496601672",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924226",
+        "MediaObjectID": "103832646",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CADDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 20,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601673",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bachelor",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924227",
+        "MediaObjectID": "103832647",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C0DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 21,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601674",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Exercise Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924228",
+        "MediaObjectID": "103832648",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CBDDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 22,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601675",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Pool",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_9975985_Photo_108924229",
+        "MediaObjectID": "103832626",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE724DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T03:05:11Z",
+        "Order": 23,
+        "ResourceName": "Property",
+        "ResourceRecordID": "9975985",
+        "ResourceRecordKey": "9975985",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496601676",
+        "VirtualTourType": null
+      }
+    ],
+    "Rooms": [
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 1,
+        "RoomDescription": null,
+        "RoomDimensions": "6.5 X 7.7 ft / 1.96 X 2.31 m",
+        "RoomDimensionsFeet": "6.5 X 7.7 ft",
+        "RoomDimensionsMeters": "1.96 X 2.31 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_1",
+        "RoomLengthFractional": "7",
+        "RoomLengthWholeNumber": "7",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Hall",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "5",
+        "RoomWidthWholeNumber": "6",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_1.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "6.5 X 7.7 ft / 1.96 X 2.31 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "6.5 X 7.7 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1.96 X 2.31 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_1.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "6,5 X 7,7 p / 1,96 X 2,31 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "6,5 X 7,7 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1,96 X 2,31 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 2,
+        "RoomDescription": null,
+        "RoomDimensions": "9.5 X 10.5 ft / 2.87 X 3.18 m",
+        "RoomDimensionsFeet": "9.5 X 10.5 ft",
+        "RoomDimensionsMeters": "2.87 X 3.18 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_2",
+        "RoomLengthFractional": "5",
+        "RoomLengthWholeNumber": "10",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Kitchen",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "5",
+        "RoomWidthWholeNumber": "9",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_2.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "9.5 X 10.5 ft / 2.87 X 3.18 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "9.5 X 10.5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.87 X 3.18 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_2.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "9,5 X 10,5 p / 2,87 X 3,18 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "9,5 X 10,5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,87 X 3,18 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 3,
+        "RoomDescription": null,
+        "RoomDimensions": "11.3 X 20 ft / 3.43 X 6.10 m",
+        "RoomDimensionsFeet": "11.3 X 20 ft",
+        "RoomDimensionsMeters": "3.43 X 6.10 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_3",
+        "RoomLengthFractional": "0",
+        "RoomLengthWholeNumber": "20",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Living Room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "3",
+        "RoomWidthWholeNumber": "11",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_3.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "11.3 X 20 ft / 3.43 X 6.10 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "11.3 X 20 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.43 X 6.10 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_3.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "11,3 X 20 p / 3,43 X 6,10 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "11,3 X 20 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,43 X 6,10 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 4,
+        "RoomDescription": "with ensuite bathroom/walk-in",
+        "RoomDimensions": "12 X 13.3 ft / 3.66 X 4.04 m",
+        "RoomDimensionsFeet": "12 X 13.3 ft",
+        "RoomDimensionsMeters": "3.66 X 4.04 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_4",
+        "RoomLengthFractional": "3",
+        "RoomLengthWholeNumber": "13",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Master Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "0",
+        "RoomWidthWholeNumber": "12",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_4.en",
+            "Values": [
+              {
+                "FieldName": "RoomDescription",
+                "Value": "with ensuite bathroom/walk-in"
+              },
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12 X 13.3 ft / 3.66 X 4.04 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12 X 13.3 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.66 X 4.04 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_4.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDescription",
+                "Value": "salle de bains et walk-in"
+              },
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12 X 13,3 p / 3,66 X 4,04 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12 X 13,3 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,66 X 4,04 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 5,
+        "RoomDescription": "with storage",
+        "RoomDimensions": "12.6 X 5.10 ft / 3.81 X 1.78 m",
+        "RoomDimensionsFeet": "12.6 X 5.10 ft",
+        "RoomDimensionsMeters": "3.81 X 1.78 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_5",
+        "RoomLengthFractional": "10",
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "6",
+        "RoomWidthWholeNumber": "12",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_5.en",
+            "Values": [
+              {
+                "FieldName": "RoomDescription",
+                "Value": "with storage"
+              },
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12.6 X 5.10 ft / 3.81 X 1.78 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12.6 X 5.10 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.81 X 1.78 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_5.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDescription",
+                "Value": "avec rangement"
+              },
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12,6 X 5,10 p / 3,81 X 1,78 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12,6 X 5,10 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,81 X 1,78 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 6,
+        "RoomDescription": null,
+        "RoomDimensions": "5.10 X 5.7 ft / 1.78 X 1.70 m",
+        "RoomDimensionsFeet": "5.10 X 5.7 ft",
+        "RoomDimensionsMeters": "1.78 X 1.70 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_6",
+        "RoomLengthFractional": "7",
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Walkin closet",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "10",
+        "RoomWidthWholeNumber": "5",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_6.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5.10 X 5.7 ft / 1.78 X 1.70 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5.10 X 5.7 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1.78 X 1.70 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_6.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5,10 X 5,7 p / 1,78 X 1,70 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5,10 X 5,7 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1,78 X 1,70 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 7,
+        "RoomDescription": null,
+        "RoomDimensions": "12.4 X 14.8 ft / 3.76 X 4.47 m",
+        "RoomDimensionsFeet": "12.4 X 14.8 ft",
+        "RoomDimensionsMeters": "3.76 X 4.47 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_7",
+        "RoomLengthFractional": "8",
+        "RoomLengthWholeNumber": "14",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "4",
+        "RoomWidthWholeNumber": "12",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_7.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12.4 X 14.8 ft / 3.76 X 4.47 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12.4 X 14.8 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.76 X 4.47 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_7.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12,4 X 14,8 p / 3,76 X 4,47 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12,4 X 14,8 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,76 X 4,47 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:29:26Z",
+        "Order": 8,
+        "RoomDescription": null,
+        "RoomDimensions": "12.2 X 5.11 ft / 3.71 X 1.80 m",
+        "RoomDimensionsFeet": "12.2 X 5.11 ft",
+        "RoomDimensionsMeters": "3.71 X 1.80 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "9975985_1_8",
+        "RoomLengthFractional": "11",
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Other",
+        "RoomLevelOther": "5",
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "2",
+        "RoomWidthWholeNumber": "12",
+        "UnitKey": "9975985_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.9975985_1_8.en",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12.2 X 5.11 ft / 3.71 X 1.80 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12.2 X 5.11 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.71 X 1.80 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.9975985_1_8.fr",
+            "Values": [
+              {
+                "FieldName": "RoomLevelOther",
+                "Value": "5"
+              },
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "12,2 X 5,11 p / 3,71 X 1,80 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "12,2 X 5,11 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,71 X 1,80 m"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Expenses": [
+      {
+        "ExpenseAmount": 6216,
+        "ExpenseKey": "9975985_General_Condominium fees",
+        "ExpenseMaturityYear": null,
+        "ExpenseSubType": "Condominium fees",
+        "ExpenseSubTypeOther": null,
+        "ExpenseType": "General",
+        "ExpenseYear": null,
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:40:23Z",
+        "Translations": []
+      },
+      {
+        "ExpenseAmount": 3173,
+        "ExpenseKey": "9975985_Tax_Municipal",
+        "ExpenseMaturityYear": null,
+        "ExpenseSubType": "Municipal",
+        "ExpenseSubTypeOther": null,
+        "ExpenseType": "Tax",
+        "ExpenseYear": 2026,
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:35:54Z",
+        "Translations": []
+      },
+      {
+        "ExpenseAmount": 379,
+        "ExpenseKey": "9975985_Tax_School",
+        "ExpenseMaturityYear": null,
+        "ExpenseSubType": "School",
+        "ExpenseSubTypeOther": null,
+        "ExpenseType": "Tax",
+        "ExpenseYear": 2026,
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:35:54Z",
+        "Translations": []
+      }
+    ],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "9975985",
+        "ListingKey": "9975985",
+        "ModificationTimestamp": "2026-08-23T11:19:12Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "9975985_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 8,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
   }
 ]

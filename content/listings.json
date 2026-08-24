@@ -12986,6 +12986,206 @@
     "rental": true
   },
   {
+    "id": 9975985,
+    "centrisId": "9975985",
+    "status": "for-sale",
+    "category": "residential",
+    "assetType": "residential",
+    "featured": false,
+    "type": {
+      "en": "Condominium",
+      "fr": "Condominium"
+    },
+    "price": 619000,
+    "address": "8600 Rue Raymond-Pelletier, apt. 501",
+    "postalCode": "H2M 2W7",
+    "city": "Montréal",
+    "borough": "Ahuntsic-Cartierville",
+    "coords": {
+      "lat": 45.552918,
+      "lng": -73.632688
+    },
+    "beds": 2,
+    "baths": 2,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 1063.5,
+      "unit": "ft²"
+    },
+    "yearBuilt": 2004,
+    "parking": {
+      "en": "1 space",
+      "fr": "1 place"
+    },
+    "listedDate": "2026-08-24",
+    "agentId": "michelle-johnson",
+    "brokers": [
+      {
+        "key": "112818",
+        "id": "michelle-johnson",
+        "name": "Michelle Johnson",
+        "external": false
+      }
+    ],
+    "description": {
+      "en": "8600 Rue Raymond-Pelletier, Montréal (Ahuntsic-Cartierville) This bright and spacious 2-bedroom, 2-bathroom condo offers a comfortable and functional layout. The unit features two generous bedrooms, two bathrooms, a family room, and plenty of storage space. The sale includes one indoor parking space . Ideally located near Collège André-Grasset, a well-known private college, as well as public transportation, schools, shops, and other amenities. The property is situated in the Domaine André-Grasset area, offering a convenient and desirable location. The building is well managed and maintained, providing comfort and peace of min",
+      "fr": "8600 Rue Raymond-Pelletier, Montréal (Ahuntsic-Cartierville) Ce condo lumineux et spacieux de 2 chambres et 2 salles de bains offre une disposition confortable et fonctionnelle. Il comprend deux grandes chambres, deux salles de bains, une salle familiale ainsi que beaucoup de rangement. La vente comprend une place de stationnement intérieure. Idéalement situé à proximité du Collège André-Grasset, un collège privé reconnu, ainsi que des transports en commun, des écoles, des commerces et de nombreux autres services. La propriété se trouve dans le secteur Domaine André-Grasset, un emplacement pratique et recherché. L'immeuble est bien géré"
+    },
+    "features": {
+      "en": [
+        "Built-in garage",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Sewer Connected",
+        "Apartment",
+        "One"
+      ],
+      "fr": [
+        "Built-in garage",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Sewer Connected",
+        "Apartment",
+        "One"
+      ]
+    },
+    "rooms": [
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Hall",
+          "fr": "Hall"
+        },
+        "dims": "6.5 X 7.7 ft / 1.96 X 2.31 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Kitchen",
+          "fr": "Kitchen"
+        },
+        "dims": "9.5 X 10.5 ft / 2.87 X 3.18 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Living Room",
+          "fr": "Living Room"
+        },
+        "dims": "11.3 X 20 ft / 3.43 X 6.10 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Master Bedroom",
+          "fr": "Master Bedroom"
+        },
+        "dims": "12 X 13.3 ft / 3.66 X 4.04 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "12.6 X 5.10 ft / 3.81 X 1.78 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Walkin closet",
+          "fr": "Walkin closet"
+        },
+        "dims": "5.10 X 5.7 ft / 1.78 X 1.70 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "12.4 X 14.8 ft / 3.76 X 4.47 m"
+      },
+      {
+        "level": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "12.2 X 5.11 ft / 3.71 X 1.80 m"
+      }
+    ],
+    "condoFees": 518,
+    "taxes": {
+      "municipal": 3173,
+      "school": 379
+    },
+    "inclusions": {
+      "en": "Kitchen appliances, Stove, refrigerator, dishwasher, washer and dryer, blinds, electrical fireplace, one AC in the master bedroom and one AC in the living room. one indoor parking spot (#44). ",
+      "fr": "Appareils électroménagers de cuisine, cuisinière, réfrigérateur, lave-vaisselle , laveuse et sécheuse, stores, foyer électrique, climatiseur dans la chambre principale  et climatiseur dans le salon, une place de stationnement intérieure (#44) "
+    },
+    "exclusions": {
+      "en": "Tenant's personal belongings. ",
+      "fr": "Les effets personnels du locataire. "
+    },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE722DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72CDDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72EDDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72ADDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE720DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72BDDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE72FDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE728DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE729DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE727DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE723DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE725DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE726DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CDDDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C1DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C4DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C2DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CCDDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CEDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CADDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7C0DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE7CBDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DE724DDDDDDDDDD0&t=pi&f=I"
+    ]
+  },
+  {
     "id": 9884679,
     "centrisId": "9884679",
     "status": "for-sale",
