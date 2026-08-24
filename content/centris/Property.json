@@ -4398,6 +4398,1248 @@
     "BuildingSizeWidth": null,
     "CarportSpaces": null,
     "CoOwnershipSharePercentage": null,
+    "CoveredSpaces": null,
+    "FoundationArea": null,
+    "GarageSpaces": null,
+    "GrossScheduledIncomeCommercial": null,
+    "GrossScheduledIncomeOther": null,
+    "GrossScheduledIncomeParking": null,
+    "GrossScheduledIncomeResidential": null,
+    "LandLeaseAmount": null,
+    "Latitude": 45.471746,
+    "ListPrice": null,
+    "ListPriceTaxesIncluded": null,
+    "LivingArea": 933,
+    "Longitude": -73.592232,
+    "LotSizeArea": null,
+    "LotSizeLength": null,
+    "LotSizeWidth": null,
+    "OpenParkingSpaces": null,
+    "ParkingTotal": null,
+    "RentPrice": 3500,
+    "AvailabilityDate": "2026-10-01",
+    "EnvironmentalStudyPhase1Date": null,
+    "EnvironmentalStudyPhase2Date": null,
+    "GrossScheduledIncomeDate": null,
+    "AboveGroundBedroomsTotal": 2,
+    "AccessibilityFeatures": [],
+    "Addenda": null,
+    "Appliances": [],
+    "AssociationAmenities": [],
+    "AttachedGarageYN": null,
+    "Basement": [],
+    "BasementBedroomsTotal": 0,
+    "BasementOther": null,
+    "BathroomFeatures": [],
+    "BathroomFeaturesOther": null,
+    "BathroomsFull": 2,
+    "BathroomsPartial": 0,
+    "BedroomsTotal": 2,
+    "BuildingBusinessSignsAllowedYN": null,
+    "BuildingCurrentUse": [],
+    "BuildingFeatures": [],
+    "BuildingSizeDimensions": null,
+    "BuildingSizeDimensionsFeet": null,
+    "BuildingSizeDimensionsMeters": null,
+    "BuildingSizeDimensionsPolygonYN": null,
+    "BuildingSizeDimensionsUnits": null,
+    "BusinessOperationType": [],
+    "BusinessType": [],
+    "BusinessTypeOther": null,
+    "CarportYN": null,
+    "CityOrTownshipKey": "839",
+    "CoListAgentKey": null,
+    "CoListAgentMlsId": null,
+    "CoListOfficeKey": null,
+    "CoListOfficeMlsId": null,
+    "CommonWalls": [],
+    "ConstructionMaterials": [],
+    "ConstructionMaterialsOtherDividingFloor": null,
+    "ConstructionMaterialsOtherSiding": null,
+    "Cooling": [],
+    "CoolingYN": null,
+    "CoOwnershipType": "Divided",
+    "Country": "CA",
+    "CrossStreet": null,
+    "CurrentUse": [],
+    "CurrentUseOther": null,
+    "DaysBeforeAvailability": null,
+    "DocumentsChangeTimestamp": "2026-08-24T13:32:40Z",
+    "DriveInDoorsHeight": null,
+    "DriveInDoorsHeightUnits": null,
+    "DriveInDoorsTotal": null,
+    "ElectricAmp": null,
+    "ElectricPhase": null,
+    "ElectricVolts": null,
+    "EntityEventSequence": 26867648,
+    "Exclusions": "Electricity, cable, WiFi, tenant(s) liability insurance during the full term of the lease, and moving expenses required by the building management. Tenant's personal belongings. ",
+    "ExteriorDoorsHeight": null,
+    "ExteriorDoorsHeightUnits": null,
+    "ExteriorDoorsTotal": null,
+    "ExteriorFeatures": [],
+    "Fencing": [],
+    "FireplaceFeatures": [],
+    "FireplaceFeaturesOther": null,
+    "FireplaceFeaturesOtherStove": null,
+    "FireplaceYN": null,
+    "Floor": "4th",
+    "Flooring": [],
+    "FlooringOther": null,
+    "FoundationAreaUnits": null,
+    "FoundationDetails": [],
+    "FoundationDetailsOther": null,
+    "Furnished": null,
+    "GarageYN": null,
+    "GreenBuildingVerificationType": [],
+    "GreenEnergyGeneration": [],
+    "GreenVerificationYN": null,
+    "Heating": [],
+    "HeatingOther": null,
+    "HeatingOtherSystem": null,
+    "HeatingYN": null,
+    "HomeWarrantyYN": null,
+    "Inclusions": "Kitchen appliances: Stove, refrigerator, dishwasher. Washer and dryer, blinds, one indoor parking space and an adjacent private storage locker. ",
+    "InteriorFeatures": [],
+    "InternetEntireListingDisplayYN": true,
+    "KitchenCabinetFeatures": [],
+    "KitchenCabinetFeaturesOther": null,
+    "LandLeaseAmountFrequency": null,
+    "LandLeaseYN": null,
+    "LaundryFeatures": [],
+    "LaundryFeaturesOther": null,
+    "Levels": [
+      "One"
+    ],
+    "ListAgentKey": "112818",
+    "ListAgentMlsId": "112818",
+    "ListingId": "11107875",
+    "ListingKey": "11107875",
+    "ListingTerms": [],
+    "ListingURL": "https://passerelle.centris.ca/redirect.aspx?NoMLS=11107875",
+    "ListOfficeKey": "SMU001",
+    "ListOfficeMlsId": "SMU001",
+    "ListPriceAddTaxesYN": null,
+    "ListPriceAreaUnits": null,
+    "ListPriceFull": null,
+    "ListPriceShort": null,
+    "LivingAreaSource": "Public Records",
+    "LivingAreaUnits": "Square Feet",
+    "LoadingDockAdjustableTotal": null,
+    "LoadingDockPermanentTotal": null,
+    "LoadingDockTypeOther": null,
+    "LotFeatures": [],
+    "LotFeaturesNearOther": null,
+    "LotFeaturesOther": null,
+    "LotFeaturesOtherDistinctive": null,
+    "LotFeaturesOtherTopography": null,
+    "LotSizeDimensions": null,
+    "LotSizeDimensionsFeet": null,
+    "LotSizeDimensionsMeters": null,
+    "LotSizeDimensionsPolygonYN": null,
+    "LotSizeDimensionsUnits": null,
+    "LotSizeUnits": null,
+    "MlsStatus": "Active",
+    "ModificationTimestamp": "2026-08-24T13:48:10Z",
+    "NeighborhoodKey": "839_D",
+    "NeighborhoodName": "Griffintown",
+    "NumberOfUnitsAvailable": null,
+    "NumberOfUnitsInCommunity": null,
+    "NumberOfUnitsLeased": null,
+    "NumberOfUnitsTotal": null,
+    "NumberOfUnitsVacant": null,
+    "OnMarketTimestamp": "2026-08-24T13:36:15Z",
+    "OpenParkingYN": null,
+    "OtherEquipment": [],
+    "OtherEquipmentOther": null,
+    "OtherStructures": [],
+    "OwnerPays": [],
+    "ParkingFeatures": [],
+    "ParkingFeaturesOtherCarport": null,
+    "ParkingFeaturesOtherDriveway": null,
+    "ParkingFeaturesOtherGarage": null,
+    "ParkName": null,
+    "PetsAllowed": [],
+    "PhotosChangeTimestamp": "2026-08-24T13:36:15Z",
+    "PhotosCount": 25,
+    "PoolFeatures": [],
+    "PoolFeaturesOther": null,
+    "PostalCode": "H3C0Y9",
+    "PriceChangeTimestamp": null,
+    "PrivateInteractiveShowingYN": null,
+    "PropertyCondition": [],
+    "PropertySubType": "Condominium",
+    "PropertySubTypeOther": null,
+    "PropertyType": "Residential Lease",
+    "PublicRemarks": "Bright corner condo ideally located in the heart of Griffintown. This well-designed unit offers abundant natural light, a functional layout, and a private balcony overlooking Rue Ottawa and Rue du Séminaire. Enjoy premium building amenities including a rooftop terrace, outdoor pool, BBQ area, residents' lounge, and fitness centre. Steps from shops, cafés, restaurants, services, and the Lachine Canal's cycling paths and walking trails. An exceptional opportunity to enjoy a vibrant urban lifestyle in one of Montréal's most sought-after neighbourhoods. ",
+    "RentPriceAddTaxesYN": null,
+    "RentPriceAreaUnits": null,
+    "RentPriceFrequency": "Monthly",
+    "RentPriceFull": "$3,500/month",
+    "RentPriceShort": "$3,500/mth",
+    "ResidentFeatures": [],
+    "Roof": [],
+    "RoofOther": null,
+    "RoomsTotal": 8,
+    "SecurityFeatures": [],
+    "SellerDisclosuresFormYN": false,
+    "Sewer": [],
+    "SewerOther": null,
+    "ShortTermRentalsAllowedYN": null,
+    "SmokingAllowedYN": null,
+    "SpaFeatures": [],
+    "SpaYN": null,
+    "SpecialListingConditions": [],
+    "StandardStatus": "Active",
+    "StateOrProvince": "QC",
+    "StateRegion": "Montréal",
+    "StatusChangeTimestamp": "2026-08-24T13:36:15Z",
+    "StoriesTotal": 8,
+    "StreetName": "Ottawa",
+    "StreetNumberEnd": null,
+    "StreetNumberStart": "1400",
+    "StreetShortName": "Rue Ottawa",
+    "StructureType": [
+      "Apartment"
+    ],
+    "TaxAssessedBuildingValue": null,
+    "TaxAssessedLotValue": null,
+    "TaxYear": null,
+    "Township": "Montréal (Le Sud-Ouest)",
+    "UnitCommonWalls": [],
+    "UnitNumber": "403B",
+    "UnparsedAddress": " Rue Ottawa, apt. 403B",
+    "Utilities": [],
+    "VideosChangeTimestamp": null,
+    "View": [],
+    "ViewOther": null,
+    "ViewYN": null,
+    "WaterBodyName": null,
+    "WaterfrontFeatures": [],
+    "WaterfrontFeaturesOther": null,
+    "WaterfrontYN": null,
+    "WaterSource": [],
+    "WaterSourceOther": null,
+    "WindowFeatures": [],
+    "WindowFeaturesOther": null,
+    "WindowFeaturesOtherWindowType": null,
+    "YearBuilt": 2022,
+    "YearBuiltFeatures": null,
+    "YearBusinessOperationStart": null,
+    "ZoningDescription": null,
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Property.11107875.en",
+        "Values": [
+          {
+            "FieldName": "Exclusions",
+            "Value": "Electricity, cable, WiFi, tenant(s) liability insurance during the full term of the lease, and moving expenses required by the building management. Tenant's personal belongings. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "Kitchen appliances: Stove, refrigerator, dishwasher. Washer and dryer, blinds, one indoor parking space and an adjacent private storage locker. "
+          },
+          {
+            "FieldName": "NeighborhoodName",
+            "Value": "Griffintown"
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "Bright corner condo ideally located in the heart of Griffintown. This well-designed unit offers abundant natural light, a functional layout, and a private balcony overlooking Rue Ottawa and Rue du Séminaire. Enjoy premium building amenities including a rooftop terrace, outdoor pool, BBQ area, residents' lounge, and fitness centre. Steps from shops, cafés, restaurants, services, and the Lachine Canal's cycling paths and walking trails. An exceptional opportunity to enjoy a vibrant urban lifestyle in one of Montréal's most sought-after neighbourhoods. "
+          },
+          {
+            "FieldName": "RentPriceShort",
+            "Value": "$3,500/mth"
+          },
+          {
+            "FieldName": "RentPriceFull",
+            "Value": "$3,500/month"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Rue Ottawa, apt. 403B"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Property.11107875.fr",
+        "Values": [
+          {
+            "FieldName": "Exclusions",
+            "Value": "Électricité, câble, Wi-Fi, assurance responsabilité civile du ou des locataires pendant toute la durée du bail, ainsi que les frais de déménagement exigés par la gestion de l'immeuble. Les effets personnels du locataire. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "Électroménagers de cuisine : cuisinière, réfrigérateur et lave-vaisselle. Laveuse et sécheuse, stores, une place de stationnement intérieure ainsi qu'un espace de rangement privé adjacent. "
+          },
+          {
+            "FieldName": "NeighborhoodName",
+            "Value": "Griffintown"
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "Condo de coin lumineux, idéalement situé au coeur de Griffintown. Cette unité bien conçue offre une abondance de lumière naturelle, une disposition fonctionnelle ainsi qu'un balcon privé donnant sur la rue Ottawa et la rue du Séminaire. Profitez d'une gamme d'installations haut de gamme, notamment une terrasse sur le toit, une piscine extérieure, une aire de BBQ, un salon pour les résidents et une salle d'entraînement. À quelques pas des commerces, cafés, restaurants et services, ainsi que des pistes cyclables et sentiers pédestres du canal de Lachine. Une occasion exceptionnelle de profiter d'un mode de vie urbain dynamique dans l'un des qua"
+          },
+          {
+            "FieldName": "RentPriceShort",
+            "Value": "3 500 $/m."
+          },
+          {
+            "FieldName": "RentPriceFull",
+            "Value": "3 500 $/mois"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Rue Ottawa, app. 403B"
+          }
+        ]
+      }
+    ],
+    "Media": [
+      {
+        "ImageOf": "Dining Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928136",
+        "MediaObjectID": "103837191",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D0DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 1,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632411",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928137",
+        "MediaObjectID": "103837172",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA36CDDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 2,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632412",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928138",
+        "MediaObjectID": "103837176",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA36BDDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 3,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632413",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928139",
+        "MediaObjectID": "103837177",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA36FDDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 4,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632414",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928140",
+        "MediaObjectID": "103837181",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA363DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 5,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632415",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928141",
+        "MediaObjectID": "103837182",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA365DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 6,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632416",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928142",
+        "MediaObjectID": "103837185",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D1DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 7,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632417",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928143",
+        "MediaObjectID": "103837186",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D4DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 8,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632418",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928144",
+        "MediaObjectID": "103837192",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5DBDDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 9,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632419",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Overall view",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928145",
+        "MediaObjectID": "103837193",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5DFDDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 10,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632420",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928146",
+        "MediaObjectID": "103837197",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D3DDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 11,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632421",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928147",
+        "MediaObjectID": "103837198",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D5DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 12,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632422",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Balcony",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928148",
+        "MediaObjectID": "103837200",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51DDDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 13,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632423",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928149",
+        "MediaObjectID": "103837203",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA512DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 14,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632424",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928150",
+        "MediaObjectID": "103837205",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51EDDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 15,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632425",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Exercise Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928151",
+        "MediaObjectID": "103837208",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51BDDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 16,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632426",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Exercise Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928152",
+        "MediaObjectID": "103837209",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51FDDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 17,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632427",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Exercise Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928153",
+        "MediaObjectID": "103837211",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA519DDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 18,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632428",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928154",
+        "MediaObjectID": "103837212",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA517DDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 19,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632429",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928155",
+        "MediaObjectID": "103837214",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA515DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 20,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632430",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928156",
+        "MediaObjectID": "103837216",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA54DDDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 21,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632431",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928157",
+        "MediaObjectID": "103837223",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA540DDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 22,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632432",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928158",
+        "MediaObjectID": "103837226",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA548DDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 23,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632433",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928159",
+        "MediaObjectID": "103837228",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA547DDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 24,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632434",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Entry",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_11107875_Photo_108928160",
+        "MediaObjectID": "103837231",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA546DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-24T13:36:15Z",
+        "Order": 25,
+        "ResourceName": "Property",
+        "ResourceRecordID": "11107875",
+        "ResourceRecordKey": "11107875",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "496632435",
+        "VirtualTourType": null
+      }
+    ],
+    "Rooms": [
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 1,
+        "RoomDescription": null,
+        "RoomDimensions": "19.10 X 3.5 ft irr / 6.05 X 1.04 m irr",
+        "RoomDimensionsFeet": "19.10 X 3.5 ft irr",
+        "RoomDimensionsMeters": "6.05 X 1.04 m irr",
+        "RoomDimensionsPolygonYN": true,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_1",
+        "RoomLengthFractional": "5",
+        "RoomLengthWholeNumber": "3",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Hall",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "10",
+        "RoomWidthWholeNumber": "19",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_1.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "19.10 X 3.5 ft irr / 6.05 X 1.04 m irr"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "19.10 X 3.5 ft irr"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "6.05 X 1.04 m irr"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_1.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "19,10 X 3,5 p irr / 6,05 X 1,04 m irr"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "19,10 X 3,5 p irr"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "6,05 X 1,04 m irr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 2,
+        "RoomDescription": null,
+        "RoomDimensions": "20.7 X 13.1 ft / 6.27 X 3.99 m",
+        "RoomDimensionsFeet": "20.7 X 13.1 ft",
+        "RoomDimensionsMeters": "6.27 X 3.99 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_2",
+        "RoomLengthFractional": "1",
+        "RoomLengthWholeNumber": "13",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Living Room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "7",
+        "RoomWidthWholeNumber": "20",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_2.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "20.7 X 13.1 ft / 6.27 X 3.99 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "20.7 X 13.1 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "6.27 X 3.99 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_2.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "20,7 X 13,1 p / 6,27 X 3,99 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "20,7 X 13,1 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "6,27 X 3,99 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 3,
+        "RoomDescription": null,
+        "RoomDimensions": "11.6 X 8.5 ft / 3.51 X 2.57 m",
+        "RoomDimensionsFeet": "11.6 X 8.5 ft",
+        "RoomDimensionsMeters": "3.51 X 2.57 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_3",
+        "RoomLengthFractional": "5",
+        "RoomLengthWholeNumber": "8",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Kitchen",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "6",
+        "RoomWidthWholeNumber": "11",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_3.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "11.6 X 8.5 ft / 3.51 X 2.57 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "11.6 X 8.5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.51 X 2.57 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_3.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "11,6 X 8,5 p / 3,51 X 2,57 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "11,6 X 8,5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,51 X 2,57 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 4,
+        "RoomDescription": null,
+        "RoomDimensions": "17.10 X 9.11 ft / 5.44 X 3.02 m",
+        "RoomDimensionsFeet": "17.10 X 9.11 ft",
+        "RoomDimensionsMeters": "5.44 X 3.02 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_4",
+        "RoomLengthFractional": "11",
+        "RoomLengthWholeNumber": "9",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Master Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "10",
+        "RoomWidthWholeNumber": "17",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_4.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "17.10 X 9.11 ft / 5.44 X 3.02 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "17.10 X 9.11 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "5.44 X 3.02 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_4.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "17,10 X 9,11 p / 5,44 X 3,02 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "17,10 X 9,11 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "5,44 X 3,02 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 5,
+        "RoomDescription": null,
+        "RoomDimensions": "8.2 X 4.11 ft / 2.49 X 1.50 m",
+        "RoomDimensionsFeet": "8.2 X 4.11 ft",
+        "RoomDimensionsMeters": "2.49 X 1.50 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_5",
+        "RoomLengthFractional": "11",
+        "RoomLengthWholeNumber": "4",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "2",
+        "RoomWidthWholeNumber": "8",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_5.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8.2 X 4.11 ft / 2.49 X 1.50 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8.2 X 4.11 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.49 X 1.50 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_5.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8,2 X 4,11 p / 2,49 X 1,50 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8,2 X 4,11 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,49 X 1,50 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 6,
+        "RoomDescription": null,
+        "RoomDimensions": "6.3 X 4.4 ft / 1.91 X 1.32 m",
+        "RoomDimensionsFeet": "6.3 X 4.4 ft",
+        "RoomDimensionsMeters": "1.91 X 1.32 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_6",
+        "RoomLengthFractional": "4",
+        "RoomLengthWholeNumber": "4",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Walkin closet",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "3",
+        "RoomWidthWholeNumber": "6",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_6.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "6.3 X 4.4 ft / 1.91 X 1.32 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "6.3 X 4.4 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1.91 X 1.32 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_6.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "6,3 X 4,4 p / 1,91 X 1,32 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "6,3 X 4,4 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1,91 X 1,32 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 7,
+        "RoomDescription": null,
+        "RoomDimensions": "17.6 X 5 ft / 5.33 X 1.52 m",
+        "RoomDimensionsFeet": "17.6 X 5 ft",
+        "RoomDimensionsMeters": "5.33 X 1.52 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_7",
+        "RoomLengthFractional": null,
+        "RoomLengthWholeNumber": "5",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "6",
+        "RoomWidthWholeNumber": "17",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_7.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "17.6 X 5 ft / 5.33 X 1.52 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "17.6 X 5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "5.33 X 1.52 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_7.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "17,6 X 5 p / 5,33 X 1,52 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "17,6 X 5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "5,33 X 1,52 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 8,
+        "RoomDescription": null,
+        "RoomDimensions": "8.5 X 4.10 ft / 2.57 X 1.47 m",
+        "RoomDimensionsFeet": "8.5 X 4.10 ft",
+        "RoomDimensionsMeters": "2.57 X 1.47 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [],
+        "RoomFlooringOther": null,
+        "RoomKey": "11107875_1_8",
+        "RoomLengthFractional": "10",
+        "RoomLengthWholeNumber": "4",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Fourth",
+        "RoomLevelOther": null,
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "5",
+        "RoomWidthWholeNumber": "8",
+        "UnitKey": "11107875_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.11107875_1_8.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8.5 X 4.10 ft / 2.57 X 1.47 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8.5 X 4.10 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.57 X 1.47 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.11107875_1_8.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8,5 X 4,10 p / 2,57 X 1,47 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8,5 X 4,10 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,57 X 1,47 m"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "11107875",
+        "ListingKey": "11107875",
+        "ModificationTimestamp": "2026-08-24T13:32:40Z",
+        "Order": 1,
+        "RentIncludes": [
+          "Hot water",
+          "Cooling",
+          "Water taxes"
+        ],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 2,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "11107875_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 8,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
+  },
+  {
+    "BuildingSizeLength": null,
+    "BuildingSizeWidth": null,
+    "CarportSpaces": null,
+    "CoOwnershipSharePercentage": null,
     "CoveredSpaces": 2,
     "FoundationArea": null,
     "GarageSpaces": 2,
@@ -21395,14 +22637,14 @@
     "CurrentUse": [],
     "CurrentUseOther": null,
     "DaysBeforeAvailability": null,
-    "DocumentsChangeTimestamp": "2026-08-24T11:49:04Z",
+    "DocumentsChangeTimestamp": "2026-08-24T13:49:25Z",
     "DriveInDoorsHeight": null,
     "DriveInDoorsHeightUnits": null,
     "DriveInDoorsTotal": null,
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26865425,
+    "EntityEventSequence": 26867692,
     "Exclusions": "Tenant's personal belongings. ",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -21484,7 +22726,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-24T11:57:43Z",
+    "ModificationTimestamp": "2026-08-24T13:49:25Z",
     "NeighborhoodKey": "839_D",
     "NeighborhoodName": "Griffintown",
     "NumberOfUnitsAvailable": null,

@@ -12533,6 +12533,191 @@
     "rental": true
   },
   {
+    "id": 11107875,
+    "centrisId": "11107875",
+    "status": "for-rent",
+    "category": "residential",
+    "assetType": "residential",
+    "featured": false,
+    "type": {
+      "en": "Condominium",
+      "fr": "Condominium"
+    },
+    "price": 3500,
+    "address": "1400 Rue Ottawa, apt. 403B",
+    "postalCode": "H3C 0Y9",
+    "city": "Montréal",
+    "borough": "Le Sud-Ouest",
+    "neighbourhood": "le-sud-ouest",
+    "coords": {
+      "lat": 45.471746,
+      "lng": -73.592232
+    },
+    "beds": 2,
+    "baths": 2,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 933,
+      "unit": "ft²"
+    },
+    "yearBuilt": 2022,
+    "parking": null,
+    "listedDate": "2026-08-24",
+    "agentId": "michelle-johnson",
+    "brokers": [
+      {
+        "key": "112818",
+        "id": "michelle-johnson",
+        "name": "Michelle Johnson",
+        "external": false
+      }
+    ],
+    "description": {
+      "en": "Bright corner condo ideally located in the heart of Griffintown. This well-designed unit offers abundant natural light, a functional layout, and a private balcony overlooking Rue Ottawa and Rue du Séminaire. Enjoy premium building amenities including a rooftop terrace, outdoor pool, BBQ area, residents' lounge, and fitness centre. Steps from shops, cafés, restaurants, services, and the Lachine Canal's cycling paths and walking trails. An exceptional opportunity to enjoy a vibrant urban lifestyle in one of Montréal's most sought-after neighbourhoods. ",
+      "fr": "Condo de coin lumineux, idéalement situé au coeur de Griffintown. Cette unité bien conçue offre une abondance de lumière naturelle, une disposition fonctionnelle ainsi qu'un balcon privé donnant sur la rue Ottawa et la rue du Séminaire. Profitez d'une gamme d'installations haut de gamme, notamment une terrasse sur le toit, une piscine extérieure, une aire de BBQ, un salon pour les résidents et une salle d'entraînement. À quelques pas des commerces, cafés, restaurants et services, ainsi que des pistes cyclables et sentiers pédestres du canal de Lachine. Une occasion exceptionnelle de profiter d'un mode de vie urbain dynamique dans l'un des qua"
+    },
+    "features": {
+      "en": [
+        "Apartment",
+        "One"
+      ],
+      "fr": [
+        "Apartment",
+        "One"
+      ]
+    },
+    "rooms": [
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Hall",
+          "fr": "Hall"
+        },
+        "dims": "19.10 X 3.5 ft irr / 6.05 X 1.04 m irr"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Living Room",
+          "fr": "Living Room"
+        },
+        "dims": "20.7 X 13.1 ft / 6.27 X 3.99 m"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Kitchen",
+          "fr": "Kitchen"
+        },
+        "dims": "11.6 X 8.5 ft / 3.51 X 2.57 m"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Master Bedroom",
+          "fr": "Master Bedroom"
+        },
+        "dims": "17.10 X 9.11 ft / 5.44 X 3.02 m"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "8.2 X 4.11 ft / 2.49 X 1.50 m"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Walkin closet",
+          "fr": "Walkin closet"
+        },
+        "dims": "6.3 X 4.4 ft / 1.91 X 1.32 m"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "17.6 X 5 ft / 5.33 X 1.52 m"
+      },
+      {
+        "level": {
+          "en": "Fourth",
+          "fr": "Fourth"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "8.5 X 4.10 ft / 2.57 X 1.47 m"
+      }
+    ],
+    "condoFees": null,
+    "taxes": null,
+    "inclusions": {
+      "en": "Kitchen appliances: Stove, refrigerator, dishwasher. Washer and dryer, blinds, one indoor parking space and an adjacent private storage locker. ",
+      "fr": "Électroménagers de cuisine : cuisinière, réfrigérateur et lave-vaisselle. Laveuse et sécheuse, stores, une place de stationnement intérieure ainsi qu'un espace de rangement privé adjacent. "
+    },
+    "exclusions": {
+      "en": "Electricity, cable, WiFi, tenant(s) liability insurance during the full term of the lease, and moving expenses required by the building management. Tenant's personal belongings. ",
+      "fr": "Électricité, câble, Wi-Fi, assurance responsabilité civile du ou des locataires pendant toute la durée du bail, ainsi que les frais de déménagement exigés par la gestion de l'immeuble. Les effets personnels du locataire. "
+    },
+    "zoning": null,
+    "revenue": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D0DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA36CDDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA36BDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA36FDDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA363DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA365DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D1DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D4DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5DBDDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5DFDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D3DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA5D5DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51DDDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA512DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51EDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51BDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA51FDDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA519DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA517DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA515DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA54DDDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA540DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA548DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA547DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA2DA546DDDDDDDDDDF&t=pi&f=I"
+    ],
+    "rental": true
+  },
+  {
     "id": 10461397,
     "centrisId": "10461397",
     "status": "for-rent",
