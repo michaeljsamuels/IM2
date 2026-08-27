@@ -4097,12 +4097,12 @@
   },
   {
     "DisplayName": "Barber/Beauty",
-    "EntityEventSequence": 5081194,
+    "EntityEventSequence": 26939017,
     "LegacyODataValue": "BarberBeauty",
     "LookupKey": "BusinessType.BarberBeauty",
     "LookupName": "BusinessType",
     "LookupValue": "Barber/Beauty",
-    "ModificationTimestamp": "2015-07-21T00:00:00Z",
+    "ModificationTimestamp": "2026-08-25T00:00:00Z",
     "StandardLookupValue": "Barber/Beauty",
     "Translations": [
       {
@@ -4121,7 +4121,7 @@
         "Values": [
           {
             "FieldName": "DisplayName",
-            "Value": "Bar/taverne/lounge"
+            "Value": "Barbier/salon de beauté"
           }
         ]
       }
@@ -4129,12 +4129,12 @@
   },
   {
     "DisplayName": "Bar/Tavern/Lounge",
-    "EntityEventSequence": 5081196,
+    "EntityEventSequence": 26939018,
     "LegacyODataValue": "BarTavernLounge",
     "LookupKey": "BusinessType.BarTavernLounge",
     "LookupName": "BusinessType",
     "LookupValue": "Bar/Tavern/Lounge",
-    "ModificationTimestamp": "2015-07-21T00:00:00Z",
+    "ModificationTimestamp": "2026-08-25T00:00:00Z",
     "StandardLookupValue": "Bar/Tavern/Lounge",
     "Translations": [
       {
@@ -4153,7 +4153,7 @@
         "Values": [
           {
             "FieldName": "DisplayName",
-            "Value": "Barbier/salon de beauté"
+            "Value": "Bar/taverne/lounge"
           }
         ]
       }
