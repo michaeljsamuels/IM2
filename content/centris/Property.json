@@ -33747,6 +33747,1612 @@
     ]
   },
   {
+    "BuildingSizeLength": null,
+    "BuildingSizeWidth": null,
+    "CarportSpaces": null,
+    "CoOwnershipSharePercentage": null,
+    "CoveredSpaces": 1,
+    "FoundationArea": null,
+    "GarageSpaces": 1,
+    "GrossScheduledIncomeCommercial": null,
+    "GrossScheduledIncomeOther": null,
+    "GrossScheduledIncomeParking": null,
+    "GrossScheduledIncomeResidential": null,
+    "LandLeaseAmount": null,
+    "Latitude": 45.511185,
+    "ListPrice": null,
+    "ListPriceTaxesIncluded": null,
+    "LivingArea": 1103.3,
+    "Longitude": -73.607079,
+    "LotSizeArea": null,
+    "LotSizeLength": null,
+    "LotSizeWidth": null,
+    "OpenParkingSpaces": null,
+    "ParkingTotal": 1,
+    "RentPrice": 5600,
+    "AvailabilityDate": "2026-10-01",
+    "EnvironmentalStudyPhase1Date": null,
+    "EnvironmentalStudyPhase2Date": null,
+    "GrossScheduledIncomeDate": null,
+    "AboveGroundBedroomsTotal": 3,
+    "AccessibilityFeatures": [],
+    "Addenda": "The primary suite features a walk-in closet and a private ensuite bathroom, while the two additional bedrooms provide versatile space ideal for family, guests, or a home office. One indoor parking space is included, adding everyday comfort and convenience.\r\nLocated in a prestigious, high-end building, residents benefit from an exceptional range of amenities, including 24/7 concierge service, a fully equipped fitness centre, indoor and outdoor swimming pools, a yoga studio, a library, secure access, and beautifully appointed common areas, highlighted by a stunning converted historic chapel.\r\nJust a 5-minute walk from Édouard-Montpetit Metro station, and close to renowned private schools, parks, cafés, and boutiques, this property offers an exceptional lifestyle in one of Montreal's most sought-after neighbourhoods.\r\nA rare opportunity in Outremont!",
+    "Appliances": [],
+    "AssociationAmenities": [
+      "Common Area",
+      "Elevator(s)",
+      "Courtyard",
+      "Fitness Center",
+      "Pool",
+      "Indoor Pool",
+      "Sauna"
+    ],
+    "AttachedGarageYN": null,
+    "Basement": [],
+    "BasementBedroomsTotal": 0,
+    "BasementOther": null,
+    "BathroomFeatures": [],
+    "BathroomFeaturesOther": null,
+    "BathroomsFull": 2,
+    "BathroomsPartial": 0,
+    "BedroomsTotal": 3,
+    "BuildingBusinessSignsAllowedYN": null,
+    "BuildingCurrentUse": [],
+    "BuildingFeatures": [],
+    "BuildingSizeDimensions": null,
+    "BuildingSizeDimensionsFeet": null,
+    "BuildingSizeDimensionsMeters": null,
+    "BuildingSizeDimensionsPolygonYN": null,
+    "BuildingSizeDimensionsUnits": null,
+    "BusinessOperationType": [],
+    "BusinessType": [],
+    "BusinessTypeOther": null,
+    "CarportYN": null,
+    "CityOrTownshipKey": "825",
+    "CoListAgentKey": null,
+    "CoListAgentMlsId": null,
+    "CoListOfficeKey": null,
+    "CoListOfficeMlsId": null,
+    "CommonWalls": [
+      "No Common Walls"
+    ],
+    "ConstructionMaterials": [],
+    "ConstructionMaterialsOtherDividingFloor": null,
+    "ConstructionMaterialsOtherSiding": null,
+    "Cooling": [
+      "Central Air"
+    ],
+    "CoolingYN": true,
+    "CoOwnershipType": "Divided",
+    "Country": "CA",
+    "CrossStreet": null,
+    "CurrentUse": [],
+    "CurrentUseOther": null,
+    "DaysBeforeAvailability": null,
+    "DocumentsChangeTimestamp": null,
+    "DriveInDoorsHeight": null,
+    "DriveInDoorsHeightUnits": null,
+    "DriveInDoorsTotal": null,
+    "ElectricAmp": null,
+    "ElectricPhase": null,
+    "ElectricVolts": null,
+    "EntityEventSequence": 26987153,
+    "Exclusions": "Hydro, internet, move-in fees if there is any.",
+    "ExteriorDoorsHeight": null,
+    "ExteriorDoorsHeightUnits": null,
+    "ExteriorDoorsTotal": null,
+    "ExteriorFeatures": [],
+    "Fencing": [],
+    "FireplaceFeatures": [],
+    "FireplaceFeaturesOther": null,
+    "FireplaceFeaturesOtherStove": null,
+    "FireplaceYN": null,
+    "Floor": "3rd",
+    "Flooring": [],
+    "FlooringOther": null,
+    "FoundationAreaUnits": null,
+    "FoundationDetails": [],
+    "FoundationDetailsOther": null,
+    "Furnished": null,
+    "GarageYN": true,
+    "GreenBuildingVerificationType": [],
+    "GreenEnergyGeneration": [],
+    "GreenVerificationYN": null,
+    "Heating": [
+      "Electric",
+      "Electricity"
+    ],
+    "HeatingOther": null,
+    "HeatingOtherSystem": null,
+    "HeatingYN": true,
+    "HomeWarrantyYN": null,
+    "Inclusions": "stove, fridge, dishwasher, washer, dryer, curtains, one indoor parking ",
+    "InteriorFeatures": [],
+    "InternetEntireListingDisplayYN": true,
+    "KitchenCabinetFeatures": [],
+    "KitchenCabinetFeaturesOther": null,
+    "LandLeaseAmountFrequency": null,
+    "LandLeaseYN": null,
+    "LaundryFeatures": [],
+    "LaundryFeaturesOther": null,
+    "Levels": [
+      "One"
+    ],
+    "ListAgentKey": "116299",
+    "ListAgentMlsId": "116299",
+    "ListingId": "19685886",
+    "ListingKey": "19685886",
+    "ListingTerms": [],
+    "ListingURL": "https://passerelle.centris.ca/redirect.aspx?NoMLS=19685886",
+    "ListOfficeKey": "SMU001",
+    "ListOfficeMlsId": "SMU001",
+    "ListPriceAddTaxesYN": null,
+    "ListPriceAreaUnits": null,
+    "ListPriceFull": null,
+    "ListPriceShort": null,
+    "LivingAreaSource": "Public Records",
+    "LivingAreaUnits": "Square Feet",
+    "LoadingDockAdjustableTotal": null,
+    "LoadingDockPermanentTotal": null,
+    "LoadingDockTypeOther": null,
+    "LotFeatures": [
+      "Near CEGEP",
+      "Near daycare centre",
+      "Near hospital",
+      "Near metro",
+      "Near park",
+      "Near elementary school",
+      "Near high school",
+      "Near Public Transit",
+      "Near university"
+    ],
+    "LotFeaturesNearOther": null,
+    "LotFeaturesOther": null,
+    "LotFeaturesOtherDistinctive": null,
+    "LotFeaturesOtherTopography": null,
+    "LotSizeDimensions": null,
+    "LotSizeDimensionsFeet": null,
+    "LotSizeDimensionsMeters": null,
+    "LotSizeDimensionsPolygonYN": null,
+    "LotSizeDimensionsUnits": null,
+    "LotSizeUnits": null,
+    "MlsStatus": "Active",
+    "ModificationTimestamp": "2026-08-30T01:07:51Z",
+    "NeighborhoodKey": null,
+    "NeighborhoodName": null,
+    "NumberOfUnitsAvailable": null,
+    "NumberOfUnitsInCommunity": 153,
+    "NumberOfUnitsLeased": null,
+    "NumberOfUnitsTotal": null,
+    "NumberOfUnitsVacant": null,
+    "OnMarketTimestamp": "2026-08-30T01:01:01Z",
+    "OpenParkingYN": null,
+    "OtherEquipment": [],
+    "OtherEquipmentOther": null,
+    "OtherStructures": [],
+    "OwnerPays": [],
+    "ParkingFeatures": [
+      "Heated Garage",
+      "Built-in garage"
+    ],
+    "ParkingFeaturesOtherCarport": null,
+    "ParkingFeaturesOtherDriveway": null,
+    "ParkingFeaturesOtherGarage": null,
+    "ParkName": null,
+    "PetsAllowed": [],
+    "PhotosChangeTimestamp": "2026-08-30T01:01:01Z",
+    "PhotosCount": 36,
+    "PoolFeatures": [
+      "Heated"
+    ],
+    "PoolFeaturesOther": null,
+    "PostalCode": "H2V4P3",
+    "PriceChangeTimestamp": null,
+    "PrivateInteractiveShowingYN": null,
+    "PropertyCondition": [],
+    "PropertySubType": "Condominium",
+    "PropertySubTypeOther": null,
+    "PropertyType": "Residential Lease",
+    "PublicRemarks": "Welcome to Le 1420, an exceptional address in the heart of Outremont! This stunning 3-bedroom, 2-bathroom condo offers over 1100 sqft of refined living space, combining modern comfort with elegant design. The unit features 11ft high ceilings throughout, abundant natural light, and a spacious open-concept living area that extends to a large private south-facing terrace, perfect for relaxing or entertaining.",
+    "RentPriceAddTaxesYN": null,
+    "RentPriceAreaUnits": null,
+    "RentPriceFrequency": "Monthly",
+    "RentPriceFull": "$5,600/month",
+    "RentPriceShort": "$5,600/mth",
+    "ResidentFeatures": [],
+    "Roof": [],
+    "RoofOther": null,
+    "RoomsTotal": 8,
+    "SecurityFeatures": [],
+    "SellerDisclosuresFormYN": false,
+    "Sewer": [
+      "Public Sewer"
+    ],
+    "SewerOther": null,
+    "ShortTermRentalsAllowedYN": null,
+    "SmokingAllowedYN": null,
+    "SpaFeatures": [],
+    "SpaYN": null,
+    "SpecialListingConditions": [],
+    "StandardStatus": "Active",
+    "StateOrProvince": "QC",
+    "StateRegion": "Montréal",
+    "StatusChangeTimestamp": "2026-08-30T01:01:01Z",
+    "StoriesTotal": 9,
+    "StreetName": "Mont-Royal",
+    "StreetNumberEnd": null,
+    "StreetNumberStart": "1420",
+    "StreetShortName": "Boul. Mont-Royal",
+    "StructureType": [
+      "Apartment"
+    ],
+    "TaxAssessedBuildingValue": 1075200,
+    "TaxAssessedLotValue": 224000,
+    "TaxYear": 2024,
+    "Township": "Montréal (Outremont)",
+    "UnitCommonWalls": [],
+    "UnitNumber": "324",
+    "UnparsedAddress": " Boul. Mont-Royal, apt. 324",
+    "Utilities": [
+      "Water Connected",
+      "Electricity Connected",
+      "Sewer Connected"
+    ],
+    "VideosChangeTimestamp": null,
+    "View": [],
+    "ViewOther": null,
+    "ViewYN": null,
+    "WaterBodyName": null,
+    "WaterfrontFeatures": [],
+    "WaterfrontFeaturesOther": null,
+    "WaterfrontYN": null,
+    "WaterSource": [
+      "Municipality"
+    ],
+    "WaterSourceOther": null,
+    "WindowFeatures": [],
+    "WindowFeaturesOther": null,
+    "WindowFeaturesOtherWindowType": null,
+    "YearBuilt": 2022,
+    "YearBuiltFeatures": null,
+    "YearBusinessOperationStart": null,
+    "ZoningDescription": "Residential",
+    "Translations": [
+      {
+        "Locale": "en",
+        "TranslationKey": "Property.19685886.en",
+        "Values": [
+          {
+            "FieldName": "Addenda",
+            "Value": "The primary suite features a walk-in closet and a private ensuite bathroom, while the two additional bedrooms provide versatile space ideal for family, guests, or a home office. One indoor parking space is included, adding everyday comfort and convenience.\r\nLocated in a prestigious, high-end building, residents benefit from an exceptional range of amenities, including 24/7 concierge service, a fully equipped fitness centre, indoor and outdoor swimming pools, a yoga studio, a library, secure access, and beautifully appointed common areas, highlighted by a stunning converted historic chapel.\r\nJust a 5-minute walk from Édouard-Montpetit Metro station, and close to renowned private schools, parks, cafés, and boutiques, this property offers an exceptional lifestyle in one of Montreal's most sought-after neighbourhoods.\r\nA rare opportunity in Outremont!"
+          },
+          {
+            "FieldName": "Exclusions",
+            "Value": "Hydro, internet, move-in fees if there is any."
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "stove, fridge, dishwasher, washer, dryer, curtains, one indoor parking "
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "Welcome to Le 1420, an exceptional address in the heart of Outremont! This stunning 3-bedroom, 2-bathroom condo offers over 1100 sqft of refined living space, combining modern comfort with elegant design. The unit features 11ft high ceilings throughout, abundant natural light, and a spacious open-concept living area that extends to a large private south-facing terrace, perfect for relaxing or entertaining."
+          },
+          {
+            "FieldName": "ZoningDescription",
+            "Value": "Residential"
+          },
+          {
+            "FieldName": "RentPriceShort",
+            "Value": "$5,600/mth"
+          },
+          {
+            "FieldName": "RentPriceFull",
+            "Value": "$5,600/month"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Boul. Mont-Royal, apt. 324"
+          }
+        ]
+      },
+      {
+        "Locale": "fr",
+        "TranslationKey": "Property.19685886.fr",
+        "Values": [
+          {
+            "FieldName": "Addenda",
+            "Value": "La suite principale comprend un walk-in et une salle de bain attenante, tandis que les deux autres chambres offrent un espace polyvalent idéal pour la famille, les invités ou un bureau à domicile. Un stationnement intérieur est inclus, ajoutant confort et commodité au quotidien.\r\nSitué dans un immeuble haut de gamme et prestigieux, les résidents bénéficient d'une gamme complète de services et commodités, dont un service de concierge 24/7, une salle d'entraînement entièrement équipée, piscine intérieure et extérieure, un studio de yoga, une bibliothèque, un accès sécurisé ainsi que de magnifiques espaces communs, incluant une ancienne chapelle magnifiquement réaménagée.\r\nÀ seulement 5 minutes de marche de la station de métro Édouard-Montpetit, et à proximité d'écoles privées réputées, de parcs, de cafés et de commerces, cette propriété offre un cadre de vie exceptionnel dans l'un des quartiers les plus recherchés de Montréal.\r\nUne opportunité rare à Outremont !"
+          },
+          {
+            "FieldName": "Exclusions",
+            "Value": "Electricité, internet, le frais de déménagement si il y en a. "
+          },
+          {
+            "FieldName": "Inclusions",
+            "Value": "cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, rideaux, un stationnement intérieur."
+          },
+          {
+            "FieldName": "PublicRemarks",
+            "Value": "Bienvenue a LE 1420, une adresse d'exception au coeur d'Outremont ! Ce magnifique condo de 3 chambres à coucher et 2 salles de bain offre plus de 1 100 pi² d'espace de vie raffiné, alliant confort moderne et design élégant. L'unité se distingue par des plafonds de 11 pieds, une abondante lumière naturelle et une spacieuse aire de vie à concept ouvert qui s'ouvre sur une grande terrasse privée orientée plein sud, idéale pour se détendre ou recevoir."
+          },
+          {
+            "FieldName": "ZoningDescription",
+            "Value": "Résidentiel"
+          },
+          {
+            "FieldName": "RentPriceShort",
+            "Value": "5 600 $/m."
+          },
+          {
+            "FieldName": "RentPriceFull",
+            "Value": "5 600 $/mois"
+          },
+          {
+            "FieldName": "UnparsedAddress",
+            "Value": " Boul. Mont-Royal, app. 324"
+          }
+        ]
+      }
+    ],
+    "Media": [
+      {
+        "ImageOf": "Front of Structure",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078315",
+        "MediaObjectID": "104008471",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D910DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 1,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830938",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Conference room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078316",
+        "MediaObjectID": "104008472",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D91BDDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 2,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830939",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078317",
+        "MediaObjectID": "104008473",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D91FDDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 3,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830940",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078318",
+        "MediaObjectID": "104008474",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D918DDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 4,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830941",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078319",
+        "MediaObjectID": "104008475",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D919DDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 5,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830942",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Kitchen",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078320",
+        "MediaObjectID": "104008476",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D917DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 6,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830943",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078321",
+        "MediaObjectID": "104008477",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D913DDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 7,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830944",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Living Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078322",
+        "MediaObjectID": "104008478",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D915DDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 8,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830945",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078323",
+        "MediaObjectID": "104008479",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D916DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 9,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830946",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078324",
+        "MediaObjectID": "104008480",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94DDDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 10,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830947",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Closet",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078325",
+        "MediaObjectID": "104008481",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D941DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 11,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830948",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Master Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078326",
+        "MediaObjectID": "104008482",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D944DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 12,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830949",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078327",
+        "MediaObjectID": "104008483",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D942DDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 13,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830950",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078328",
+        "MediaObjectID": "104008484",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94CDDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 14,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830951",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bedroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078329",
+        "MediaObjectID": "104008485",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94EDDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 15,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830952",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Bathroom",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078330",
+        "MediaObjectID": "104008486",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94ADDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 16,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830953",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Courtyard",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078331",
+        "MediaObjectID": "104008487",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D940DDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 17,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830954",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Patio",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078332",
+        "MediaObjectID": "104008488",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94BDDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 18,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830955",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Floor Plan",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078333",
+        "MediaObjectID": "104008489",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94FDDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 19,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830956",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Exercise Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078334",
+        "MediaObjectID": "104008490",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D948DDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 20,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830957",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Pool",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078335",
+        "MediaObjectID": "104008491",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D949DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 21,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830958",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Sauna",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078336",
+        "MediaObjectID": "104008492",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D947DDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 22,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830959",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Pool",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078337",
+        "MediaObjectID": "104008493",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D943DDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 23,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830960",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078338",
+        "MediaObjectID": "104008494",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D945DDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 24,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830961",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078339",
+        "MediaObjectID": "104008495",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D946DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 25,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830962",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078340",
+        "MediaObjectID": "104008496",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92DDDDDDDDDDD4&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 26,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830963",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078341",
+        "MediaObjectID": "104008497",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D921DDDDDDDDDD2&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 27,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830964",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078342",
+        "MediaObjectID": "104008498",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D924DDDDDDDDDDC&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 28,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830965",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078343",
+        "MediaObjectID": "104008499",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D922DDDDDDDDDDE&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 29,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830966",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Reception",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078344",
+        "MediaObjectID": "104008500",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92CDDDDDDDDDDA&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 30,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830967",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078345",
+        "MediaObjectID": "104008501",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92EDDDDDDDDDD0&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 31,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830968",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Mud Room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078346",
+        "MediaObjectID": "104008502",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92ADDDDDDDDDDB&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 32,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830969",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078347",
+        "MediaObjectID": "104008503",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D920DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 33,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830970",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Common room",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078348",
+        "MediaObjectID": "104008504",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92BDDDDDDDDDDD&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 34,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830971",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Front of Structure",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078349",
+        "MediaObjectID": "104008505",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92FDDDDDDDDDD1&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 35,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830972",
+        "VirtualTourType": null
+      },
+      {
+        "ImageOf": "Aerial View",
+        "MediaCategory": "Photo",
+        "MediaKey": "Property_19685886_Photo_109078350",
+        "MediaObjectID": "104008506",
+        "MediaStatus": "Active",
+        "MediaURL": "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D928DDDDDDDDDDF&t=pi&f=I",
+        "ModificationTimestamp": "2026-08-30T01:01:01Z",
+        "Order": 36,
+        "ResourceName": "Property",
+        "ResourceRecordID": "19685886",
+        "ResourceRecordKey": "19685886",
+        "ShortDescription": null,
+        "SourceSystemResourceVersion": "497830973",
+        "VirtualTourType": null
+      }
+    ],
+    "Rooms": [
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 1,
+        "RoomDescription": null,
+        "RoomDimensions": "8 X 9.5 ft / 2.44 X 2.87 m",
+        "RoomDimensionsFeet": "8 X 9.5 ft",
+        "RoomDimensionsMeters": "2.44 X 2.87 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_1",
+        "RoomLengthFractional": "5",
+        "RoomLengthWholeNumber": "9",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Living Room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": null,
+        "RoomWidthWholeNumber": "8",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_1.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8 X 9.5 ft / 2.44 X 2.87 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8 X 9.5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.44 X 2.87 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_1.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8 X 9,5 p / 2,44 X 2,87 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8 X 9,5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,44 X 2,87 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 10,
+        "RoomDescription": null,
+        "RoomDimensions": "5 X 13 ft / 1.52 X 3.96 m",
+        "RoomDimensionsFeet": "5 X 13 ft",
+        "RoomDimensionsMeters": "1.52 X 3.96 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_10",
+        "RoomLengthFractional": null,
+        "RoomLengthWholeNumber": "13",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Hall",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": null,
+        "RoomWidthWholeNumber": "5",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_10.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5 X 13 ft / 1.52 X 3.96 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5 X 13 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1.52 X 3.96 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_10.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5 X 13 p / 1,52 X 3,96 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5 X 13 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1,52 X 3,96 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 2,
+        "RoomDescription": null,
+        "RoomDimensions": "11.9 X 8.1 ft / 3.58 X 2.46 m",
+        "RoomDimensionsFeet": "11.9 X 8.1 ft",
+        "RoomDimensionsMeters": "3.58 X 2.46 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_2",
+        "RoomLengthFractional": "1",
+        "RoomLengthWholeNumber": "8",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Kitchen",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "9",
+        "RoomWidthWholeNumber": "11",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_2.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "11.9 X 8.1 ft / 3.58 X 2.46 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "11.9 X 8.1 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.58 X 2.46 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_2.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "11,9 X 8,1 p / 3,58 X 2,46 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "11,9 X 8,1 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,58 X 2,46 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 3,
+        "RoomDescription": null,
+        "RoomDimensions": "10.6 X 9.5 ft / 3.20 X 2.87 m",
+        "RoomDimensionsFeet": "10.6 X 9.5 ft",
+        "RoomDimensionsMeters": "3.20 X 2.87 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_3",
+        "RoomLengthFractional": "5",
+        "RoomLengthWholeNumber": "9",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Dining Room",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "6",
+        "RoomWidthWholeNumber": "10",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_3.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "10.6 X 9.5 ft / 3.20 X 2.87 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "10.6 X 9.5 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.20 X 2.87 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_3.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "10,6 X 9,5 p / 3,20 X 2,87 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "10,6 X 9,5 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,20 X 2,87 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 4,
+        "RoomDescription": null,
+        "RoomDimensions": "16.1 X 11.3 ft / 4.90 X 3.43 m",
+        "RoomDimensionsFeet": "16.1 X 11.3 ft",
+        "RoomDimensionsMeters": "4.90 X 3.43 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_4",
+        "RoomLengthFractional": "3",
+        "RoomLengthWholeNumber": "11",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Master Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "1",
+        "RoomWidthWholeNumber": "16",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_4.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "16.1 X 11.3 ft / 4.90 X 3.43 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "16.1 X 11.3 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4.90 X 3.43 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_4.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "16,1 X 11,3 p / 4,90 X 3,43 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "16,1 X 11,3 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "4,90 X 3,43 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 5,
+        "RoomDescription": null,
+        "RoomDimensions": "9.2 X 7.4 ft / 2.79 X 2.24 m",
+        "RoomDimensionsFeet": "9.2 X 7.4 ft",
+        "RoomDimensionsMeters": "2.79 X 2.24 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Ceramic Tile"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_5",
+        "RoomLengthFractional": "4",
+        "RoomLengthWholeNumber": "7",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "2",
+        "RoomWidthWholeNumber": "9",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_5.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "9.2 X 7.4 ft / 2.79 X 2.24 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "9.2 X 7.4 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.79 X 2.24 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_5.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "9,2 X 7,4 p / 2,79 X 2,24 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "9,2 X 7,4 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,79 X 2,24 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 6,
+        "RoomDescription": null,
+        "RoomDimensions": "8.4 X 4.6 ft / 2.54 X 1.37 m",
+        "RoomDimensionsFeet": "8.4 X 4.6 ft",
+        "RoomDimensionsMeters": "2.54 X 1.37 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_6",
+        "RoomLengthFractional": "6",
+        "RoomLengthWholeNumber": "4",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Walkin closet",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": "4",
+        "RoomWidthWholeNumber": "8",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_6.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8.4 X 4.6 ft / 2.54 X 1.37 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8.4 X 4.6 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.54 X 1.37 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_6.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "8,4 X 4,6 p / 2,54 X 1,37 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "8,4 X 4,6 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,54 X 1,37 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 7,
+        "RoomDescription": null,
+        "RoomDimensions": "9 X 11.2 ft / 2.74 X 3.40 m",
+        "RoomDimensionsFeet": "9 X 11.2 ft",
+        "RoomDimensionsMeters": "2.74 X 3.40 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_7",
+        "RoomLengthFractional": "2",
+        "RoomLengthWholeNumber": "11",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": null,
+        "RoomWidthWholeNumber": "9",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_7.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "9 X 11.2 ft / 2.74 X 3.40 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "9 X 11.2 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2.74 X 3.40 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_7.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "9 X 11,2 p / 2,74 X 3,40 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "9 X 11,2 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "2,74 X 3,40 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 8,
+        "RoomDescription": null,
+        "RoomDimensions": "5 X 8 ft / 1.52 X 2.44 m",
+        "RoomDimensionsFeet": "5 X 8 ft",
+        "RoomDimensionsMeters": "1.52 X 2.44 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Ceramic Tile"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_8",
+        "RoomLengthFractional": null,
+        "RoomLengthWholeNumber": "8",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Bathroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": null,
+        "RoomWidthWholeNumber": "5",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_8.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5 X 8 ft / 1.52 X 2.44 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5 X 8 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1.52 X 2.44 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_8.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "5 X 8 p / 1,52 X 2,44 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "5 X 8 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "1,52 X 2,44 m"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 9,
+        "RoomDescription": null,
+        "RoomDimensions": "10 X 12 ft / 3.05 X 3.66 m",
+        "RoomDimensionsFeet": "10 X 12 ft",
+        "RoomDimensionsMeters": "3.05 X 3.66 m",
+        "RoomDimensionsPolygonYN": null,
+        "RoomFeatures": [],
+        "RoomFlooring": [
+          "Wood"
+        ],
+        "RoomFlooringOther": null,
+        "RoomKey": "19685886_1_9",
+        "RoomLengthFractional": null,
+        "RoomLengthWholeNumber": "12",
+        "RoomLengthWidthUnits": "Feet",
+        "RoomLevel": "Third",
+        "RoomLevelOther": null,
+        "RoomType": "Bedroom",
+        "RoomTypeOther": null,
+        "RoomWidthFractional": null,
+        "RoomWidthWholeNumber": "10",
+        "UnitKey": "19685886_1",
+        "Translations": [
+          {
+            "Locale": "en",
+            "TranslationKey": "PropertyRooms.19685886_1_9.en",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "10 X 12 ft / 3.05 X 3.66 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "10 X 12 ft"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3.05 X 3.66 m"
+              }
+            ]
+          },
+          {
+            "Locale": "fr",
+            "TranslationKey": "PropertyRooms.19685886_1_9.fr",
+            "Values": [
+              {
+                "FieldName": "RoomDimensions",
+                "Value": "10 X 12 p / 3,05 X 3,66 m"
+              },
+              {
+                "FieldName": "RoomDimensionsFeet",
+                "Value": "10 X 12 p"
+              },
+              {
+                "FieldName": "RoomDimensionsMeters",
+                "Value": "3,05 X 3,66 m"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Expenses": [],
+    "Units": [
+      {
+        "UnitArea": null,
+        "Furnished": null,
+        "ListingId": "19685886",
+        "ListingKey": "19685886",
+        "ModificationTimestamp": "2026-08-30T00:59:53Z",
+        "Order": 1,
+        "RentIncludes": [],
+        "RentIncludesOther": null,
+        "UnitAreaUnits": null,
+        "UnitBathroomsFullTotal": 2,
+        "UnitBathroomsPartialTotal": 0,
+        "UnitBedroomsTotal": 3,
+        "UnitBusinessName": null,
+        "UnitCurrentUse": "Residential",
+        "UnitFranchiseYN": null,
+        "UnitKey": "19685886_1",
+        "UnitLeaseFeatures": [],
+        "UnitLeaseRenewalYN": null,
+        "UnitRoomsTotal": 8,
+        "UnitType": "Primary",
+        "Translations": []
+      }
+    ]
+  },
+  {
     "BuildingSizeLength": 90,
     "BuildingSizeWidth": 26,
     "CarportSpaces": null,

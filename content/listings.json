@@ -7189,6 +7189,272 @@
     ]
   },
   {
+    "id": 19685886,
+    "centrisId": "19685886",
+    "status": "for-rent",
+    "category": "residential",
+    "assetType": "residential",
+    "featured": false,
+    "type": {
+      "en": "Condominium",
+      "fr": "Condominium"
+    },
+    "price": 5600,
+    "address": "1420 Boul. Mont-Royal, apt. 324",
+    "postalCode": "H2V 4P3",
+    "city": "Montréal",
+    "borough": "Outremont",
+    "neighbourhood": "outremont",
+    "coords": {
+      "lat": 45.511185,
+      "lng": -73.607079
+    },
+    "beds": 3,
+    "baths": 2,
+    "powderRooms": 0,
+    "livingArea": {
+      "value": 1103.3,
+      "unit": "ft²"
+    },
+    "yearBuilt": 2022,
+    "parking": {
+      "en": "1 space",
+      "fr": "1 place"
+    },
+    "listedDate": "2026-08-30",
+    "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      }
+    ],
+    "description": {
+      "en": "Welcome to Le 1420, an exceptional address in the heart of Outremont! This stunning 3-bedroom, 2-bathroom condo offers over 1100 sqft of refined living space, combining modern comfort with elegant design. The unit features 11ft high ceilings throughout, abundant natural light, and a spacious open-concept living area that extends to a large private south-facing terrace, perfect for relaxing or entertaining.",
+      "fr": "Bienvenue a LE 1420, une adresse d'exception au coeur d'Outremont ! Ce magnifique condo de 3 chambres à coucher et 2 salles de bain offre plus de 1 100 pi² d'espace de vie raffiné, alliant confort moderne et design élégant. L'unité se distingue par des plafonds de 11 pieds, une abondante lumière naturelle et une spacieuse aire de vie à concept ouvert qui s'ouvre sur une grande terrasse privée orientée plein sud, idéale pour se détendre ou recevoir."
+    },
+    "features": {
+      "en": [
+        "Near CEGEP",
+        "Near daycare centre",
+        "Near hospital",
+        "Near metro",
+        "Near park",
+        "Near elementary school",
+        "Near high school",
+        "Near Public Transit",
+        "Near university",
+        "Heated Garage",
+        "Built-in garage",
+        "Heated",
+        "Electric",
+        "Electricity",
+        "Central Air",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Electricity Connected",
+        "Sewer Connected",
+        "Apartment",
+        "One",
+        "No Common Walls"
+      ],
+      "fr": [
+        "Near CEGEP",
+        "Near daycare centre",
+        "Near hospital",
+        "Near metro",
+        "Near park",
+        "Near elementary school",
+        "Near high school",
+        "Near Public Transit",
+        "Near university",
+        "Heated Garage",
+        "Built-in garage",
+        "Heated",
+        "Electric",
+        "Electricity",
+        "Central Air",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Electricity Connected",
+        "Sewer Connected",
+        "Apartment",
+        "One",
+        "No Common Walls"
+      ]
+    },
+    "rooms": [
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Living Room",
+          "fr": "Living Room"
+        },
+        "dims": "8 X 9.5 ft / 2.44 X 2.87 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Kitchen",
+          "fr": "Kitchen"
+        },
+        "dims": "11.9 X 8.1 ft / 3.58 X 2.46 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Dining Room",
+          "fr": "Dining Room"
+        },
+        "dims": "10.6 X 9.5 ft / 3.20 X 2.87 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Master Bedroom",
+          "fr": "Master Bedroom"
+        },
+        "dims": "16.1 X 11.3 ft / 4.90 X 3.43 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "9.2 X 7.4 ft / 2.79 X 2.24 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Walkin closet",
+          "fr": "Walkin closet"
+        },
+        "dims": "8.4 X 4.6 ft / 2.54 X 1.37 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "9 X 11.2 ft / 2.74 X 3.40 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "5 X 8 ft / 1.52 X 2.44 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "10 X 12 ft / 3.05 X 3.66 m"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Hall",
+          "fr": "Hall"
+        },
+        "dims": "5 X 13 ft / 1.52 X 3.96 m"
+      }
+    ],
+    "condoFees": null,
+    "taxes": null,
+    "inclusions": {
+      "en": "stove, fridge, dishwasher, washer, dryer, curtains, one indoor parking ",
+      "fr": "cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, rideaux, un stationnement intérieur."
+    },
+    "exclusions": {
+      "en": "Hydro, internet, move-in fees if there is any.",
+      "fr": "Electricité, internet, le frais de déménagement si il y en a. "
+    },
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D910DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D91BDDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D91FDDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D918DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D919DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D917DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D913DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D915DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D916DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94DDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D941DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D944DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D942DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94CDDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94EDDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94ADDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D940DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94BDDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D94FDDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D948DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D949DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D947DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D943DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D945DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D946DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92DDDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D921DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D924DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D922DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92CDDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92EDDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92ADDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D920DDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92BDDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D92FDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22D928DDDDDDDDDDF&t=pi&f=I"
+    ],
+    "rental": true
+  },
+  {
     "id": 19629471,
     "centrisId": "19629471",
     "status": "for-rent",
