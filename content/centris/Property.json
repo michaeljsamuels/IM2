@@ -46076,7 +46076,7 @@
     "GrossScheduledIncomeResidential": null,
     "LandLeaseAmount": null,
     "Latitude": 45.534589,
-    "ListPrice": 539000,
+    "ListPrice": 515000,
     "ListPriceTaxesIncluded": null,
     "LivingArea": 787,
     "Longitude": -73.577619,
@@ -46142,7 +46142,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26840286,
+    "EntityEventSequence": 27011304,
     "Exclusions": null,
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -46198,8 +46198,8 @@
     "ListOfficeMlsId": "SMU001",
     "ListPriceAddTaxesYN": null,
     "ListPriceAreaUnits": null,
-    "ListPriceFull": "$539,000",
-    "ListPriceShort": "$539,000",
+    "ListPriceFull": "$515,000",
+    "ListPriceShort": "$515,000",
     "LivingAreaSource": "Public Records",
     "LivingAreaUnits": "Square Feet",
     "LoadingDockAdjustableTotal": null,
@@ -46217,7 +46217,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-21T17:34:18Z",
+    "ModificationTimestamp": "2026-08-31T19:04:24Z",
     "NeighborhoodKey": "842_A",
     "NeighborhoodName": "Le Plateau-Mont-Royal",
     "NumberOfUnitsAvailable": null,
@@ -46242,7 +46242,7 @@
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H2H1V4",
-    "PriceChangeTimestamp": null,
+    "PriceChangeTimestamp": "2026-08-31T19:04:24Z",
     "PrivateInteractiveShowingYN": null,
     "PropertyCondition": [],
     "PropertySubType": "Condominium",
@@ -46345,11 +46345,11 @@
           },
           {
             "FieldName": "ListPriceShort",
-            "Value": "$539,000"
+            "Value": "$515,000"
           },
           {
             "FieldName": "ListPriceFull",
-            "Value": "$539,000"
+            "Value": "$515,000"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -46387,11 +46387,11 @@
           },
           {
             "FieldName": "ListPriceShort",
-            "Value": "539 000 $"
+            "Value": "515 000 $"
           },
           {
             "FieldName": "ListPriceFull",
-            "Value": "539 000 $"
+            "Value": "515 000 $"
           },
           {
             "FieldName": "UnparsedAddress",
