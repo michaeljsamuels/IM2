@@ -64827,7 +64827,7 @@
     "GrossScheduledIncomeResidential": null,
     "LandLeaseAmount": null,
     "Latitude": 45.476079,
-    "ListPrice": 680000,
+    "ListPrice": 650000,
     "ListPriceTaxesIncluded": null,
     "LivingArea": 1024.72,
     "Longitude": -73.558363,
@@ -64893,7 +64893,7 @@
     "ElectricAmp": null,
     "ElectricPhase": null,
     "ElectricVolts": null,
-    "EntityEventSequence": 26996309,
+    "EntityEventSequence": 27037025,
     "Exclusions": "Certain light fixtures are excluded. ",
     "ExteriorDoorsHeight": null,
     "ExteriorDoorsHeightUnits": null,
@@ -64945,8 +64945,8 @@
     "ListOfficeMlsId": "SMU001",
     "ListPriceAddTaxesYN": null,
     "ListPriceAreaUnits": null,
-    "ListPriceFull": "$680,000",
-    "ListPriceShort": "$680,000",
+    "ListPriceFull": "$650,000",
+    "ListPriceShort": "$650,000",
     "LivingAreaSource": "Public Records",
     "LivingAreaUnits": "Square Feet",
     "LoadingDockAdjustableTotal": null,
@@ -64979,7 +64979,7 @@
     "LotSizeDimensionsUnits": null,
     "LotSizeUnits": null,
     "MlsStatus": "Active",
-    "ModificationTimestamp": "2026-08-31T05:38:08Z",
+    "ModificationTimestamp": "2026-09-01T18:03:40Z",
     "NeighborhoodKey": "839_C",
     "NeighborhoodName": "Pointe-Saint-Charles",
     "NumberOfUnitsAvailable": null,
@@ -65004,7 +65004,7 @@
     "PoolFeatures": [],
     "PoolFeaturesOther": null,
     "PostalCode": "H3K2S5",
-    "PriceChangeTimestamp": null,
+    "PriceChangeTimestamp": "2026-09-01T18:03:39Z",
     "PrivateInteractiveShowingYN": null,
     "PropertyCondition": [],
     "PropertySubType": "Condominium",
@@ -65107,11 +65107,11 @@
           },
           {
             "FieldName": "ListPriceShort",
-            "Value": "$680,000"
+            "Value": "$650,000"
           },
           {
             "FieldName": "ListPriceFull",
-            "Value": "$680,000"
+            "Value": "$650,000"
           },
           {
             "FieldName": "UnparsedAddress",
@@ -65149,11 +65149,11 @@
           },
           {
             "FieldName": "ListPriceShort",
-            "Value": "680 000 $"
+            "Value": "650 000 $"
           },
           {
             "FieldName": "ListPriceFull",
-            "Value": "680 000 $"
+            "Value": "650 000 $"
           },
           {
             "FieldName": "UnparsedAddress",
