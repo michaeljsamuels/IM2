@@ -6243,7 +6243,7 @@
     "status": "for-sale",
     "category": "residential",
     "assetType": "multiplex",
-    "featured": true,
+    "featured": false,
     "type": {
       "en": "Other",
       "fr": "Other"
@@ -8731,6 +8731,392 @@
       "https://mediaserver.centris.ca/media.ashx?id=ADDD250DE680314DDDDDDDDDD0&t=pi&f=I"
     ],
     "rental": true
+  },
+  {
+    "id": 17506728,
+    "centrisId": "17506728",
+    "status": "for-sale",
+    "category": "residential",
+    "assetType": "residential",
+    "featured": true,
+    "type": {
+      "en": "Single Family Residence",
+      "fr": "Single Family Residence"
+    },
+    "price": 3180000,
+    "address": "31 Av. Oakland",
+    "postalCode": "H3Y 1P1",
+    "city": "Westmount",
+    "borough": "",
+    "neighbourhood": "westmount",
+    "coords": {
+      "lat": 45.491885,
+      "lng": -73.612649
+    },
+    "beds": 5,
+    "baths": 3,
+    "powderRooms": 1,
+    "livingArea": {
+      "value": 388,
+      "unit": "m²"
+    },
+    "yearBuilt": 1958,
+    "parking": {
+      "en": "4 spaces",
+      "fr": "4 places"
+    },
+    "listedDate": "2026-09-01",
+    "agentId": "xinfa-wen",
+    "brokers": [
+      {
+        "key": "116299",
+        "id": "xinfa-wen",
+        "name": "Xinfa Wen",
+        "external": false
+      },
+      {
+        "key": "109924",
+        "id": "mark-reiner",
+        "name": "Mark Reiner",
+        "external": false
+      }
+    ],
+    "description": {
+      "en": "Stunning Mid-Century Gem in Westmount! Beautifully renovated split-level home on prestigious Oakland Ave, offering 4,175 sq ft of living space on a 9,445 sq ft lot. Features include an open-concept gourmet kitchen, high ceilings, spacious bedrooms, and a garden-level entertainment area with bar. The basement and backyard have been fully transformed, with a new fence creating a private oasis ideal for family life. New roof (2020), integrated 2-car garage, and elegant mid-century charm throughout.",
+      "fr": "Superbe Maison Mid-Century à Westmount! Magnifique propriété rénovée située sur la prestigieuse avenue Oakland, offrant 4 175 pi² de superficie habitable sur un terrain de 9 445 pi². Comprend une cuisine gastronomique à aire ouverte, de hauts plafonds, des chambres spacieuses et une salle familiale au niveau jardin avec bar. Le sous-sol et la cour arrière ont été entièrement réaménagés, avec une nouvelle clôture créant une oasis privée idéale pour la vie de famille. Toiture refaite en 2020, garage intégré pour 2 voitures et charme intemporel."
+    },
+    "features": {
+      "en": [
+        "Near highway",
+        "Near CEGEP",
+        "Near hospital",
+        "Near park",
+        "Near elementary school",
+        "Near high school",
+        "Near university",
+        "Paver Block",
+        "Heated Garage",
+        "Wide garage",
+        "Built-in garage",
+        "Hot Water",
+        "Dual",
+        "Electricity",
+        "Natural Gas",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Electricity Connected",
+        "Natural Gas Connected",
+        "Sewer Connected",
+        "Multi/Split",
+        "No Common Walls",
+        "Six feet and higher",
+        "Finished",
+        "Elastomeric"
+      ],
+      "fr": [
+        "Near highway",
+        "Near CEGEP",
+        "Near hospital",
+        "Near park",
+        "Near elementary school",
+        "Near high school",
+        "Near university",
+        "Paver Block",
+        "Heated Garage",
+        "Wide garage",
+        "Built-in garage",
+        "Hot Water",
+        "Dual",
+        "Electricity",
+        "Natural Gas",
+        "Municipality",
+        "Public Sewer",
+        "Water Connected",
+        "Electricity Connected",
+        "Natural Gas Connected",
+        "Sewer Connected",
+        "Multi/Split",
+        "No Common Walls",
+        "Six feet and higher",
+        "Finished",
+        "Elastomeric"
+      ]
+    },
+    "rooms": [
+      {
+        "level": {
+          "en": "Second",
+          "fr": "Second"
+        },
+        "name": {
+          "en": "Hall",
+          "fr": "Hall"
+        },
+        "dims": "7.1 X 6.5 ft irr / 2.16 X 1.96 m irr"
+      },
+      {
+        "level": {
+          "en": "Second",
+          "fr": "Second"
+        },
+        "name": {
+          "en": "Hall",
+          "fr": "Hall"
+        },
+        "dims": "15.3 X 10.5 ft irr / 4.65 X 3.18 m irr"
+      },
+      {
+        "level": {
+          "en": "Second",
+          "fr": "Second"
+        },
+        "name": {
+          "en": "Living Room",
+          "fr": "Living Room"
+        },
+        "dims": "21.9 X 14.4 ft irr / 6.63 X 4.37 m irr"
+      },
+      {
+        "level": {
+          "en": "Second",
+          "fr": "Second"
+        },
+        "name": {
+          "en": "Dining Room",
+          "fr": "Dining Room"
+        },
+        "dims": "15.7 X 13.6 ft irr / 4.75 X 4.11 m irr"
+      },
+      {
+        "level": {
+          "en": "Second",
+          "fr": "Second"
+        },
+        "name": {
+          "en": "Kitchen",
+          "fr": "Kitchen"
+        },
+        "dims": "25.9 X 15 ft irr / 7.85 X 4.57 m irr"
+      },
+      {
+        "level": {
+          "en": "Second",
+          "fr": "Second"
+        },
+        "name": {
+          "en": "Powder room",
+          "fr": "Powder room"
+        },
+        "dims": "6.4 X 4.9 ft irr / 1.93 X 1.45 m irr"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Master Bedroom",
+          "fr": "Master Bedroom"
+        },
+        "dims": "19.4 X 15.5 ft irr / 5.89 X 4.70 m irr"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "15.3 X 7.6 ft irr / 4.65 X 2.29 m irr"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "14.7 X 14.1 ft irr / 4.45 X 4.29 m irr"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "14.9 X 12 ft irr / 4.50 X 3.66 m irr"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "12.5 X 11 ft irr / 3.78 X 3.35 m irr"
+      },
+      {
+        "level": {
+          "en": "Third",
+          "fr": "Third"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "8.1 X 7.3 ft irr / 2.46 X 2.21 m irr"
+      },
+      {
+        "level": {
+          "en": "First",
+          "fr": "First"
+        },
+        "name": {
+          "en": "Office",
+          "fr": "Office"
+        },
+        "dims": "23.1 X 14.7 ft irr / 7.04 X 4.45 m irr"
+      },
+      {
+        "level": {
+          "en": "First",
+          "fr": "First"
+        },
+        "name": {
+          "en": "Laundry",
+          "fr": "Laundry"
+        },
+        "dims": "15.4 X 8 ft irr / 4.67 X 2.44 m irr"
+      },
+      {
+        "level": {
+          "en": "First",
+          "fr": "First"
+        },
+        "name": {
+          "en": "Bathroom",
+          "fr": "Bathroom"
+        },
+        "dims": "8.3 X 7.8 ft irr / 2.51 X 2.34 m irr"
+      },
+      {
+        "level": {
+          "en": "Garden",
+          "fr": "Garden"
+        },
+        "name": {
+          "en": "Family Room",
+          "fr": "Family Room"
+        },
+        "dims": "16.2 X 12.4 ft irr / 4.93 X 3.76 m irr"
+      },
+      {
+        "level": {
+          "en": "Garden",
+          "fr": "Garden"
+        },
+        "name": {
+          "en": "Game Room",
+          "fr": "Game Room"
+        },
+        "dims": "12.9 X 14 ft irr / 3.89 X 4.27 m irr"
+      },
+      {
+        "level": {
+          "en": "Garden",
+          "fr": "Garden"
+        },
+        "name": {
+          "en": "Other",
+          "fr": "Other"
+        },
+        "dims": "18.6 X 14.7 ft irr / 5.64 X 4.45 m irr"
+      },
+      {
+        "level": {
+          "en": "Garden",
+          "fr": "Garden"
+        },
+        "name": {
+          "en": "Bedroom",
+          "fr": "Bedroom"
+        },
+        "dims": "14.8 X 14.4 ft irr / 4.47 X 4.37 m irr"
+      },
+      {
+        "level": {
+          "en": "Basement",
+          "fr": "Basement"
+        },
+        "name": {
+          "en": "Game Room",
+          "fr": "Game Room"
+        },
+        "dims": "24.6 X 22.5 ft irr / 7.47 X 6.83 m irr"
+      }
+    ],
+    "condoFees": null,
+    "taxes": {
+      "municipal": 21536,
+      "school": 2749
+    },
+    "inclusions": {
+      "en": "stove, fridge, dishwasher, washer, dryer, window coverings, light fixtures.",
+      "fr": "cuisinière, réfrigérateur, lave-vaisselle, laveuse, sécheuse, couvre-fenêtres, luminaires."
+    },
+    "exclusions": null,
+    "zoning": {
+      "en": "Residential",
+      "fr": "Résidentiel"
+    },
+    "revenue": null,
+    "photos": [
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229884DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229882DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22988CDDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22988EDDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22988ADDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229880DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22988BDDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22988FDDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229888DDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229889DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229887DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229883DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229885DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229886DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22989DDDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229891DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229894DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229892DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22989CDDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22989EDDDDDDDDDDF&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22989ADDDDDDDDDDD&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229890DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22989BDDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22989FDDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229898DDDDDDDDDD1&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229899DDDDDDDDDD4&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229897DDDDDDDDDD2&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229893DDDDDDDDDDC&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229895DDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229896DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22987DDDDDDDDDDDE&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229871DDDDDDDDDDA&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229874DDDDDDDDDD0&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA229872DDDDDDDDDDB&t=pi&f=I",
+      "https://mediaserver.centris.ca/media.ashx?id=ADDD252DA22987CDDDDDDDDDDF&t=pi&f=I"
+    ]
   },
   {
     "id": 16855224,
