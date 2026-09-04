@@ -31,9 +31,10 @@ git remote get-url origin && git config user.name
 ## Ground rules for everyone
 
 - Branch is `prod`. Pushing to it deploys the live review site.
-- Review domains: Michael's copy serves `luxurymtl2.com`; Mark's copy serves
-  his own practice domain (registered fresh in his AWS, see `docs/handoff.md`).
-  The real `luxurymtl.com` belongs to the firm and is cut over separately.
+- Domains: Mark's copy serves his own practice domain (see `docs/handoff.md`).
+  `luxurymtl2.com` (Michael's retired review site) now 301-redirects to the
+  firm's real `luxurymtl.com`; do not point anything at it. The real
+  `luxurymtl.com` belongs to the firm and is cut over separately.
 - Build must pass: `npm run build` (runs content validation first).
 - Content lives in `content/*.json`; design in `src/styles/main.css`;
   templates in `scripts/templates/`. Do not hand-edit `index.html`, `en/`,

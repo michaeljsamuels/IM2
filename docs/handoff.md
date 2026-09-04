@@ -55,8 +55,11 @@ First build takes a few minutes; you get a `*.amplifyapp.com` URL.
 
 ### 3b. Register your own practice domain
 
-`luxurymtl2.com` stays with Michael (it is registered in his AWS account and
-is not being transferred). Mark registers a fresh practice domain of his own,
+`luxurymtl2.com` stays with Michael (registered in his AWS account, not
+transferred). Since 2026-09-04 it permanently redirects to `luxurymtl.com`
+because Google had indexed it as the top result for the brokerage. Lesson for
+the new practice domain: add a `<meta name="robots" content="noindex">` while
+it is a practice site, so the same thing does not happen again. Mark registers a fresh practice domain of his own,
 e.g. `luxurymtl3.com`, in his own AWS account:
 
 Route 53 → Registered domains → Register domain → search, buy (~US$15/yr),
