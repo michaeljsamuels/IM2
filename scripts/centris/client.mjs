@@ -22,7 +22,14 @@ const STAGING = 'https://stg-datadistributionqc.centristst.ca/v1/odata';
 // binding constraint in practice.
 const MAX_PER_SECOND = 4;
 const MIN_INTERVAL_MS = Math.ceil(1000 / MAX_PER_SECOND);
+const MAX_PER_MINUTE = 150; // documented ceiling is 200; keep real headroom
 const SLOW_DOWN_BELOW = 25; // requests left in window before we throttle hard
+
+// Hard cap per process. A normal incremental sync is ~5 requests and a full
+// pull is a few dozen, so anything near this number is a bug or a runaway
+// experiment, not legitimate work. Fail loudly rather than drain the key's
+// budget. Override only deliberately: CENTRIS_MAX_REQUESTS=500.
+const MAX_REQUESTS_PER_RUN = Number(process.env.CENTRIS_MAX_REQUESTS) || 300;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -34,6 +41,7 @@ export class CentrisClient {
     this.verbose = verbose;
     this.lastRequestAt = 0;
     this.requestCount = 0;
+    this.recent = []; // timestamps of requests in the last 60s
   }
 
   log(...args) {
@@ -41,9 +49,25 @@ export class CentrisClient {
   }
 
   async #throttle() {
-    const wait = this.lastRequestAt + MIN_INTERVAL_MS - Date.now();
-    if (wait > 0) await sleep(wait);
+    if (this.requestCount >= MAX_REQUESTS_PER_RUN) {
+      throw new Error(
+        `Centris client: refusing request #${this.requestCount + 1} — per-run cap of ` +
+          `${MAX_REQUESTS_PER_RUN} reached. This protects the API key. If this is a ` +
+          `deliberate large pull, rerun with CENTRIS_MAX_REQUESTS set higher.`,
+      );
+    }
+    // Sliding one-minute window, in addition to the per-second spacing.
+    const now = Date.now();
+    this.recent = this.recent.filter((t) => now - t < 60_000);
+    if (this.recent.length >= MAX_PER_MINUTE) {
+      const wait = 60_000 - (now - this.recent[0]) + 50;
+      this.log(`  minute budget reached (${MAX_PER_MINUTE}); pausing ${Math.ceil(wait / 1000)}s`);
+      await sleep(wait);
+    }
+    const spacing = this.lastRequestAt + MIN_INTERVAL_MS - Date.now();
+    if (spacing > 0) await sleep(spacing);
     this.lastRequestAt = Date.now();
+    this.recent.push(this.lastRequestAt);
   }
 
   /** Single GET with rate limiting and retry. Returns parsed JSON. */

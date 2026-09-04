@@ -15,8 +15,8 @@ generated from JSON content files, so design and content changes are file edits.
   build on catalog errors so broken content can't ship.
 - `src/` — one stylesheet (design system) + one TypeScript module
   (header, menu, filters, tabs, lightbox).
-- `public/images/` — currently SVG placeholders; swap in real photography as
-  it becomes available.
+- `public/images/` — team portraits, logo, hero. Listing photos are hotlinked
+  from Centris.
 
 ## Commands
 
@@ -29,17 +29,19 @@ npm run preview   # serve the production build locally
 
 ## Deployment
 
-AWS Amplify Hosting watches the GitHub repo: push to `main` → Amplify runs
+Handoff and setup-from-scratch: see `docs/handoff.md`.
+
+
+AWS Amplify Hosting watches the GitHub repo: push to `prod` → Amplify runs
 `amplify.yml` (`npm ci && npm run build`) → deploys `dist/`. Same pipeline as
 SceneSnap.
 
 ## Roadmap
 
 1. ~~Front-end first pass~~ (this)
-2. **Centris sync** — a scheduled job that pulls the firm's listings from the
-   Centris data feed, rewrites `content/listings.json` (+ mirrors photos), and
-   pushes — which auto-triggers a rebuild and deploy. The current
-   `listings.json` holds one real listing (#1575) and seven **sample**
-   listings for design purposes; replace before launch.
+2. ~~**Centris sync**~~ — live since 2026-08-14. `.github/workflows/sync-listings.yml`
+   replicates the Centris Data Distribution API into `content/centris/`
+   every 15 minutes and rewrites `content/listings.json`. Read the Centris
+   section of `CLAUDE.md` before touching anything under `scripts/centris/`.
 3. Forms backend (SES via a small Lambda), redirects from old URLs, analytics,
    privacy policy + OACIQ notice finalization, domain cutover.

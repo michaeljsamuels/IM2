@@ -36,3 +36,10 @@ aws-exports.js
 # Centris raw replication cache is committed (audit trail), but the
 # full unscoped Member dump must never be
 content/centris/Member.full.json
+
+# Claude Code per-machine permissions (never share; contains local paths)
+.claude/settings.local.json
+
+# Local secret files, whatever they are called
+credentials.env
+*.credentials
